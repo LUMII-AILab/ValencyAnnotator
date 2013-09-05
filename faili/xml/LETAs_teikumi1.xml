@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT>
+	<CATEGORIES>
+		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Pacienss</CATEGORY>
+		<CATEGORY id="cFF00FF">Percepts</CATEGORY>
+		<CATEGORY id="cFF0000">Kontragenss</CATEGORY>
+		<CATEGORY id="c00FFFF">Adresāts</CATEGORY>
+		<CATEGORY id="cC00000">Saturs</CATEGORY>
+		<CATEGORY id="c00C000">Līdzeklis</CATEGORY>
+		<CATEGORY id="cC0C000">Darbība</CATEGORY>
+		<CATEGORY id="c0000FF">Eksperienss/beneficienss</CATEGORY>
+		<CATEGORY id="c099C79">Mērķis/recipienss</CATEGORY>
+		<CATEGORY id="c8C1476">Tēma</CATEGORY>
+		<CATEGORY id="c808080">Laiks</CATEGORY>
+		<CATEGORY id="cFA8072">Veids</CATEGORY>
+		<CATEGORY id="cFF4500">Cēlonis</CATEGORY>
+		<CATEGORY id="c556B2F">Rezultāts</CATEGORY>
+		<CATEGORY id="c4169E1">Temats</CATEGORY>
+		<CATEGORY id="c8B4513">Vieta</CATEGORY>
+		<CATEGORY id="cBC8F8F">Avots</CATEGORY>
+	</CATEGORIES>
+	<SENTENCE_CATEGORIES>
+	</SENTENCE_CATEGORIES>
+	<SENTENCES>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>﻿(1) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Sprūdžs</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzklausīs</WORD>[
+				<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="cFF00FF">Rāviņa <strong>skaidrojumus</strong> par Valsts kontroles atklātajiem pārkāpumiem Jelgavā</WORD>]</TEXT>
+			<COMMENT>aktīvie divdabji saliktās pagātnes veidošanai - V1,V2,V3, bet pasīvie divdabji pasīva formām - Part; arī divdabjiem divdabja teicienos - Part; adjektīviskajiem divdabjiem norādīts locījums</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Rāviņa</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="verbs">skaidrojumus</WORD> [<WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cC00000">par Valsts kontroles atklātajiem <strong>pārkāpumiem</strong> Jelgavā</WORD>]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>par <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Valsts <strong>kontroles</strong></WORD> <WORD json="['V1','V2','V3','Inf','','Dat']" attribute="Dat" class="verbs">atklātajiem</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc','ParDat']" attribute="ParDat" class="cC00000"><strong>pārkāpumiem</strong> Jelgavā</WORD></TEXT>
+			<COMMENT>kā lai to nomarķē? prepozīcija nost no vārda, kura formu nosaka</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(2) Rīga, [5.]5. [jūn.]jūn., LETA.</TEXT>
+			<COMMENT>Gunta, Tu varētu pāršķurināt visus paciensus</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(3) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Vides aizsardzības un reģionālās attīstības ministrs Edmunds Sprūdžs</WORD> (RP) <WORD json="['Adv']" attribute="Adv" class="c808080">rīt</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">tiksies</WORD>
+				<WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cFF0000">ar Jelgavas mēru Andri Rāviņu</WORD> (ZZS),</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>lai <WORD json="['V1','V2','V3','Inf','Cond']" attribute="Cond" class="verbs">uzklausītu</WORD>[
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Acc" class="cFF00FF">
+					<strong>skaidrojumus</strong> par Valsts kontroles revīzijā atklātajiem normatīvo aktu pārkāpumiem un nepilnībām</WORD>,]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="verbs">skaidrojumus</WORD> [<WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cC00000">par Valsts kontroles revīzijā atklātajiem normatīvo aktu pārkāpumiem un nepilnībām</WORD>,]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>par <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c808080">Valsts kontroles <strong>revīzijā</strong></WORD> <WORD json="['V1','V2','V3','Inf','Dat']" attribute="Dat" class="verbs">atklātajiem</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','ParDat']" attribute="ParDat" class="cC00000">normatīvo aktu pārkāpumiem un nepilnībām</WORD>,</TEXT>
+			<COMMENT>vai tas lokatīvs ir laiks vai ne - nav, bet nezinu, kas ir - jādomā.</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FFFF">
+					<strong>aģentūru</strong> LETA</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēja</WORD>
+				<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFFFF00">ministrijas sabiedrības informēšanas <strong>nodaļā</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(4) Jau <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">ziņots</WORD>, [<WORD json="['S']" attribute="S" class="cC00000">ka Valsts kontrole revīzijā Jelgavas pilsētas pašvaldības aģentūrās konstatējusi nepamatotus tēriņus vairāk nekā [50 000]50 000 latu apmērā</WORD>.]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valsts <strong>kontrole</strong>
+				</WORD> revīzijā Jelgavas pilsētas pašvaldības aģentūrās <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">konstatējusi</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">nepamatotus <strong>tēriņus</strong>
+				</WORD> vairāk nekā [50 000]50 000 latu apmērā.</TEXT>
+			<COMMENT>kas ir revīzijā?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(5) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00C000">Finanšu <strong>līdzekļi</strong>
+				</WORD> nepamatoti <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">tērēti</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFFFF00">pašvaldības <strong>aģentūrās</strong> "Pilsētsaimniecība</WORD>",</TEXT>
+			<COMMENT>Vienmēr filozofēju, vai šitas ir AGENSS. Bet varbūt ir. BS: kaut kādam verbam es nomarkēju kā vietu, bet ar piebildi, ka aizstāj/iekļauj agensu</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>kur <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">konstatēta</WORD> [<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">34 000][34 000 latu nesaimnieciska <strong>izlietošana</strong>
+				</WORD>, bet aģentūrā "Kultūra" 8000 latu.]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00C000">34 000 latu</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFA8072">nesaimnieciska</WORD> <WORD json="['V1','V2','V3','Inf','Part','Nom']" attribute="Nom" class="verbs">izlietošana</WORD>, bet aģentūrā "Kultūra" 8000 latu.]</TEXT>
+			<COMMENT>kas ir tas lokatīvs?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(6) "<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC0C000">Līdzšinējā ministrijas un Jelgavas pilsētas domes <strong>sadarbība</strong>
+				</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">ir</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c556B2F">neapmierinoša</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(7) Vairākkārt esam <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">vērsuši</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Jelgavas pašvaldības <strong>uzmanību</strong>
+				</WORD> uz riskiem un nepilnībām,</TEXT>
+			<COMMENT>Kad stabili vārdu savienojumi vai standartfrāzes, lomām mazāk jēgas</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">īstenojot</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">[normatīvajos aktos noteiktās pašvaldības <strong>funkcija</strong>
+				</WORD>,"]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>normatīvajos aktos <WORD json="['V1','V2','V3','Inf','Acc']" attribute="Acc" class="verbs">noteiktās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">pašvaldības <strong>funkcija</strong></WORD>,"</TEXT>
+			<COMMENT>kas ir akti?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>lēmumu <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">tikties</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cFF0000">ar Rāviņu</WORD></TEXT>
+			<COMMENT>Vai varbūt pacienss?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>[<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC0C000"><strong>lēmumu</strong> tikties ar Rāviņu</WORD>]
+				<WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">pamato</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ministrs</WORD>.</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(8) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c0000FF">Viņš</WORD>
+				<WORD json="['NoDat','NoGen']" attribute="NoGen" class="cBC8F8F">no <strong>Rāviņa</strong>
+				</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vēlas</WORD>
+				<WORD json="['Loc','Nom','Gen','Dat','Acc','Inf']" attribute="Inf" class="cC0C000">
+					[<strong>dzirdēt</strong> skaidrojumu par labas pārvaldības principu pārkāpumiem pašvaldībā</WORD>.]</TEXT>
+			<COMMENT>vai tiešām DARBĪBA? Vai viņš nevēlas PERCEPTU????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">dzirdēt</WORD> [<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="cFF00FF"><strong>skaidrojumu</strong> par labas pārvaldības principu pārkāpumiem pašvaldībā</WORD>.]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="verbs">skaidrojumu</WORD> [<WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c4169E1">par labas pārvaldības principu <strong>pārkāpumiem</strong></WORD> pašvaldībā.]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>par <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00FF00">labas pārvaldības <strong>principu</strong></WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="verbs">pārkāpumiem</WORD> pašvaldībā.</TEXT>
+			<COMMENT>Pašvaldība ir darītājs, vieta vai kas?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(9) Tāpat <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c0000FF">ministriju</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">neapmierina</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF00FF">Jelgavas domes <strong>darbības</strong>
+				</WORD> saistībā ar reklāmu un sludinājumu,</TEXT>
+			<COMMENT>plt. starp virsteikuma vārdiem</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c0000FF">kas</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nav</WORD>
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Nom" class="c556B2F">
+					<strong>saistītas</strong> [ar pašvaldības sniegtajiem pakalpojumiem</WORD>, publicēšanu pašvaldības izdevumā "Jelgavas Vēstnesis".]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ar <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">pašvaldības</WORD><WORD json="['V1','V2','V3','Inf','Dat']" attribute="Dat" class="verbs">sniegtajiem</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c8C1476">pakalpojumiem</WORD>, [publicēšanu pašvaldības izdevumā "Jelgavas Vēstnesis".]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="verbs">publicēšanu</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Loc" class="c8B4513">pašvaldības izdevumā "Jelgavas Vēstnesis</WORD>".</TEXT>
+			<COMMENT>???? Varbūt mērķis?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(10) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ministrija</WORD> jau vairākkārt <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">pieprasījusi</WORD>
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Jelgavas <strong>domei</strong>
+				</WORD> [<WORD json="['Loc','Nom','Gen','Dat','Acc','Inf']" attribute="Inf" class="cC00000">
+					<strong>pārtraukt</strong> reklāmas izvietošanu laikrakstā</WORD>,]</TEXT>
+			<COMMENT>Darbība???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">Jelgavas <strong>domei</strong></WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārtraukt</WORD>
+				[<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="cC0C000">reklāmas <strong>izvietošanu</strong> laikrakstā</WORD>,]</TEXT>
+			<COMMENT>un vai šajā teikumā datīvs pārvēršas par agensu?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00FF00">reklāmas</WORD><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="verbs">izvietošanu</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c8B4513">laikrakstā</WORD>,</TEXT>
+			<COMMENT>vieta vai mērķis?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>tomēr <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jelgavas <strong>dome</strong>
+				</WORD> uz šīm prasībām nav <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">reaģējusi</WORD>.</TEXT>
+			<COMMENT>??? uz šīm prasībām - stimuls???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(11) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">Kā</WORD>
+				<WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">atklājusi</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valsts <strong>kontrole</strong>
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">
+					<strong>aģentūra</strong> "Pilsētsaimniecība</WORD>" ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">izlietojusi</WORD> [<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00C000">36 000]36 000 <strong>latu</strong>
+				</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Dat" class="c099C79">atlīdzībai un valsts sociālās apdrošināšanas iemaksām par laiku</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c808080">kurā</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darbinieki</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">neveica</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pamatdarba <strong>pienākumus</strong>
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>bet [<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darbinieki</WORD>] <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">piedalījās</WORD>[
+				<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">projekta "Pašvaldības un privātās partnerības veicināšana Jelgavas pilsētas ielu apsaimniekošanā" <strong>īstenošanā</strong>]
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00FF00">projekta</WORD> "Pašvaldības un privātās partnerības veicināšana Jelgavas pilsētas ielu apsaimniekošanā"<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="verbs">īstenošanā</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c4169E1">par <strong>ko</strong>
+				</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņēma</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">atlīdzību</WORD>
+				<WORD json="['NoDat','NoGen']" attribute="NoDat" class="cBC8F8F">no projekta <strong>līdzekļiem</strong>
+				</WORD>.</TEXT>
+			<COMMENT>vai ir TEMATS? Varbūt kaut kas kauzatīvs?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(12) Bet <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Gen" class="c00C000">vairāk nekā 3500 <strong>latu</strong>
+				</WORD> "<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Pilsētsaimniecība</WORD>" <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">izlietojusi</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">samaksājot</WORD>
+				<WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c4169E1">[par tādu ielu labošanas darbu <strong>veikšanu</strong>
+				</WORD>,]</TEXT>
+			<COMMENT>Temats???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>par tādu <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ielu</WORD>	<WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="verbs">labošanas</WORD>[<WORD json="['Acc','Nom','Gen','Dat','Loc','']" attribute="">darbu veikšanu</WORD>,]</TEXT>
+			<COMMENT>murdziņš</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">darbu</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="verbs">veikšanu</WORD>
+				<WORD></WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kuri</WORD>
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">komersantam</WORD> saskaņā ar līgumu bija <WORD json="['V1','V2','V3','Inf','Deb']" attribute="Deb" class="verbs">jāveic</WORD>
+				<WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par saviem <strong>līdzekļiem</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(13) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">VK</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>
+				<WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="cC00000">uz pastāvošu <strong>risku</strong>
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">aģentūra</WORD> nelietderīgi <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">izlietojusi</WORD>
+				<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="c00C000">
+					<strong>līdzekļus</strong> gandrīz 3000 latu apmērā</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>bez pamatota iemesla <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">iegādājoties</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">sniega kausēšanas <strong>pakalpojumus</strong>
+				</WORD>
+				<WORD json="['NoDat','NoGen']" attribute="NoDat" class="cFF0000">no <strong>komersanta</strong>
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">kuram</WORD> atbilstoši savstarpējā līgumā noteiktajam <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c8B4513">Jelgavas <strong>pilsētā</strong>
+				</WORD> bija <WORD json="['V1','V2','V3','Inf','Deb']" attribute="Deb" class="verbs">jānodrošina</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">sniega izvešanas <strong>pakalpojumi</strong>
+				</WORD>.</TEXT>
+			<COMMENT>Varbūt pakalpojumi ir darbība?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(14) Savukārt <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c8B4513">pašvaldības <strong>aģentūrā</strong> "Kultūra"</WORD> ir <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">konstatēts</WORD>, <WORD json="['S']" attribute="S" class="cC00000">ka 8000 latu ir  atlīdzībai saskaņā ar uzņēmuma līgumu [par sabiedrisko attiecību speciālista pienākumu veikšanu</WORD>,]</TEXT>
+			<COMMENT>Jautājums, vai šādi lokatīvi ir vieta vai agenss</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>par sabiedrisko attiecību speciālista <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00FF00">pienākumu</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="verbs">veikšanu</WORD>
+				<WORD></WORD>,</TEXT>
+			<COMMENT>NEZINU</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">nenodrošinot</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">darbu izpildes apjoma un kvalitātes <strong>kontroli</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(15) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aģentūra</WORD> ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">veikusi</WORD> arī <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="c556B2F">
+					<strong>samaksu</strong> [par darbinieku atvaļinājuma un brīvdienu laikā izlietoto degvielu 300 latu apmērā</WORD>.]</TEXT>
+			<COMMENT>vai tas ir rezultāts? Principā "veikt samaksu"="samaksāt". Varbūt darbība?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>par <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">darbinieku</WORD> atvaļinājuma un brīvdienu laikā
+				<WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izlietoto</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">degvielu</WORD> 300 latu apmērā.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(16) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Rāviņš</WORD>
+				<WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">neizslēdz</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iespēju</WORD></TEXT>
+			<COMMENT>arī analītiska forma. Pacienss - nosacīti, bet lai paliek</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">sodīt</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">atbildīgos</WORD>
+				<WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cC0C000">par <strong>pārkāpumiem</strong> Jelgavas pašvaldības aģentūrās</WORD></TEXT>
+			<COMMENT>pārkāpums ir vai nu darbība vai cēlonis.</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(17) Rīga, [6.]6. [jūn.]jūn., LETA.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(18) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Jelgavas <strong>mērs</strong> Andris Rāviņš</WORD>
+				<WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">neizslēdz</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iespēju</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">atbildīgās pašvaldības aģentūru <strong>amatpersonas</strong>
+				</WORD> tiks <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">sodītas</WORD> saistībā ar Valsts kontroles atklātajiem normatīvo aktu pārkāpumiem un nepilnībām tajās.</TEXT>
+			<COMMENT>pārkāpumi varētu būt darbības. Bet šeit ir ļoti nominalizēta forma. Vai vispār ir jāmarķē?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(19) <WORD json="['PēcDat','PēcGen']" attribute="PēcGen" class="c808080">Pēc <strong>tikšanās</strong> ar Vides aizsardzības un reģionālās attīstības ministru Edmundu Sprūdžu</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Rāviņš</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="c00FFFF">
+					<strong>aģentūrai</strong> LETA</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">teica</WORD>, [<WORD json="['S']" attribute="S" class="cC00000">ka noteikti tiks izvērtēta abu aģentūru "Pilsētsaimniecība" un "Kultūra" atbildīgo amatpersonu atbildība</WORD>]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka noteikti tiks <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">izvērtēta</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">abu aģentūru "Pilsētsaimniecība" un "Kultūra" atbildīgo amatpersonu <strong>atbildība</strong>
+				</WORD> un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>[<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Rāviņš</WORD>] <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nenoliedza</WORD>, <WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="cC00000">[ka amatpersonas varētu saņemt sodus</WORD>.]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">amatpersonas</WORD>
+				<WORD json="['V1','V2','V3','Inf','Cond']" attribute="Cond" class="verbs">varētu</WORD> [<WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="cC0C000">
+					<strong>saņemt</strong> sodus</WORD>.]</TEXT>
+			<COMMENT>????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>[ka <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">amatpersonas</WORD> varētu] <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">saņemt</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">sodus</WORD>.</TEXT>
+			<COMMENT>???? varbūt rezultāts?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(20) Savukārt, lai turpmāk <WORD json="['V1','V2','V3','Inf','Cond']" attribute="Cond" class="verbs">novērstu</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC0C000">šādu pārkāpumu un nepilnību <strong>rašanos</strong>
+				</WORD>,</TEXT>
+			<COMMENT>????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc','V3']" attribute="V3" class="verbs">uzskata</WORD>, [<WORD json="['S']" attribute="S" class="cC00000">ka nepieciešams rūpīgāk strādāt ar pirmdokumentiem, proti, dažādiem līgumiem</WORD>.]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka nepieciešams <WORD json="['Adv']" attribute="Adv" class="cFA8072">rūpīgāk</WORD>
+				<WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">strādāt</WORD>
+				<WORD json="['ArDat','ArAcc']" attribute="ArDat" class="c00FF00">ar pirmdokumentiem, proti, dažādiem līgumiem</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(21) Tikmēr <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c0000FF">Sprūdžs</WORD>
+				<WORD json="['NoDat','NoGen']" attribute="NoDat" class="cBC8F8F">no <strong>Rāviņa</strong>
+				</WORD>
+				<WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">saņēmis</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">apsolījumu</WORD>,</TEXT>
+			<COMMENT>vai beneficiensu un eksperiensu var līmēt kopā? Drīzāk beneficienss ar adresātu ir tuvs - vispārīgi skatoties, nevis kādam konkrētam verbam.</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašvaldība</WORD>
+				<WORD json="['LīdzDat','S']" attribute="LīdzDat" class="c808080">līdz nākamās nedēļas <strong>beigām</strong>
+				</WORD>
+				<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c099C79">ministrijā</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iesniegs</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">detalizētus pasākumu <strong>plānus</strong> par to</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>kā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Valsts kontroles konstatētie <strong>pārkāpumi</strong>
+				</WORD> tiks <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">novērsti</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(22) Jautāts, vai <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c0000FF">atbildīgajām <strong>amatpersonām</strong>
+				</WORD> būtu <WORD json="['V1','V2','V3','Inf','Deb']" attribute="Deb" class="verbs">jāsaņem</WORD>
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Nom" class="c8C1476">
+					<strong>sods</strong> par pieļautajiem pārkāpumiem</WORD>, ministrs aģentūrai LETA <norādīja>, ka tas ir <jāvērtē>, jo situācijas <ir> dažādas.</ir>
+					</jāvērtē>
+				</norādīja></TEXT>
+			<COMMENT>tur viss tā, kā vajag?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(23) Tomēr arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">neizslēdza</WORD>, [<WORD json="['S']" attribute="S" class="cC00000">ka ir iespējami sodi</WORD>.]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">ir</WORD> iespējami sodi.</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(24) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">Kā</WORD>
+				<WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">ziņots</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valsts <strong>kontrole</strong>
+				</WORD> revīzijā Jelgavas pilsētas pašvaldības aģentūrās <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">konstatējusi</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">nepamatotus <strong>tēriņus</strong>
+				</WORD> vairāk nekā [50 000]50 000 latu apmērā.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(25) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00C000">Finanšu <strong>līdzekļi</strong>
+				</WORD> nepamatoti <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">tērēti</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFFFF00">pašvaldības <strong>aģentūrā</strong> "Pilsētsaimniecība</WORD>",</TEXT>
+			<COMMENT>vai recipienss? - nē, jo nav teikts, ka no malas nāca līdzekļi.</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Adv']" attribute="Adv" class="c8B4513">kur</WORD>
+				<WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">konstatēta</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">[34 000]34 000 latu nesaimnieciska izlietošana</WORD>, bet aģentūrā "Kultūra" 8000 latu.</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(26) Pēc Valsts kontroles aizrādījumiem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jelgavas <strong>pašvaldība</strong>
+				</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">apņemas</WORD> [<WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="cC00000">rūpīgāk <strong>kontrolēt</strong> savas aģentūras</WORD>]</TEXT>
+			<COMMENT>nenomarķētais ir darbības izraisītājs</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Adv']" attribute="Adv" class="cFA8072">rūpīgāk</WORD>
+				<WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">kontrolēt</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">savas <strong>aģentūras</strong>
+				</WORD></TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(27) Jelgava, [4.]4. [jūn.]jūn., LETA.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(28) Saistībā ar Valsts kontroles (VK) revīzijā par Jelgavas pašvaldības aģentūru darbību konstatētajiem nepamatotajiem tēriņiem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jelgavas pilsētas <strong>pašvaldība</strong>
+				</WORD>
+				<WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">ņēmusi</WORD> vērā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">ieteikumus</WORD></TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>[<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jelgavas pilsētas <strong>pašvaldība</strong>
+				</WORD> ņēmusi vērā ieteikumus ]un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">apņemas</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="cC0C000">rūpīgāk <strong>kontrolēt</strong> savas aģentūras</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(29) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Jelgavas pilsētas pašvaldības <strong>izpilddirektore</strong> Irēna Škutāne</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="c00FFFF">
+					<strong>aģentūrai</strong> LETA</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">apgalvoja</WORD>, [<WORD json="['S']" attribute="S" class="cC00000">ka pašvaldība ir ņēmusi vērā VK revīzijas ieteikumus attiecībā par pašvaldības izveidotajām aģentūrām</WORD>,]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašvaldība</WORD> ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">ņēmusi</WORD> vērā <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Acc" class="c8C1476">VK revīzijas <strong>ieteikumus</strong> attiecībā par pašvaldības izveidotajām aģentūrām</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>[<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašvaldība</WORD>] [kā arī]kā arī <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">veikusi</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC0C000">aģentūru darbības lietderības, efektivitātes un ekonomisko <strong>izvērtējumu</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(30) "<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Pašvaldība</WORD> ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">sastādījusi</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">laika <strong>grafiku</strong>
+				</WORD> minēto aizrādījumu novēršanai.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(31) <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Nom" class="c00FF00">
+					<strong>Daļa</strong> no aizrādījumiem</WORD> jau ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">novērsti</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(32) Lai <WORD json="['V1','V2','V3','Inf','Cond']" attribute="Cond" class="verbs">nepieļautu</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC0C000">šādu pārkāpumu <strong>atkārtošanos</strong>
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">pašvaldību <strong>aģentūras</strong>
+				</WORD> tiks <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','Part']" attribute="Part" class="verbs">auditētas</WORD>
+				<WORD json="['Adv']" attribute="Adv" class="cFA8072">biežāk</WORD>," pauda Škutāne.</TEXT>
+			<COMMENT>paušanai nav rindas</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(33) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">Kā</WORD>
+				<WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">ziņots</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">VK</WORD> ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">pabeigusi</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC0C000">
+					<strong>revīziju</strong> par Jelgavas pašvaldības aģentūru darbību</WORD> un</TEXT>
+			<COMMENT>darbība vai pacienss?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>[<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">VK</WORD>] <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">konstatējusi</WORD>
+				<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="cC00000">nepamatotus <strong>tēriņus</strong> vairāk nekā [50 000]50 000 latu apmērā</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FFFF">
+					<strong>aģentūru</strong> LETA</WORD>
+				<WORD json="['Adv']" attribute="Adv" class="c808080">iepriekš</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēja</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Valsts kontroles pārstāve Egita Diure</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(34) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00C000">Finanšu <strong>līdzekļi</strong>
+				</WORD>
+				<WORD json="['V1','V2','V3','Inf','Adv']" attribute="Adv" class="cFA8072">nepamatoti</WORD>
+				<WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">tērēti</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFFFF00">pašvaldības <strong>aģentūrās</strong> "Pilsētsaimniecība"</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Adv']" attribute="Adv" class="c8B4513">kur</WORD>
+				<WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">konstatēta</WORD> [<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">34 000]34 000 latu nesaimnieciska <strong>izlietošana</strong>
+				</WORD>, bet aģentūrā "Kultūra" 8000 latu.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(35) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">Kā</WORD>
+				<WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">atklājusi</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valsts <strong>kontrole</strong>
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">aģentūra "Pilsētsaimniecība</WORD>" ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">izlietojusi</WORD> [36 000]<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00C000">36 000 latu</WORD>
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c099C79">atlīdzībai un valsts sociālās apdrošināšanas iemaksām</WORD> par laiku, kurā darbinieki <neveica> pamatdarba pienākumus,</neveica></TEXT>
+			<COMMENT>līdzeklis vai pacienss? atlidzība ir drīzāk nolūks</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>bet [<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darbinieki</WORD>] <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">piedalījās</WORD>
+				<WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">projekta "Pašvaldības un privātās partnerības veicināšana Jelgavas pilsētas ielu apsaimniekošanā" <strong>īstenošanā</strong>
+				</WORD>,</TEXT>
+			<COMMENT>Lokatīvs - aktivitāte</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>par ko <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņēma</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">atlīdzību</WORD>
+				<WORD json="['NoDat','NoGen']" attribute="NoDat" class="cBC8F8F">no projekta <strong>līdzekļiem</strong>
+				</WORD>.</TEXT>
+			<COMMENT>noDat - avots vai?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(36) <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00C000">Vairāk nekā 3500 latu</WORD> "<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Pilsētsaimniecība</WORD>" <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">izlietojusi</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">samaksājot</WORD>
+				<WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00FF00">par tādu ielu labošanas darbu <strong>veikšanu</strong>
+				</WORD>,</TEXT>
+			<COMMENT>vai pacienss?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC0C000">kuri</WORD>
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">komersantam</WORD> saskaņā ar līgumu bija <WORD json="['V1','V2','V3','Inf','Deb']" attribute="Deb" class="verbs">jāveic</WORD>
+				<WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par saviem <strong>līdzekļiem</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(37) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">VK</WORD>
+				<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>
+				<WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="cC00000">uz pastāvošu <strong>risku</strong>
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">aģentūra</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFA8072">nelietderīgi</WORD>
+				<WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">izlietojusi</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00C000">līdzekļus</WORD> gandrīz 3000 latu apmērā,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>bez pamatota iemesla <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">iegādājoties</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">sniega kausēšanas <strong>pakalpojumus</strong>
+				</WORD>
+				<WORD json="['NoDat','NoGen']" attribute="NoGen" class="cFF0000">no komersanta</WORD>,</TEXT>
+			<COMMENT>vai tēma? Varbūt pacienss?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">kuram</WORD> atbilstoši savstarpējā līgumā noteiktajam <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c8B4513">Jelgavas <strong>pilsētā</strong>
+				</WORD> bija <WORD json="['V1','V2','V3','Inf','Deb']" attribute="Deb" class="verbs">jānodrošina</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC0C000">sniega izvešanas <strong>pakalpojumi</strong>
+				</WORD>.</TEXT>
+			<COMMENT>darbība vai pacienss???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(38) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Loc" class="c00FF00">Savukārt pašvaldības <strong>aģentūrā</strong> "Kultūra</WORD>" ir <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">konstatēts</WORD>, [<WORD json="['S']" attribute="S" class="cC00000">ka 8000 latu ir izlietoti atlīdzībai saskaņā ar uzņēmuma līgumu par sabiedrisko attiecību speciālista pienākumu veikšanu</WORD>]</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ka <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00C000">8000 <strong>latu</strong>
+				</WORD> ir <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">izlietoti</WORD>
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c099C79">atlīdzībai</WORD> saskaņā ar uzņēmuma līgumu par sabiedrisko attiecību speciālista pienākumu veikšanu,</TEXT>
+			<COMMENT>nolūks, nevis mērķis. Trūkst krāsas</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">nenodrošinot</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">darbu izpildes apjoma un kvalitātes <strong>kontroli</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(39) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aģentūra</WORD> ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">veikusi</WORD> arī <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="cC0C000">
+					<strong>samaksu</strong> par darbinieku atvaļinājuma un brīvdienu laikā izlietoto degvielu 300 latu apmērā</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(40) Bet, <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">nosakot</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">aģentūras "Zemgales INFO" <strong>kompetenci</strong>
+				</WORD>,</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jelgavas pilsētas <strong>pašvaldība</strong>
+				</WORD> nav <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">noteikusi</WORD>
+				<WORD json="['V2','V1','V3','Inf','Acc']" attribute="Acc" class="cC00000">sludinājumu publicēšanas pakalpojuma obligātu saistību ar pašvaldības darbības būtību un autonomo funkciju izpildi</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V3']" attribute="V3" class="verbs">rada</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c556B2F">aģentūras iesaistīšanās komercdarbībā <strong>risku</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(41) <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c4169E1">Par revīzijā <strong>konstatēto</strong>
+				</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">VK</WORD> ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">informējusi</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">tiesībaizsardzības <strong>iestādes</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(42) Tāpat <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">VK</WORD> ir <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">iesniegusi</WORD>
+				<WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Jelgavas <strong>domei</strong>
+				</WORD>
+				<WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c8C1476">ieteikumus</WORD>,</TEXT>
+			<COMMENT>Tiešām "tēma"?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c00C000">ar kuru <strong>palīdzību</strong>
+				</WORD> tiks <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">nodrošināts</WORD>
+				<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cC00000">pašvaldības institucionālās sistēmas un aģentūru darbības efektivitātes <strong>izvērtējums</strong> un</WORD></TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>tiks <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">noteiktas</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">aģentūru darbības pārraudzības un kontroles <strong>procedūras</strong>
+				</WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>lai turpmāk <WORD json="['V1','V2','V3','Inf','Cond']" attribute="Cond" class="verbs">nepieļautu</WORD>
+				<WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cC00000">līdzekļu nepamatotu <strong>izlietojumu</strong>
+				</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>(43) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC0C000">Revīzija</WORD>
+				<WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">veikta</WORD> par laika posmu no [2009.]2009. gada [1.]1. janvāra līdz [2011.]2011. gada [30.]30. jūnijam.</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+	</SENTENCES>
+</CONTENT>

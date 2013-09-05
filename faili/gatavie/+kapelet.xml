@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT>
+	<CATEGORIES>
+		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="cD8D8D8">Virziens</CATEGORY>
+		<CATEGORY id="c00FF00">Teritorija</CATEGORY>
+		<CATEGORY id="c868A08">Laiks?</CATEGORY>
+		<CATEGORY id="c8A0868">Laiks: ilgums?</CATEGORY>
+		<CATEGORY id="c00FF80">Veids?</CATEGORY>
+		<CATEGORY id="c9AFE2E">Nolūks?</CATEGORY>
+		<CATEGORY id="c088A08">Ceļš</CATEGORY>
+		<CATEGORY id="cFF00FF">Mērķis</CATEGORY>
+	</CATEGORIES>
+	<SENTENCE_CATEGORIES>
+	</SENTENCE_CATEGORIES>
+	<SENTENCES>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>un tumsa iestājas diezgan strauji , bet <WORD class="verbs" attribute="Inf" json="['Inf','V1','V2','V3']">kāpelēt</WORD>  tumsā <WORD class="c088A08" attribute="PaDat" json="['PaDat','PaAcc']">pa stāvām <strong>nogāzēm</strong></WORD> ir bīstami</TEXT>
+			<COMMENT>Gunta. Gatavs</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Biški nereāli bija vieta , kur <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņi</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">kāpelēja</WORD> <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa kokiem</WORD> Taču šos briesmoņus nav tik</TEXT>
+			<COMMENT>ziepes ar ceļa un vietas šķīrumu</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Tās bojā <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">klinšu kāpēji</WORD> , <WORD class="c088A08" attribute="PaDat" json="['PaDat','PaAcc']">pa tām</WORD> <WORD class="verbs" attribute="Part" json="['V1','V2','V3','Inf','Part']">kāpelējot</WORD>  , kaut arī te kāpelēt aizliegts Ir ierīkotas</TEXT>
+			<COMMENT>Nom paDat V3</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Kaut gan <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">vairums</WORD> <WORD class="c868A08" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">bērnībā</WORD> ir <WORD class="verbs" attribute="V3" json="['V1','V2','V3','Inf','V3']">kāpelējuši</WORD>  kaut vai <WORD class="c00FF00" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">kokos</WORD> vai dauzījušies pa jumtiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>un atdod atslēgu <WORD class="cFFFF00" attribute="Dat" json="['Dat','Nom','Gen','Acc','Loc']">man</WORD> patīk staigāt , <WORD class="verbs" attribute="Inf" json="['Inf','V1','V2','V3']">kāpelēt</WORD> <WORD class="c088A08" attribute="PaDat" json="['PaDat','PaAcc']">pa jūrmalas <strong>akmeņiem</strong></WORD>, patīk vilkt nost</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>nācās ar velosipēdu plecos ne vienreiz vien <WORD class="verbs" attribute="Inf" json="['Inf','V1','V2','V3']">kāpelēt</WORD>  <WORD class="c00FF00" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">gravās</WORD> un pauguros Starp citu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>tiem <WORD class="c8A0868" attribute="Acc" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">cauru <strong>dienu</strong></WORD> urbdami un kniedēdami <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">kāpelē</WORD>  <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">vīri</WORD> , un varenajiem tvaika veseru triecieniem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Un <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">šie <strong>kaķi</strong></WORD> arī pārsvarā <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">kāpelēja</WORD> <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa kokiem</WORD>. Visi kaķi krītot rīkojas vienādi</TEXT>
+			<COMMENT>Nom V3 paDat</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ir līks nags , kuru <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">dzīvnieks</WORD> izmanto, <WORD class="verbs" attribute="Part" json="['V1','V2','V3','Inf','Part']">kāpelējot</WORD>  <WORD class="c088A08" attribute="PaAcc" json="['PaDat','PaAcc']">pa stāvu <strong>virsmu</strong></WORD>. Starp pārējiem četriem</TEXT>
+			<COMMENT>Nom V3 paAcc</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Kāpēc <WORD class="cFFFF00" attribute="Dat" json="['Dat','Nom','Gen','Acc','Loc']">kaķiem</WORD> nepieciešams <WORD class="verbs" attribute="Inf" json="['Inf','V1','V2','V3']">kāpelēt</WORD>  <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa kokiem</WORD>? a lai nezaudētu līdzsvara sajūtu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>līdzsvara sajūtu b tāpēc , ka <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņi</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">kāpelēja</WORD>  <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa kokiem</WORD> <WORD class="c868A08" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">jau tad</WORD> , kad vēl nebija mājas</TEXT>
+			<COMMENT>Nom V3 paDat</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>un instruktora pavadībā <WORD class="c00FF80" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">drošsirdīgi</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">kāpelēja</WORD> <WORD class="cD8D8D8" attribute="Adv" json="['Adv']">augšup</WORD> <WORD class="cFF00FF" attribute="LīdzDat" json="['LīdzDat','S']">līdz masta <strong>virsotnēm</strong></WORD> Lieliska</TEXT>
+			<COMMENT>V3 Adv/līdzDat</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ideja <WORD class="cFFFF00" attribute="Dat" json="['Dat','Nom','Gen','Acc','Loc']">pašiem</WORD> bez alpīnistu palīdzības <WORD class="verbs" attribute="Inf" json="['Inf','V1','V2','V3']">kāpelēt</WORD> <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa māju <strong>sienām</strong></WORD> Taču , jāatzīmē ,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>atzina , ka <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņš</WORD> <WORD class="c868A08" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">bērnībā</WORD> daudz <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa kokiem</WORD> <WORD class="verbs" attribute="Part" json="['V1','V2','V3','Inf','Part']">kāpelējis</WORD>  , bet nu pienācis arī laiks , kad to</TEXT>
+			<COMMENT>Nom paDat V3</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Bērni</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">kāpelē</WORD> <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa atvāztajām <strong>guļvietām</strong></WORD> un spiedz Beidzot</TEXT>
+			<COMMENT>Nom V3 paDat</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>kaklasiksna , kura neaizķersies zaros , <WORD class="cFFFF00" attribute="Dat" json="['Dat','Nom','Gen','Acc','Loc']">kaķim</WORD> <WORD class="verbs" attribute="V3" json="['V1','V2','V3','Inf']">kāpelējot</WORD>  <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa zariem</WORD> Sargiet savu kaķi Ja nu</TEXT>
+			<COMMENT>Dat V3 paDat</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>kļuva biezāka , <WORD class="c9AFE2E" attribute="Loc" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">barību ieguves <strong>nolūkos</strong></WORD>, <WORD class="verbs" attribute="Part" json="['V1','V2','V3','Inf','Part']">kāpelējot</WORD>  <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa klintīm</WORD> un kokiem, īpaši attīstījās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>lampas , vai man uz pleca , ļoti patīk <WORD class="verbs" attribute="Inf" json="['Inf','V1','V2','V3']">kāpelēt</WORD> <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa aizkariem</WORD> un arī pati lien uz pleca.Gribēju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">sieviete</WORD> , turklāt augstdzimusi dāma , <WORD class="verbs" attribute="V3" json="['V1','V2','V3','Inf']">kāpelētu</WORD>  <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa kalniem</WORD> Neīstenotais sapnis smagi</TEXT>
+			<COMMENT>Nom V3 paDat</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>neizpratni skatījušies uz meiteni , <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kura</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">kāpelē</WORD>  <WORD class="c00FF00" attribute="PaDat" json="['PaDat','PaAcc']">pa jumtiem</WORD> un rāpjas kokos Savus vecākus</TEXT>
+			<COMMENT>Nom V3 paDat</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>piegružotā lieveņa , skatās , kā <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">bērni</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">kāpelē</WORD> <WORD class="c00FF00" attribute="PaAcc" json="['PaDat','PaAcc']">pa viņa <strong>mašīnu</strong></WORD> , un velk dūmu . Tas</TEXT>
+			<COMMENT>Nom V3 paAcc</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>apmeklētājiem ierīkots rotaļu laukums , <WORD class="c00FF00" attribute="Adv" json="['Adv']">kur</WORD> <WORD class="verbs" attribute="Inf" json="['Inf','V1','V2','V3']">kāpelēt</WORD>  , šūpoties un slidināties , kamēr mammas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+	</SENTENCES>
+</CONTENT>

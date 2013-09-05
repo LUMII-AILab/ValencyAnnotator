@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT>
+	<CATEGORIES>
+		<CATEGORY id="cFFFF00">Tēma</CATEGORY>
+		<CATEGORY id="c00FF00">Vieta</CATEGORY>
+		<CATEGORY id="cFF00FF">Beneficienss</CATEGORY>
+		<CATEGORY id="cC00000">Veids: stāvoklis</CATEGORY>
+	</CATEGORIES>
+	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">1. būt novietotam</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">2. eksistēt</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">3. atrasties kādā stāvoklī</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF0000">4. tikt atrastam</SENTENCE_CATEGORY>
+	</SENTENCE_CATEGORIES>
+	<SENTENCES>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">﻿Sirds <strong>līnija</strong></WORD> (<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['VirsDat','VirsGen']" attribute="VirsGen" class="c00FF00">virs prāta <strong>līnijas</strong></WORD>, tuvāk pirkstiem). Mēdz būt divu</TEXT>
+			<COMMENT>Gunta</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Gaiziņkalns (311,6m) un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Sirdskalns</WORD> (296,8m) <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Vidzemes <strong>augstienē</strong></WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kura laikā abās ceļa pusēs stiepās tikai un vienīgi meži, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradāmies</WORD> jau <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','AizGen']" attribute="AizGen" class="c00FF00">170 km aiz ziemeļu polārā <strong>loka</strong></WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">Turpat</WORD>, upes pretējā krastā, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> arī <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Ķemeru dabas <strong>parks</strong></WORD>. Vietai atpūtai, viņaprāt, ir</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>slota <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">vietā</WORD>, kur parasti ir plastmasas gabals cauruma aizpildīšanai, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">neliela tālvadības <strong>pults</strong></WORD>. Uz tās atrodas visas nepieciešamās pogas lai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">biedrība</WORD>, pateicoties Talsu mākslas skolas direktora Andra Vikaiņa labvēlībai, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">šīs skolas <strong>telpās</strong></WORD>. Ciparnīcas mērķis ir veicināt Kurzemes keramikas tradīciju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Toma <strong>ielā</strong> 30</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">lietoto apģērbu <strong>veikals</strong></WORD>, un tam ar policijas veikto reidu nav</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>logopēdes Vandas Korbes jāpierakstās poliklīnikas reģistratūrā. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00"><strong>Ēkā</strong> Saules ielā 5</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>veikals</strong> « Optika »</WORD> un ar atsevišķu ieeju arī ārstu speciālistu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Vīns tika uzglabāts 24 000 kvadrātmetru lielā noliktavā, <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> agrāk <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">torpēdas</WORD>. Tās metru biezās dzelzbetona sienas un griesti kalpoja kā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>? Bet, ja ne, vienīgais izskaidrojums – – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aleksis</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">sapnī</WORD>. Nē, par sapni to nevar saukt, tas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> saskaņā ar attiecīgās profesionālās izglītības programmas praktiskās daļas apguvi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">mācību <strong>praksē</strong></WORD> iestādē, pie komersanta vai biedrībā; 4)</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>svarīga naftas ieguvējvalsts un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">tās <strong>teritorijā</strong></WORD> netālu no robežas ar Armēniju <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">svarīgi gāzes un naftas <strong>cauruļvadi</strong></WORD>, kas nogādā enerģiju no Kaspijas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vai speciāli, bet zeķbiksēs bija liels caurums, <WORD json="['V3','V1','V2','Adv']" attribute="Adv" class="c00FF00">tur</WORD> arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">skaistā Ievas <strong>pasaule</strong></WORD>, pa kuru kā nokaitēts burkāns, izlauzās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>tīmeklim pieslēgties tiem cilvēkiem, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> dzīvo mazapdzīvotajos rajonos vai arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">kustībā</WORD> un grib lietot internetu ne tikai mājās vai darbavietā,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tas, ka jau iepriekš pareģota mūra iespējamā trajektorija un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">atradums</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">tieši šajā <strong>vietā</strong></WORD>. Katrai kārtīgai pilsētai savulaik bijuši aizsargmūri.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kādas fiziskas personas bagāžas kontroli, konstatēja, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">ceļotāja <strong>bagāžā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">astoņi <strong>koraļļi</strong></WORD>, kas varētu būt iekļauti aizsargāto dzīvnieku un augu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aleksis</WORD> nebūt nav apmaldījies laika virpulī, bet <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">divdesmitā gadsimta <strong>dimensijā</strong></WORD>. Ja nu tomēr? Tas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>jutīsies pārsteigti. Vai patiesi līdzās četrpadsmit oriģinālajiem romāniem par Bondu <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>kāds</strong> līdz šim nezināms piecpadsmitais</WORD>? Izbrīns, protams, pārņem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pēc vietējā laika. Incidentā cietis mašīnists, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> sprādziena brīdī <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradies</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">stacijā</WORD>. Viņa dzīvībai briesmas nedraud. Vagonam norauts jumts,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>tūsku, asinsizplūdumu galvā, vēdera iekšējo orgānu sasitumus. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bērns</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">bezsamaņā</WORD>. Mazā pašlaik ir ievietota Bērnu slimnīcas intensīvās terapijas nodaļā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>stāvokli un gūtās traumas, tika veiktas divas operācijas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bērns</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">bezsamaņā</WORD>. Meitenīte guvusi galvas traumu, kā arī daudzus sasitumus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kāpu aizsargjoslā. Materiāli atklāj vietas piekrastē, kur <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">atsevišķas <strong>būves</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> jau gandrīz <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">ūdenī</WORD> un turpmākās vētrās var tikt pilnībā sagrautas.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>37. Ja <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">1200 metru <strong>attālumā</strong> no izpletņlēcēju piezemēšanās laukuma centra</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ūdenskrātuve</WORD> vai ja ūdenskrātuve atrodas tālāk, bet, ņemot vērā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>atkarīga no vairākiem tā dēvētajiem sekundārajiem redzes centriem. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Šie <strong>centri</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['GarDat','GarAcc']" attribute="GarDat" class="c00FF00">gar malām</WORD> tam apgabalam, kur satiekas smadzeņu garozas pakauša daiva</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>V5, kurš galvenokārt reģistrē kustības. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Visi specializētie redzes <strong>centri</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">ciešā <strong>kontaktā</strong></WORD> cits ar citu un nemitīgi savstarpēji apmainās ar informāciju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Mēs šim cilvēkam varam palīdzēt, jo <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">ES patērētāju informēšanas <strong>centrs</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">mūsu <strong>centrā</strong></WORD>. Viņi pārtulko sūdzību vācu valodā un pārsūta uz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pieskaņu. Ceļš lejup bija ļoti lēzens un tāpēc visu ceļu <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradāmies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">samēra <strong>augstu</strong></WORD> virs jūras līmeņa, taču tas bija pozitīvi,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Dzintaros u. c. pilsētas centrālajā daļā, kur <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">dabā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mežs</WORD>. Pilsētas attīstības plānā šīs teritorijas iezīmētas kā dabas pamatnes</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>— Lai arī ne katrā valstī, taču <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">mani <strong>darbi</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">visos <strong>kontinentos</strong></WORD>, atskaitot Antarktīdu, — saka Pēteris Graudulis.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ir viņu loma mūsu nākotnes saglabāšanā. Šobrīd <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">šķirošanas <strong>konteineri</strong></WORD> Daugavpilī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">35 <strong>vietās</strong></WORD>, to skaits pieaugs. Zivs meklē, kur</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Krievijas teritorijas un par skandālu, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> tobrīd jau vairākas dienas <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Krievijas sabiedrības uzmanības <strong>centrā</strong></WORD>, neko neesot dzirdējis. Svētdien Irākas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nebraukt. Bija jābrauc un viss. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Visa <strong>ģimene</strong></WORD> tajā dienā <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradāmies</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="c00FF00">uz Bauskas <strong>šosejas</strong></WORD>, kur bija ierādīta vieta Dobeles rajona iedzīvotājiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Slovākijā (smejas). Grūti ir visiem, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">dinamieši</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">visu acu <strong>priekšā</strong></WORD>, tāpēc arī tā runā. – Kāpēc</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>noslogots, piemēram, sportojot. Jāņem vērā, vai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">dārzs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> atklātā saulainā vai ēnainā, sausā vai mitrā <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">vietā</WORD> un kāda</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>arī atbildēt. " Vai jūs varētu pateikt, <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atrodos</WORD>? " svešiniece jautāja. " Man jāsazinās ar savējiem un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>asinsizplūdumu galvā, vēdera iekšējo orgānu sasitumus. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bērns</WORD> esot <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">atradies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">komā</WORD>. Par notikušo faktu policijā sākts kriminālprocess, lai noskaidrotu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>atcerēties, kas tā ir par māju un kādēļ šīs <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">fotogrāfijas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['PieDat','PieGen']" attribute="PieGen" class="c00FF00">pie manis</WORD>. Man līdzās zemē stāvēja melnais atkritumu maiss,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Mūsu zemes <strong>gabals</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> diezgan <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">klajā <strong>vietā</strong></WORD>, kur koki ir tikai dienvidu pusē,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>analītiķis Lī Dongboks. Eksperti: <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pasaule</WORD> pirmo reizi četrdesmit gados <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="cC00000">uz pandēmijas <strong>sliekšņa</strong></WORD> Spānijas Veselības ministrija paziņojusi, ka arī šajā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Atbilstoši tas tika domāts, ka Pūķa aste vai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">galva</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['PieDat','PieGen']" attribute="PieGen" class="c00FF00">pie <strong>viena</strong> no Mēness mezgliem</WORD>. Mēnesim, tāpat tā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>smaržo un garšo, kad <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">tava drauga <strong>galva</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> tur <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">lejā</WORD>, var stipri vien pazemināt tavu libido līmeni.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>Varēja būt, ka skaidrojās. <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">Galvām</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">vilnas <strong>lakati</strong></WORD>, kurus Ieva bija ieraudzījusi, revidējot pilsētas mājas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pēc svina stiegrojumu atstātajām pēdām uz stikla, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>daļa</strong> no gleznojumiem</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradušies</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">logos</WORD>, vēlāk tikuši sadauzīti vai saplīsuši, taču ir arī</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Ir veikali, kuros <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">sūdzību un ierosinājumu <strong>grāmata</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['PieDat','PieGen']" attribute="PieGen" class="c00FF00">pie kases</WORD>, cituviet tā novietota uz atsevišķa galda pie ieejas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Tolaik jaunais teritorijas plāns domē vēl nebija apstiprināts un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Pļavas <strong>iela</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> jauktajā – dzīvojamā un darījuma iestāžu – <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">zonā</WORD>, kur azartspēles</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pauguru nogāzes ir apaugušas ar mežu, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">pārmitrās starppauguru <strong>ieplakās</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pļavas</WORD>, purvi un meži. Zemienēm raksturīgs līdzens vai viļņots</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Meiusi norādījis, ka patlaban tikai <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">10<strong>%</strong> no visām azartspēļu iestādēm</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">atsevišķās ēkās</WORD>. Jaunais likumprojekts paredz arī kazino lielumu. Lai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Kuldīgas rajona – ceturtajā. Tādējādi <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">mazās Aizputes vai Grobiņas <strong>inspektors</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">divas pakāpes <strong>augstāk</strong></WORD> nekā Skrundas. Es negrasos salīdzināt Kuldīgu un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">skolēni</WORD>, kuri tajā laikā bija starpbrīdī un ir <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradušies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">ēkas <strong>pusē</strong></WORD> uz ciema centru, skaņas signālu esot dzirdējuši.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Dienasnauda pienākas katram, ja <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">komandējumā</WORD>. Vismaz 20 dolāri dienā. Tas rakstīts likumos.</TEXT>
+			<COMMENT>Reducēts Nom.</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pulksten 21:10 Liepājas autoostā un devās uz Grobiņu, <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> jau <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Liepājas policijas <strong>darbinieki</strong></WORD>. Uz norunāto vietu Neatkarīgā kopā ar S</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Bet pa to laiku <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">traktori</WORD> jau <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">laukuma <strong>galā</strong></WORD>, teju teju izzudīs līdzjutēju acuskatam.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>Tu nemirsi no slāpēm. Uz priekšu, gan jau <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kāds lietojams <strong>krāns</strong></WORD>! Tev jāsaprot, ka ūdens ir dārgs</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>Viņi cerēja arī tikt pie jaunām drēbēm. Gan jau <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kāds <strong>skapis</strong></WORD>, kurā glabājas ciešama drānu kārta.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>minēja degakmens raktuves, kuras tiek plānots slēgt un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurās</WORD> jau <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">daļa nepieciešamās <strong>infrastruktūras</strong></WORD>. Kā norādīja Metss, šādai atomelektrostacijai būtu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>varētu turēt dzīvniekus, tomēr mēs to neplānojam darīt, jo <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atrodamies</WORD> ļoti <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">tuvu</WORD> apdzīvotai vietai, un, ja palielināsim dzīvnieku skaitu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>lietošanas tiesības izbeidzās 2006. gada 1. septembrī, ja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">zeme</WORD> joprojām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">šīs personas faktiskajā <strong>lietošanā</strong></WORD>, nav ierakstīta zemesgrāmatā uz pašvaldības vārda</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Rīgas apgabaltiesa nelēma par labu aizturētajam, kā dēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Gulbis</WORD> joprojām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">apcietinājumā</WORD>. Gulbim apcietinājums patlaban piemērots, pamatojoties uz diviem pret</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Šūpoļu ceļš ” ar jautri kustīgiem baļķēniem. Sarkanajā trasē <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">jūs</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsieties</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">visaugstāk</WORD> no zemes – vietām pat 17 m augstumā. Šeit</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Viņam tieši tobrīd esot bijis pieņemšanas laiks, un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">nelielajā <strong>kabinetā</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradušies</WORD> arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">lūdzēji</WORD>. Turklāt mācītāja ģimene ar saviem pieciem bērniem mitinās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>piemājas teritoriju sakopšanā, stādu iegādē un izvēlē. « Kamēr <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atrodos</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">bērna kopšanas <strong>atvaļinājumā</strong></WORD>, lielus projektus nevaru uzņemties, bet savas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Paņēmu saldējumam domātās 20 kapeikas, aizgāju līdz kioskam, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="c00FF00">uz Blaumaņa un Barona ielas <strong>stūra</strong></WORD>, un nopirku, šķiet</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Viņi lūdza pacientu norādīt ekrānā uz mirdzošu stabiņu, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">viņa aklajā <strong>redzeslaukā</strong></WORD>. Viņš labi tika galā ar uzdevumu,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>un likti pamati vēl vienai jaunai un apjomīgai celtnei, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="c00FF00">uz <strong>pakalna</strong></WORD>. Atšķirībā no citām tai būs velēnu jumts,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Pilsētu un ciemu ūdens apgādei izmanto pazemes ūdeņus, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> devona (smilšakmens, dolomīts) un kvartāra <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">nogulumos</WORD> (smilts</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Satversmē vāks tur, kur parasti – kultūras namā, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Ziedlejas <strong>ielā</strong> 1</WORD>. Deputāti pēc priekšsēža Gunāra Bloka ierosinājuma nolēma atbalstīt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>skatāma arī viena Raino glezna « Mīlestības tiltiņš », <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">Somijā</WORD>, Kolho, Mustonenu dzīvesvietas tuvumā. Raino stāsta,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Līdzīgi rīkojies arī ceļmalas krodziņa « Zemnieka cienasts », <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Jaunsvirlaukas <strong>pagastā</strong></WORD>, autoceļa Rīga - Šauļi 43. kilometrā, īpašnieks</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ar paralīzi un nāvi. Slimības ierosinātājs ir vīruss, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">slima vai inficēta dzīvnieka <strong>organismā</strong></WORD> un kas izdalās galvenokārt ar siekalām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kā arī pārnakšņot viesu namā « Romance », <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['StarpDat','StarpAcc']" attribute="StarpAcc" class="c00FF00">starp Kandavu un Sabili</WORD>. Dalībniekiem nepieciešams auto ar derīgu TA</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>indekss ir turpinājis kristies gandrīz visās grupās izņemot uzņēmumus, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">Pierīgā</WORD> - šajā grupā indekss ir pieaudzis par 0,87 punktiem.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>par piemērotāko vietu šādas glabātavas izveidei tiek uzskatīta Galilauķe, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">tikai 700 metrus no Baltkrievijas robežas</WORD> un Drūkša ezera, kura</TEXT>
+			<COMMENT>????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pēc tam vecās, savu laiku nokalpojušās sausās tualetes, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kāpu <strong>zonā</strong></WORD>, tiks demontētas vai iekonservētas un vairs nebūs izmantojamas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>izmantot gan jaunās konteinertipa tualetes, gan labiekārtotās tualetes, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">rekonstruētajās glābšanas <strong>stacijās</strong></WORD> Majoros, Bulduros un Kauguros, gan pašvaldības</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Datorizēta darba vieta ir ar datoru aprīkota darba vieta, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">pašvaldību administratīvajās <strong>ēkās</strong></WORD>, sociālo dienestu telpās, tūrisma informācijas centros</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>apģērbu. Nedēļas nogalē atsākās cietušo meklēšana Beičuaņas pilsētā, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">tuvu zemestrīces epicentram</WORD> un ko pazemes grūdieni teju nolīdzināja līdz ar</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>pat meditācija. Vienā no lielākajiem biofīdbeka centriem pasaulē, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">Rozenekas psihosomatiskās klīnikas <strong>paspārnē</strong></WORD> Bavārijā, lai īstenotu ļoti seno dziedināšanas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>" Valmieras pienu  " piena ražotāju loku, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">attīstībā</WORD> un ražo augstas kvalitātes pienu. Piena pārstrādātājs nevar darboties</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>naudu, bet ar to nepietiek apvienības vadošās instances, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">Varšavā</WORD>, uzturēšanai. Katram apvienības biedram ir elektroniskā biedra karte</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pēc pulksten 22 pārdoti veikalā " Raita E ", <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Toma <strong>ielā</strong> 31</WORD>, nevis 30, kā bija minēts iepriekš</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Lietuvas un Polijas robežu. Vakarā devāmies uz viesnīcu, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">Polijā</WORD> pie Koninas. Sarīkojām nelielu tusiņu un pēc tam devāmies</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>M. Laukalējs skaidro, ka tie topošie ciemati, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">šoseju <strong>malās</strong></WORD> un tuvu elektrības līnijām, uzskatāmi par perspektīviem.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>draudzes 45 valstīs, kurās kalpo 140 garīdznieki. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Tās <strong>katedrāle</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Gibraltārā</WORD>, zemākas pakāpes katedrāles (prokatedrāles atrodas Briselē un Maltā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>atrodas Rīgā; 2) pieci spēļu galdi, ja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kazino</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['ĀrpusDat','ĀrpusGen']" attribute="ĀrpusGen" class="c00FF00">ārpus <strong>Rīgas</strong></WORD>. (2) Ruletes (cilindriskās spēles)</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>atrodas Ukrainas tirdzniecības kuģis « Faina », <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="c00FF00">uz kura <strong>klāja</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Kenijas armijai paredzēti <strong>tanki</strong></WORD>, par kuru viņi pieprasa 20 miljonus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>- sievietēm, kas lieto pretapaugļošanās līdzekļus: šajā gadījumā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kofeīns</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">organismā</WORD> trīsreiz ilgāk un izraisa aizkaitināmību un galvassāpes. - sievietēm</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>" jeb " D. C. "), <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Vašingtona</WORD> - ASV federālās valdības un Kongresa mītnes vieta -,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Royals » tiks sūtīts uz Irākas dienvidiem pie Basras, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">kur</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">britu <strong>kontingents</strong></WORD>. « Galīgās detaļas vēl tiek kārtotas, bet</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>būvmateriālu veikaliem, pa malējo joslu. Gar slimnīcu, <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">smagi <strong>slimie</strong></WORD>. Gar neskaitāmām degvielas uzpildes stacijām. Pamestām mājām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>sava zemesgabala žogu aiz sarkanās līnijas. Zemesgabalu, <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="c00FF00">uz kura</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">rekonstruējamā <strong>savrupmāja</strong></WORD>, ielas pusē šķērso sarkanā līnija, kurai paralēli</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>maiju, vecāku pabalsts tiks piešķirts tikai tām personām, <WORD json="['V3','V1','V2','Nom']" attribute="Nom" class="cFFFF00">kuras</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">bērna kopšanas <strong>atvaļinājumā</strong></WORD> un negūs ienākumus kā darba ņēmējs vai pašnodarbinātais</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>diplomātisko un konsulāro dienestu pildošas personas laulātais, personas, <WORD json="['V3','V1','V2','Nom']" attribute="Nom" class="cFFFF00">kuras</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> attiecīgajā ārvalstī <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">dienesta pienākumus pildoša karavīra laulātā <strong>statusā</strong></WORD>, izņemot gadījumu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>19. gadsimta tirgus laukumu Sarkanajā laukumā. Savukārt celtnes, <WORD json="['V3','V1','V2','Nom']" attribute="Nom" class="cFFFF00">kuras</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Kremļa <strong>pagalmā</strong></WORD> un kuras no ielas nevar redzēt, sen jau</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>" acu augstuma " plauktos ir dārgākas nekā tās, <WORD json="['V3','V1','V2','Nom']" attribute="Nom" class="cFFFF00"><strong>kuras</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">augstākos vai zemākos <strong>plauktos</strong></WORD>. Atceries - tu vari pagatavot kvalitatīvu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>nepiešķir tiesības pieprasīt nepilnu darba laiku. Par personām, <WORD json="['V3','V1','V2','Nom']" attribute="Nom" class="cFFFF00">kuras</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> bērna kopšanas <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">atvaļinājumā</WORD>, valsts veic sociālās apdrošināšanas iemaksas vecuma pensijai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vai to tuvumā esošie ezeri, kā arī ezeri, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">aizsargājamās dabas <strong>teritorijās</strong></WORD> vai kurus šķērso Latvijas robeža ar citām valstīm</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>" stāsta mediķis. Bērnu slimnīcas mediķi iesaka svešķermeņus, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">ausī</WORD> vai degunā, nekādā gadījumā nemēģināt dabūt ārā pašu spēkiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ir zemāki nekā austrumdaļā, tāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">augstieņu un zemieņu <strong>robeža</strong></WORD> Kurzemē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">zemāk</WORD>, un tā atbilst 50 m horizontālei, bet Vidzemē</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>no dažādiem kontinentiem. Projekts paredz Latvijā uzbūvēt parku, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurā</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">272 granīta <strong>sienas</strong></WORD>, kas klātas ar iegravētiem vairāku miljonu pasaules</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>datumu, kā arī tās Uzņēmumu reģistra lietas numuru, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">apvienošanās līguma <strong>projekts</strong></WORD> un rakstveida ziņojums, kas ietver regulas Nr</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>priekšlikuma reģistrācijas datumu, tās Uzņēmumu reģistra lietas numuru, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">adreses pārcelšanas <strong>priekšlikums</strong></WORD>, un jauno Eiropas kooperatīvās sabiedrības juridisko adresi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>darbiem. Šajā ēkas daļā Rāviņi iekārtojuši gan virtuvi, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">plīts</WORD> ar tvaika uztvērēju un cepeškrāsns, gan pieliekamo, gan</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>un pieliekot pie sienas fotogrāfiju ar vairs neeksistējošu māju, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">vairs neeksistējoša <strong>sieviete</strong></WORD>, es atgriezīšos laikā pirms piecpadsmit gadiem un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>izņemot ēkas: 1) kuras ir kultūras pieminekļi vai <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurās</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kultūras <strong>pieminekļi</strong></WORD>, ja likuma prasību izpilde apdraud šo kultūras pieminekļu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>paņēmienu: V gadsimtā pirms mūsu ēras tirāns Histijs, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">Ķēniņa Dārija <strong>gūstā</strong></WORD> Sūzās, sūtīja slepenu ziņojumu draugam Aristagoram,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pusnorakts kalns Kaušu ezera ziemeļu krastā. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Šī kalna <strong>galā</strong></WORD> kādreiz <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradusies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Rēzeknes muižnieka Korfa <strong>pils</strong></WORD>. Ir svarīgi sagatavot un izdot grāmatu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>uzbūve. Virszemes ūdeņi un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>daļa</strong> no pazemes ūdeņiem</WORD> visu laiku <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">nepārtrauktā <strong>kustībā</strong></WORD>, veidojot kopējo ūdens aprites ciklu. Zināšanas par</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>attīstīta piena ražošana, bet Lietuvā – piena pārstrāde. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvija</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['S','Loc']" attribute="Loc" class="c00FF00">kaut kur <strong>pusceļā</strong></WORD> gan piena ražošanā, gan arī pārstrādē.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>uz ziemeļu rietumiem, iesniedzoties Igaunijas teritorijā. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Otrs drumlinu <strong>lauks</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> uz dienvidiem no Austrumkursas augstienes <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Lietuvas <strong>pierobežā</strong></WORD>. Īpatnējas reljefa formas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>un pircēju interese ir ļoti liela. “ Pašlaik <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Latvijas <strong>lauksaimniecība</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">bēdīgā <strong>stāvoklī</strong></WORD>, bez atbalsta tā nespēs atgūties, ” uzskata</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>veselu Vācijas bērnu attīstību, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">brīvas sēdēšanas spēju kumulatīvo procentu <strong>līkne</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['StarpDat','StarpAcc']" attribute="StarpDat" class="cC00000">starp angļu un holandiešu pētījumā iegūtajām <strong>līknēm</strong></WORD>. Pastāv jautājums,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>uzskata to par Dieva gribu, tāpēc <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="c00FF00">uz galda</WORD> līdzās maizei <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">krucifikss</WORD>, kā tas bijis ierasts senāk katrā mājā. Uz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>veikt attālums no Zaķusalas līdz Lielupei. Pasākuma laikā <WORD json="['StarpDat','StarpAcc']" attribute="StarpDat" class="c00FF00">starp <strong>motociklistiem</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">2 braši norvēģu <strong>ceļotāji</strong></WORD>, kuri ar 1937. gada mocīšiem Nimbus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>? Pasakiet man, lūdzu, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurā</WORD> no šiem spārniem mums <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD>, piemēram, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Sabiedrisko pārvadājumu <strong>likumprojekti</strong></WORD>? Jo vienlaicīgi tas ir</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Savos apartamentos viņa ievākusies tikai pirms pāris mēnešiem. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Jaunais <strong>mājoklis</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kūrortpilsētā</WORD> pie jūras. Jaunā dzīvesvieta pilnībā iekārtota pāris mēnešu laikā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>mākslas jomā. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Formas un ekspresijas <strong>kategorijas</strong></WORD> kļuva svarīgākas un nereti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">visai komplicētās savstarpējās <strong>attiecībās</strong></WORD>, uzsverot mākslas evolūcijas iekšējo dinamiku,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>rīsa. Neoficiāla informācija gan liecina, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">lielākās rīsa <strong>noliktavas</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradušās</WORD> tieši no stihijas <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">visvairāk cietušajos <strong>reģionos</strong></WORD>, un pārtikas cenas Mjanmā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>aizmirsto veco lietu, Latvijā ir daudz. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Katrā <strong>novadā</strong></WORD> noteikti <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kāds</WORD>, kas ar to nodarbojas, ' ' pārliecināti stāsta</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>darba veikšanu. Vēl <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>viens</strong> no aptaujātajiem</WORD> sacīja, ka <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">objektā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD>, lai apmierinātu savu ziņkāri un apskatītos, kā tiek veikti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>radās, kad sākām piedāvāt mobilās observatorijas pakalpojumus. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Mobilajā <strong>observatorijā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>vieni</strong> no modernākajiem teleskopiem</WORD> Latvijā, tomēr debesis nereti ir apmākušās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>radiofonā. Metāla radioaparāts tika iebūvēts vienā galda malā, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">otrā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">magnetafons</WORD>, bet pa vidu bija rakstāmmašīna. Pusstundu pēc raidījuma</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>un / vai aizvietošanu ar dzelzceļa pārvadu. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Šie <strong>risinājumi</strong></WORD> pagaidām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> tikai <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">izpētes <strong>stadijā</strong></WORD>. Esot arī citi trasei nepieciešami zemes gabali</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>bagātībām. Gruntsūdeņi ir pazemes ūdeņu virsējais slānis, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> parasti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kvartāra perioda <strong>nogulumos</strong></WORD> virs ūdens mazcaurlaidīgiem iežiem, piemēram māla slāņiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>sadārdzinājums. Šajā lokā saimniecības ir diezgan izkaisītas, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">viena</WORD> pat <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['PieDat','PieGen']" attribute="PieGen" class="c00FF00">pie Salaspils</WORD>, tāpēc piena sagādes izdevumi bija vairāk nekā četras</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>neviens nebija ne tāds, ne šāds tilts un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>viņš</strong> pats</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">bezgalīga traukūdens <strong>klajumā</strong></WORD> ar dēli padusē. Un nevis viņš turējās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>šņabi. Sen pierādīts, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">alus un stiprāku dzērienu <strong>patēriņš</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">apgrieztā <strong>proporcijā</strong></WORD>. Tāpēc varbūt ir vērts paraudzīties uz cilvēku veselību</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>saglabāja trešo vietu, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Maskalāna <strong>ekipāža</strong> ar 664 punktiem</WORD> pašlaik <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">12. <strong>pozīcijā</strong></WORD>. Jau ziņots, ka divnieku sacensībās sestdien Miņins</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tuvināto zemes tirgus vērtību. Tām lauku zemēm, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> pašlaik <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">pilsētu tagadējās <strong>robežās</strong></WORD>, bijušā zemes īpašuma vērtību rēķinās pēc blakus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>arī citas telpas apmēram 150 000 kvadrātmetru platībā, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> pašlaik <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">projekta būvniecības <strong>stadijā</strong></WORD>, un vēl 120 000 m2 - projekta</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vidū pieminekli noņēma. Igaunijā neviens nezināja, <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Ļeņina <strong>piemineklis</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> un valdība vienkārši nolīga somu uzņēmumu, kas atbrauca un pieminekli</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>autokatastrofas apstākļu izmeklēšanā savulaik noskaidrojās, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">mašīnas <strong>šoferis</strong> Anrī Pols</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['PieDat','PieGen']" attribute="PieGen" class="c00FF00">pie stūres</WORD> dzērumā un pārsniedza pieļaujamo ātrumu. Autokatastrofā izdzīvoja vienīgi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nelielo koka namiņu Baložu ielā. Ģimenes ārsti, kuru <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">prakses</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Kalnciema <strong>ielā</strong></WORD>, norāda, ka sarunas ar valsts a /</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>brauktuvju seguma tehniskais stāvoklis vērtējams kā viduvējs, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">31,2 <strong>procenti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">sliktā <strong>stāvoklī</strong></WORD>. Sabrukušā stāvoklī ir 23,8 procenti ceļu, tas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>sistēmas. Aizstāvēšanai izvirzītas tēzes: 1. Mūsdienās <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">grāmatvedības standartizācijas <strong>process</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">vairāku faktoru <strong>ietekmē</strong></WORD>, kuru starpā izšķiroši svarīga nozīme ir tieši</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>" Visi dokumenti ir divās valodās, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">krievu tautības <strong>pārstāvji</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">augstos <strong>amatos</strong></WORD>, mums ir multinacionāls parlaments, " V.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>problēmas sagādā speciālistu trūkums. Pat <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">tik nepieciešama lieta kā <strong>rentgens</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> tikai <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">Kuldīgā</WORD>. Nīkrācniece Anda Vītola slavē feldšeri Ilzi Andersoni,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kas vienuviet zaļo 100 – 300 gadus. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Tā <strong>saknes</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">tikai 2 – 4 centimetru <strong>dziļumā</strong></WORD>, tāpēc mētriņas ir ļoti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kā neliela kompensācija par 1023 kvadrātmetrus lielo platību, <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> savulaik <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">skolas saimniecības ēkas un <strong>garāžas</strong></WORD>. Jaunās ASV vēstniecības ēkas celtniecība</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Liepas atradne Cēsu rajonā. Plašā teritorijā Latvijā <WORD json="['ZemDat','ZemGen']" attribute="ZemGen" class="c00FF00">zem kvartāra segas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">apmēram 140 m biezā devona karbonātisko <strong>iežu</strong></WORD> (dolomītu, ģipšakmeņu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ka sirēnas skaņa bijusi labi dzirdama. No Domes ēkas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">sirēna</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> apmēram <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">500 metru <strong>attālumā</strong></WORD>. Sākumskolas « Dartija » lietvede Lāsma</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>netālu esošajā Jūrmalā. Pašlaik tikai šajā pilsētā vien <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">būvniecības <strong>stadijā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">aptuveni 25 000 m2 dzīvojamās <strong>telpas</strong></WORD>. Ir iespējams pieskaitīt šīm</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vairāk ir jārunā par pareizā ceļa atrašanu nekā stāvokli. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Starptelpa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">vidū</WORD>. Tā ir sfēra, kurā tiecamies atpakaļ, lai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>dzīvos dēla ģimene, jo vidējā ir koplietošanas telpa, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">tajā</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>virtuve</strong> ar ēdamistabu, tualete un mazgāšanās telpa</WORD>. Iznāks kaut</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>par kuru dažreiz iedomājos, taču nespēju atcerēties, <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">tas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD>. Vienīgo reizi šeit biju ar holandieti Martenu, kuram patika</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>lēns. Upes grīvā upe ir 200 m plata. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">Te</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Ventspils <strong>osta</strong></WORD>, kurā pēc Ventas grīvas padziļināšanas var ienākt lielie</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Ventspilī un Jēkabpilī. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>Viens</strong> no islāma centriem un lūgšanu telpām</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">Rīgā</WORD>, Brīvības ielā 104. Tajā strādā arī svētdienas skola,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>bet arī debespuses un logu un durvju izvietojums. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Terase</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">dienvidaustrumu <strong>stūrī</strong></WORD>, no kurienes labi pārredzams gan dārzs, gan</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pagasta, novada vai pilsētas pašvaldības budžetā, kuras <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">administratīvajā <strong>teritorijā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">nekustamais <strong>īpašums</strong></WORD> vai tā daļa. (2) (Izslēgta</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>naudas iemaksas bankomātus uzstādījusi arī " SEB Unibanka ". <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Tie</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Rīgas lielajos tirdzniecības <strong>centros</strong></WORD>, viens arī Jelgavā. " SEB</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ka laukumā jau uzbērta melnzeme un iesēta zāle. <WORD json="['V3','V1','V2','Adv']" attribute="Adv" class="c00FF00">Tur</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">atradušies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">grausti</WORD>, kas ļaunprātīgi nodedzināti, un viņš vēlējies sakopt apkārtni</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vislielākais. Toties agrāk pagastam bijusi sava skola Tomēnos. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">Turpat</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">atradusies</WORD> arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pagastmāja</WORD>. Tur arī ritējusi visa pagasta kultūras dzīve.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pārlūkoja skolu apkārtni un konstatēja, ka daudzviet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">izglītības iestāžu <strong>tuvumā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">grausti</WORD>, kas bojā gan skatu, gan apdraud skolēnus.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>nogalināti vēl vairāki cilvēki. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Kononovs</WORD> tika arestēts 1998. gadā un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">apcietinājumā</WORD> līdz 2000. gadam, kad notiesāts, piespriežot pusotru gadu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>izveidotās iestādes, <WORD json="['V3','V1','V2','Nom']" attribute="Nom" class="cFFFF00">kuras</WORD> tiek finansētas no pašvaldības budžeta līdzekļiem un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">šīs pašvaldības administratīvajā <strong>teritorijā</strong></WORD>, kā arī citām personām iznomāto vai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>iestādē nogādā bērnu, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kurš</WORD> nav sasniedzis 16 gadu vecumu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">sabiedriskā <strong>vietā</strong></WORD> bez vecāku vai viņu aizstājēju uzraudzības nakts laikā.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>dibinātājiem. 2006. gada 24. oktobrī <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Fotoklubs</WORD> ieguva juridisku statusu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Talsu Tautas <strong>namā</strong></WORD>, kur kluba biedri satiekas ik nedēļu otrdienās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>atmiņas zudumu, tāpēc 8 līdz 12 stundas pēc apdullināšanas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">upuris</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> reibuma <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">stāvoklī</WORD> un, iespējams, vēlāk par šajās stundās notikušo</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>rekonstruēšanai nepieciešamos priekšnoteikumus. Kopš 2003. gada 11. augusta misijas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vadība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">NATO <strong>pavēlniecībā</strong></WORD>. Latvijas Nacionālās bibliotēkas (LNB) jaunās ēkas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>bērna aizgādības tiesības; 2) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">bērna <strong>vecāki</strong></WORD> ir miruši vai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">bezvēsts <strong>prombūtnē</strong></WORD>; 3) bērna vecāki nav sasnieguši likumā "</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">karavīrs</WORD> piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">komandējumā</WORD>, un pašnodarbinātie. (2) Sociālajai apdrošināšanai obligāti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>jo <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00"><strong>daudzas</strong> no viņa grāmatā minētajām vitrāžām</WORD> jau vairs neeksistē vai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">nezināmā <strong>vietā</strong></WORD>. 0. Spārītis ar grāmatu,, Rīgas Doma</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>” raksta ekonomikas publicists vācietis Volfs Loters. “ <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Autoritārie <strong>valdnieki</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">pamatproblēmas <strong>priekšā</strong></WORD>: lai saglabātu varu, bija nepieciešams arvien lielāks</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>vārdus nav taupījusi Brisele. " Pirms iestāšanās ES <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">valstu <strong>valdības</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">stingrā <strong>kontrolē</strong></WORD>. Tagad cīņa pret korupciju vairs nav prioritāte,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>un pasaulē tiek saprastas kā Baltijas valstis. Ģeogrāfiski <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Baltijas <strong>valstis</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">pašā Eiropas <strong>centrā</strong>,</WORD> jo nevienā virzienā Baltijas valstu attālums līdz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>minūšu laikā ierodoties notikuma vietā, viņi konstatējuši, ka <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">veikalā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mašīna</WORD>, un izsaukuši policiju. Ap pulksten 11 no rīta</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>raksturo neierobežota brīvība: <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kaut kas</WORD> pārdomām un interpretācijām derīgs vienmēr <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD>. Var pat būt tā, ka speciālists pārvēršas par savdabīgu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Pabijām arī zooloģiskajā dārzā. Tas sadalīts divās daļās – <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">vienā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">lielie <strong>akvāriji</strong></WORD> ar jūras pasauli, otrajā – slavenais un plašais</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>uzpludināt Vilgāles ezeru, lai veidotu zivju dīķus. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Izvēlētā <strong>vieta</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">pietiekamā <strong>attālumā</strong> no lieguma</WORD> Nēģi, tāpēc plānotāji iezīmējuši šo teritoriju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>gājējiem. Uzņēmējiem jāpielāgojas prasībām, apzinoties, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">tirdzniecības <strong>vietas</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">ekskluzīvā <strong>vietā</strong></WORD> – centrālajā ielā, un jāpacieš nelieli ierobežojumi.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ka lidmašīnai pacelšanās laikā dedzis kreisais dzinējs. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Notikuma <strong>vietā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['ApDat','ApAcc','Gen']" attribute="Gen" class="cFFFF00">ap 20 ugunsdzēsēju un ātrās palīdzības <strong>automašīnu</strong></WORD>, savukārt policija bloķējusi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>un sētnieku, kas katrai mājai bijis savs. Lepnākām villām <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atradusies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">pastāvīga <strong>guļasvieta</strong></WORD> arī <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">dārzniekam</WORD>, jo kas tad tā par savrupmāju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>zemes virsū), vai netieša. Jo <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00"><strong>tuvāk</strong> zemes virsai</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">ģeoloģiskie <strong>veidojumi</strong></WORD>, jo aktuālāka ir to loma šodienas ainavā.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>cer Vaškanskis, vēl pukst kādas jaunas sievietes krūtīs. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Grotešūras slimnīcas operāciju <strong>zālē</strong></WORD> B, ko no zāles A,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ir šie cilvēki, kuri drūzmējas viņai apkārt? <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">Kur</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD>? Kas šī par pasauli? Mitra asfalta atspīdumi un rudens</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>mācīties desmit gadus ilgajā ieslodzījumā Robenas salas cietumā, <WORD json="['V2','V1','V3','Adv']" attribute="Adv" class="c00FF00">kur</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> kopā ar Mandelu. Vēlāk viņš izglītojies dzīves skolā cīņā pret</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>lillā ķīseli. Blakus telpā rūca kāda iekārta, pats <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">svešā, caurstaigājamā <strong>telpā</strong></WORD> ar propelleru pie griestiem. Pienāca divi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>ka vienam no bērna vecākiem neatkarīgi no tā, vai <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atradīsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="cC00000">bērna kopšanas <strong>atvaļinājumā</strong></WORD> vai strādās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Patlaban <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">apcietinājumā</WORD>. Lindermans atradās starptautiskajā meklēšanā par aicinājumiem vardarbīgi gāzt Latvijas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>izziņas, izprašanas un interpretācijas jautājumi, kurus realizējot, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['StarpDat','StarpAcc']" attribute="StarpAcc" class="cC00000">starp brīvību un atbildību</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>"Racionālais, saprāta" orgasms notiek punktā, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">kas</WORD> vīrietim <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="c00FF00">uz dzimumorgāna <strong>galotnes</strong></WORD>, bet sievietei klitora apvidū,"</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>strādājot citu premjeru vadītajās valdībās (šeit arī <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">daži tādi</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">zālē</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD>, piemēram, Andris Bērziņš), gan strādājot konstruktīvā opozīcijā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Tas nozīmē, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">priekšlaikus dzimušie <strong>zīdaiņi</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">ne tikai <strong>inkubatorā</strong></WORD>, bet arī no dažām minūtēm līdz vairākām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Puskilometra <strong>attālumā</strong> no «Skalderiem»</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">sešas dzīvojamā <strong>mājas</strong></WORD>, kilometra attālumā – desmit lauku sētas.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>bija žēl, turklāt 1600 kv. m lielā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">ražošanas <strong>ēka</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">ļoti skaistā <strong>vietā</strong></WORD> — vecā parkā, kas priecē gan</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>paplašināt uzņēmējdarbību. Visai nozīmīga bija konceptuālā izjūta, ka ģeogrāfiski <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atrodamies</WORD> <WORD json="['StarpDat','StarpAcc']" attribute="StarpAcc" class="c00FF00">starp ASV un Eiropu</WORD>, jo ASV virzienā esam pati beidzamā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Tajā iesaistījās maz pagasta iedzīvotāju, galvenokārt tādi, kuru <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">īpašumi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">ļoti <strong>tuvu</strong> pašreizējai ražotnei</WORD>, kā arī vietējās pašvaldības pārstāvji.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Ja <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">nekustamais <strong>īpašums</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">vairāku pašvaldību administratīvajā <strong>teritorijā</strong></WORD>, nekustamā īpašuma nodokli aprēķina</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">Šis</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">Lubānas <strong>ielā</strong></WORD>, ir 9633 kvadrātmetrus liels un apgrūtināts ar to</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Šķūnītis</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> <WORD json="['BlakusDat']" attribute="BlakusDat" class="c00FF00">blakus pamestai un jau iepriekš ugunsgrēku pārcietušai mūra <strong>ēkai</strong></WORD>. Otrdienas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kalns ir arī populāra vieta tūristiem un svētceļotājiem, jo <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">šeit</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> daudz tempļu un <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">svētnīcas</WORD>. Usui mērķis bija uzturēties kalna virsotnē</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kā izvilkt televīziju no tās bedres, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Loc" class="c00FF00">kurā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">tā</WORD> šobrīd <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD>. Šīs koncepcijas tapšanā es ļoti nopietni strādāju ar mediju ekspertiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>atvēra un izlaistīja spīdīgu šķidruma pavedienu. - Tad <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">visādi <strong>šķīdumi</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD>... Un pēc brīža pārjautāja: –</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>attālumā no izpletņlēcēju piezemēšanās laukuma centra atrodas ūdenskrātuve vai ja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ūdenskrātuve</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atrodas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">tālāk</WORD>, bet, ņemot vērā laikapstākļus, ir iespējams,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Latvijā. Pērn pirmajā pusgadā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR']" attribute="Nom" class="cFFFF00">dzirkstošais <strong>vīns</strong> „ Rīgas šampanietis ”</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atradās</WORD> jau <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">otrajā <strong>vietā</strong></WORD>. Savukārt, kad VID šogad apkopoja informāciju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+	</SENTENCES>
+</CONTENT>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT>
+	<CATEGORIES>
+		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="cD8D8D8">Virziens</CATEGORY>
+		<CATEGORY id="c00FF00">Teritorija</CATEGORY>
+		<CATEGORY id="c088A08">Ceļš</CATEGORY>
+		<CATEGORY id="c868A08">Laiks?</CATEGORY>
+		<CATEGORY id="c00FF80">Veids?</CATEGORY>
+		<CATEGORY id="cFF00FF">Avots</CATEGORY>
+		<CATEGORY id="c9AFE2E">Nolūks?</CATEGORY>
+		<CATEGORY id="cF5A9A9">Transporta līdzeklis?</CATEGORY>
+		<CATEGORY id="c00FFFF">Mērķis</CATEGORY>
+		<CATEGORY id="c0000FF">Veids: ātrums?</CATEGORY>
+		<CATEGORY id="cFF8000">Instruments?</CATEGORY>
+		<CATEGORY id="cFF0000">Tēma</CATEGORY>
+		<CATEGORY id="cC00000">Vieta?</CATEGORY>
+		<CATEGORY id="c00C000">Cēlonis?</CATEGORY>
+		<CATEGORY id="cC0C000">Laiks: ilgums?</CATEGORY>
+		<CATEGORY id="c099C79">Transporta līdzeklis</CATEGORY>
+	</CATEGORIES>
+	<SENTENCE_CATEGORIES>
+	</SENTENCE_CATEGORIES>
+	<SENTENCES>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņa</WORD> patlaban savus apdrošinātāja pienākumus veic, <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">pārvietojoties</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar golfiņu</WORD>, toties vadītājas stāžs gan viņai esot pamatīgs — veseli</TEXT>
+			<COMMENT>Gunta. Gatavs</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>kā arī aizliegumu ienākt nepiederošām personām, <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">būvlaukumā</WORD> <WORD json="['BezDat','BezGen']" attribute="BezGen" class="c00FF80">bez ķiveres</WORD> . Valsts ugunsdzēsības un glābšanas dienestā (</TEXT>
+			<COMMENT>transporta līdzeklis perifērs, ja tas nav teik. priekšmets.</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Saulesbrilles</WORD>, <WORD json="['V1','V2','V3','Inf','Part']" attribute="Part" class="verbs">pārvietojoties</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cD8D8D8">šurpu turpu</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa automašīnas <strong>paneli</strong></WORD>, arī tiek skrāpētas un bojātas . Kritēriji</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ražotāju un izplatītāju pārstāvjiem jāpatērē daudz laika un degvielas, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietojoties</WORD> <WORD json="['NoDat','NoGen']" attribute="NoGen" class="cFF00FF">no viena <strong>veikala</strong></WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="c00FFFF">uz citu</WORD>, tajos aprūpējot tikai sava</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Noteikumi paredz, ka <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">kanālā</WORD> tiks atļauts <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c099C79">kuģošanas <strong>līdzekļiem</strong></WORD>, kuru garums nav lielāks par astoņiem metriem. Tas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>nepieciešamības gadījumā <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c099C79">meža ugunsdzēsības <strong>automašīnām</strong></WORD> būtu iespējams <WORD json="['Acc','Nom','Gen','Dat','Loc','Adv']" attribute="Adv" class="c00FF80">brīvi</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD>. Svarīgi, lai bez saskaņošanas ar</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFFFF00">fiziskajām <strong>personām</strong></WORD> ir tiesības uzturēties un <WORD json="['Acc','Nom','Gen','Dat','Loc','Adv']" attribute="Adv" class="c00FF80">brīvi</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF00">valsts un pašvaldības <strong>mežā</strong></WORD>, ja normatīvajos aktos nav noteikts citādi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Kad <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">fiziskās <strong>personas</strong></WORD> tiesības uzturēties un <WORD json="['Acc','Nom','Gen','Dat','Loc','Adv']" attribute="Adv" class="c00FF80">brīvi</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">mežā</WORD> ir ierobežotas, meža īpašnieka vai tiesiskā valdītāja pienākums</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Ierobežojums uzturēties un <WORD json="['Acc','Nom','Gen','Dat','Loc','Adv']" attribute="Adv" class="c00FF80">brīvi</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">mežā</WORD> ir spēkā tikai tad, ja tas izdarīts . Ja jūsu privātīpašumā atrodas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>attiecības citam ar citu nekas neierobežoja, jo īpaši vīrieti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Adv']" attribute="Adv" class="c00FF80">brīvi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['NoDat','NoGen']" attribute="NoGen" class="cFF00FF">no vienas <strong>vietas</strong></WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="c00FFFF">uz citu</WORD>. Savukārt vēl nesen bija</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Šādā gadījumā arī <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">veikala <strong>darbinieki</strong></WORD> var <WORD json="['Acc','Nom','Gen','Dat','Loc','Adv']" attribute="Adv" class="c00FF80">brīvi</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">telpā</WORD> un skenēt uz svariem novietoto preču kodus. “Kopumā ņemot, svaru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Runājot par ministra mašīnu, Saulīte pastāstīja, ka iepriekš <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bērziņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar 2006. gada izlaiduma «Audi A6» <strong>automašīnu</strong></WORD>, kuru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Šī pilsēta bija īpaša ar to, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Gen" class="cFFFF00">daudz <strong>cilvēku</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="cF5A9A9">ar velosipēdiem</WORD>, viņiem izbūvētas speciālas brauktuves, novietnes un piestātnes</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Jau iztālēm bija dzirdams masku gājiens, jo <WORD json="['S','Nom','Nom']" attribute="Nom" class="cFFFF00">tā <strong>dalībnieki</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD>, skandinot dažādus priekšmetus - katlu vākus, pannas, pudeles, karotes</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Te gan jāmin, ka esmu relatīvi daudz <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietojies</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar auto</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaDat" class="c088A08">pa rietumvalstu <strong>ceļiem</strong></WORD> - nu nesoda tur par šādiem nebūtiskiem pārkāpumiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Ūdens līmenis bija tik augsts, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">pašvaldības <strong>darbinieki</strong></WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cC0C000">vairākas <strong>dienas</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar laivu</WORD>, lai savos namiņos iesprostotajiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cC00000">Šajos <strong>posmos</strong></WORD> dienā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['LīdzDat','S']" attribute="LīdzDat" class="c099C79">līdz 375 vilcienu <strong>sastāviem</strong></WORD>, bet atsevišķās vietās noslodze pārsniedz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>tikai pārvietojoties pa meža ceļiem, izņemot gadījumus, kad drīkst <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> arī <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">mežā</WORD> <WORD json="['S','Loc']" attribute="Loc" class="c9AFE2E">tā apsaimniekošanas un aizsardzības <strong>nolūkos</strong></WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>kā rezultātā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">smiltis</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','Gendēļ']" attribute="Gendēļ" class="c00C000">vēja iedarbības dēļ</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['NoDat','NoGen']" attribute="NoGen" class="cFF00FF">no krasta</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="cD8D8D8">uz zemes <strong>iekšieni</strong></WORD>. Liepājas apkārtnē ceļojošās kāpas apbēra</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c868A08">Otrdienas <strong>rītā</strong></WORD> <WORD json="['GarDat','GarAcc']" attribute="GarAcc" class="c088A08">gar izdegušo <strong>vietu</strong></WORD> manāmā alkohola reibumā <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="c00FF80">ar grūtībām</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">vairāki <strong>cilvēki</strong></WORD>, kuri nebija spējīgi atbildēt uz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Jāatļauj <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">gājējiem</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaDat" class="c088A08">pa ceļiem un <strong>takām</strong></WORD>, kas izveidoti aizsargājamās teritorijas apskatei. Jāsaskaņo</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>tumšajā laikā ir braucis pārlieku ātri un nav paguvis nobremzēt, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">gājējs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietojies</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa nepareizo ceļa <strong>pusi</strong></WORD>. CSDD direktora vietnieks Ģirts</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>uz neilgu laiku, tāpēc liela nogurumā gadījumā iesaka <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar taksi</WORD> vai palūgt, lai kāds cits vada mašīnu vai atbrauc tev pakaļ.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Latvijas komandai izdalīti sniegbalti treniņtērpi, kuros ieteicams <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa guļamistabu</WORD>, nevis rosīties pa hokejistu ģērbtuvi, kurā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Pīts Andersons brauc pēdējos trīs gadus, <WORD json="['PirmsDat','PirmsGen','S']" attribute="PirmsDat" class="c868A08">pirms tam</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> ikdienā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar BMW</WORD>. " Mums bija drausmīga avārija, mašīnu pilnībā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>puķpodiem dzīvojas sīki, iegareni, balti radījumi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> spēj <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF80">diezgan <strong>jestri</strong></WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> un pat lēkāt . Arī pāris no jums ir jautājuši, kas tie</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Par dreifējošiem sauc nenoenkurotus tīklus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">jūrā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['V3','V1','V2','Inf','Loc']" attribute="Loc" class="c00C000">vēja un straumju <strong>ietekmē</strong></WORD>. To virsējā daļa turas uz pludiņiem, apakšējā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Vienalga, vai <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">jūs</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">pārvietojaties</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">birojā</WORD>, dodaties darījumu braucienā, pārbaudāt e-pastu vietējā kafejnīcā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>tad puikas skrējuši skatīties, kā tā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c099C79">rūcošā <strong>kariete</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD>. Skolā piedzīvots, ka vadība klasē paziņo par iegūto Latvijas neatkarību</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>pašnodarbinātām personām, kā arī to ģimenes locekļiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF00">Kopienas <strong>teritorijā</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="c9AFE2E">noteikto uzdevumu <strong>izpildei</strong></WORD>, un kārtību, kādā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>apdraud peldētājus un arī paši sevi, jo inspektori, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="cF5A9A9">ar motorlaivām</WORD>, var uzbraukt viņiem . Tad vainos inspektoru.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Mērķis ir aļņa figūra, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> 23 <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c088A08">metrus garā <strong>logā</strong></WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c0000FF">ar četru metru <strong>ātrumu</strong> sekundē</WORD>. Mērķis ir redzams</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Jautāts, vai policijai ir zināms, <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">noziedznieki</WORD>, Ķuzis teica, ka nav nekā — ne auto numuru, ne noziedznieku</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>notiek apstaroto vielu turpmākā apstrāde. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">Transporta <strong>konteineri</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa cauruli</WORD>, ap kuru apliktie elektroinduktori rada vertikālu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>daži salamandru paveidi, bruņrupuči un lamantīni." Tā ļauj <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">krokodiliem</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa <strong>ūdeni</strong></WORD>, neizraisot lielu viļņošanos – medību laikā tā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>to varēsiet pārbaudīt pie “Guļošās zviedru sienas”, <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa kuru</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">jāpārvietojas</WORD>, vairāk nekā piecus metrus karājoties rokās. “Tiroliešu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Karbonātiskos iežos ir daudz plaisu, <WORD json="['PaDat','PaAcc']" attribute="PaDat" class="c088A08">pa kurām</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">pazemes ūdeņu <strong>straumes</strong></WORD>. Ģipšakmens un dolomīts samērā labi šķīst ūdenī</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>nepārprotami sajūtot, ka <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa zeķi</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kāds</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> un ka pēc tam ieniezas kāja, esiet gatavi un atcerieties – savu blusu nedzird</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Deivids</WORD> šodien kļuvis vēl galantāks un nez kāpēc <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa klāju</WORD> glītām, bēšīgām vilnas zeķītēm kājās. Es tik smaidu un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>pilsētas nozīmes maršruts — maršruts, kas paredzēts, lai <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">pārvietotos</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF00">pilsētas administratīvajās vai novadā ietilpstošas pilsētas <strong>robežās</strong></WORD>,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>maršruts, kas paredzēts, lai <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietotos</WORD> <WORD json="['NoDat','NoGen']" attribute="NoGen" class="cFF00FF">no vienas administratīvās <strong>teritorijas</strong></WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="c00FFFF">uz citu administratīvo <strong>teritoriju</strong></WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>reģionālais vietējās nozīmes maršruts — maršruts, kas paredzēts, lai <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietotos</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF00">viena rajona administratīvajās <strong>robežās</strong></WORD>, kā arī no šā rajona</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Iereibis gājējs vai velosipēdists, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c868A08">diennakts tumšajā <strong>laikā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa ceļa braucamo <strong>daļu</strong></WORD>, nopietni apdraud savu veselību vai pat</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>atgadījumus par trakajiem ļautiņiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">laukos</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="cF5A9A9">ar nenosakāmas izcelsmes <strong>braucamrīkiem</strong></WORD> bez atstarotājiem un gaismām.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">Ūdens <strong>straumes</strong></WORD> pirmām kārtām plūda pašā ledājā, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietojoties</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa ledāja <strong>virsu</strong></WORD>, ar lielu ātrumu un spiedienu tecēja pa ledāja plaisām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Pētījuma gaitā ir noskaidrojies, ka pētāmie <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">lūši</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF00">120 līdz 130 kvadrātkilometru lielā <strong>platībā</strong></WORD>, turklāt šīs platības nepārklājas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Kamēr lasiet grāmatu, aiciniet <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFFFF00">mazuli</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa istabu</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF80"><strong>atbilstoši</strong> grāmatā attēlotajam dzīvniekam</WORD>. Vai viņš varēs</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Pa galvaspilsētas ielām, organizējot ceļu blokādi, <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzDat" class="cF5A9A9">uz motocikliem</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">melnās maskās tērpti "Hizbollah" <strong>aktīvisti</strong></WORD>, kuru rīcībā ir</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c868A08">Ikdienā</WORD> gan <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mūziķis</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar 1997. gada Chrysler Vision</WORD> – viņš to sauc par darba zirdziņu.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ložņāt caur smalkām mežģīnēm un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF80">viegli, nemanāmi</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaDat" class="c088A08">pa dāmu zīda <strong>zeķēm</strong></WORD>, lai kādā pilnīgi nepiemērotā brīdī ( no dāmas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Daži</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="c00FF80">ar skeitborda <strong>dēļiem</strong> padusē</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa pilsētu</WORD> un, ieraudzījuši kādu gludāku ietvi, mēģina sporta inventāru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Viņš nēsāja zaļas saulesbrilles. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Meklētā <strong>persona</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar sudraba krāsas <strong>automašīnu</strong> Volkswagen</WORD>. Policija arī lūdz atsaukties</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>plašais Berlīnes dzīvnieku dārzs. <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">Pa pilsētu</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietojāmies</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar sabiedrisko <strong>transportu</strong></WORD>, un tas bija patīkams piedzīvojums, jo daudzi pirmo</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>spriegums, kas, sasniedzot kritisko robežu, pārvar berzes spēkus, un <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">plātnes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF80"><strong>attiecībā</strong> viena pret otru</WORD>, radot zemestrīces.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">Pa braucamās daļas sniegaini ledaino <strong>putru</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">vecs <strong>vīriņš</strong></WORD>. Viņa braucamais ir krēsls, kādu atceros no pamatskolas laikiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>nestabilitātes zonu paplašināšanos — <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">otrās zonas <strong>robeža</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="cD8D8D8">pa kreisi</WORD> un sāk krustoties ar pirmo zonu, līdz vēlāk pilnīgi to pakļauj</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['NoDat','NoGen']" attribute="NoDat" class="cFF00FF">No ābeles mātišķajiem <strong>zariem</strong></WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzDat" class="cD8D8D8">uz egles asajām <strong>rokām</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">āboli</WORD>. Te ir tamborētas sniegpārslas . Salmu puzurīši.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Klepojot <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">gaiss</WORD> spēj <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c0000FF">ar <strong>ātrumu</strong> līdz 480 km / stundā</WORD>. Kas īsti ir klepus? Klepus fizioloģiskā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>«Zinot to, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">daudzi <strong>vecīši</strong></WORD> tik tikko spēj <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD>, mēs cenšamies iebraukt katrā pagalmā, nevis nostāties ceļa galā un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Apbrīnojami, kā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Bekhema</WORD> spēja <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF80">14 cm augstos <strong>apavos</strong></WORD>, kuriem nav papēža.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Ik pavasari mēs gaidām, kad <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">upē</WORD> sāks <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vimbas</WORD>. Tad var vilkt lieliskus lomus . Citas zivis ķeras reti — raudu upē</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Vissmagāk cietuši valsts ziemeļu apgabali. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">Vētru <strong>fronte</strong></WORD> tagad <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietojusies</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzDat" class="cD8D8D8">uz valsts <strong>dienvidaustrumiem</strong></WORD>, un trešdien tiek prognozētas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>no tradicionālajiem pasažieru pārvadājumiem, jo <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">pasažieri</WORD> lielāko tiesu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c00FF80">ar bagāžu</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Transportlīdzekļus drīkst lietot, tikai <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pārvietojoties</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaDat" class="c088A08">pa meža <strong>ceļiem</strong></WORD>, izņemot gadījumus, kad drīkst pārvietoties arī mežā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>iedzīvotāji pārvietošanās līdzekļus kombinē. Ja ir tādi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> tikai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar velosipēdu</WORD>, tad ir arī tādi, kuri atstāj automašīnu centra</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>bet arī cilvēks parastais, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> māk vadīt auto un <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaDat" class="c088A08">pa Rīgas <strong>ielām</strong></WORD>. Pārsvarā, lai brauktu uz un no darba...</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>apsūdzētajam bijušas atņemtas autovadītāja tiesības, taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> turpinājis <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar auto</WORD>. Šajā kriminālprocesā ir divas epizodes, kas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Vienubrīd nakts mieru pārtrauca automašīna, pēc kartes spriežot, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c099C79">tā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa aptuveni piecus kilometrus attālu <strong>lielceļu</strong></WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">vētras <strong>centrs</strong></WORD> atradās 40 kilometrus uz ziemeļaustrumiem no Honkongas un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cD8D8D8">ziemeļu <strong>virzienā</strong></WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c0000FF">ar <strong>ātrumu</strong> 14 kilometri stundā</WORD>.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Maksimālais ātrums, <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c0000FF">ar kādu</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c088A08">pa šo ceļa <strong>posmu</strong></WORD>var <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD>, nenodarot nopietnus bojājumus automašīnai, ir 30 – 40 kilometri stundā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Bērni nobijušies un izskrējuši no mājas, bet vecmāmiņa, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> varējusi <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">pārvietoties</WORD> tikai <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="cFF8000">ar kruķiem</WORD>, palikusi mājā.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mareks</WORD> vienīgais <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cF5A9A9">ratiņkrēslā</WORD>. Pirms desmit gadiem dibinātā skola jau sākotnēji bija piemērota</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>ko viņi neredz, un izstāstīt, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cD8D8D8">kurā <strong>virzienā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">gaismas <strong>plankums</strong></WORD>, kaut gan apziņā ne brīdi neveidojas tā vizuālais attēls</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>varētu būt pieprasīts lielajās pilsētās, bet Denijā, kur <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">vietējie</WORD> vispār <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF80">tikai <strong>iešļūcenēs</strong>,</WORD> arī ik pēc divām mājām kurpju valstība</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Tā kā J. Birks nav meties īpašumu iegādē vai autiņu pirkšanā (<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pārvietojas</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cF5A9A9">ar dienesta <strong>mašīnu</strong></WORD>), tad gluži loģiski pieaug viņa uzkrājumu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+	</SENTENCES>
+</CONTENT>

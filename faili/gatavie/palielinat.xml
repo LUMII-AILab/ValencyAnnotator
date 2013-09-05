@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT>
+	<CATEGORIES>
+		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Pacienss</CATEGORY>
+		<CATEGORY id="cFF00FF">Veids: mērs?</CATEGORY>
+		<CATEGORY id="cFF0000">Cēlonis</CATEGORY>
+	</CATEGORIES>
+	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Palielināt lielumu</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Palielināt skaitu</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Palielināt mēru - apstraktām lietām</SENTENCE_CATEGORY>
+	</SENTENCE_CATEGORIES>
+	<SENTENCES>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>palielināšanās, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD>, no vienas puses, nojauc robežas, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">telpu</WORD> un atbrīvo, no otras — draud ar pazušanu vienveidībā</TEXT>
+			<COMMENT>Gatavs</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>miglas kailus mežrožu krūmus, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">migla</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tos</WORD> daudzkārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD>. Starp ērkšķiem un sarkanīgiem puniem deg, liesmo auglīši</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>citu sieviešu krūtīm. Un, ja <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Nom" class="cFFFF00"><strong>viena</strong> no draudzenēm</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tās</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD>, tad to pašu agri vai vēlu izdarīs arī kāda cita.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>krūtis un savu pievilcību sākšu apzināties tad, ja <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tās</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">palielināšu</WORD> vismaz <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par vienu <strong>izmēru</strong></WORD>. To izdarīju, taču vēl joprojām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>gadu, kas pārsniedz 20 gadus, izdienas <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pensijas <strong>apmēru</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par diviem <strong>procentiem</strong></WORD> no vidējās mēneša darba samaksas</TEXT>
+			<COMMENT>Gunta</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>plānu līdzekļiem un ieguldījumu pārvaldīšanu, vai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">atlīdzības</WORD>, šādi grozījumi stājas spēkā ne agrāk</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ģenētiski radītu govs hormonu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kurš</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">piena <strong>izslaukumu</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> pat <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par 40 %</WORD> 23. Kādus paņēmienus lopkopji izmanto, lai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>vairāk ir atkarīgs no pašvaldības iespējām. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Samaksu</WORD> pat <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> Šāgada pirmajā sanāksmē konsultanti uzzināja, ka viņu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>aizmirst arī loģistikas izmaksas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">viena litra piena <strong>cenu</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['LīdzDat','S']" attribute="LīdzDat" class="cFF00FF">līdz pat pieciem, sešiem <strong>santīmiem</strong></WORD>. Produkts taču jānogādā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Vēl ir vērts atcerēties, lūk, ko – tikko <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">sieviete</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">decibelus</WORD>, vīrietis vairs racionālus argumentus nedzird</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>galvenokārt siltumnīcās, kur <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">palielināts gaismas <strong>daudzums</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tur audzēto augu <strong>ražu</strong></WORD>. Ultravioletā starojuma samazināšana</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>), ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">gaismas daudzuma <strong>palielināšana</strong></WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par 1%</WORD> arī <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ražu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> par 1%. Tāpēc pat ar visu stikla vadāšanu no Polijas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valdība</WORD> ar nodokļu, nodevu un tarifu sloga palielināšanu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> arī <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">apgrozībā nepieciešamās naudas <strong>daudzumu</strong></WORD>, kuru Latvijas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>un nesecīgi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> ir pretrunā ar automātisko vadību un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">tās <strong>izmaksas</strong></WORD>. Izveidojot abus vadības veidus kā integrētu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Krieviju kā stabilu enerģijas piegādātāju, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> arvien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">naftas ieguves <strong>jaudas</strong></WORD> un kam Eiropai esot jāpateicas par</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pieteiktie plānotie remonti, kuru dēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašvaldības <strong>uzņēmumi</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">apsaimniekošanas <strong>maksu</strong></WORD>, ir domāti, lai nākamo pāris</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>starptautiskajiem donoriem aizņemoties vēl 700 miljardus mārciņu. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">nodokli</WORD> turīgajiem Uzrunā britu politiķiem valsts finanšu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>skuju hlorofila pastu. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Minētās bioloģiski aktīvās <strong>vielas</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">broileru <strong>dzīvmasu</strong></WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par 10,3%</WORD>, uzlabo barības konversiju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>9,5% un dod iespēju gūt papildu peļņu ; dējējvistām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">dējību</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par 9%</WORD> un uzlabo barības konversiju par 5,4% (</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>kvalitāti, bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">tas</WORD> savukārt apgrūtina pašu prognozēšanu, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">tās <strong>izmaksas</strong></WORD>. Šajā rakstā ir piedāvāts samazināt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>samet iekšā, un, lai sadegtu līdz beidzamam, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">kremators</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">degšanas <strong>temperatūru</strong></WORD>. Nepaies ilgs laiks, kad paliks</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pārāk daudz aprūpes un ir objektīvi nolietojies, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">tas</WORD> stipri <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">sociālās <strong>izmaksas</strong></WORD>, un tādēļ izdevīgāk ir nomainīt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>saslimšana, kas būtiski samazina kustību spējas. Kopš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">akcīzes <strong>nodokli</strong></WORD> tabakas izstrādājumiem, viena paciņa</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>jo iepriekš vērotais straujais <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">energoresursu cenu <strong>kāpums</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">latvijas uzņēmēju un iedzīvotāju <strong>izmaksas</strong></WORD>. Degvielas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>zemei, izvalbīja sarkanās acis. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Sieviete</WORD> instinktīvi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ātrumu</WORD>, tā vēl vairāk izaicinot melno neradījumu.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>700 latus, te jums vēl viena minūte, zvaniet, zvaniet, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">palielinām</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">laimestu</WORD> <WORD json="['LīdzDat','S']" attribute="LīdzDat" class="cFF00FF">līdz 800 <strong>latiem</strong></WORD>. Kad beidzot kādu zvanītāju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>mājās, šo enerģētisko nospiedumu palielinām, kā arī <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">palielinām</WORD>, neuzlabojot mūsu energoneefektīvās ēkas. Ilgi tas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>piešķiram dažādas privilēģijas, piemēram, nedaudz <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">palielinām</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">izsniedzamo <strong>summu</strong></WORD> un tamlīdzīgi. Ne vienmēr nākamajā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>jo, kā prognozē likumsargs, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">nodokļu <strong>izmaiņas</strong></WORD> noteikti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">« krutkas » ražošanas un pārdošanas <strong>apjomu</strong></WORD>. « Ir</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>turpināsies ilgāk. Viņaprāt, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">karavīru skaita <strong>palielināšana</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">upuru <strong>skaitu</strong></WORD> abās pusēs. Miksers teica, ka ar Irākas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>arī aprunājās ar tālbraucējiem. Nolemts, ka Terehovā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ceļu policistu <strong>skaitu</strong></WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par sešiem <strong>darbiniekiem</strong></WORD>, stāstīja</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>gadu, 2009. gadā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Indijas <strong>valdība</strong></WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">izglītības <strong>budžetu</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par 20 <strong>procentiem</strong></WORD>. Bet līdz 2012. gadam plānots atvērt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>izmaksu pieauguma <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">faktors</WORD> tomēr vērtējams pozitīvi, jo <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD> <WORD json="['S','Acc']" attribute="Acc" class="c00FF00">gan nodokļu <strong>plūsmu</strong></WORD> Valsts kasē, gan būtiski ierobežos</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>un pašiem kulties, kā nu veiksies. Iespējams, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">cenas</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">palielināsim</WORD>, taču nedaudz, jo cilvēku maksātspēja ir tāda, kāda</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>darīt, jo atrodamies ļoti tuvu apdzīvotai vietai, un, ja <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">palielināsim</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">dzīvnieku <strong>skaitu</strong></WORD>, cilvēkiem tas nepatiks, ” atzīst</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>tūkstoši sivēnu. Vispirms būs sivēnmātes, un tad pamazām <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">palielināsim</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sivēnu <strong>skaitu</strong></WORD>, " skaidro A. Rasmusens. Viņš neprognozē</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>attiecīgi ir mazāka nodokļa likme ; jo vairāk <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">nodokli</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> fosilajai degvielai, jo labvēlīgāka situācija biodegvielas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>ietekme uz vidi var būt divējāda - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">tūristu skaita <strong>pieaugums</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">antropogēno <strong>slodzi</strong></WORD> dabiskajā vidē un rada potenciālus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>aizsardzības prasību ieviešanu lauku tūrisma sektorā, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">uzņēmuma <strong>konkurētspēju</strong></WORD>, nodrošina uzņēmuma darbībā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>līdzekļi sociālām programmām. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Eksports</WORD> nodrošina darbu, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iekšzemes <strong>kopproduktu</strong></WORD>, kas " baro " valsts budžetu. Atkarība</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>patēriņa grozā - 33,7%. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Iedzīvotāju ienākumu <strong>pieaugums</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pieprasījumu</WORD> pēc pārtikas. Ja tirgū veidojas spriedze</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Analīze to neapstiprina. Nepārprotami ir tas, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">IKP <strong>izaugsme</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pieprasījumu</WORD>. Nav īsti skaidrs, kādā mērā reālais</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>pelnīt iztiku, radot viņiem savu nišu, taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">tas</WORD> arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">diskrimināciju</WORD>, jo darba devēji citās jomās retāk pieņem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>kilometru garumā. " Mums ir viena un konkrēta prasība - lai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">automašīnu <strong>caurlaidību</strong></WORD> caur robežpunktiem, " pastāstīja</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Omega - 3 un Omega - 6 <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">neuzņemšana</WORD> pietiekamā daudzumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">risku</WORD> saslimt ar sirds un asinsvadu slimībām, tomēr tikai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Zivtiņš.. " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Šāda <strong>pieeja</strong></WORD> ne tikai neko nerisina, bet pat <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">korupciju</WORD> un sabiedrības norobežošanos no valsts kā sava</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>nieru asinsvadu bojājums. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Risku</WORD> saslimt ar nefropātiju <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">iedzimtība</WORD>, paaugstināts asinsspiediens, urīnceļu injekcijas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>otrādi, uzskata, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kafija</WORD> stimulē erekciju vīriešiem un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">jutekliskumu</WORD> sievietēm. Senie akmenī kaltie raksti un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>izmanto dažādas attieksmes un domāšanas stratēģijas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> it kā nejaušas veiksmes <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">iespējas</WORD>. Īsumā – veiksminieki</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Cilvēki</WORD>, kas sevi uzskata par veiksminiekiem, aktīvi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">jaunu „ nejaušu ” iespēju <strong>varbūtību</strong></WORD>, veidojot un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Vakar Rīgā tika atklāta ražotne, kurā parastam stiklam <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">redzamās gaismas <strong>caurlaidību</strong></WORD>, vienlaikus padarot to par</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>pārklātas ar tādu vielu (nanopārklājumu), <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> gan <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD>, gan samazina <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">saules starojuma <strong>caurlaidību</strong></WORD> atkarībā no</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>savienotas ar perpendikulāriem paneļiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kuri</WORD> ne tikai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">siltumatdevi</WORD>, bet veido arī līdzenu virsmu. Līdz ar</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>pieaugošais ASV dolāra kurss attiecībā pret eiro, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> vienlaikus <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">lejupvērstu <strong>spiedienu</strong></WORD> uz Eiropas Savienības eksporta cenām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Eiropas nesaskaņas vēršas plašumā, bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">tas</WORD> savukārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">mūsu reģiona stratēģisko <strong>nozīmi</strong></WORD>, " uzsvēra ģenerālis</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Dažādu " meklēšanas programmu " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">piedāvājums</WORD> vienmēr <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">darba izmantojamības <strong>amplitūdu</strong></WORD>. 365 Dienas filmas faktiski</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>iezīmē jaunus principus kinomontāžā, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">tieši <strong>montāža</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> kino <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">ekspresivitāti</WORD>, jo ļauj mijiedarboties diviem blakus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>magoņu koncentrātu). <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Intravenozo narkotiku <strong>lietošana</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">HIV un AIDS izplatīšanās <strong>briesmas</strong></WORD> Austrumeiropā. Sintētisko</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>vai noliktavu saimniecības nozarēs darbojošies <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">uzņēmumi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">biroja pakalpojumu <strong>funkciju</strong></WORD>, kamēr citos šī funkcija</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>pētāmie pamatvirzieni, kādēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">bērna <strong>ienākšana</strong></WORD> ģimenē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">dzimumu <strong>nelīdztiesību</strong></WORD>, pirmais - tiesiskā aizsardzība</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">dalība</WORD> starptautiskajās organizācijās (PTO, ES, NATO, OECD) <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">valsts <strong>drošību</strong></WORD>, taču daudzu politisko un ekonomisko jautājumu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Turpretim <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">pieaugošās komunikāciju <strong>iespējas</strong></WORD> ievērojami <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">atsevišķu valsts reģionu <strong>iespējas</strong></WORD>, lomu un nozīmīgumu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Ziemeļvalstu atbalstam. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ziemeļvalstis</WORD> arī pakāpeniski <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielina</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Baltijas valstu, arī Latvijas, <strong>lomu</strong></WORD> reģionālo (Ziemeļvalstu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>apcietināto līdzi. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Neizpratni</WORD> par notiekošo vēl vairāk <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">apstāklis</WORD>, ka aizvestie nereti bija plašā apkārtnē</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>piegādā Valstī vēl nesen <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">strauji plaukstošā <strong>būvniecība</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pieprasījumu</WORD> pēc betona, tāpēc SIA « ETR » valdes</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>, neraugoties uz ekonomikas krīzes sākšanos, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ES</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par 8%</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">savu <strong>palīdzību</strong></WORD> attīstības jomā, TVNET informēja Eiropas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>iepriekš prognozējuši. Kā jau mēs paredzējām, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">inflāciju</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">akcīzes nodokļa likmes <strong>kāpums</strong></WORD> degvielai, kā arī</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>augstāk. Domāju, ka trijnieks ir reāls. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Pārliecību</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">mači</WORD> Dānijā, kur, startējot visai elitei, bez īpašas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Putniņš. Pēc pārtraukuma <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">staiceliešu <strong>pārsvaru</strong></WORD> vēl <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">K. Grāveris</WORD> (2), Māris Savinovs, G. Aleksejevs.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>standartiem. 2000. gada maijā parakstīta <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Nom" class="cFF0000">vienošanās</WORD> būtiski <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">starptautisko standartu <strong>nozīmi</strong></WORD>, veicinot finanšu kapitāla</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>patika doma, ka Dievs ir Skuiviņa kalps, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">tas</WORD> krietni <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielināja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">Velna <strong>izredzes</strong></WORD>. Velns pagriezās un devās atpakaļ uz elli</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">dzeršana</WORD> pie pusdienām vairos viņa veselību, veiksmīgumu, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">darbaspējas</WORD> un mūža ilgumu. Taču patiesība ir pilnīgi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>konteinervilciena maršruts no Liepājas uz Krieviju, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> būtiski <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo pārvadājumu <strong>apjomu</strong></WORD>, sacīja Sakse. Lai projekts attīstītos</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>sēkliniekiem, vienlaicīgi uzturot acu kontaktu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Tas</WORD> stipri vien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">palielinās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">intimitāti</WORD> starp jums. „ Saki, nelegāls alkohols?</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+	</SENTENCES>
+</CONTENT>

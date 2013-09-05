@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT>
+	<CATEGORIES>
+		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Teritorija</CATEGORY>
+		<CATEGORY id="cFF00FF">Vieta: attālums?</CATEGORY>
+		<CATEGORY id="cFF0000">Tēma</CATEGORY>
+		<CATEGORY id="cC00000">Vieta?</CATEGORY>
+		<CATEGORY id="c00C000">Ceļš</CATEGORY>
+		<CATEGORY id="cC0C000">Laiks?</CATEGORY>
+		<CATEGORY id="c0000FF">Virziens</CATEGORY>
+		<CATEGORY id="c099C79">Veids?</CATEGORY>
+		<CATEGORY id="c8C1476">Transporta līdzeklis</CATEGORY>
+		<CATEGORY id="c00FFFF">Laiks: ilgums?</CATEGORY>
+		<CATEGORY id="c808080">Transporta līdzeklis?</CATEGORY>
+	</CATEGORIES>
+	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">1. Pārvietoties pa apli vai tml.</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">2. Pārvietoties pa orbītu  vai tml.</SENTENCE_CATEGORY>
+	</SENTENCE_CATEGORIES>
+	<SENTENCES>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>﻿gaismas spektrā. Planētai ir līdzīga masa kā Jupiteram, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">tā</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Fomalhautas <strong>zvaigzni</strong></WORD> Dienvidu Zivs zvaigznājā, un tās attālums no</TEXT>
+			<COMMENT>Gunta. Gatavs</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Būs grūti pierādīt pretējo, ka Jupitera masas objekts, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap tādu <strong>zvaigzni</strong></WORD> kā Fomalhauta, ir nekas cits kā planēta</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">mazās <strong>planētas</strong></WORD>, kuras nosauktas Latvijas vietu vēsturiskos nosaukumos, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cC00000">Saules <strong>sistēmā</strong></WORD> orbītās <WORD json="['StarpDat','StarpAcc']" attribute="StarpAcc" class="c00C000">starp <strong>Marsu</strong> un Jupiteru</WORD>. " Mazo planētu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apkārt kodolam. Brige gribēja izņēmuma gadījumu, kad <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">divi <strong>kodoli</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> astoņniekā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00C000">viens otram <strong>apkārt</strong></WORD>, uz brīdi attālinās viens no otra</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>enerģijas un siltuma. Tāpēc gribu, lai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tu</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c0000FF">lēzenos <strong>lokos</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap mani</WORD>. CIMDIŅŠ Ir barga ziema, mēs guļam cimdiņā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Varbūt arī sajukusi, to <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> nenoliedz, bet smilkst un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Pāvilu</WORD> <WORD json="['S']" attribute="S" class="c099C79">kā vējš ap uguni</WORD>, virpuļiem. Pāvils viņu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kājas un raugoties nekurienē ; ja meitenes uzaicināja pastaigāties, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">viņas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap koku</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c0000FF">vienā <strong>virzienā</strong></WORD>, līdz kāds viņas iegrieza uz otru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>" " Drošības dēļ. " " Nekur viņš neaizies. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Riņķos</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzGen" class="c00FF00">uz vietas</WORD>. Viņš jau sen mūs piefiksējis. " "</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>rodas dziļi iedobumi – dzelmes. Nereti <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">ūdens</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cC00000">šādās <strong>vietās</strong></WORD> sāk <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD> – veidojas atvari. Citā vietā, varbūt, tepat blakus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>uz pleciem, visu laiku rādot rīksti. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">Pērtiķi</WORD> sāk <WORD json="['Acc','Nom','Gen','Dat','Loc','Adv']" attribute="Adv" class="c099C79">lēni</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD>. Jasmīne ( iekliedzas ). Nevajag! Lūdzu, Mihael</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tad tā ir zīme uz skaistu laiku, bet kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">dūmi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['GarDat','GarAcc']" attribute="GarAcc" class="c00FF00">gar zemi</WORD>, tad sagaidāms slikts laiks Skolnieki, Limbaži.J.A.Jansonds,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>laika sprīdis starp divām vienādām Mēness fāzēm 29.5 diennaktis Pavadonis <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Mēness</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap planētu</WORD> Pirmais vilnis jeb Aiko Saules aicinājums no Supratendras visām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>nav servera Saules sistēma Saules sistēmā ir 9 planētas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFF0000">kuras</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap zvaigzni</WORD> Sauli 1 Merkurs 2 Venēra 3 Zeme 4 Marss</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>b vecums 4 5 miljardi gadu, Saules sistēmas planēta <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Zeme</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap zvaigzni</WORD> Sauli <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c099C79">ar <strong>ātrumu</strong> 39 km s</WORD> Jūs esat nodibinājuši</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apstiprinājuma Fizikas stundā skolotājs iedod mums informāciju par to ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">elektrons</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap ātomu</WORD> mēs paši nevaram veikt eksperimentu un pārliecināties, tāpēc</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apriņķo galaktikas centu 200 miljonos gadu <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">Saules <strong>sistēma</strong></WORD> atrodas galaktikā un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap tās <strong>centru</strong></WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c099C79">ar <strong>ātrumu</strong> aptuveni 280 km s</WORD> Galaktiku superklāsteru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>jautājumi Sarunājas divi paziņas Klau, kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cC0C000">visu <strong>laiku</strong></WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap tevi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['S','Nom']" attribute="Nom" class="cFFFF00">tā <strong>blondīne</strong></WORD> Es viņu nopirku Par cik Par simt dolāriem Un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>šādi veidojot no mūsu telpas neatkarīgu telpu Tādēļ jau <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">fotoni</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap melno <strong>caurumu</strong></WORD>, ka Švacvalda sfēra ir šā jaunā visuma</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>mums pa pēdām Saradušās vairākas komandas, daži sēž, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">daži</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">apkārt</WORD> un mēģina atrast pareizo risinājumu Nevienam negribas stumties atpakaļ pa</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kuru jau reiz izvandījām, šeit joprojām <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Gen" class="cFFFF00">daudz <strong>dalībnieku</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c099C79">nesekmīgi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">apkārt</WORD> Aizejam atpakaļ līdz vellapēdiem un Edgars ar Aivu aiziet pa</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>jauna Mūsu dienās zinātnieki teiktu Tā notiek tāpēc, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Zeme</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Sauli</WORD> Senatnē ļaudis no paaudzes paaudzē krāja zināšanas par Saules</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>NAŽIEM Vēl viņam dikti patīk staigāt ar mammas drēbēm, <WORD json="['Adv']" attribute="Adv" class="cC0C000">tagad</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c099C79">ar mammas <strong>naktskreklu</strong> ap galvu</WORD> Velk vecāku kurpes un staipa pa</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>visādi kladzinās, baigo kaucmindieti no sevis izmālē <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Sesks</WORD> tik <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap vistu <strong>bariņu</strong></WORD> un nosvīdis aizkusumā elš Vistiņ, nāc sievās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>magnētiskajā laukā ar indukciju 2 5 T skat <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cC00000">Ūdeņraža <strong>atomā</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">elektrons</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00C000">pa 6 <strong>orbītu</strong></WORD> elektrona pilno mehānisko enerģiju, B gravitācijas spēku</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>uz ziemeļiem, atgriežas atpakaļ punktā A 84.5 <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">Ap <strong>zvaigzni</strong> Stella</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">viena <strong>planēta</strong></WORD>, uz tās dzīvo 100 tautu Katra tauta runā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>13 Stūrīši drīkst būt novietoti arī citādi 86.23 <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">Ap <strong>zvaigzni</strong> Tirru</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">1987 <strong>planētas</strong></WORD> Visi attālumi starp tām ir dažādi Uz katras planētas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>būtu samazinājies 7 min Zeme stāv uz vietas, bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Saule</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap to</WORD> Zeme rotē ap savu asi tādā pašā virzienā,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Zeme rotē ap savu asi tādā pašā virzienā, kādā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Saule</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Zemi</WORD> Saule apriņķo ap Zemi vienu reizi Saule nekustētos,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>un spēlē Gulliver visas mašīnas pārvēršas par mazām mašīnītēm, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c8C1476">kuras</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00C000">pa apļveida <strong>trasi</strong></WORD> neatkarīgi no tā, kādu trasi tu izvēlies</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Zemes sistēmu Mēnesi un vēl dažādus debesu ķermeņus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Zemi</WORD>, un citas planētas Saules sistēmā, kas arī</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Brown grupa Kalifornijas tehnoloģijas institūtā ir atklājusi desmito planētu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap <strong>Sauli</strong></WORD> Tās diametrs ir 2000 kilometri un tātad tā ir</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>skaļi un ilgi kliedzot, laižas lielie plēsējputni klijāni <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Klijāns</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c099C79">ilgi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">debesīs</WORD>, nevēzējot spārnus, un tikai viegli nosveras te uz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>izlasīju, ka tās var būt kaitīgas pat satelītiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Zemi</WORD> Attēlā ir skaidri redzams, ka cilvēkam dodoties uz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>bija tikai auns murgs Bet tagad ir siltā 1990 <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c8C1476">Mūsu <strong>helihopters</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['VirsDat','VirsGen']" attribute="VirsGen" class="c00FF00">virs mirušās <strong>pilsētas</strong></WORD> Jemakovas būves nr 503 galvaspilsētas gadā šeit dzīvoja</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vēlāk viņa bezprātīgo ideju turpinātāji uzcels Sibīrijas tundrā un taigā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c8C1476">Helikopters</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['VirsDat','VirsGen']" attribute="VirsGen" class="c00FF00">virs nometnes</WORD> Caur biezajiem krūmiem un kokiem redzami baraku jumti Barakas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>UIAA Okeāna krasti Rīts uzaust miglains Brokastu laikā <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00FF00">ap mūsu <strong>auto</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> lieli <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">jūras <strong>putni</strong></WORD> starp citu, Glāzgovā to ir vairāk nekā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>un dažādu ierīču darbībā Mākonis ir bīstams arī pavadoņiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">orbītā</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Zemi</WORD> Tik intensīvas vētras ietekmē dažādas tehniskās sistēmas mākslīgos</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ar vienu paketi Droši vien katrs ir redzējis suni, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD>, kožot sev astē Izrādās, ka jaunākās Windows operētājsistēmas var</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>RITUMS Habla galaktiku klasifikācijas sistēma novecojusi Jaunie brūnie punduri un <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">planētas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApDat" class="c00C000">ap jaunajām <strong>zvaigznēm</strong></WORD> Alksnis Fullerēni starpzvaigžņu telpā Orbītā Vācijas geozinātniskais satelīts</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ZIEMA 174 RITUMS Kosmoloģisko gamma staru uzliesmojumu mīklas minot <WORD json="['ApDat','ApAcc']" attribute="ApDat" class="c00C000">Ap zvaigznēm</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">komētas</WORD> Galaktiku apskati padziļinās un paplašinās Zinātniskie pētījumi kosmosā 1973 2001</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>SATURNS URĀNS NEPTŪNS PLŪTONS Planētas ir lieli kosmiski objekti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap zvaigzni</WORD> Ap mūsu zvaigzni Sauli riņķo 9 planētas, kuras</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>lielākais ķermenis un atrodas tās centrā, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">pārējie debess <strong>ķermeņi</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Sauli</WORD> Tos orbītās notur Saules gravitācijas spēks Lielākai daļai planētu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>L.gif 28310 bytes Zeme ir viena no deviņām planētām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Sauli</WORD> Saule ir tikai viena no miljardiem citu zvaigžņu,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>no kosmosa Kas ir mēness IR MĒNESS Zemes dabiskais pavadonis <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','ApkārtDat']" attribute="ApkārtDat" class="c00C000">apkārt mūsu <strong>planētai</strong></WORD> aptuveni 384000 km lielā attālumā Salīdzinājumā ar kosmiskiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Patiesībā griežas Zeme, bet mums izliekas, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','ApkārtDat']" attribute="ApkārtDat" class="c00C000">apkārt Zemei</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">zvaigznes</WORD> Tikai viena zvaigzne gandrīz nemaz nemaina savu vietu Polārzvaigzne,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Zemi ievada Zemes mākslīgos pavadoņus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> atkarībā no veicamā uzdevuma <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cC00000">dažādos <strong>augstumos</strong></WORD> un ar dažādu apriņķošanas laiku Zemes mākslīgie pavadoņi pēta</TEXT>
+			<COMMENT>vai vieta?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Plānētu pavadoņi PAVADOŅI Pavadonis ir no iežiem veidota lode, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap planētu</WORD> Katrs pavadonis ar kaut ko izceļas Mēness ir tikai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>nosaukti angļu rakstnieka V.Šekspīra lugu varoņu vārdos Neptūna lielākais pavadonis <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Tritons</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap planētu</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c0000FF"><strong>pretēji</strong> tās rotācijas virzienam</WORD> Merkurs nav Jupiters 16 Venera</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Kāds ir Plutons IR PLŪTONS Fplutons.jpg 3896 bytes <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">Plūtons</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c099C79">ļoti <strong>lēni</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Sauli</WORD> pa ļoti izstieptu orbītu, tāpēc dažbrīd tas atrodas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>gaisma traucē saskatīt zvaigznes Saules kustība ir šķietama, patiesībā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Zeme</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','ApkārtDat']" attribute="ApkārtDat" class="c00C000">apkārt Saulei</WORD> Zvaigznājus, kurus šķērso Saule, sauc par zodiaka</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>jautrības fona Vietējo norvēģu jauniešu izklaidēs pilsētā notiek pilnā sparā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jaunieši</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa pilsētu</WORD> ar skaļu mūziku Nedaudz uzlīst Visi velk zušus bilde</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>slēpjas iespēja Nav nekā sliktāka par pilnīgi apaļu lodīti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00C000">pa noslēgtu <strong>apli</strong></WORD> Tauta mācās no dzīves likstām Cilvēces vēstures mierīgos</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nekā norādīšanai Vilku medībās ir fāzes, kad <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">kāds īpašs <strong>vilks</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">apkārt</WORD>, tad apguļas un noslēpjas, gaidot medījumu, ko</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tikai viena māja, un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00"><strong>viens</strong> no vīriešiem</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c099C79">nervozi</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> Vienkārši, šodien mīļākais ir Žans, bet es esmu vīrs</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nesakariigs un slimiigs viedoklis pofigonis 30 11 2004 15 19 <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Tarakāni</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00C000">pa aizsalušu <strong>mutesbļodu</strong></WORD> Vot i ssshorrrtttttrekkkssss šreks 2 30 11 2004</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>grūti sagaidīt Protams, var jau paskatīties kā šīs krāšņās <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c8C1476">formulas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00C000">pa trasi</WORD> Bet, vai ir motivācija mums celties, kā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>valoda angļu Skaista ugunīga komēta pārvietojas pa datora ekrānu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Komēta</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c099C79">lēnām</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD>, mainot virzienu un ātrumu, tās apgaismotajā laukumiņā var ieraudzīt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>laukumā Un tieši tādēļ viņš ir ļoti nozīmīgs spēlētājs <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņš</WORD> vienmēr <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">vārtu <strong>priekšā</strong></WORD> un pret viņu ir grūti strādāt aizsardzībā gadā Luišs</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>9 RD noteikumi Vecrīgā attiecas arī uz motocikliem 21 <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c8C1476">Senie <strong>motocikli</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00C000">pa Kurzemi</WORD> 14 Motocentrs Zirgs aicina uz nebijušu motošovu 5 Slēdziens</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>piemēram draza, kas radusies pavadoņu sprādzienu rezultātā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">Visa šī <strong>draza</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c099C79">ar aptuvenu <strong>ātrumu</strong> 5 km s</WORD> 18 tūkstoši kilometru stundā,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>tā nav nenozīmīga Kas notiek ar atkritumiem Tie atkritumi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000"><strong>tuvāk</strong> Zemei</WORD> ar laiku berzes rezultātā tuvojas Zemei un galarezultātā vai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>utt Astronomiskā vienība Astronomical unit AU Vidējais attālums kādā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Zeme</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','ApkārtDat']" attribute="ApkārtDat" class="c00C000">apkārt Saulei</WORD>, 1.496 10 8 km Auroras kilometru starojums Auroral</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Cikliskā rezonance cycloresonance, gyroresonance Ja uz lādētu daļiņu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c00FF00">magnētiskā <strong>laukā</strong></WORD>, iedarbojas elektriskais lauks piemēram no elektromagnētiskā viļņa,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>molekulām planētas jonosfērā Teleskopā nevar atšķirt zvaigznes no planētām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> ap tām, tāpēc liekas neiespējami pētīt gaismu, kas nāk</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>punkts L 1 Šāds punkts ir visās sistēmās kur <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">viens <strong>ķermenis</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> ap otru piemēram arī mūsu mēnesim ir šāds punkts Zemes Lagranža</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>zvejnieku ciemos, kuri piekrastē starp sarindotām laivām un kuģīšiem, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">pelikānu <strong>bari</strong></WORD> Ekspedīcijas dalībnieki uzņēmuši tūkstošiem fotogrāfiju un savāktā bagātīgā informācija</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Rain rain cc.lv Zeme ir viena no deviņām planētām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','ApkārtDat']" attribute="ApkārtDat" class="c00C000">apkārt Saulei</WORD> Saule ir zvaigzne milzīga karstas gāzes lode, tā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Planētas ir iežu, metāla un gāzu maisījuma bumbas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap zvaigzni</WORD> Dažas planētas, piemēram, Venera un Zeme,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ko sauc par atmosfēru Planētu temperatūra ir ļoti atšķirīga <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">Visas <strong>planētas</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Sauli</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaDat" class="c00C000">pa ovālām <strong>orbītām</strong></WORD> un griežas ap savu asi tādā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ledu saturošam pavadonim Asteorīdi ir tūkstošiem mazu planētu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Sauli</WORD>, galvenokārt telpā starp Marsa un Jupitera orbītām vairums</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ir tikai Marss Sedna ir vistālākais no zināmajiem objektiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap Sauli</WORD> Mazā izmēra dēļ Sedna nemaz nebūtu uzskatāma par īstu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>articles 31603 Kur paliek laiks Kas to nozog Varbūt <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">mūsu <strong>planēta</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> aizvien <WORD json="['Adv']" attribute="Adv" class="c099C79">ātrāk</WORD> Varbūt darāmā ir saradies simtreiz vairāk Tāpat pastāv iespēja</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ka no tās jau jāaiziet Tikšķ pulkstenis, <WORD json="['VirsDat','VirsGen']" attribute="VirsGen" class="cC00000">virs galvas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">zvaigznes</WORD>, un līdz sāpēm saspringtajā klusumā viņš izdzird savas sirds</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>mūsu debess velvē, raida savas programmu mūsu reģionam Patiesībā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">pavadoņi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap ekvatoru</WORD> un to, uz kurieni raidīt programmas staru,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>poligona ieņemšana, Lielvārdes aviācijas riskantie gājieni, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c8C1476">helikopteri</WORD> <WORD json="['VirsDat','VirsGen']" attribute="VirsGen" class="cC00000">virs galvas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD>, parādās spāņu televī zija Tad pirmie bada streiki nu nekā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>un griežas ap asi cenšoties radīt maksimālo izmēru iespaidu Tā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">gailis</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap vistu</WORD> un dzied tas var arī r eizēm palēkties Kā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Šoreiz Rutux atrakstīja Nedzīvo ar tarakāniem Jau labu laiku skolotāja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ingrīda</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">riņķo</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','Datapkārt','ApkārtDat']" attribute="ApkārtDat" class="c00C000">man apkārt</WORD> un lūdz, lai es arī kaut ko uzrakstu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>boksu apmeklējuma, kad mašīna teorētiski ir visātrākā, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Fernando Alonso</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> divas sekundes aplī <WORD json="['Adv']" attribute="Adv" class="c099C79">lēnāk</WORD> nekā Raikonens Arī pēc boksu apmeklējuma soms</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Labajā pusē redzama viena no vairākām meitenēm, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cC0C000">visu <strong>laiku</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv','ApkārtDat']" attribute="ApkārtDat" class="c00C000">apkārt stendam</WORD> un ik pa laikam arī pa zāli Telekomunikāciju grupa</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nav iespējams nedz nopirkt, nedz pārdot Priekā mirdzošām acīm <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Lesija</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> dejā apkārt Džo Laiks bija apstājies, gluži kā dziesma plūda</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>bez tā iztikt nevarēja <WORD json="['PēcDat','PēcGen']" attribute="PēcDat" class="cC0C000">Pēc trim <strong>stundām</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c8C1476">mūsu <strong>lidmašīna</strong></WORD> jau <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['VirsDat','VirsGen']" attribute="VirsGen" class="c00FF00">virs lidostas</WORD> Naļčik un vēl divdesmit minūtes vēlāk, kad pilots</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Vārtu autors ULDIS BALODIS BET BALOŽA LIGZDA Vakardien to atklāja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c8C1476">tramvaji</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['ParDat','ParAcc','']" attribute="ParDat" class="c099C79">par velti</WORD> 3 lietas, ko pamanīju pārdesmit minūšu ekskursijā 1</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>bija Dalenbahs, taču, kamēr pēc Snevas avārijas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Adv']" attribute="Adv" class="c099C79">lēni</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> pie dzeltenajiem karogiem, Vollija mašīnas dzinējā bija iekļuvis papīra gabaliņš</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>trešo komandas automobili Debija F 1 sacīkstēs bija pavisam blāva <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mansels</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00C000">visiem <strong>nopakaļ</strong></WORD> un ne ar ko īpašu neizcēlās Pirmais iespaids tā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>četrus, tautas klase piecus, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">meistarīgākie sporta klases <strong>dalībnieki</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF00FF">septiņus <strong>apļus</strong></WORD> Kā pirmie finišēja 11 bērni vecumā no astoņiem līdz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>atceres pēcpusdienas, izmantojot fondu materiālus pilns teksts <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cC0C000">Barikāžu <strong>dienās</strong></WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">debesīs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c8C1476">helikopteri</WORD>, bet uz zemes plīvoja sarkanbaltsarkanais karogs 1 VAS Latvenergo</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tirgus laukums bija laužu Pārpildīts Karuseļi griezās, mūzika spēlēja <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Drosmīgākie</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c808080">ar lielo <strong>karuseli</strong></WORD> Ķēdēs iekarinātie sēdekļi lidoja augstu virs tirdzinieku galvām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ziemu, gan vasaru gaļas paviljonā pārdeva no letes, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mušas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">apkārt</WORD>, smirdēja pēc mazliet bojātiem produktiem Bet pēc tirgus privatizācijas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>līcis no augšas dabūjām vērot nepilnu pus stundu, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c8C1476">lidmašīna</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['VirsDat','VirsGen']" attribute="VirsGen" class="c00FF00">virs tās</WORD> un gaidīja savu nosēšanās kārtu nelielajā lidostā Tad nu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>dienas atpakaļ redzēju, kā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">cilvēks</WORD> kā akls kucēns vairākas reizes <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap kvartālu</WORD>, tā arī netikdams skaidrībā, kur īsti viņam</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tērpā un četrus gadus vecu meitenīti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> dziedādama un diedama <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApDat" class="c00FF00">ap viņiem</WORD> Viņi atkal bija kopā Viņi bija laimīgi Šeit runa</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Vanda bērnišķīgos smieklos vārtījās uz paklāja, un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">dažas apreibušas <strong>mušas</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="c00C000">ap spuldzīti</WORD> pie griestiem Tad vēl ir viens foto, kur</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>panti neklaiņoja abstraktās filozofijas tālēs, bet kā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">mājas baložu <strong>bars</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> ap pazīstamām vietām un tuviem cilvēkiem Bez meklētas oriģinalitātes un atskaņu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>gaitā samērā tuvu varējām vērot, kā riekstroži barojās Citviet <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC00000">gaisā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">riņķoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00"><strong>bariņš</strong> sudrabkaiju</WORD> Tie tad arī bija visi manā atmiņā palikušie putni</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>680 m Nez vai izdosies tikt līdz 700 m <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">Kādu <strong>brīdi</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">riņķojam</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="c0000FF">vienā <strong>spirālē</strong></WORD> 730 m Pēc brīža ieraugu, ka nu jau</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>un iet pa vējam pilsētas virzienā, pāri Daugavai, tāpēc <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">riņķojam</WORD> <WORD json="['VirsDat','VirsGen']" attribute="VirsGen" class="c00FF00">virs lidlauka</WORD> Dienas rekords 680 m, taču arī tadā augstumā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vairs nevar just Psiholoģiski rodas sajūta, ka nu <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">jau <strong>stundu</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">riņķojam</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa vienu un to pašu <strong>vietu</strong></WORD> un ne viens no mums</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vadības par nepakļaušanos <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Mihaēls</WORD> saņēma brāzienu, taču atrunājās, ka <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">riņķojis</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00C000">pa trasi</WORD> kā sākumā likts Jau nākamajā posmā Moncā Šumahers nesēdēja</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nevienu klientu jutu, ka tas ir nopietni Biju vairākas reizes <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">riņķojis</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa pilsētu</WORD>, septiņas reizes apbraucis vienu kvartālu un sapratu joprojām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>komplekts atradās manā auto, nevarēju aiziet gulēt <WORD json="['LīdzDat','S']" attribute="LīdzDat" class="c00FFFF">Līdz vēlai <strong>naktij</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">riņķoju</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa Rīgu</WORD>, braucu bezjēgā uz Jūrmalu, vienkāršhi braukājos apkārt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>sauc ātros Turklāt nereti paziņo nepareizu adresi, un <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">mediķiem</WORD> nākas <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa veselu <strong>rajonu</strong></WORD>, meklējot sirgstošo Tāpēc reizēm pie šiem zvanītājiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ja tos pagrūž OURGODGIVENRIGHTTOBEARARMS Izdalīt cilvēkiem ieročus COMEFLYWITHME <WORD json="['Adv']" attribute="Adv" class="c00FF00">Apkārt</WORD> sāk <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mušas</WORD> GREENLIGHT Visos luksoforos iedegas zaļais MIAMITRAFFIC Paātrina pilsētas satiksmi CERTAINDEATH</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>saulīte silda jauki Vairāk kā jebkad pārņem ilgas pēc dzimtenes.Tad sāk <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c8C1476">lidmašīnas</WORD> Mēs satraucamies Annenburgā Karinu iet pie amerikāņiem dabūt naktsmājas Izrādās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Tomēr, kad viņus pārsteidz pamatīga vētra un ap viņiem sāk <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">haizivis</WORD>, Suzanna un Daniels saprot, ka cīņa par izdzīvošanu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>uz vietas nostāvēt, ļoti sāp kājas <WORD json="['ApDat','ApAcc']" attribute="ApAcc" class="cC0C000">Ap pusdienas <strong>laiku</strong></WORD> sāka <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c8C1476">helikopters</WORD>, kaisot uzsaukumus krievu valodā, un mikrofonā visus skaļi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>dažiem kalnu ērgļiem, kas ligzdo tuvējās kalnu virsotnēs <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ērgļi</WORD> sāk <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">augstu</WORD> virs kuģa un pamazām, laižoties arvien zemāk, savus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>taču, tikko sāk krēslot, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kāmītis</WORD> sarosās un sāk <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c099C79">naski</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="verbs">riņķot</WORD> <WORD json="['PaDat','PaAcc']" attribute="PaAcc" class="c00FF00">pa būrīti</WORD>, skrien speciālā ritenītī Dažkārt naktī viņš ieķeras būrīša</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+	</SENTENCES>
+</CONTENT>

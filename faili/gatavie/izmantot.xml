@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTENT>
+	<CATEGORIES>
+		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Instruments</CATEGORY>
+		<CATEGORY id="cFF00FF">Pacienss</CATEGORY>
+		<CATEGORY id="cFF0000">Līdzeklis</CATEGORY>
+		<CATEGORY id="c00FFFF">Nolūks?</CATEGORY>
+		<CATEGORY id="cC00000">Eksperienss</CATEGORY>
+	</CATEGORIES>
+	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Izlietot - resursus, līdzekļus</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Lietot par instrumentu</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Izmantot cilvēku</SENTENCE_CATEGORY>
+	</SENTENCE_CATEGORIES>
+	<SENTENCES>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>priekšvēlēšanu kampaņas laikā <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">valdošās <strong>struktūras</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['S','Acc']" attribute="Acc" class="c00FF00">tā saucamo administratīvo <strong>resursu</strong></WORD>, konstatēti gadījumi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>bija jāveic. Uzdevumi principā bija stratēģijas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">veiksminieki</WORD>. Piemēram, viens no uzdevumiem bija katru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>līdzekļus dažādās atbalsta programmās. Ir, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tos</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD>, ir arī tādi, kas vēl nav izpratuši, kā jārīkojas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>viņš patiesībā ir no cietuma izbēdzis katordznieks, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">mūsu <strong>lētticību</strong></WORD>, lai tiktu pie jaunām drēbēm un vieglas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>mīlestība! Velc sarkanu apģērbu, <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">ēdiena <strong>gatavošanai</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">sarkanos <strong>produktus</strong></WORD> - tomātu, sarkano papriku -, dzer sarkano</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Svarīgi zināt, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">cilvēki</WORD> ar lieko svaru <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">uzņemtās <strong>kalorijas</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> lēnāk, salīdzinot ar tieviem. Tas nozīmē, ka neizmantotās</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>karstos rūpnīcu cehos, smacīgās telpās. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Šo <strong>krāsu</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> atsvaidzinošos dzērienos, cigaretēs vai zobu pastās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>debetkarti un kredītkarti ir tāda, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">debetkartes <strong>īpašnieks</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">savu <strong>naudu</strong></WORD>, kas iemaksāta kartei piesaistītajā kontā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>bruģakmeņiem, starp kuriem atstāj vietu zālienam. Visbiežāk <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> iebraucamajiem ceļiem un ne pārāk noslogotām autostāvvietām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>un izvietojuma kārtība, ja <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">elektroenerģijas <strong>ražošanai</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">reģeneratīvos <strong>energoresursus</strong></WORD> ". 6. Regulators līdz 2006.</TEXT>
+			<COMMENT>BS: Visus dažādos INSTR. es tomēr uztvēru kā instr. Kasīt tur ārā PACIENSUS šķiet diezgan bezcerīgi</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>alternatīvu risinājumu šajās ēkās lietot sistēmas, kurās <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">atjaunojamus <strong>energoresursus</strong></WORD>, piemēram, decentralizētas</TEXT>
+			<COMMENT>Dažās vietās vēl nolūkus pieliku</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kritērijiem. (2) No nodokļa ir atbrīvota elektroenerģija, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> : 1) <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">elektroenerģijas <strong>ražošanai</strong></WORD> ; 2) siltumenerģijas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Laputis</WORD> mitinās galvenokārt zem lapām, sūc šūnsulu, bet <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> galvenokārt tajā esošās <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">olbaltumvielas</WORD>. Cukuru tās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>injekcijas visā pasaulē ir sen pazīstamas. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Tās</WORD> plaši <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> bērniem <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">šķielēšanas <strong>koriģēšanai</strong></WORD> un neiroloģijā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Jau daudzus gadus <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">šo <strong>toksīnu</strong></WORD> īpašā atšķaidījumā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> arī <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">kosmētiskajā <strong>ķirurģijā</strong></WORD>. Botulīntoksīns atslābina</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>biezumiem. Var izmantot arī maltas auzu pārslas. <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Barošanai</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">sviestu, <strong>krēmu</strong></WORD> atkarībā no nagu tipa. Tomēr vislabāko</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kā betona pildvielas un ceļu būvmateriālus. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Dolomītu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> arī kā apdares materiālu (Kongresa nams Rīgā), no</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>veidā ģipsi izmanto kā saistvielu. Visplašāk ražo un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> parasto <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">būvģipsi</WORD>, kuru sauc arī par apmetuma ģipsi.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">Gruntsūdeņus</WORD> lauku teritorijās un arī daudzviet pilsētās <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">dzeršanai</WORD>, ēdienu gatavošanai un citur saimniecībā</TEXT>
+			<COMMENT>Paciensa un līdzekļa robežas ļoti neskaidras</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Tos iegūst un pilda pudelēs. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Iedzīvotāji</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">tos</WORD> plaši <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">ārstniecībā</WORD> un slāpju veldzēšanā. Baldones un Ķemeru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>santīmiem kilovatā. Līdztekus iegūto <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">siltumenerģiju</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">pašas ražotnes un arī fermas <strong>vajadzībām</strong></WORD>. Iepazināmies</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>paštaisīta mehāniska ierīce. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Aitas <strong>gaļu</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Rāviņi</WORD> lielākoties <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">savām <strong>vajadzībām</strong></WORD>, jo to grūti kaut kur nodot. Ādu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>finansējums, RPP <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vadītājs</WORD> atzina, ka patlaban <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">finansējumam</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">rezerves</WORD>, bet nākotnē būs nepieciešams cits risinājums</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>miljardus eiro — aptuveni 0,4% no bloka kopienākuma. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Šo <strong>naudu</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">visdažādākajiem <strong>projektiem</strong></WORD> — skolām, slimnīcām un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tarifiem. Ar oktobri mājsaimniecībām, kas <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">dabasgāzi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> tikai ēdiena gatavošanai, maksājums par gāzi pieaugs</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tas sašķidrina gļotas. Farmaceitiskajā rūpniecībā <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> sīrupu, ekstraktu un ārstniecisko tēju gatavošanai.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ir līdzīga, bet mazliet maigāka smarža, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">to</WORD> biežāk <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> ķīniešu ēdienu gatavošanā, pievieno pikantām mērcēm</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nosaukums : flunitrazepāms. Psihotrops medikaments, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">kuru</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> bezmiega ārstēšanai un kas viegli nokļūs melnajā tirgū</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>eļļas var arī labākajos Latvijas SPA salonos, kur <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> arī uz vietas – aromātisko eļļu masāžām. Kā zināms</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>darvu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas <strong>meistari</strong></WORD> Juris un Ingolfs Zīles astru vietā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">sintētisko <strong>šņori</strong></WORD>, kuru darba beigās krāsos kuģa krāsā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>putojošu efektu), parabēnus (sintētiskie konservanti, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> kopšanas līdzekļos, bērnu mitrajās salvetēs, bērnu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nodemonstrēt uz manekena – lelles. * <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Dekoratīvo <strong>kosmētiku</strong></WORD> var <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> arī kā spēles elementu, tādā veidā mazajai meitenei</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['V1','V2','V3','Inf','Nom']" attribute="Nom" class="cFFFF00">pieaugušais</WORD> ikdienā, rūpējoties par savu izskatu, vidēji <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">9 dažādus <strong>produktus</strong></WORD>, kuri kopā satur 126 dažādus ķīmiskus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Somijā, gan daudzās citās ES valstīs, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">ESCO</WORD> ar panākumiem <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">subsīdijas</WORD>. 2005. gadā 35 % no TRM investīciju subsīdijām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>aizliegums neattiecas uz tiem produktiem, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">kurus</WORD> skolas ēdnīcā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">ēdiena <strong>pagatavošanai</strong></WORD>, piemēram, salātiem ar majonēzi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>materiāls, kas neplaisā un nepūst. <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Tās <strong>izgatavošanai</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">koksnes <strong>atgriezumus</strong></WORD>, ko ar speciālām iekārtām sagriež</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>gadu. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">Lauka jeb cūku <strong>pupas</strong></WORD>, kas pazīstamas ļoti sen, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> kā dārzeņus un tāpat kā citas pupas – nogatavojušās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Šiliņa pastāstīja, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">cieti</WORD> gan tirgo, gan arī <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> savos fasētajos pusfabrikātos. Šobrīd Ungurpils ir vienīgā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>stimulē šūnu vielmaiņu un aizkavē novecošanos. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> arī traumu un operācijas seku likvidēšanai, ” stāsta</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>seksuālo orientāciju? - <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Hormonālos kontracepcijas <strong>līdzekļus</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> jau 40 gadus. To iedarbība uz sievietes un bērna organismu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>stāsta saimniece. <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Mēslojumam</WORD> “ Birzmaļos ” nedaudz <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> “ Kemiras ” <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">produkciju</WORD>, pavasarī papildbarību uzpūš</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>dolomīta slānis iznāk tuvu virspusē. Mūsdienās <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">dolomītu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> galvenokārt <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">šķembu <strong>ražošanā</strong></WORD>, kuras savukārt lieto</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>veidā ģipsi izmanto kā saistvielu. Visplašāk ražo un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> parasto <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">būvģipsi</WORD>, kuru sauc arī par apmetuma ģipsi.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vēsāki nekā gruntsūdeņi. <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Pilsētu un ciemu ūdens <strong>apgādei</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">pazemes <strong>ūdeņus</strong></WORD>, kas atrodas devona (smilšakmens, dolomīts</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ģimene</WORD> arī stāstīja, ka katru dienu tīrīja būrus un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">gaisa <strong>atsvaidzinātājus</strong></WORD>. Tikai trīs vislielākie truši</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>garnētas austeres un citi ēdieni. Valrieksti <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Romieši</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">tos</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> auglības rituālos, arī mūsdienās tie parasti tiek lietoti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>gatavoja ūdeni. Vārdotāja ņēma obligāti upes ūdeni, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> pret ļaunumu. To iesmēla ar tīru spaini, obligāti pret</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vienmēr ir bijuši pretrunīgi. Austrumos, piemēram, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> kā zāļu līdzekli pret cingu, tūsku, podagru un acu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>viena ozola vikingi izcirta vienu dēli. Tādējādi kuģim <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['ApDat','ApAcc','Gen']" attribute="Gen" class="cFF0000">ap 300 <strong>ozolu</strong></WORD>, kurus greba, kala un slīpēja, līdz ieguva</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>raksturīgu augu augšanu. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Dolomītu</WORD> jau senos laikos plaši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> būvniecībā. Tas izmantots trešajā ceturtajā gadsimtā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>veida dekoratīvos stiklus. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Reaton</WORD> durvju komplektācijai <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">augstvērtīgu <strong>furnitūru</strong></WORD> no Eiropas vadošo ražotāju piedāvājuma</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>mūsu cūcim būrīti, pītu namiņu, barotavu. Pakaišiem <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojam</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">speciālas <strong>granulas</strong></WORD>, barošanai nopirkām īpašu pārtiku</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>atslēgt daļu klientu, var prognozēt, ka <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00"><strong>daļa</strong> iedzīvotāju</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> apsildei <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">elektroenerģiju</WORD>, un tad problēmas radīsies elektroapgādē</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>﻿kabineta pilnvarota institūcija. (6) Ražotājs, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">šā panta pirmajā daļā noteiktās <strong>tiesības</strong></WORD>, tajā skaitā</TEXT>
+			<COMMENT>Gunta</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>sodīts par tīšu noziedzīgu nodarījumu izdarīšanu ; 2) <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">uzticamas un drošas informācijas <strong>sistēmas</strong></WORD> un produktus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>darbības apturēšanas un atjaunošanas datumu un laiku ; 8) <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">drošas <strong>sistēmas</strong></WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">kvalificētu sertifikātu <strong>glabāšanai</strong></WORD></TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>atjaunošanai, pārdošanai vaislai vai izbrāķē. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Iegūtos <strong>datus</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">ciltsdarba un pāru atlases <strong>plānošanai</strong></WORD>, selekcijas darba</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>gada pārskatu, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">posteņu <strong>novērtēšanā</strong></WORD> koncerna ietvaros <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">vienas un tās pašas grāmatvedības <strong>metodes</strong></WORD> un vienus un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>veikšanai, daudzdzīvokļu dzīvojamo māju daļas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">dzīvošanai</WORD>, un mākslinieku darbnīcas, kas netiek izmantotas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>stimuls pieaugušajiem. Kristāliskās vibrācijas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">bērni</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">dabiskos <strong>instinktus</strong></WORD>, viņiem ir labs kontakts ar savu ķermeni</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>durvju mērīšanu un nodrošina to montāžu. Klienti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">mūsu meistaru <strong>pakalpojumus</strong></WORD>, iegūst papildu priekšrocību</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>iekļauj mākslu, reliģiju, zinātni utt. Kulturoloģija <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">jēdzienu</WORD> " kultūra ", caur to atklājot cilvēka, cilvēces</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>elpošana un ķermenis kļūst elastīgāks (2) <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Stepa <strong>soliņu</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">dažādās intensīvās aerobikas <strong>nodarbībās</strong></WORD>, lai palielinātu</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Cilvēki</WORD> sociālo palīdzību vairāk meklē pašvaldībā un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">visas <strong>iespējas</strong></WORD>. Piemēram, Rudbāržos tas ir ļoti izteikti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Protams, mūsu augstskolā ir arī tādi lektori, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> plaši <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">praktiskās <strong>nodarbības</strong></WORD>. Tāpēc, uzskatu, ka ārzemju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Rupmejs atzina, ka nav pētīts, cik <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Gen" class="cFFFF00">pensionāru</WORD> dienā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">to vai citu pilsētas <strong>maršrutu</strong></WORD>, jo to izdarīt būtu sarežģīti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">meitenes</WORD>, kurām ir arī patika un griba daudz strādāt, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iespēju</WORD> trenēties Tukumā, » stāsta I. Smelova. «</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>filmu varoņiem. Vingrotāja spēkos arī tad, ja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">atsperkārtis</WORD>, ir uzmest četrkārtīgo salto. Nevienam</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>prēmijas, ja produkcija izdevusies bez brāķiem. Laučos <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">Urālos (Krievija) ražotas <strong>iekārtas</strong></WORD>. A. Jansons skaidro</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">preču vai pakalpojumu loterijas organizēšanas valsts <strong>nodevas</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Latvijas Nacionālās bibliotēkas projekta <strong>īstenošanai</strong></WORD></TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>kas patlaban pieder vienai no uzņēmuma amatpersonām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pakalpojumus</WORD>. Grupējums FP redzeslokā nonācis, no septembra</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>tirdzniecības aģentiem ir ļoti populāra - viņu <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pakalpojumus</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">divas <strong>trešdaļas</strong> ražotāju</WORD>, un šī sistēma darbojas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>jo tām nav alternatīvu gāzes ceļu, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> pašlaik jau <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Polija</WORD>, Turcija un citas valstis. Abu valstu sarunas par</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>vēstulē. « Viņš arī turpinās tradīciju, kurā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">prezidenti</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">atvadu <strong>runas</strong></WORD>, <WORD json="['S']" attribute="S" class="c00FFFF">lai paraudzītos uz priekšu</WORD>, daloties savās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>tiek iegādāta biroju un IT tehnika, 9% gadījumu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">cilvēki</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iespēju</WORD> veikt preses izdevumu abonēšanu, 8% - grāmatas</TEXT>
+			<COMMENT>varbūt šitādi ir Paciensi???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>slepenu noklausīšanos un citus tamlīdzīgus līdzekļus, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">organizētās noziedzības <strong>apkarošanai</strong></WORD>. Cietušie saņems</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Rietumvalstis iepriekš kritizēja Uzbekistānu, ka <WORD json="['Adv','Nom']" attribute="Nom" class="cFFFF00">tā</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sacelšanos</WORD> Andižānā kā attaisnojumu, lai pastiprinātu</TEXT>
+			<COMMENT>attaisnojums - nolūks vai veids?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ražotāji, kas piedāvā līdzīgu aizsardzību, taču <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">IronKey</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">proaktīvus tehnoloģiskos <strong>risinājumus</strong></WORD> un pašlaik ir atzītas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apjoms 500 MB mēnesī ir paredzēts cilvēkiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">internetu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> nelielos apjomos vēstuļu un ziņu <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">lasīšanai</WORD>, informācijas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>viņi kļūdās Geitss lēš, ka pašlaik <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">peli un tastatūru</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> apmēram <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">95 <strong>procenti</strong> cilvēku</WORD>, kuri lieto datorus. Viņš</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Aplūkosim spēles un grafiskās izstrādes lietotnes, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">papildu <strong>ievadierīces</strong></WORD>, piemēram, spēļu vadāmierīci</TEXT>
+			<COMMENT>??</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>uzņēmuma Microsoft publicētajai informācijai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">lietotāji</WORD> bieži <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">programmu</WORD> Windows Media ® Center, <WORD json="['S']" attribute="S" class="c00FFFF">lai pārvaldītu un rīkotos</WORD></TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pasaulē pazīstamas kompānijas Latvijas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vadītāji</WORD>, tomēr <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">citu <strong>shēmu</strong></WORD>. Pārstāvniecības vadītājs ir arī sadarbības</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>maksā gan tie pircēji, kas maisiņus lieto, gan tie, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD>, piemēram, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">auduma <strong>maisiņus</strong></WORD>. Otrkārt, viņš paziņoja</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>vieglāk ietekmējami, ja vēršas pie viņu emocijām, nevis <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">racionālus <strong>argumentus</strong></WORD>, taču, lai šāda stratēģija</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>beidzot ar to, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">kādus <strong>pakalpojumus</strong></WORD> un kādā apmērā klients <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD>, līdz ar, veicot statistikas datu analīzi, iespējams</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>piemīt ļoti spēcīgas radošuma spējas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">kuras</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> plaši <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> pasaules izzināšanai un apgūšanai. Būtībā visi bērni</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>katram pirmklasniekam, un jau no bērna kājas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi</WORD> aktīvi <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">datoru un interneta piedāvātās <strong>iespējas</strong></WORD>. Taču, kā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>banku elektronisko norēķinu sistēmas jeb i - bankas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">liels <strong>skaits</strong> klientu</WORD>, ieekonomējot savu un bankas laiku</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>kustības virzienam. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Trenēti un pieredzējuši <strong>skrējēji</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">zemes gravitācijas <strong>spēku</strong></WORD>. Lieciet savu ķermeni uz priekšu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>matus. Turklāt nost ar mītiem - <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>procedūru</strong></WORD> labprāt <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vīrieši</WORD>! Cik tas maksā? Pirmreizējā permanentā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ārstu kvalifikācijas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">MFD digitālās radioloģijas <strong>nodaļa</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">vismodernākās <strong>tehnoloģijas</strong></WORD> sieviešu veselības jomā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Protams, ir arī izņēmumi, tomēr parasti cilvēki, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">talismanus</WORD>, meklē aizsardzību kaut kur ārpusē, viņi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>viss mani neinteresē, tāpēc, lūdzu, vairs nezvani. » <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tālruni</WORD> ar numuru noteicēju un uz šī cilvēka zvaniem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>arī izkāp dažas pieturas ātrāk. Aizmirsti par liftu un <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kāpnes</WORD>! Tauku zona : vēders Organismam nepieciešamais</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vīrieši</WORD> zina, ka ārzemnieces tā par viņiem domā, un <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD>, lai viņas savaldzinātu. Bet viens ir skaidrs – frančiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>eksplodēt pavisam nepiemērotā situācijā. Parasti <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>taktiku</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">cilvēki</WORD>, kuriem attiecībās ir mazāka vara un lielāka</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>garlaicīgiem... Sekss ir viens no līdzekļiem, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmanto</WORD>, lai manipulētu ar vīrieti vai viņu mainītu. ” Lasīju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>paliks pilnīgi neapzināta. Protams, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">daži</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>apstākli</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> savā labā... Labākā stratēģija – pieņemt lēmumus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>kas sevi pazīst un ar prātu vada cauri dzīvei, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">terapeiti</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">vismodernākos tehnikas <strong>sasniegumus</strong></WORD>. Viņi pacientiem dažādās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>rakstzīmju grupējums vai stilizēts grafisks attēls, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> displeja ekrānā, emociju izpausmei elektroniskās saziņas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>arī neveiksmēs saskata pozitīvo un iespējas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">salīdzinājumu</WORD> „ varētu būt daudz sliktāk ”. Savukārt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>mirkli pārtrūkst. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Potenciālie <strong>kompanjoni</strong></WORD> acumirklīgi <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>laiku</strong></WORD>, lai vienotos par stratēģiju. Nereti manipulatori</TEXT>
+			<COMMENT>laiks????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>– viņi manipulē. Un atkal – <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">manipulācijas <strong>tehnikas</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> tikai <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">nenobriedušas <strong>personības</strong></WORD>. Arī bērns ir nenobriedusi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apvienot ar vingrošanu : griez ap vidukli apli! - Mazāk <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">transportu</WORD> : uz tuvējo veikalu nebrauc, bet ej kājām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>tiek attīstīta. ASV <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aizsardzības <strong>departaments</strong></WORD> joprojām <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> jau iepriekšminēto <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">NAVSTAR</WORD>, kas ir pasaule visplašāk</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>standarts nav svešs arī Latvijā, jo <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> sava tīkla izbūvei <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Triatel</WORD>. Diks Linčs kā vienu no galvenajiem konferences</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>uzņēmumu, citi — ka tādā vai citādā veidā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pakalpojumus</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">gandrīz visas <strong>kompānijas</strong></WORD>, kurās strādā vairāk nekā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>izaugsmē un motivācijā, un <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo budžeta <strong>priekšrocību</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> ne tuvu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi <strong>uzņēmumi</strong></WORD>. Dažādas pieredzes Ir uzskats</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>stāsta, ka, izvēloties Baha ziedus bērniem, veiksmīgi <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">intuitīvo izvēles <strong>metodi</strong></WORD>, jo pastāv uzskats, ka bērniem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Taču vienu gan ievēro – uzmanies no krāpniekfirmām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD>, ka cilvēks ir izmisis, jūtas nonācis bezizejā!</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>citi saimnieciski labumi (vērtības), <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">kurus</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">komersants</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">komercdarbības <strong>veikšanai</strong></WORD>. Komerclikuma spēkā stāšanās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apzinājušies savas Satversmē noteiktās tiesības un aktīvi <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD>. Šīs jomas sakārtošanā būtisks devums ir bijis arī</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>valstīs ar darbaspēka trūkumu jau saskārušies. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvieši</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> un dodas peļņā. Cerams, ka pēc 20 gadiem šāda situācija</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>un akmeņu krāvumi — Ļoti bieži <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">dārzu <strong>izdaiļošanai</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">dažādas Latvijai neraksturīgas <strong>puķes</strong></WORD>. Vai tas nepieciešams</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ir ievērojami pieaudzis. Taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">iedzīvotāji</WORD>, lai arī <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">internetbanku</WORD>, dara to ne visai aktīvi - rēķinus elektroniski</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pārdot pirotehniku parastiem patērētājiem. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Pirotehniku</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> arī precēs, kas nav saistītas ar uguņošanu, - auto</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Zivsaimniecības pētniecības institūtu, kura <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">speciālisti</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">viņu <strong>datus</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> zivju resursu aizsardzības un racionālas izmantošanas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>kā amerikāņu zaldātiem Bagdādes muzejos. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Nesekmīgie</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">otro <strong>iespēju</strong></WORD> Ilze Grīnuma Nesekmību varētu mazināt pedagoģiskās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Vislabākās algas Spānijā un Grieķijā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Līdzīgu <strong>praksi</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Vidzemes <strong>augstskola</strong></WORD> (ViA). Aptuveni 20 ViA Tūrisma</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>vienviet ir retums daudzo autoru darbos. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Autori</WORD> savos darbos <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">vienu <strong>jēdzienu</strong></WORD> « pamat prasme », jo jēdziens « atšķirīgā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>konkurētspējīgās priekšrocības aizstājējs. 2. Vai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">uzņēmums</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">stratēģiskās vadīšanas <strong>principus</strong></WORD> uzņēmuma vadīšanā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>prerogatīva - pastāv Lielbritānijā un Īrijā, kur <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> plaši <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> ne tikai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">finanšu pārskatu <strong>sastādītāji</strong></WORD>, bet arī nacionālās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">citu mācību priekšmetu <strong>skolotāji</strong></WORD> apguvuši un aktīvi <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">IKT</WORD>, kā arī atbalsta skolēnu iniciatīvas IKT izmantošanā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>vērā faktu, ka absolūtais vairākums no personām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">bērna kopšanas <strong>atvaļinājumu</strong></WORD> ir sievietes. Tas balstīts</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>fiziski smagu darbu veikšanai, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">sievietes</WORD> savukārt aktīvāk <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">izglītības iegūšanas <strong>iespējas</strong></WORD>, kas ļauj tām gūt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Bet Tev ir pirmās nakts tiesības, Pēter! Vai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Tu</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD>? Vai apzinies savu nožēlojamo pirmreizības nemirstību</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>tieksme pārspīlēt šo atšķirību. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viena <strong>meitene</strong></WORD> ļoti labi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo kontrasta <strong>principu</strong></WORD> savā vēstulē vecākiem : „ Dārgie</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>procesā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Vācija</WORD> abos pasaules karos ziņojumu slēpšanai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">mikropunktus</WORD> – fotofilmas negatīvus, kas nav lielāki</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>turpmākajiem plāniem : “ Esmu gandarīts, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pilsētnieki</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iespēju</WORD> izteikties. Savācām vairāk nekā 100 apavu.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ziemeļi PKK kaujiniekiem sen bija drošs patvērums, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> par bāzi uzbrukumiem pāri Turcijas robežai. Spēcīgu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Olimpiādes zelta medaļas ieguvējs Tims Meks no ASV. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Sportisti</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iekšzemes <strong>reisu</strong></WORD>, lai dotos uz Melburnu, kur ceturtdien</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>būtiskākā ir tiesības uzlikt veto likumiem. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Tās</WORD> šonedēļ <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašreizējais valsts <strong>prezidents</strong></WORD> un aptaujās trešo ceturto</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>organizēja vairākas personas un grupējuma <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pakalpojumus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">aptuveni 30 Latvijā reģistrēti <strong>uzņēmumi</strong></WORD>, kas veido</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>gadam, kad tika dibināta Ķīnas Republika, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ķīnieši</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['S','Acc']" attribute="Acc" class="c00FF00">tā saukto zemnieku <strong>kalendāru</strong></WORD>, kas ir atkarīgs gan no</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>mūsu uzņēmumiem, Latvijā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>pakalpojumu</strong></WORD> lielākoties <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> tikai <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tās <strong>kompānijas</strong></WORD>, kuru dibinātāji vai īpašnieki</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>bet arī draudi. Galvā uzmauktā kapuce, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">britu <strong>armija</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> vēl pirms dažiem gadiem, rada absolūtu dezorientāciju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>“ Tās ir specifiskākas nopratināšanas tehnikas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> Abū Graibas cietumā Irākā, ” stāsta Maknīsa. “</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>nozīmes, bija nesavienojamas. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Firmas - izstrādātājas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">savus slēgtos komunikāciju <strong>protokolus</strong></WORD> un neparedzēja interfeisus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pētījuma datiem, 2007. gadā inkaso uzņēmumu <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pakalpojumus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Gen" class="cFFFF00">69% aptaujāto <strong>uzņēmumu</strong></WORD>. Tas ir par 5% punktiem augstāks</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>sākumskolas 4. klases <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00"><strong>skolniece</strong> Eva Kokareviča</WORD> pirmo reizi <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">datoru</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> pirms gada. Eva pirmās apguva datorspēles, kas pieejamas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>bija tikai divi pāri nažu un dakšiņu. Par glāzītēm <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">plastmasas olu <strong>trauciņus</strong></WORD>... “ Man jābūt kārtīgai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ventspils <strong>futbolisti</strong></WORD> novērsa mājinieku draudus un prettriecienā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">savu <strong>izdevību</strong></WORD> – burzmā acīgākais izrādījās Butriks</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>portācijas ziņā, piemēram, martā vien 40% no cilvēkiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iespēju</WORD> nomainīt operatoru, saglabājot esošo numuru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>trīs dienas Anselms tupēja izbrīna stuporā. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Federika</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">gadījumu</WORD> un pēc četriem gadiem fiziski atkal sajutās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pravietis, gaišmatainais puisis, paguva aizmukt. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">elsājošo un mutuļojošo <strong>burzmu</strong></WORD> un pazuda kā adata siena</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>grūtībām. Jo tās ir tās pašas stratēģijas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> meklējam un <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojam</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD>, pieaugušie, lai tiktu galā ar savu ikdienu un dzīvi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>kārotais puisis vairs neliekas tik iekārojams. Arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantoju</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo maģisko 3x9 <strong>kombināciju</strong></WORD>. Iedodu meitenei zāļu tēju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>jāpanāk, lai viņa pavēle tiek pildīta. " Šodien <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantoju</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">savas <strong>pilnvaras</strong></WORD>, lai izvairītos no plašas krīzes un nodrošinātu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Saulītes zīmējumā ģeometrijas formulas Skolas laikā <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojām</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">visdažādākās špikošanas <strong>metodes</strong></WORD>. Prastākais veids</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>kad radās iespēja kaut ko darīt lietas labā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojām</WORD>. ” Tika izvesti atkritumi, aizvāktas riepas, ar speciālu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>trasē notiek vērienīgi pārbūves darbi, jo pirms tam <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">bāzi</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojām</WORD> treniņu vajadzībām. Darbu gaitā uzstādīsim arī starta</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>viņai. Tad nu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> par kapeikām pirkām pašas savas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojām</WORD>, gan spēlējot melno Pēteri un “ durakus ” (tas tētmammai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>posmā, kad viss vēl ritēja normāli, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> ļoti efektīvi <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojām</WORD> : Zane bija atvilktais centrs, Aija vairāk spieda uz groza</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>iepriekšējās – 8. Saeimas laikā, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>iespēju</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantojām</WORD> pilnā mērā, jo vienmēr esam uzskatījuši, ka primārais</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>īpašu dekoratīvu svētku apgaismojumu pilsētas centrā, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> līdz gadu mijai. Dekoratīvais apgaismojums ir gan Lielā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>projekti Latvijā top arī citās pašvaldībās, kur <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tos</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD>, lai pašvaldības privātos partnerus iesaistītu sociālo</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>bērniem labāk izvēlēsies doties pastaigā uz mežu, nevis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">lauku tūrisma <strong>mītni</strong></WORD>. Vārtu guvēja instinkts Ivo Jirgens</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>nedrīkstat privātpersonai zemi pārdot, jo varbūt <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">valsts</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">savas pirmpirkuma <strong>tiesības</strong></WORD>. Valstij ir tiesības pirmajai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apstiprināšanas parlamentā 15. februārī paziņoja, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">savas veto <strong>tiesības</strong></WORD> un to neizsludinās. Ilvess toreiz</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>vēlas kļūt garāku matu īpašniece. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Ingas <strong>piemēru</strong></WORD> tagad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> arī citas <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">aizkrauklietes</WORD>, pie meistares jau pieteikušās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>sagaidāms, ka dažādu politisko <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">strāvojumu <strong>pārstāvji</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">uzbrukumus</WORD> Mumbajai, lai vairotu savu popularitāti un noniecinātu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Vācijas Dabas aizsardzības <strong>federācija</strong></WORD> jau sacījusi, ka <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">visas juridiskās <strong>iespējas</strong></WORD>, lai panāktu celtniecības</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>noderīga, bet reizē arī bīstama iespēja, ja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ļaunprāši</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> savā labā, tāpēc aktivizējot attālinātu pieslēgšanos</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>labi ir arī klasiskie datori. Visdrīzāk <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">kvantu <strong>datorus</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> kā klasisko datoru sastāvdaļas, kas veiks kādus noteiktus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Pikniks, tā sakot. Kā pie smalkiem ļaudīm. Un tad <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">spoli</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmantos</WORD> kā galdu. Spoles apakšdaļa jau tad bija ieputināta smiltīs</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>arvien vairāk parādās tukši skatlogi un telpas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tās</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantosim</WORD> kā jaunu, netradicionālu aktivitāšu platformu māksliniekiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Komisijas preses pārstāvis Johaness Laitenbergers. " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmantosim</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>laikposmu</strong></WORD>, lai izvērtētu, vai šīs valstis ir uzticamas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>gadu aktīvāk iesaistās pašvaldības, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">bezdarbniekus</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">apkārtnes <strong>sakārtošanā</strong></WORD>. Veiksmīgi tas izdodas Glūdas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>Joprojām populāra <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Tukumnieki</WORD> vēl arvien bieži ekspluatē un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmanto</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cC00000">mākslinieci</WORD>. „ Rainim ir bijis ļoti labi : kā gads</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+	</SENTENCES>
+</CONTENT>

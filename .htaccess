@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Ievadi paroli, biedri, kolegi"
+AuthUserFile /var/www/verbi/.htpasswd
+Require valid-user
+
