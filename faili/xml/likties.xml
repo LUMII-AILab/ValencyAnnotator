@@ -886,7 +886,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, taču Ieva ticēja, ka pratīs atšķirt īsto. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Dzīve</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD> <WORD json="['S']" attribute="S" class="cFF00FF">kā rožu dārzs</WORD>, līdz tēvam sākās problēmas ar sirdi</TEXT>
+			<TEXT>, taču Ieva ticēja, ka pratīs atšķirt īsto. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Dzīve</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD> <WORD json="['S','KāNom']" attribute="KāNom" class="cFF00FF">kā rožu dārzs</WORD>, līdz tēvam sākās problēmas ar sirdi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -1130,7 +1130,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>viņi sasniedza pamežu un ievēroja sarga būdu. Taču <WORD json="['Adv','Nom']" attribute="Nom" class="c00FF00">tā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD> itin <WORD json="['S']" attribute="S" class="cFF00FF">kā bez dzīvības</WORD>. Nesēji devās pamežā. Te atklājās</TEXT>
+			<TEXT>viņi sasniedza pamežu un ievēroja sarga būdu. Taču <WORD json="['Adv','Nom']" attribute="Nom" class="c00FF00">tā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD> itin <WORD json="['S','KāNom']" attribute="KāNom" class="cFF00FF">kā bez dzīvības</WORD>. Nesēji devās pamežā. Te atklājās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -1342,7 +1342,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>āboli steigā no apgāzta groza, jo tuvojās negaiss, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD> virs kārniņu jumtiem <WORD json="['S']" attribute="S" class="cFF00FF">kā milzīgi dūmi</WORD>, kur izšaujas</TEXT>
+			<TEXT>āboli steigā no apgāzta groza, jo tuvojās negaiss, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD> virs kārniņu jumtiem <WORD json="['S','KāNom']" attribute="KāNom" class="cFF00FF">kā milzīgi dūmi</WORD>, kur izšaujas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -1522,7 +1522,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tai drūzmā, kāda te dažbrīd valdīja. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Sievietes</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD> <WORD json="['S']" attribute="S" class="cFF00FF">kā vellamātes</WORD>, grūda mani, lokoties ar saviem slapjajiem</TEXT>
+			<TEXT>tai drūzmā, kāda te dažbrīd valdīja. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Sievietes</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD> <WORD json="['S','KāNom']" attribute="KāNom" class="cFF00FF">kā vellamātes</WORD>, grūda mani, lokoties ar saviem slapjajiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -1538,7 +1538,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Iļjam teicu, neskaries te nekam klāt, neskaries! <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">Man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD>, ka pat gaiss ir pilns ar nelabām slimībām. Bet nebij</TEXT>
+			<TEXT>Iļjam teicu, neskaries te nekam klāt, neskaries! <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">Man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">likās</WORD>, <WORD class="cFF0000">ka pat gaiss ir pilns ar nelabām slimībām</WORD>. Bet nebij</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
