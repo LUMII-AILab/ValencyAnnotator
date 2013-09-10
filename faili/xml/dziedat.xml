@@ -2,6 +2,9 @@
 <CONTENT>
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Pacienss</CATEGORY>
+		<CATEGORY id="cFF00FF">Veids</CATEGORY>
+		<CATEGORY id="cFF0000"></CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -11,7 +14,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ārkārtīgi oriģinālās kinooperas varoņi rečitatīvā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> pat visprozaiskākās replikas. Denēva ideāli iekļaujas</TEXT>
+			<TEXT>ārkārtīgi <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">oriģinālās kinooperas <strong>varoņi</strong></WORD> rečitatīvā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> pat visprozaiskākās replikas. Denēva ideāli iekļaujas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
