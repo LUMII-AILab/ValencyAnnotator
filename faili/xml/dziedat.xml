@@ -130,11 +130,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ir visai savdabīgas - pirahu valodā vārdus arī dungo, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> un svilpo. Nav vārdu, kas apzīmētu par māsu vai brāli</TEXT>
+			<TEXT>ir visai savdabīgas - pirahu valodā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">vārdus</WORD> arī dungo, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> un svilpo. Nav vārdu, kas apzīmētu par māsu vai brāli</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>memmesdēliņu. Kalnā un dziļumā Inese Lūsiņa <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Inga Kalna</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> LNSO koncertā Lielajā ģildē 30. III Šoreiz nevis Operā</TEXT>
+			<TEXT>memmesdēliņu. Kalnā un dziļumā Inese Lūsiņa <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Inga Kalna</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">LNSO <strong>koncertā</strong></WORD> Lielajā ģildē 30. III Šoreiz nevis Operā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
