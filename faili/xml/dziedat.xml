@@ -9,12 +9,13 @@
 		<CATEGORY id="cC00000">Ilgums?</CATEGORY>
 		<CATEGORY id="c00C000">Kolektīvs!</CATEGORY>
 		<CATEGORY id="cC0C000">Notikums!</CATEGORY>
+		<CATEGORY id="c0000FF">Koagenss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ārkārtīgi <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">oriģinālās kinooperas <strong>varoņi</strong></WORD> rečitatīvā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">pat visprozaiskākās <strong>replikas</strong></WORD>. Denēva ideāli iekļaujas</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">ārkārtīgi oriģinālās kinooperas <strong>varoņi</strong></WORD> rečitatīvā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">pat visprozaiskākās <strong>replikas</strong></WORD>. Denēva ideāli iekļaujas</TEXT>
 			<COMMENT>Baiba (sākts)</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -558,7 +559,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vienlaikus dejojot. Pēc tam <WORD json="['Dat','Nom','Gen','Acc','Loc','Kopāar']" attribute="Kopāar" class="cFF00FF">kopā ar kolēģiem džeza mūziķiem</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">bijusī alsundzniece Jolanta Gulbe</WORD>: „ Mazliet dīvaini</TEXT>
+			<TEXT>vienlaikus dejojot. Pēc tam <WORD json="['Dat','Nom','Gen','Acc','Loc','ArAcc']" attribute="ArAcc" class="c0000FF">kopā ar kolēģiem džeza mūziķiem</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">bijusī alsundzniece Jolanta Gulbe</WORD>: „ Mazliet dīvaini</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -586,7 +587,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Kalēju piedalījās konkursā « Dziedi ar... ». <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Meitenes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Kopāar']" attribute="Kopāar" class="cFF00FF">kopā ar skolotājām</WORD>. Pasākuma ierakstu rādīja TV raidījumā</TEXT>
+			<TEXT>Kalēju piedalījās konkursā « Dziedi ar... ». <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Meitenes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','ArDat']" attribute="ArDat" class="c0000FF">kopā ar skolotājām</WORD>. Pasākuma ierakstu rādīja TV raidījumā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -670,7 +671,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>daļa no Latvijas, jo vadīja atklāšanas ceremoniju un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Kopāār','Kopāar']" attribute="Kopāar" class="cFF00FF">kopā ar populārās grupas Cosmos puišiem</WORD>. Dziedātāja</TEXT>
+			<TEXT>daļa no Latvijas, jo vadīja atklāšanas ceremoniju un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','ArDat']" attribute="ArDat" class="c0000FF">kopā ar populārās grupas Cosmos puišiem</WORD>. Dziedātāja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
