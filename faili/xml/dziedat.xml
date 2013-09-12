@@ -630,7 +630,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kāpnēm uz leju, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">katrs</WORD> <WORD json="['S']" attribute="S" class="c00FF00">kaut <strong>ko</strong></WORD> savā valodā aiz laimes <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD>. Viņi bija pabijuši tur, augšā... Tādos brīžos</TEXT>
+			<TEXT>kāpnēm uz leju, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">katrs</WORD> <WORD json="['S','Acc']" attribute="Acc" class="c00FF00">kaut <strong>ko</strong></WORD> savā valodā aiz laimes <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD>. Viņi bija pabijuši tur, augšā... Tādos brīžos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -638,7 +638,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>saprastu – šī ir īstā Ella, nevis tā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> vakar <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> kādā korporatīvā ballītē! – Domāju, ka lēnām</TEXT>
+			<TEXT>saprastu – šī ir īstā Ella, nevis tā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> vakar <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">kādā korporatīvā <strong>ballītē</strong></WORD>! – Domāju, ka lēnām</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -650,11 +650,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tikai skultietes Ingas Lietiņas eksotiskajiem gaiļiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> bez mitas, tā piesaistot uzmanību arī dažādu šķirņu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>apņēmīgi un itin sparīgi kopā ar skolotāju Gundegu Vasiļjevu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD>, cik priecīgi viņi iet uz skolu. Vienu no šīs vasaras</TEXT>
+			<TEXT>tikai skultietes Ingas Lietiņas eksotiskajiem gaiļiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['BezDat','BezGen']" attribute="BezGen" class="cFF00FF">bez <strong>mitas</strong></WORD>, tā piesaistot uzmanību arī dažādu šķirņu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -662,11 +658,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pelnīta, jo <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">meitenes</WORD> patiešām pamatīgi strādājušas un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> ar sirdi un dvēseli. ” Meitenes nolēma, ka arī turpmāk</TEXT>
+			<TEXT>pelnīta, jo <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">meitenes</WORD> patiešām pamatīgi strādājušas un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cFF00FF">ar sirdi un dvēseli</WORD>. ” Meitenes nolēma, ka arī turpmāk</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>netika, tad šogad koncertā varēja piedalīties un arī labi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi</WORD>, kuri pieteicās. Muzikantiem un pašiem dziedātājiem</TEXT>
+			<TEXT>netika, tad šogad koncertā varēja piedalīties un arī <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF00FF">labi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi</WORD>, kuri pieteicās. Muzikantiem un pašiem dziedātājiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -674,7 +670,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>daļa no Latvijas, jo vadīja atklāšanas ceremoniju un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> kopā ar populārās grupas Cosmos puišiem. Dziedātāja</TEXT>
+			<TEXT>daļa no Latvijas, jo vadīja atklāšanas ceremoniju un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Kopāār']" attribute="Kopāār" class="cFF00FF">kopā ar populārās grupas Cosmos puišiem</WORD>. Dziedātāja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
