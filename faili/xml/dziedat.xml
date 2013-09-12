@@ -110,19 +110,19 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>līdzīgas atšķirības starp notīm. Paši uzskata, ka <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> pareizi, taču mūzikas industriju viņi droši var izsvītrot</TEXT>
+			<TEXT>līdzīgas atšķirības starp notīm. Paši uzskata, ka <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF00FF">pareizi</WORD>, taču mūzikas industriju viņi droši var izsvītrot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pats piemērs. Ir ierakstīts „ Zemeņu lauks ”, kuru <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Marija Naumova, Gunārs Kalniņš un vēl divi</WORD>. Bet dziesma</TEXT>
+			<TEXT>pats piemērs. Ir ierakstīts „ Zemeņu lauks ”, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Marija Naumova, Gunārs Kalniņš un vēl divi</WORD>. Bet dziesma</TEXT>
+			<COMMENT>ja ir saturs, tad temats netiek marķēts</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>teikusi, ka ir pieradusi pie tā, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Busulis</WORD> mājās <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF00FF">skaļi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD>, ejot vannā vai dušā. Kādā citā intervijā viņš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>teikusi, ka ir pieradusi pie tā, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Busulis</WORD> mājās skaļi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD>, ejot vannā vai dušā. Kādā citā intervijā viņš</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>personiskā dzīve skatuves tēlam? Dziesmām, ko <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> par mīlestību un romantiku? « Tās emocijas, kas ir</TEXT>
+			<TEXT>personiskā dzīve skatuves tēlam? Dziesmām, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> par mīlestību un romantiku? « Tās emocijas, kas ir</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
