@@ -22,7 +22,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dzīve turpinās. Dodos atpakaļ uz vietu, dziesma, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00"><strong>viens</strong> no viņiem</WORD>, starp smiekliem un asarām noslāpē trauksmi</TEXT>
+			<TEXT>dzīve turpinās. Dodos atpakaļ uz vietu, dziesma, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Nom" class="cFFFF00"><strong>viens</strong> no viņiem</WORD>, starp smiekliem un asarām noslāpē trauksmi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -134,7 +134,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>memmesdēliņu. Kalnā un dziļumā Inese Lūsiņa <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Inga Kalna</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">LNSO <strong>koncertā</strong></WORD> Lielajā ģildē 30. III Šoreiz nevis Operā</TEXT>
+			<TEXT>memmesdēliņu. Kalnā un dziļumā Inese Lūsiņa <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Inga Kalna</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">LNSO <strong>koncertā</strong></WORD> Lielajā ģildē 30. III Šoreiz nevis Operā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -262,7 +262,7 @@
 			<COMMENT>laikam veids, ne?</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ozola durvis pagraba vienīgai izejai priekšā. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFFFF00">PASAŽIERI</WORD> (<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD>). Kad man prāts kļūst ciets un īdzīgs, Sasirgstot</TEXT>
+			<TEXT>ozola durvis pagraba vienīgai izejai priekšā. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">PASAŽIERI</WORD> (<WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD>). Kad man prāts kļūst ciets un īdzīgs, Sasirgstot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -586,7 +586,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Kalēju piedalījās konkursā « Dziedi ar... ». <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Meitenes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Kopāar']" attribute="Kopāar" class="cFF00FF">kopā ar skolotājām</WORD>. Pasākuma ierakstu rādīja TV raidījumā</TEXT>
+			<TEXT>Kalēju piedalījās konkursā « Dziedi ar... ». <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Meitenes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Kopāar']" attribute="Kopāar" class="cFF00FF">kopā ar skolotājām</WORD>. Pasākuma ierakstu rādīja TV raidījumā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -746,7 +746,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>cigārus un saldumu miroņgalvu. Krietni iereibušas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFFFF00">viņas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD>, dejoja un saldināja dzīvi. " Rozes, rooozes tikai īsu</TEXT>
+			<TEXT>cigārus un saldumu miroņgalvu. Krietni iereibušas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">viņas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedāja</WORD>, dejoja un saldināja dzīvi. " Rozes, rooozes tikai īsu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -874,23 +874,23 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>piemeklēja, satiekot šo notikumu pārējos varoņus; <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> skaļi <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedāju</WORD> līdzi radio, kas skanēja; veltīju klusas un riebīgas</TEXT>
+			<TEXT>piemeklēja, satiekot šo notikumu pārējos varoņus; <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> skaļi <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedāju</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','LīdziDat']" attribute="LīdziDat" class="cFF00FF">līdzi radio</WORD>, kas skanēja; veltīju klusas un riebīgas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>– Rūgtās dziesmās es izkliedzu sirdi. ČAKS. Un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedāju</WORD> dziesmu par to meiteni naivo, Kaļķu bālo un tievo kā</TEXT>
+			<TEXT>– Rūgtās dziesmās es izkliedzu sirdi. ČAKS. Un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedāju</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00"><strong>dziesmu</strong></WORD> par to meiteni naivo, Kaļķu bālo un tievo kā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>laivu Savu maigo un bērnišķo klēpi. KLAIDONIS. Un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedāju</WORD> dziesmu par to meiteni sīko, Kura tagad kā jaunava melnā</TEXT>
+			<TEXT>laivu Savu maigo un bērnišķo klēpi. KLAIDONIS. Un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedāju</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">dziesmu</WORD> par to meiteni sīko, Kura tagad kā jaunava melnā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kaimiņš viņpus ielai brīžam sirsnīgi dziedāja, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> reizēm <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedāju</WORD> viņam līdzi. Nekā jau vairāk nevajadzēja, nekādi</TEXT>
+			<TEXT>kaimiņš viņpus ielai brīžam sirsnīgi dziedāja, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> reizēm <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedāju</WORD> <WORD json="['Adv','Datlīdzi']" attribute="Datlīdzi" class="cFF00FF">viņam līdzi</WORD>. Nekā jau vairāk nevajadzēja, nekādi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>jo zinājuši, ka tie paies jautri un priecīgi. " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedājām</WORD> dziesmu par kumeliņu, kas pazuda miglā. Dziesmu nebija</TEXT>
+			<TEXT>jo zinājuši, ka tie paies jautri un priecīgi. " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedājām</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">dziesmu</WORD> par kumeliņu, kas pazuda miglā. Dziesmu nebija</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -898,7 +898,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>" Tas nebija kā koncerts, bet saviesīgs vakars, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">kurā</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedājām</WORD>, dejojām un parunājāmies. Bija ļoti omulīgi, " atmiņās</TEXT>
+			<TEXT>" Tas nebija kā koncerts, bet saviesīgs vakars, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">kurā</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dziedājām</WORD>, dejojām un parunājāmies. Bija ļoti omulīgi, " atmiņās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -946,7 +946,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vienkārši rezumē Ingus. Rīt Rendas baznīcā <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="cFFFF00">iesvētāmie</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">vairākas nometnē apgūtās <strong>dziesmas</strong></WORD> un rādīs etīdi,</TEXT>
+			<TEXT>vienkārši rezumē Ingus. Rīt Rendas baznīcā <WORD json="['V1','V2','V3','Inf','Nom']" attribute="Nom" class="cFFFF00">iesvētāmie</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">vairākas nometnē apgūtās <strong>dziesmas</strong></WORD> un rādīs etīdi,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -986,7 +986,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Raimonda Paula dziesmām. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFFFF00">Drosmīgākie <strong>pasažieri</strong></WORD> varbūt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedās</WORD> viņai <WORD json="['Adv']" attribute="Adv" class="cFF00FF">līdzi</WORD>. Līdzīgi pārsteidzoši notikumi, kuros</TEXT>
+			<TEXT>Raimonda Paula dziesmām. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">Drosmīgākie <strong>pasažieri</strong></WORD> varbūt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dziedās</WORD> viņai <WORD json="['Adv']" attribute="Adv" class="cFF00FF">līdzi</WORD>. Līdzīgi pārsteidzoši notikumi, kuros</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
