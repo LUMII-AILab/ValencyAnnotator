@@ -5,7 +5,10 @@
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 		<CATEGORY id="cFF00FF">Veids</CATEGORY>
 		<CATEGORY id="cFF0000">Temats</CATEGORY>
-		<CATEGORY id="c00FFFF">Vieta/pasākums</CATEGORY>
+		<CATEGORY id="c00FFFF"></CATEGORY>
+		<CATEGORY id="cC00000">Ilgums?</CATEGORY>
+		<CATEGORY id="c00C000">Kolektīvs!</CATEGORY>
+		<CATEGORY id="cC0C000">Notikums!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -27,7 +30,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>visur. Klasē ir savs meiteņu ansamblis, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">daudzi <strong>bērni</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">skolas korī</WORD>, dejo, sporto, apmeklē mūzikas un mākslas</TEXT>
+			<TEXT>visur. Klasē ir savs meiteņu ansamblis, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">daudzi <strong>bērni</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">skolas <strong>korī</strong></WORD>, dejo, sporto, apmeklē mūzikas un mākslas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -35,19 +38,19 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>neatbrīvo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Cīravas pagasta sieviešu vokālais <strong>ansamblis</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> trīs gadus, bet jaunajā sastāvā skatē startēja pirmo</TEXT>
+			<TEXT>neatbrīvo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Cīravas pagasta sieviešu vokālais <strong>ansamblis</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">trīs <strong>gadus</strong></WORD>, bet jaunajā sastāvā skatē startēja pirmo</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>savas pilsētas komponistu darbus. Un vēl – bērni, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> kā komponētās dziesmas, tā tautasdziesmas, iemācās</TEXT>
+			<TEXT>savas pilsētas komponistu darbus. Un vēl – bērni, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> <WORD json="['S','Acc']" attribute="Acc" class="c00FF00">kā komponētās dziesmas, tā tautasdziesmas</WORD>, iemācās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ogot tuvējos mežos. Tie ir čigānu bērni, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> skaisti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD>, deklamē, dejo, labi rēķina, grib mācīties angļu</TEXT>
+			<TEXT>ogot tuvējos mežos. Tie ir čigānu bērni, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF00FF">skaisti</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD>, deklamē, dejo, labi rēķina, grib mācīties angļu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Folkloriste Aija Zeme pastāstīja, ka viņu folkloras kopā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> dažādas paaudzes, bet bērni tautasdziesmas mācīties</TEXT>
+			<TEXT>Folkloriste Aija Zeme pastāstīja, ka <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">viņu folkloras <strong>kopā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dzied</WORD> dažādas paaudzes, bet bērni tautasdziesmas mācīties</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
