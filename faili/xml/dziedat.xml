@@ -10,55 +10,58 @@
 		<CATEGORY id="c00C000">Kolektīvs!</CATEGORY>
 		<CATEGORY id="cC0C000">Notikums!</CATEGORY>
 		<CATEGORY id="c0000FF">Koagenss</CATEGORY>
+		<CATEGORY id="c099C79">Pacienss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Ar balsi radīt muzikālas melodijas</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Radīt raksturīgu skaņu</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">ārkārtīgi oriģinālās kinooperas <strong>varoņi</strong></WORD> rečitatīvā <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00FF00" attribute="Acc" json="['Gen','Nom','Dat','Acc','Loc']">pat visprozaiskākās <strong>replikas</strong></WORD>. Denēva ideāli iekļaujas</TEXT>
 			<COMMENT>Baiba (sākts)</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Latvijas meiteni. Uzmanīgi burtodami dziesmu grāmatu, Elīzai <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFF00FF" attribute="Adv" json="['Adv']">līdzi</WORD> arī <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">latviešu - bengāliešu <strong>ģimene</strong></WORD>: vīrs, sieva</TEXT>
 			<COMMENT>adresāts datīvam te nebūs vajadzīgs???</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>dzīve turpinās. Dodos atpakaļ uz vietu, dziesma, <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">ko</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Dat','Nom','Gen','Acc','Loc']"><strong>viens</strong> no viņiem</WORD>, starp smiekliem un asarām noslāpē trauksmi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>turēti, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">skolēni</WORD> (pa kādam pārstāvim ir no katras klases) <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> (<WORD class="cFF00FF" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">pagaidām vēl <strong>vienbalsīgi</strong></WORD>), deklamē dzejoļus, veido</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>visur. Klasē ir savs meiteņu ansamblis, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">daudzi <strong>bērni</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00C000" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">skolas <strong>korī</strong></WORD>, dejo, sporto, apmeklē mūzikas un mākslas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>dziesmas » (Ē. Siliņa apdarē) un « <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Cekulaina <strong>zīle</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> » (Z. Liepiņa apdarē). Lai arī kora sastāvs bija</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>neatbrīvo <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Cīravas pagasta sieviešu vokālais <strong>ansamblis</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cC00000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">trīs <strong>gadus</strong></WORD>, bet jaunajā sastāvā skatē startēja pirmo</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>savas pilsētas komponistu darbus. Un vēl – bērni, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kas</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00FF00" attribute="Acc" json="['S','Acc']">kā komponētās dziesmas, tā tautasdziesmas</WORD>, iemācās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ogot tuvējos mežos. Tie ir čigānu bērni, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kas</WORD> <WORD class="cFF00FF" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">skaisti</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, deklamē, dejo, labi rēķina, grib mācīties angļu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Folkloriste Aija Zeme pastāstīja, ka <WORD class="c00C000" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">viņu folkloras <strong>kopā</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Gen','Nom','Dat','Acc','Loc']">dažādas <strong>paaudzes</strong></WORD>, bet bērni tautasdziesmas mācīties</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>instrumenti) un <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">Atis Auzāns</WORD> (spēlē taustiņinstrumentus, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, kā arī aranžē dziesmas) pēc sešpadsmit gadu ilga</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>man pusi savu bēdu, paņem manu prieku klāt! » — <WORD class="c00FF00" attribute="Adv" json="['Adv']">tā</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Gen','Nom','Dat','Acc','Loc']">sievas</WORD> un ne jau velti: šajā ēkā iespēja strādāt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -66,135 +69,135 @@
 			<TEXT>, noslēgumā kopīgi tika izdziedāta « <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Cekulaina <strong>zīle</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> » un « Zibsnī zvaigznes aiz Daugavas ». Bet kā punkts</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>aktīvi. Meitenēm ir labas balsis, tādēļ <WORD class="cFFFF00" attribute="Nom" json="['Acc','Nom','Gen','Dat','Loc']">gandrīz <strong>visas</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00C000" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">skolas korī un vokālajā ansamblī</WORD>. Kitija, Elīna Kaminska</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ieradušies nesen, var dungot līdzīgi, kamēr <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">pārējie</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>. " Tajā pašā laikā laikraksts " Aftenposten " norāda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>karogs, ikvienai no tām ir arī sava himna. <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Pilsoņi</WORD> parasti <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">savu <strong>himnu</strong></WORD> valsts svētku dienās vai atklājot nozīmīgus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>mēs bieži dzirdam sporta pasākumos. <WORD class="cFF0000" attribute="ParAcc" json="['ParDat','ParAcc','Parnull']">Par <strong>ko</strong></WORD> tad himnās <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>? Austrijā cilvēki dzied par kalniem, Bangladešā slavina</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pasākumos. Par ko tad himnās dzied? Austrijā <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">cilvēki</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFF0000" attribute="ParDat" json="['ParDat','ParAcc','Parnull']">par <strong>kalniem</strong></WORD>, Bangladešā slavina banjana kokus un mango</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>brīvības alkas, bet <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Amerikas Savienotās Valstis un Turcija</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFF0000" attribute="ParAcc" json="['ParDat','ParAcc','Parnull']">par savu <strong>karogu</strong></WORD>. Daudzās valstīs ļaudis, himnu dziedot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>svētībai - lai savā zemē latvju meitas zied un lai <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">latvju <strong>dēli</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, jo mēs zinām droši - tad viņi laimē dies vienmēr</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>dzīvnieku patversmes. Viņam nav kriminālas pagātnes, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņš</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00C000" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">korī</WORD> un mācās mediķos - viņš ir tik mīļš! Man tomēr</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>draugiem bieži esam ārprātojušies - tik forša meitene, <WORD class="cFF00FF" attribute="Adv" json="['Adv']">kā</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Prāta Vētra</WORD>: tu esi perfekta, kaislīga, izskatīga</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>draugiem bieži esam ārprātojušies - tik forša meitene, <WORD class="c00FF00" attribute="Adv" json="['Adv']">kā</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Prāta Vētra</WORD>: tu esi perfekta, kaislīga, izskatīga</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vēstījumu! Rihardam ir arī muzikāls talants: <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņš</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, spēlē ģitāru un saksofonu. Režisors Edvīns Šņore</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>cik brīnišķīgi viņa māsiņa zīmē, cik <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņa</WORD> <WORD class="cFF00FF" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">labi</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> un dejo, un vispār - viņai vajadzētu iet uz minimis konkursu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>līdzīgas atšķirības starp notīm. Paši uzskata, ka <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFF00FF" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">pareizi</WORD>, taču mūzikas industriju viņi droši var izsvītrot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pats piemērs. Ir ierakstīts „ Zemeņu lauks ”, <WORD class="c00FF00" attribute="Acc" json="['Gen','Nom','Dat','Acc','Loc']">kuru</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">Marija Naumova, Gunārs Kalniņš un vēl divi</WORD>. Bet dziesma</TEXT>
 			<COMMENT>ja ir saturs, tad temats netiek marķēts</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>teikusi, ka ir pieradusi pie tā, ka <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">Busulis</WORD> mājās <WORD class="cFF00FF" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">skaļi</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, ejot vannā vai dušā. Kādā citā intervijā viņš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>personiskā dzīve skatuves tēlam? Dziesmām, <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">ko</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņa</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> par mīlestību un romantiku? « Tās emocijas, kas ir</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Kāds noslēpums Aivaru saista ar Intaru Busuli? Un cik <WORD class="cFF00FF" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">labi</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">pats Ventspils <strong>mērs</strong></WORD>, kas, kā izrādās, ir izbijis moderno</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ir visai savdabīgas - pirahu valodā <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">vārdus</WORD> arī dungo, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> un svilpo. Nav vārdu, kas apzīmētu par māsu vai brāli</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>memmesdēliņu. Kalnā un dziļumā Inese Lūsiņa <WORD class="cFFFF00" attribute="Nom" json="['Gen','Nom','Dat','Acc','Loc']">Inga Kalna</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cC0C000" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">LNSO <strong>koncertā</strong></WORD> Lielajā ģildē 30. III Šoreiz nevis Operā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>neveiksminiekam. Kad <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kāds</WORD> zem 30, skaisti nopūderēts, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFF00FF" attribute="KāNom" json="['S','KāNom']">kā <strong>eņģelis</strong></WORD>, viņš kļūst par popzvaigzni. Kad neveiksminiece</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>par popzvaigzni. Kad <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">neveiksminiece Sjūzena Boila</WORD> savos 47 <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="cFF00FF" attribute="KāNom" json="['S','KāNom']">kā <strong>eņģelis</strong></WORD> – tā kļūst par mediju pirmo lappušu ziņu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Tikai tur viss ir patiess... Tikai tur <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">cilvēki</WORD> <WORD class="cFF00FF" attribute="Adv" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">dabiski</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> un dejo... un arī mīl pa īstam... " Raimonds Pauls</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vidū arī folkloras kopa Ilža. " Kad <WORD class="cFFFF00" attribute="Nom" json="['Gen','Nom','Dat','Acc','Loc']">sievas un meitenes</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, jūtu tautas dvēseli, " saka Līga, kurai labas dzīvošanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>šovprogrammas dalībnieki! Populāru skaņdarbu ritmos <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņi</WORD> gan <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, gan atraktīvi dejo uz bāra letes un plauktiem. Jūtos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>iestādēm - jauna un mūsdienīga kultūras nama, <WORD class="c00FFFF" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">kurā</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, dejo un spēlē teātri, un divām bibliotēkām. Kopš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>strādā rokdarbus, sporto, piedalās Bībeles nodarbībās, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>. Kurzemes Vārds Atvaļinājums bērnudārzam – galvassāpes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>, draugs Arnis, tur <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņa</WORD> kopā ar bērniem spēlējas, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> un zīmē. Un tad vēl bijis interesanti, kad kopā vienā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>29 pūtēju orķestra dalībnieki no Aizkraukles rajona. <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">Dzied</WORD> arī <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">absolventi</WORD> Aizkraukles rajona padomes izglītības pārvaldes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>rajona kori skatē lielākoties iekļauti C grupā, <WORD class="cC0C000" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">kurā</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> skaita ziņā <WORD class="cFFFF00" attribute="Nom" json="['Acc','Nom','Gen','Dat','Loc']">mazāki, nelielu pašvaldību <strong>kori</strong></WORD>. A grupā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>lidmašīnā un devos projām no mājām uz tik ilgu laiku. <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">Dzied</WORD> <WORD class="c00C000" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">ansamblī</WORD> Inga studēja Oslo universitātē un bija pirmā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>18) un Valters Frīdenbergs (17), jau pāris gadu <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">abi</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00C000" attribute="Loc" json="['Nom','Gen','Dat','Acc','Loc']">grupā Putnu balle</WORD>, bet kopā ir kopš divu gadu vecuma</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">mamma</WORD> 76 gadu vecumā ir baznīcas draudzes aktīviste un <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00C000" attribute="Loc" json="['Loc','Nom','Gen','Dat','Acc']">korī</WORD>, kas Dziesmu karos senioru grupā ieguvis 1. vietu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>tik jauna dziedātāja no trešās pasaules valsts, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kura</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD> <WORD class="c00FF00" attribute="Acc" json="['Gen','Nom','Dat','Acc','Loc']">savas zemes tradicionālās <strong>dziesmas</strong></WORD>, kļūst par bagātnieku</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>raksturīgas siltās intonācijas. <WORD class="c00FFFF" attribute="UzGen" json="['UzDat','UzAcc','UzGen']">Uz <strong>skatuves</strong></WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">Sezārija</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">dzied</WORD>, gandrīz nekustoties, - bet viņa dzied ar neiedomājamu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
