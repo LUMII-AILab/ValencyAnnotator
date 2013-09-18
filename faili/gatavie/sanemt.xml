@@ -8,6 +8,7 @@
 		<CATEGORY id="c00FFFF">Eksperienss</CATEGORY>
 		<CATEGORY id="cC00000">Mērs</CATEGORY>
 		<CATEGORY id="c00C000">Pacienss</CATEGORY>
+		<CATEGORY id="cC0C000">Agenss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Sagaidīt kādu, uzņemt</SENTENCE_CATEGORY>
@@ -30,11 +31,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF0000">
-			<TEXT>dzelteni, drīzāk ierudi, tādi sarkanīgi zeltaini. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņēma</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="c00FF00"><strong>tos</strong> augstu pakausī</WORD> ar vienkāršu sprādzi. Lieliski mati</TEXT>
+			<TEXT>dzelteni, drīzāk ierudi, tādi sarkanīgi zeltaini. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC0C000">Viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņēma</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="c00FF00"><strong>tos</strong> augstu pakausī</WORD> ar vienkāršu sprādzi. Lieliski mati</TEXT>
 			<COMMENT>?????</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF0000">
-			<TEXT>spārniem vai krievu pirmskara filmām, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">pane Agata</WORD> cieši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Oto <strong>roku</strong></WORD>: " Nemelo! Necenties mani mānīt! Kur tu par</TEXT>
+			<TEXT>spārniem vai krievu pirmskara filmām, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cC0C000">pane Agata</WORD> cieši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Oto <strong>roku</strong></WORD>: " Nemelo! Necenties mani mānīt! Kur tu par</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
@@ -46,7 +47,7 @@
 			<COMMENT>?????</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>varbūt izjūt no otra viedokļa, jo viņš ir tas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņem</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">trimdiniekus</WORD> šeit, un viņš var to saprast, mēģinot</TEXT>
+			<TEXT>varbūt izjūt no otra viedokļa, jo viņš ir tas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC0C000">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņem</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">trimdiniekus</WORD> šeit, un viņš var to saprast, mēģinot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -586,7 +587,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>Vislabāk veicās viesu komandai no Cēsīm B &amp;amp;amp;amp;amp;amp;amp; B Cope, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kausu un medaļas</WORD>. 2. vietā bija Rīgas komanda Salmo,</TEXT>
+			<TEXT>Vislabāk veicās viesu komandai no Cēsīm B &amp;amp;amp;amp;amp;amp;amp;amp; B Cope, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">saņēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kausu un medaļas</WORD>. 2. vietā bija Rīgas komanda Salmo,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
