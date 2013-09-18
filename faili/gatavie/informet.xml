@@ -681,7 +681,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>Baltijas reģionam jaunu mizgraužu sugu. Kā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000"><strong>aģentūru</strong> LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFFFF00">Latvijas Entomoloģijas <strong>biedrībā</strong></WORD>, mizgrauzis « Xyleborinus</TEXT>
+			<TEXT>Baltijas reģionam jaunu mizgraužu sugu. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000"><strong>aģentūru</strong> LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFFFF00">Latvijas Entomoloģijas <strong>biedrībā</strong></WORD>, mizgrauzis « Xyleborinus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -849,15 +849,15 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>ziņoja par savu sarunu ar J. Seljamā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> savukārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēja</WORD> par Lietuvas sūtņa B. Dailides apmeklējumu. Tā nolūks</TEXT>
+			<TEXT>ziņoja par savu sarunu ar J. Seljamā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> savukārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par Lietuvas sūtņa B. Dailides <strong>apmeklējumu</strong></WORD>. Tā nolūks</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>situācija ģenerālsekretāram likās nepieņemama, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēja</WORD> Vācijas sūtni, ka “ mēs esam pacēluši jautājumu</TEXT>
+			<TEXT>situācija ģenerālsekretāram likās nepieņemama, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Vācijas <strong>sūtni</strong></WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka “ mēs esam pacēluši jautājumu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>pulciņos. Ar šādu kultūras mēnešu organizēšanu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">informējam</WORD> rīdziniekus par tām iespējam, par kurām viņi nezina</TEXT>
+			<TEXT>pulciņos. Ar šādu kultūras mēnešu organizēšanu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">informējam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">rīdziniekus</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par tām <strong>iespējam</strong></WORD>, par kurām viņi nezina</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -873,7 +873,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>pilsētās, par ko šodien <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Gerhards</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cC00000">Ministru <strong>kabinetā</strong> (MK</WORD>) <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">ministrus</WORD>. Kā norādīja EM Sabiedrisko attiecību nodaļā</TEXT>
+			<TEXT>pilsētās, <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par <strong>ko</strong></WORD> šodien <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Gerhards</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cC00000">Ministru <strong>kabinetā</strong> (MK</WORD>) <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">informēs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">ministrus</WORD>. Kā norādīja EM Sabiedrisko attiecību nodaļā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
