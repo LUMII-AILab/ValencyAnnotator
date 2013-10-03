@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONTENT>
 	<CATEGORIES>
-		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="cFFFF00">Eksperienss</CATEGORY>
 		<CATEGORY id="c00FF00">Percepts</CATEGORY>
 		<CATEGORY id="cFF00FF">Vērtējums?</CATEGORY>
 	</CATEGORIES>
@@ -14,7 +14,7 @@
 	<SENTENCES>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>paskaidro : " Kad filosofs iziet priekšplānā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">neviens</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">viņu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">neredz</WORD>. Filosofs nevar arī būt pilnīgi neitrāls. Viņam ir</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>AGENSS tapa par EKSPERIENSU (BS)</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>sāk parādīties zvaigznes. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Ēriks Traums</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>skaistumu</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">neredz</WORD>, jo vēlme aizmigt pārmāc zvaigžņotās bezgalības vilinājumu</TEXT>
