@@ -5,7 +5,7 @@
 		<CATEGORY id="c00FF00">Pacienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Cēlonis</CATEGORY>
 		<CATEGORY id="cFF0000">Veids?</CATEGORY>
-		<CATEGORY id="c00FFFF">Rezultāts?</CATEGORY>
+		<CATEGORY id="c00FFFF">Rezultāts!</CATEGORY>
 		<CATEGORY id="c00C000">Instruments?</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
@@ -578,7 +578,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>jūtat starpību : “ plika ” <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF00FF">grīda</WORD> vizuāli paplašina telpu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dara</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">istabu</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FFFF">gaišāku</WORD>. Arī uzkopt to ir vieglāk. Bet,</TEXT>
+			<TEXT>jūtat starpību : <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF00FF">“ plika ” <strong>grīda</strong></WORD> vizuāli paplašina telpu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dara</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">istabu</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FFFF">gaišāku</WORD>. Arī uzkopt to ir vieglāk. Bet,</TEXT>
 			<COMMENT>istabu?</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
