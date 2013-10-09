@@ -4,7 +4,6 @@
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 		<CATEGORY id="cFF00FF">Temats</CATEGORY>
-		<CATEGORY id="cFF0000">Darbība!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Iztēloties, arī maldīgi</SENTENCE_CATEGORY>
@@ -15,7 +14,7 @@
 	<SENTENCES>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>jautājumu : " Kas noticis? " tiek darināta pēc formulas " <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iedomāsimies</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka noticis, lūk, kas</WORD> ", taču " iedomāsimies, ka</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>Darbība! -> Saturs (pārtaisīja BS)</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>šovakar paskatāmies pie manis kādu filmu? ” Mēs : Uzreiz <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iedomājamies</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">kā, ērti ieritinājušās dīvānā kopā ar mīļoto</WORD></TEXT>
@@ -458,19 +457,19 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>jebkurā pieturvietā (daži šoferi mēdz šņākt, kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kāds</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iedomājas</WORD> ar lielām somām <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="cFF0000">braukt</WORD> uz, piemēram, Rūjienas pansionātu</TEXT>
+			<TEXT>jebkurā pieturvietā (daži šoferi mēdz šņākt, kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kāds</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iedomājas</WORD> <WORD json="['ArDat','ArAcc','Inf']" attribute="Inf" class="c00FF00">ar lielām somām <strong>braukt</strong></WORD> uz, piemēram, Rūjienas pansionātu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>" Ai, nē, " sacīju. " Vienkārši gadījos tuvumā, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iedomājos</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="cFF0000">apsveicināties</WORD>. Nav svarīgi. " " Ā, " viņš secināja</TEXT>
+			<TEXT>" Ai, nē, " sacīju. " Vienkārši gadījos tuvumā, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iedomājos</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">apsveicināties</WORD>. Nav svarīgi. " " Ā, " viņš secināja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>sudrabots nieciņš. Tas bija viņa kabatas telefons. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Merks</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iedomājās</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="cFF0000">piezvanīt</WORD> Sandrai, bet tūlīt atmeta šo ideju — viņas</TEXT>
+			<TEXT>sudrabots nieciņš. Tas bija viņa kabatas telefons. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Merks</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iedomājās</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>piezvanīt</strong> Sandrai</WORD>, bet tūlīt atmeta šo ideju — viņas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>tagad, desmit gadu pēc kaunpilnās pensionēšanās, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iedomājās</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="cFF0000">to <strong>komandēt</strong></WORD> kā tādu puišeli? Par Kaminski pēdējā</TEXT>
+			<TEXT>tagad, desmit gadu pēc kaunpilnās pensionēšanās, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iedomājās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">to <strong>komandēt</strong> kā tādu puišeli</WORD>? Par Kaminski pēdējā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF00FF">
