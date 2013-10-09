@@ -4,7 +4,7 @@
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 		<CATEGORY id="cFF00FF">Temats</CATEGORY>
-		<CATEGORY id="cFF0000">Vieta?</CATEGORY>
+		<CATEGORY id="cFF0000">Vieta</CATEGORY>
 		<CATEGORY id="cC00000">Darbība</CATEGORY>
 		<CATEGORY id="c00C000">no kā</CATEGORY>
 		<CATEGORY id="cC0C000">Laiks?</CATEGORY>
@@ -618,7 +618,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pedagoģiskā procesa vērojumos iegūtā informācija, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">skolēns</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par valodu</WORD>, nevis valodu, un kā raksta ungāru poliglote</TEXT>
+			<TEXT>pedagoģiskā procesa vērojumos iegūtā informācija, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">skolēns</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par <strong>valodu</strong></WORD>, nevis valodu, un kā raksta ungāru poliglote</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
