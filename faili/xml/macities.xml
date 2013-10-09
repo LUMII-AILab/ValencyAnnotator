@@ -15,218 +15,218 @@
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Gūt zināšanas, prasmes skolojoties</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFFFF00">Gūt pieredzi, zināšanas no dzīves, no citiem</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFF00FF">Attīstīt savas rakstura īpašības</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Attīstīt savas rakstura īpašības, pieradināties pie kaut kā</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>uzmundrināt un atbalstīt. KO SKOLOTĀJS VAR DARĪT KLASĒ, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">KURĀ</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">MĀCĀS</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">DEPRESĪVS <strong>SKOLĒNS</strong></WORD> ? Mācību stundas laikā paturiet acīs</TEXT>
 			<COMMENT>Ilze - sākts</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>! Ļoti uz to ceru un nepazaudēšu ar viņu saiknes. " " <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Mācies</WORD> <WORD json="['NoDat','NoGen']" attribute="NoDat" class="c00C000">no māsu <strong>kļūdām</strong></WORD> ! " " Mēs dzīvojām Jelgavā, Jaunatnes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>laiku daudzdimensionālajā režģī. — <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Kurā <strong>klasē</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">mācies</WORD> ? — Iešu ceturtajā. Pēc ilga klusuma: — Zini, es</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>MEITENE. Neko... (Paskatās uz Puisi.) Bet tu pats ? <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Mācies</WORD> ? PUISIS. Jā, Latvijas Universitātē, filologos. MEITENE</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>uzķēris mana vārda patieso skaņu. - Ko tu dari ? Strādā ? <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Mācies</WORD> ? - Studēju. Pazibinu uz nēģera pusi niknu skatienu.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>. Pēc tam nav intereses vēl kur iet. Lasu žurnālus, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD>. Vislabprātāk eju uz Ventu makšķerēt, ” saka Līva</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ar skolotāju Kudžu. Šajā klasē esmu jauniņais, jo <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cC0C000">nepilnu <strong>gadu</strong></WORD>. Pirms tam biju Rīgas Centra daiļamatniecības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>dzīvesprieks. Priecāties un dot prieku citiem. Joprojām <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="c00FF00">nebaidīties riskēt un dzīvot pa īstam</WORD>. Būt patiesā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>juristos « Septembrī būs divi gadi, kopš dzīvoju un <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Parīzē</WORD>. Esmu studente. Un, ja pagājušogad mācījos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pagājušogad mācījos tikai mūzikas skolā, tad <WORD json="['Adv']" attribute="Adv" class="cC0C000">šogad</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> arī <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">aktieru <strong>skolā</strong></WORD>. Aktieru skolas studijas būs vēl gadu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>bailes palikt vienai. Lai nu kā – šis ir laiks, <WORD json="['Adv']" attribute="Adv" class="cC0C000">kad</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>tikt</strong> pāri vēlmei, varbūt atkarībai pēc viņa</WORD>. Viņš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ka mājās nedzied. Nu kā tad īsti ir ? “ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Es</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">mājās</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">dziedāt</WORD>, bet tāpat vien gan nedziedu. Bērniem šad un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>negribētu. Uzskatu, ka vēl nav pienācis tas brīdis. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD>. Vizītkarte Vārds, uzvārds: Roberts Lācītis. Nodarbošanās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>rezerves daļas pērk arvien vairāk sieviešu. Ne tikai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD>, daudzām tehniskas lietas ir dzīves nepieciešamība.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>. Taču arī es tikai nesen esmu sapratusi, ka joprojām <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD>. Tomēr Latvija nav ideāla zeme un vienmēr būs negodīgi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Dobele, un esmu latviešu izcelsmes migrante Somijā, <WORD json="['Adv']" attribute="Adv" class="cFF0000">kur</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> un strādāju. Esmu dzimusi un uzaugusi Latvijā, šeit</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>viens no svarīgākajiem nosacījumiem ir motīvs (Kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> ?), un ļoti svarīgi, lai tieši mācību viela būtu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>kādēļ gan Baņuta rāda viņai šīs bildes. — <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00"><strong>Es</strong> pati</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">fotografēt</WORD>. Man patīk dažādas cilvēku detaļas, nu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>visiem palīdzu, pasauli glābju no sliktajiem zirnekļiem, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācos</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">neeksistēt</WORD> brīžos, kad tas nav nepieciešams. Pat lietū</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>līdzsvars. Hinduisms uzskata, ka caur šiem pretstatiem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācāmies</WORD><WORD json="['Nom','Gen','Dat','Acc','Loc','S']" attribute="S" class="c00FF00">, kāda ir dzīve</WORD>, kā šī pasaule ir iekārtota, kā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>labi, ja šāds laiks nepienāktu. Bet <WORD json="['NoDat','NoGen']" attribute="NoDat" class="c00C000">no kļūdām</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācāmies</WORD>. Kas šobrīd vēl nodarbina jūsu prātu – ko bez dēla</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>Tiesa, kārtis bijušas ļoti vājas, jo " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> vēl tikai <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">mācāmies</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">aizstāvēt savas intereses un meklēt pareizos ceļus</WORD>,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Viņš ir ģimenes lepnums un gods, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> parasti <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c0000FF">ļoti <strong>labi</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> un daudz dara. Taču viņš nekad pats ar sevi nav īsti</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>visu dara otrādi, pretēji – slikti uzvedās, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c0000FF">slikti</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD>, kaujas utt., vienmēr nostājās “ slikto ” pusē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>neievēro, viņš turas savrupi. Daudz lasa, parasti <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c0000FF">labi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD>, viņam ir bagāta iekšējā pasaule. Bieži viņu dēvē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>iekārtām. Skolēni apgūst drošības zīmes. Iepazīst un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">pareizi <strong>lietot</strong> darba rīkus</WORD>. Apzinās iespējamās sadzīves</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>elektrodrošību mājās, mācās rīkoties, ja noticis negadījums. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc','Inf']" attribute="Inf" class="c00FF00"><strong>saskatīt</strong> paaugstinātās bīstamības zonas mājoklī</WORD>.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>, nemākulīgi rīkojoties ar instrumentiem un ierīcēm. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Mācās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">saprātīgi <strong>izmantot</strong> dažādus ķīmiskus līdzekļus</WORD>. 6.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>skolēni iepazīstas ar dažādām sadzīves riska situācijām, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> sniegt pirmo palīdzību riska situāciju gadījumos. Mājturībā</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>skolēni iepazīstas ar dažādām sadzīves riska situācijām, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc','Inf']" attribute="Inf" class="c00FF00"><strong>sniegt</strong> pirmo palīdzību riska situāciju gadījumos</WORD>. Mājturībā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pasākumus, darbojoties ar sildierīcēm. Ķīmijā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">skolēni</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="c00FF00">drošības <strong>noteikumus</strong> sadzīvē</WORD>, izmantojot zināšanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>izmantotie kurināmie: malka, kūdra, naftas produkti un gāze. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Mācās</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>raksturot</strong> katru no tiem</WORD>. 9. klasē ķīmijā skolēni uzzina</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>paraugā. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">2. <strong>klasē</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">skolēni</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">dabaszinību mācību <strong>priekšmetā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>atšķirt</strong> dažādas elektriskās ierīces</WORD>, zina, kuras</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>strāvas. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">3. <strong>klasē</strong></WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">dabaszinību mācību <strong>priekšmetā</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">skolēni</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>izprast</strong> elektriskās ķēdes darbības principus</WORD> un zina</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>strāvas avotam, atpazīst elektrisko shēmu apzīmējumus un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>lietot</strong> elektriskās sadzīves iekārtas atbilstoši ekspluatācijas</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pasauli un nonākot atpakaļ skolā. Skolā, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">kurā</WORD> kopā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> tik <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">dažādi <strong>bērni</strong></WORD> ar tik dažādām domām un sapņiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>īpašumu kompānijā par direktora personīgo asistenti un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">mārketinga <strong>vadību</strong></WORD>. Liene (23) vada raidījumu " Zelta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>audzēkņiem) notiks 22. decembrī Jelgavā. Skolām, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">kurās</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">vairāk par 120 <strong>audzēkņiem</strong></WORD>, labāko noskaidrošana paredzēta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>direktores vietniece mācību darbā Anda Priede. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Skolā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['ApDat','ApAcc','Gen']" attribute="Gen" class="cFFFF00">ap 1500 <strong>audzēkņu</strong></WORD>, un visi, kas vakar bija skolā, piedalījās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF0000">Priekules pirmsskolas izglītības <strong>iestādē</strong> “ Dzirnaviņas ”</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">100 <strong>bērnu</strong></WORD>, strādā septiņi pedagogi, četras audzinātāju</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Skolotāja Valda Kņaza sociālās korekcijas klasē, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">kurā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">čigāni</WORD>, strādā no tās izveides sākuma 1995. gadā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>. Tāpēc skolotājas ir priecīgas par katru bērnu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">vakarskolā</WORD>, jo uz dienas skolu viņi neies. Un tie nav</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>mācīts svešvalodā. Taču <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">vairākums Eiropas <strong>skolēnu</strong></WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">skolā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> tajā valodā, kādā runā mājās — pat daudzas imigrantu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>valstīs angļu valoda ir obligāta, un <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">visā <strong>Eiropā</strong></WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">90 % <strong>skolēnu</strong></WORD>. Angļu valodas popularitāte aug, īpaši</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>slikti finansiālie apstākļi ir arī vecākiem, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">bērni</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">pamatskolas vecākajās <strong>klasēs</strong></WORD>, tomēr šo specifisko pabalstu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>braucējiem ir arī divi piecgadīgie un sešgadīgie, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Vārmes <strong>pamatskolā</strong></WORD>. Viņiem iekārtota vieta, kur spēlēties</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>tiks atvērts pēc vasaras brīvdienām. Esot mammas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">neklātienē</WORD>, arī viņām svarīgi, lai ir, kur atstāt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vienu ģimeni atzina par trūcīgu. Trim alsundzniekiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF0000">Vaiņodes <strong>internātskolā</strong>,</WORD> maksās ceļa izdevumus. Par</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>jaunie laucinieki aizlaidušies uz ārzemēm). Un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">jaunie</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD>, jo citādi tu neesi konkurētspējīgs. Mācās, izmantojot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>jaunie mācās, jo citādi tu neesi konkurētspējīgs. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Mācās</WORD>, izmantojot lielisko iespēju, ko sniedz Latgales Lauksaimniecības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>no Rēzeknes. Dēls Oļegs ir pirmklasnieks, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00"><strong>meita</strong> Liza</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">6. <strong>klasē</strong></WORD>, tāpēc viņi ir palīgi galvenokārt vasarā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>piekritējs. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņš</WORD> dzīvo Salā, strādā Jēkabpilī, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">augstskolā <strong>Rīgā</strong></WORD>, piemērotos laika apstākļos lido ar</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>2,60 promiles. Taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">zēns</WORD> piebilda, ka apmeklē skolu, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD>, cer sekmīgi nolikt eksāmenus un turpināt mācības vidusskolā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>trīspadsmtgadīgie Eva un Artūrs pārī dejo tikai kopš oktobra. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Eva</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">mācās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Valsts <strong>ģimnāzijā</strong></WORD>, bet Artūrs – 12. vidusskolā. Eva</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
