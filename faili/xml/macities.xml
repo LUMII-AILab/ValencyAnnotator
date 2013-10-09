@@ -5,7 +5,6 @@
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 		<CATEGORY id="cFF00FF">Temats</CATEGORY>
 		<CATEGORY id="cFF0000">Vieta?</CATEGORY>
-		<CATEGORY id="c00FFFF">kas tas ir</CATEGORY>
 		<CATEGORY id="cC00000">Darbība</CATEGORY>
 		<CATEGORY id="c00C000">no kā</CATEGORY>
 		<CATEGORY id="cC0C000">Laiks?</CATEGORY>
@@ -19,7 +18,7 @@
 			<COMMENT>Ilze - sākts</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>! Ļoti uz to ceru un nepazaudēšu ar viņu saiknes. " " <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Mācies</WORD> <WORD json="['NoDat','NoGen']" attribute="NoDat" class="c00FFFF">no māsu <strong>kļūdām</strong></WORD> ! " " Mēs dzīvojām Jelgavā, Jaunatnes</TEXT>
+			<TEXT>! Ļoti uz to ceru un nepazaudēšu ar viņu saiknes. " " <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Mācies</WORD> <WORD json="['NoDat','NoGen']" attribute="NoDat" class="c00C000">no māsu <strong>kļūdām</strong></WORD> ! " " Mēs dzīvojām Jelgavā, Jaunatnes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -1003,7 +1002,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dati DZIRKSTELE - &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; Tēma Pirmdiena, 2005. gada 25. jūlijs <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">Mācīsimies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="cC00000"><strong>svinēt</strong> Jāņus skaisti</WORD> ! Ina Zelča Vai latvieši prot pareizi</TEXT>
+			<TEXT>dati DZIRKSTELE - &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; Tēma Pirmdiena, 2005. gada 25. jūlijs <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">Mācīsimies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="cC00000"><strong>svinēt</strong> Jāņus skaisti</WORD> ! Ina Zelča Vai latvieši prot pareizi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
