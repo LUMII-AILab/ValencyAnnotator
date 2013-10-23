@@ -814,7 +814,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>automašīna, gan lidmašīna. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Begaks</WORD> aģentūrai " Interfax " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka viņš izgudrojis lidmobili ar četriem riteņiem un</WORD></TEXT>
+			<TEXT>automašīna, gan lidmašīna. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Begaks</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000">aģentūrai " Interfax</WORD> " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka viņš izgudrojis lidmobili ar četriem riteņiem un</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -834,119 +834,119 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ka viņām patiešām piemīt īpašas spējas, " avīzei <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Kvinna Blomgrena, kas sevi dēvē par " augstākās pakāpes</TEXT>
+			<TEXT><WORD json="['S']" attribute="S" class="c00FF00">ka viņām patiešām piemīt īpašas spējas</WORD>, " <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">avīzei</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Kvinna Blomgrena</WORD>, kas sevi dēvē par " augstākās pakāpes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>arī pamatvārtsargs Aleksandrs Babra, kurš ir saslimis, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Gulbis. " Nesolu vieglu uzvaru, bet arī ar šādu sastāvu</TEXT>
+			<TEXT><WORD json="['S']" attribute="S" class="c00FF00">arī pamatvārtsargs Aleksandrs Babra, kurš ir saslimis</WORD>, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Gulbis</WORD>. " Nesolu vieglu uzvaru, bet arī ar šādu sastāvu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>varētu spēlēt Rīgas " Dinamo ", " laikrakstam " Diena " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Naumovs. " Tā sapratu arī pēc sarunas ar Rīgas " Dinamo</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','S']" attribute="S" class="c00FF00">varētu spēlēt Rīgas " Dinamo</WORD> ", " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Dat" class="cFF0000">laikrakstam " Diena</WORD> " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Naumovs</WORD>. " Tā sapratu arī pēc sarunas ar Rīgas " Dinamo</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>priekšējās līnijas spēlētāju Zlatanu Ibrahimoviču, ceturtdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Eto aģents Hosē Marija Mesaljess. Mesaljess pavadīja</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="S" class="c00FF00">priekšējās līnijas spēlētāju Zlatanu Ibrahimoviču</WORD>, ceturtdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Eto aģents Hosē Marija Mesaljess</WORD>. Mesaljess pavadīja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Bērnu literatūras centra vadītāja Silvija Tretjakova. Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Tretjakova, šogad Baltvilka balvai bērnu literatūrā</TEXT>
+			<TEXT>Bērnu literatūras centra vadītāja Silvija Tretjakova. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Tretjakova</WORD>, šogad Baltvilka balvai bērnu literatūrā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>trūkuma dēļ. Runājot par ministra mašīnu, Saulīte <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka iepriekš Bērziņš pārvietojās ar 2006. gada izlaiduma</TEXT>
+			<TEXT>trūkuma dēļ. Runājot par ministra mašīnu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Saulīte</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka iepriekš Bērziņš pārvietojās ar 2006. gada izlaiduma</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>frakcijas priekšsēdētājs Augusts Brigmanis aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka frakciju neapmierinoša balsojuma dēļ ZZS centīsies</TEXT>
+			<TEXT>frakcijas priekšsēdētājs <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Augusts Brigmanis</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000">aģentūrai LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka frakciju neapmierinoša balsojuma dēļ ZZS centīsies</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>apdzīvoto vietu likumprojekta pielikums, aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> komisijas deputāts Jānis Lagzdiņš (TP). Savu atšķirīgo</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','S']" attribute="S" class="c00FF00">apdzīvoto vietu likumprojekta pielikums</WORD>, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000">aģentūrai LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">komisijas deputāts Jānis Lagzdiņš</WORD> (TP). Savu atšķirīgo</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>samazināties aptuveni par 30 miljoniem latu, aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> valsts aģentūras « Jaunie « Trīs brāļi » » (J3B</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="c00FF00">samazināties aptuveni par 30 miljoniem latu</WORD>, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000">aģentūrai LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">valsts aģentūras « Jaunie « Trīs brāļi » » (J3</WORD>B</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>jo šādas ballītes vienkārši vairs nenotiek, » viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>. BBC secina, ka pozitīvs ieguvums Rīgai un Prāgai būšot</TEXT>
+			<TEXT><WORD json="['S']" attribute="S" class="c00FF00">jo šādas ballītes vienkārši vairs nenotiek</WORD>, » <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>. BBC secina, ka pozitīvs ieguvums Rīgai un Prāgai būšot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atklātais konkurss 2007. gada decembrī, aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> VNĪ sabiedrisko attiecību speciāliste Daiga Laukšteina</TEXT>
+			<TEXT><WORD json="['Loc','Nom','Gen','Dat','Acc','S']" attribute="S" class="c00FF00">atklātais konkurss 2007. gada decembrī</WORD>, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000"><strong>aģentūrai</strong> LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">VNĪ sabiedrisko attiecību speciāliste Daiga Laukšteina</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>notikuma vietā pieķerti divi cilvēki. Kā aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Rīgas Vidzemes priekšpilsētas izpilddirekcijas sabiedrisko</TEXT>
+			<TEXT>notikuma vietā pieķerti divi cilvēki. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000"><strong>aģentūrai</strong> LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Rīgas Vidzemes priekšpilsētas izpilddirekcijas sabiedrisko</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atmešanas panākumi atkarīgi no cilvēka gribasspēka. Viņa <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka jau 70. gados pasaulē parādījās nikotīna aizstājēji</TEXT>
+			<TEXT>atmešanas panākumi atkarīgi no cilvēka gribasspēka. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka jau 70. gados pasaulē parādījās nikotīna aizstājēji</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>smēķēšana ir iemesls saslimšanai ar plaušu vēzi. Viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka Latvijas vīrieši atrodas otrajā vietā pasaulē pēc</TEXT>
+			<TEXT>smēķēšana ir iemesls saslimšanai ar plaušu vēzi. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka Latvijas vīrieši atrodas otrajā vietā pasaulē pēc</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pārvaldes priekšnieka palīdze Sanita Zīmele aģentūrai BNS <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka 21. jūlija vakarā Sūnākstes pagastā policija reida</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">pārvaldes priekšnieka palīdze Sanita Zīmele</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000"><strong>aģentūrai</strong> BNS</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka 21. jūlija vakarā Sūnākstes pagastā policija reida</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pasūtījumus no Centrāltirgus. Kā aģentūrai LETA iepriekš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> advokāts Davidovičs, Cibuļskas lietas materiālos «</TEXT>
+			<TEXT>pasūtījumus no Centrāltirgus. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000"><strong>aģentūrai</strong> LETA</WORD> iepriekš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">advokāts Davidovičs</WORD>, Cibuļskas lietas materiālos «</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>situācijā, un dokumentu viltošana. Kā aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Rīgas apgabaltiesas priekšsēdētāja Sandra Strence,</TEXT>
+			<TEXT>situācijā, un dokumentu viltošana. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000"><strong>aģentūrai</strong> LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Rīgas apgabaltiesas priekšsēdētāja Sandra Strence</WORD>,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>informēšanas daļas vadītāja Sanita Biksiniece Db. lv <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka visvairāk sūdzības iesniegtas par logu un durvju</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">informēšanas daļas vadītāja Sanita Biksiniece</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000">Db. lv</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka visvairāk sūdzības iesniegtas par logu un durvju</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>konstrukcijas ložmetējs « DP 27 ». Kā aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Ogres rajona policijas pārvaldes (RPP) preses sekretāre</TEXT>
+			<TEXT>konstrukcijas ložmetējs « DP 27 ». Kā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000"><strong>aģentūrai</strong> LETA</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ogres rajona policijas pārvaldes (RPP) preses sekretāre</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>skolas sociālo pedagogu un, iespējams, pašu bērnu, » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> bāriņtiesas pārstāvis. Rīgas bāriņtiesa ir ierosinājusi</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="c00FF00">skolas sociālo pedagogu un, iespējams, pašu bērnu</WORD>, » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">bāriņtiesas <strong>pārstāvis</strong></WORD>. Rīgas bāriņtiesa ir ierosinājusi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>aizturētas arī trīs rīdzinieces. Kā aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Rīgas Galvenās policijas pārvaldes (RGPP) Preses un</TEXT>
+			<TEXT>aizturētas arī trīs rīdzinieces. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Rīgas Galvenās policijas pārvaldes (RGPP) Preses un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>braucienus uz Tibetu, » Himalaju reģiona galvaspilsētā Lasā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> valsts tūrisma uzņēmuma pārstāvis, kurš, baidoties</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="c00FF00">braucienus uz Tibetu</WORD>, » Himalaju reģiona galvaspilsētā Lasā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> valsts tūrisma uzņēmuma pārstāvis, kurš, baidoties</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>valsts nevarēs pastāvēt, » sacīja Elce. Viņa arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka pašlaik ir izteikti pieaudzis iesniegumu un inspekcijas</TEXT>
+			<TEXT>valsts nevarēs pastāvēt, » sacīja Elce. Viņa arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka pašlaik ir izteikti pieaudzis iesniegumu un inspekcijas</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nelegālajiem darba devējiem izmaksas ir daudz mazākas. Elce <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka godīgie darba devēji no dažādām asociācijām pašlaik</TEXT>
+			<TEXT>nelegālajiem darba devējiem izmaksas ir daudz mazākas. Elce <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka godīgie darba devēji no dažādām asociācijām pašlaik</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dzelzceļš ir orientēts uz kravu pārvadājumiem. Magonis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka Latvijā ar tās nedaudz virs 2000 kilometru sliežu</TEXT>
+			<TEXT>dzelzceļš ir orientēts uz kravu pārvadājumiem. Magonis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka Latvijā ar tās nedaudz virs 2000 kilometru sliežu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atpazīstamāku topošajiem studentiem, intervijā aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> LU rektors Mārcis Auziņš. Topošajam studentam ir būtiski</TEXT>
+			<TEXT><WORD json="['Dat','Nom','Gen','Acc','Loc','S']" attribute="S" class="c00FF00">atpazīstamāku topošajiem studentiem</WORD>, intervijā aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> LU rektors Mārcis Auziņš. Topošajam studentam ir būtiski</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>iedvesmos latviešus apmeklēt un apskatīt savdabīgo Viļņu, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> projekta direktore Elona Bajoriniene. Mākslinieks Vaidas</TEXT>
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc','S']" attribute="S" class="c00FF00">iedvesmos latviešus apmeklēt un apskatīt savdabīgo Viļņu</WORD>, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> projekta direktore Elona Bajoriniene. Mākslinieks Vaidas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>līdz sešu gadu vecumam ceļojums varētu būt bez maksas, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> pašvaldības sabiedrisko attiecību speciāliste Velta Puriņa</TEXT>
+			<TEXT><WORD json="['LīdzDat','S']" attribute="S" class="c00FF00">līdz sešu gadu vecumam ceļojums varētu būt bez maksas</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> pašvaldības sabiedrisko attiecību speciāliste Velta Puriņa</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>projektu, noteikts būvniecības moratorijs, aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Rīgas domes Pilsētas attīstības departamenta Sabiedrisko</TEXT>
+			<TEXT>projektu, noteikts būvniecības moratorijs, aģentūrai LETA <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="S" class="c00FF00">Rīgas domes Pilsētas attīstības departamenta Sabiedrisko</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
