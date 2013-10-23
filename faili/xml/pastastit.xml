@@ -1362,244 +1362,236 @@
 			<TEXT>piemēram, no 22. maija līdz 22. jūnijam. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000">Neatkarīgajai</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">RS preses sekretāre Iluta Bērziņa</WORD>, patlaban notiek jaunā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Dat','Nom','Gen','Acc','Loc','S']" attribute="S" class="c00FF00">jaunu kolektoru būvei un modernu sūkņu ierīkošanai</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">I</WORD><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">. Zarumba</WORD>. * * * Lietavas — biežākas Latvijas Vides</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>direktors Māri Strazds, atlanta iniciators, kuram mednieki <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> par pārsteidzošo satikšanos ar kādu mistisku putnu pētnieku</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>direktors Māri Strazds, atlanta iniciators, <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">kuram</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mednieki</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par pārsteidzošo <strong>satikšanos</strong></WORD> ar kādu mistisku putnu pētnieku</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Savukārt BA sabiedrisko attiecību speciālists Lauris Kupčs <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka jaunieši nākotnē raugās ar optimismu. " Vairākums</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Savukārt <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">BA sabiedrisko attiecību speciālists Lauris Kupčs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka jaunieši nākotnē raugās ar optimismu</WORD>. " Vairākums</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ViA komunikāciju daļas vadītājas vietniece Zane Leimane <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka finansējums ārvalstu praksēm no " Erasmus " programmas</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">ViA komunikāciju daļas vadītājas vietniece Zane Leimane</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka finansējums ārvalstu praksēm no " Erasmus " programmas</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>absolventu mācību sasniegumu rādītāji ir gana augsti, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> E. Grīnis. RTV piedāvātā vispārējās vidējās izglītības</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="S" class="c00FF00">absolventu mācību sasniegumu rādītāji ir gana augsti</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">E. Grīnis</WORD>. RTV piedāvātā vispārējās vidējās izglītības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>laikraksta Dienas bizness konferencē par būvniecību Latvijā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Ekonomikas ministrijas Uzņēmējdarbības un rūpniecības</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>laikraksta Dienas bizness konferencē <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par <strong>būvniecību</strong> Latvijā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ekonomikas ministrijas Uzņēmējdarbības un rūpniecības</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Latraps biodīzeļa ražošanas vadītājs Agris Stauģis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka rapšu eļļu uzņēmums sāks ražot pēc aptuveni</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Latraps biodīzeļa ražošanas vadītājs Agris Stauģis</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka rapšu eļļu uzņēmums sāks ražot pēc aptuveni</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>PVN likmi malkai, jo tā ir sociāli jutīga prece. To Db <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Finanšu ministrijas Komunikāciju departamenta vadītāja</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>PVN likmi malkai, jo tā ir sociāli jutīga prece. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">To</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF0000">Db</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Finanšu ministrijas Komunikāciju departamenta <strong>vadītāja</strong></WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>izdarīju? - kvēlošu seju jautāja Florence. Sieviete <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>. Pēdējās dienas pirms dzemdībām šī garā sieva ar</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>izdarīju? - kvēlošu seju jautāja Florence. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Sieviete</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>. Pēdējās dienas pirms dzemdībām šī garā sieva ar</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>pārsteigums? Kad viņi vēlāk palika trijatā, Māris <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> savus piedzīvojumus. — Apmācies laiks? — Madara pārjautāja</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pārsteigums? Kad viņi vēlāk palika trijatā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Māris</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">savus <strong>piedzīvojumus</strong></WORD>. — Apmācies laiks? — Madara pārjautāja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>, tiešām? Gastons uztaisīja špagatu, tad tiltiņu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ko prot ar apli vālītēm un lecamauklu. Ignate draudzīgi</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>, tiešām? <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Gastons</WORD> uztaisīja špagatu, tad tiltiņu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="c00FF00">ko prot ar apli vālītēm un lecamauklu</WORD>. Ignate draudzīgi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>biju tā nedaudz metusi aci uz jums... un kad Agnese man <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, cik vienkārši tas viss izdarāms... Nu tad man cits</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>biju tā nedaudz metusi aci uz jums... un kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Agnese</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">cik vienkārši tas viss izdarāms</WORD>... Nu tad man cits</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>mazumiņu iztiec un lūdz, lai lauku radi sūta produktus. * Man <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> jaunumus, ka mūsu klases Ilze gaida bērnu. “ Ak, nabadzīte</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>mazumiņu iztiec un lūdz, lai lauku radi sūta produktus. * <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">jaunumus</WORD>, ka mūsu klases Ilze gaida bērnu. “ Ak, nabadzīte</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>notikušās kāzu svinības. „ Mēness ņēma Saules meitu, ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> par gada seksīgāko zvaigzni atzītais Auseklītis, kurš</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>notikušās kāzu svinības. „ Mēness ņēma Saules meitu, ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['ParDat','ParAcc','Parnull','Nom']" attribute="Nom" class="cFFFF00">par gada seksīgāko zvaigzni atzītais <strong>Auseklītis</strong></WORD>, kurš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>sejai piedēvējusi viltvārža tumšos vaibstus. Adalberts <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka Eleonora pie viņa bijusi tikai vienu reizi, atzinusies</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>sejai piedēvējusi viltvārža tumšos vaibstus. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Adalberts</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka Eleonora pie viņa bijusi tikai vienu reizi, atzinusies</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>pie nodevēju pieminekļa uz salas, un, sevi mierinot, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Adalbertam par Lielo līgavu. Sensenos laikos, kad vēl</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pie nodevēju pieminekļa uz salas, un, sevi mierinot, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Adalbertam</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par Lielo <strong>līgavu</strong></WORD>. Sensenos laikos, kad vēl</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>kuras nav kartē. Par viņu, Serafimu, Latgales reģi, man <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> kāda veca draudzene. Es vienmēr biju nicīgi izturējies</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>kuras nav kartē. <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">Par viņu, Serafimu, Latgales reģi</WORD>, <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kāda veca <strong>draudzene</strong></WORD>. Es vienmēr biju nicīgi izturējies</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>vēja virmošanu pār laukiem. Šī sīkā ēna viņai visu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> jau pirmajā tikšanās reizē. Ka viņi būs un paliks</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vēja virmošanu pār laukiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Šī sīkā <strong>ēna</strong></WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">viņai</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">visu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> jau pirmajā tikšanās reizē. Ka viņi būs un paliks</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>dažādas ainas un vīzijas. Iedzeru vīnu. Kāds man šodien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> brīnišķīgu stāstu; stāstu, kurā neiztrūkst nenieka</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>dažādas ainas un vīzijas. Iedzeru vīnu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Kāds</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">man</WORD> šodien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">brīnišķīgu <strong>stāstu</strong></WORD>; stāstu, kurā neiztrūkst nenieka</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>, jokdaris un akordeona mīcītājs. Tante Geņa pēcāk <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka tas esot Valerjans. Ļerka. Tā viņu godināja vietējie</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>, jokdaris un akordeona mīcītājs. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Tante Geņa</WORD> pēcāk <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka tas esot Valerjans.</WORD> Ļerka. Tā viņu godināja vietējie</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>pieresvietu. Īsos un pavisam skopos vārdos Oto negribīgi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, kas un kā, un kaunīgi nobeidza: " Ja es zinātu, ka</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pieresvietu. Īsos un pavisam skopos vārdos <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Oto</WORD> negribīgi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="c00FF00">kas un kā, un kaunīgi nobeidza</WORD>: " Ja es zinātu, ka</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Vilnis. Kas es tāds esmu. Kas tēvs, kas māte. Indra. <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Pastāstīji</WORD>? Vilnis. Apmēram. Šim laba atmiņa. Visus atceras.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>viņš ir labsirdīgs un strādīgs. Un tagad, kad es jums <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD> visu, gribu pateikt, ka īstenībā nebija nekāda ugunsgrēka</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>viņš ir labsirdīgs un strādīgs. Un tagad, kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Dat" class="cFF0000">jums</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">visu</WORD>, gribu pateikt, ka īstenībā nebija nekāda ugunsgrēka</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>galvas gandrīz uzkrita zaļa čūska! Kad vietējiem par to <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD>, viņi teica, lai nesatraucoties, jo tieši šis zaļais</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vēlēšanās izveidot kaut ko līdzīgu pašai. Par savu ieceri <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD> vienīgi Andrim Ušpelim, kurš man palīdzēja sameklēt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>bērnam ir veselīga attieksme pret attiecībām. Kad es viņai <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD>, ka tētis bija precējies, kad viņa piedzima, Ieva bija</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>nemākslota, impulsīva, dabiska saite starp cilvēkiem. Es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD> šo notikumu, jo man gribējās, lai cilvēki saprastu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>aizpildīt pauzes, izsakot piezīmes par katru garāmgājēju. <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">Pastāstīju</WORD> viņam to, kā skolas laikos mēs ar draudzenēm tā mēdzām</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>līmeņi. Nāk abas sievietes. SABĪNE. Es nenocietos, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD> Elīzai par Eduarda jauno darbiņu. ELĪZA. Eduards jau</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vajadzēja pierādījumus. Es viņam parādīju savas trubas, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD>, kā dzirdu visu, kas augšā notiek, ka zinu, cikos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>sienu biezumā un tā tālāk. Vienas rezonēja, citas ne. <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">Pastāstīju</WORD> Sašam. Saša sagādāja visādus labus materiālus, iedeva</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>tolaik viena māsa tik bija atlikusies. Zvanīju viņai, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīju</WORD>, kas par lietu, bet aptuveni, lielos vilcienos. Viņa</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>. Pārdevējs aiz letes ir pircēja gids. Viņš labprāt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> par jūs ieinteresējošo preci, organizēs degustāciju</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>palīdzēs Jums izvēlēties durvis un tām piemērotu furnitūru, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> par durvju ekspluatāciju un to kopšanu, kā arī atbildēs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>savu dzimteni. Būs arī Valkas iestāžu vadītāji, kuri <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> par darbu valsts struktūrās, " stāsta N. Možarova.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>saimniecību, ar dravu. Protams, pacienās arī ar medu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD>, ka to iegūt nemaz nav tik vienkārši, jo daudzus tūkstošus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>enerģētiskais fokuss - ar to mēs arī sāksim! Tieši gulta „ <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> ", vai laulāto mīlestība būs spēcīga, uzticīga,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pēdējo gadu tendences, ko cilvēki labprāt izvēlas, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> Mēbeļu un interjera centra Spice salona Itehio tirdzniecības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Spice salona „ Alan Deko ” konsultante Dace Bērziņa <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> par pircēju ieradumiem un interesantiem pārsteigumiem sievietēm</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vien. Ja vīrs ar sievu abi apsēdīsies pie sarunu galda, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> viens otram, kādas ir viņu intereses, kas viņus iepriecina</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>noticis. " Nu un ko mēs tagad darīsim? Viņa aizies un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> savējiem par mums, un mums gals klāt. " Tia atgriezās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Vajag Dašku ar liju pie tās dziednieces dabūt, dziedniece <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīs</WORD> Daškai, cik viņas dēls neparasts, lāstu varbūt noņems</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>.. Mairita. Es tūlīt pasaukšu Edgaru, un tu to visu <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">pastāstīsi</WORD> viņa klātbūtnē! Dagnija. Ar lielāko prieku! Mairita</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Danielas un Kristera mīlas stāsta kārtējo cēlienu. - <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Pastāstīsi</WORD> vēlāk. - Vai tu domā, ka man arī vajadzētu tur iet</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>izskatā – – uz mata pēc jums! Edgars. Vai arī jūs mums <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">pastāstīsiet</WORD> kaut ko līdzīgu Agneses leģendai? Dagnija. Kāpēc tad</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>iepriecinājis, kādi jauni atklājumi notikuši bērna dzīvē. <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">Pastāstīsim</WORD> bērniem arī par savu dienu – kas labs un jauns noticis</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>rosinās: „ Mēs to parādīsim, uzzīmēsim, iegaumēsim, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīsim</WORD> mammai un tētim, jo tu taču esi viņu lielākais dārgums</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>akrila nagiem ir dažas atšķirības, par kurām es labprāt <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD>, kas ļaus jums pareizi izvēlēties. Atbild ārste un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>uzlabos mūsu seksuālo dzīvi? * Ko es iegūšu, ja es viņam <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> par savām seksuālajām fantāzijām? * Kas notiks tad</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Ubuntu anglisko versiju. Kādā no tālākajām nodaļām es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> arī, kā jūs vēlāk varēsiet pārslēgties uz latvisko</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>nepieciešamo vidi. Ievads Ubuntu Gnome vidē Šajā nodaļā es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> par svarīgākajiem un biežāk izmantotajiem Ubuntu Gnome</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>svarīga lieta visiem mūsdienu datorlietotājiem tāpēc es jums <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD>, kā Ubuntu Gnome vidē noskaņot jūsu Interneta savienojumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>jāuztraucas, taču, ja jūs neizmantojat šo disku, es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> kā pielikt jaunus repozitorijus. Atveriet System - &amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; Administration</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>šīs programmiņas. Par dažām biežāk izmantotajām es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> nedaudz sīkāk. Deskbar ir rīks, ar kura palīdzību</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Un nav pieveicami. — Kāpēc? Kā tu zini? — Citreiz <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD>. Pa šiem gadiem esmu pieredzējis daudz negantību. Tagad</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>dīvāna. Ria. Ne - e. Augusts. Nāc. Gribi, es tev <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> par briežiem? Kā biologs. Ria. Ha, ha — kā biologs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>dīvāna. Ria. Ne - e. Augusts. Nāc. Gribi, es tev <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> par briežiem? Kā biologs. Ria. Ha, ha — kā biologs</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>" « Neaušojies, Didzi! Mute jāvirina vien būs! " « <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">Pastāstīšu</WORD> par Vidu. Mums kopējas saites. Tikai to neviens nezina</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>jūs neuztraucaties, neskumstat, pasēdēsim te: es jums <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> un jūs paklausāties. Varbūt vēl labāk būs bez tās</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>jūs neuztraucaties, neskumstat, pasēdēsim te: <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> jums <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> un jūs paklausāties. Varbūt vēl labāk būs bez tās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>rudens man patīk, arī tas melnais rudens patīk. Es jums <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> tālāk, klausieties! Tā jau nav, ka nekas dzīvē nebūtu</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>rudens man patīk, arī tas melnais rudens patīk. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Es</WORD> jums <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">pastāstīšu</WORD> tālāk, klausieties! Tā jau nav, ka nekas dzīvē nebūtu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
