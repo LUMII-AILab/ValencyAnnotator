@@ -570,7 +570,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>protams, ieguva arī plusus. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">PAK vadītājs Ruslans Jefimovs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> par turpmākajiem plāniem: “ Esmu gandarīts, ka pilsētnieki</TEXT>
+			<TEXT>protams, ieguva arī plusus. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">PAK vadītājs Ruslans Jefimovs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par turpmākajiem <strong>plāniem</strong></WORD>: “ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Esmu gandarīts, ka pilsētnieki</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -586,131 +586,131 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ir jādodas uz priekšu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Daugavpils augstskolu <strong>beidzēji</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD class="cFF00FF">gan par savu noskaņojumu svētkos, gan par nākotnes plāniem</WORD></TEXT>
+			<TEXT>ir jādodas uz priekšu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Daugavpils augstskolu <strong>beidzēji</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['S','ParAcc']" attribute="ParAcc" class="cFF00FF">gan par savu noskaņojumu svētkos, gan par nākotnes plāniem</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Kvantitāte var ietekmēt kvalitāti Preiļu notāre Sandra Naumova <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka palīgu algošana problēmu neatrisinās, jo visa atbildība</TEXT>
+			<TEXT>Kvantitāte var ietekmēt kvalitāti <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Preiļu notāre Sandra Naumova</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka palīgu algošana problēmu neatrisinās</WORD>, jo visa atbildība</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>” Leonīda brālis Fjodors Orehs, kurš dzīvo blakus, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka viņa saimniecībā “ Zeitiški ” uz pusslodzi strādā</TEXT>
+			<TEXT>” <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Leonīda brālis Fjodors Orehs</WORD>, kurš dzīvo blakus, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka viņa saimniecībā “ Zeitiški ” uz pusslodzi strādā</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tāpēc strādāt par kalponi viņai nav iznācis. L. Gorbika <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka kaimiņos līdz 1940. gadam dzīvoja saimnieks Kolomažņiks</TEXT>
+			<TEXT>tāpēc strādāt par kalponi viņai nav iznācis. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">L. Gorbika</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka kaimiņos līdz 1940. gadam dzīvoja saimnieks Kolomažņiks</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>koģenerācija un kāda situācija ar to ir Daugavpilī, viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka viss ir ļoti vienkārši – ūdens tvaiks sākumā</TEXT>
+			<TEXT>koģenerācija un kāda situācija ar to ir Daugavpilī, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka viss ir ļoti vienkārši – ūdens tvaiks sākumā</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>temperatūra istabā nepārsniedz 18 grādu siltumu. E. Daugelis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka daudzas mājas Daugavpilī varētu maksāt mazāk par</TEXT>
+			<TEXT>temperatūra istabā nepārsniedz 18 grādu siltumu. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">E. Daugelis</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka daudzas mājas Daugavpilī varētu maksāt mazāk par</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Latgale ” ražošanas tehniķi Andreju Rudānu. Viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka firma sadarbojas ar „ Zaļo punktu ”, kas ir starptautiska</TEXT>
+			<TEXT>Latgale ” ražošanas tehniķi Andreju Rudānu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka firma sadarbojas ar „ Zaļo punktu</WORD> ”, kas ir starptautiska</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dārzeņkopības speciāliste Janīna Kursīte „ Latgales Laikam ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka par augļu dārzu un ogulājiem nav jāuztraucas, ja</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">dārzeņkopības speciāliste Janīna Kursīte</WORD> „ <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Latgales <strong>Laikam</strong></WORD> ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka par augļu dārzu un ogulājiem nav jāuztraucas</WORD>, ja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>. A. Salītis un V. Paškevičs „ Latgales Laikam ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka DU mācībspēki uzstājās starptautiskā konferencē</TEXT>
+			<TEXT>. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">A. Salītis un V. Paškevičs</WORD> „ <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Latgales <strong>Laikam</strong></WORD> ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka DU mācībspēki uzstājās starptautiskā konferencē</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>studēt, palīdzēt sev un ģimenei. Fakultātes dekāns <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka brauciena mērķis bija iepazīšanās ar dabas zinību</TEXT>
+			<TEXT>studēt, palīdzēt sev un ģimenei. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Fakultātes <strong>dekāns</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka brauciena mērķis bija iepazīšanās ar dabas zinību</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>” skaidro Inese. Zilā telīte reklāmas nolūkos Inese <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka pagājušajā gadā uzņēmumam „ Preiļu siers ”</TEXT>
+			<TEXT>” skaidro Inese. Zilā telīte reklāmas nolūkos <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Inese</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka pagājušajā gadā uzņēmumam „ Preiļu siers</WORD> ”</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>galvenokārt atkritumu apsaimniekotājfirmas. J. Kalvāns <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka Latvijā tiek ieviesta dalīta atkritumu savākšana</TEXT>
+			<TEXT>galvenokārt atkritumu apsaimniekotājfirmas. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">J. Kalvāns</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka Latvijā tiek ieviesta dalīta atkritumu savākšana</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vispārizglītojošajām skolām un Aizupes pamatskolas. Uzvar ar kvalitāti Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> sacensību galvenā tiesnese, Jelgavas BJSS trenere Lelde</TEXT>
+			<TEXT>vispārizglītojošajām skolām un Aizupes pamatskolas. Uzvar ar kvalitāti <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">sacensību galvenā tiesnese, Jelgavas BJSS trenere Lelde</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Andri Vasiļjevu pazīstu jau trešo gadu, » « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Adams. Jelgavā viņš nav pirmo reizi - šis ir jau trešais</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Andri Vasiļjevu pazīstu jau trešo gadu</WORD>, » « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Adams</WORD>. Jelgavā viņš nav pirmo reizi - šis ir jau trešais</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>la Mexicana » skanēs dienu vēlāk). Kā « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> R. Ašmanis, koncerta repertuārs pieskaņots Valentīndienas</TEXT>
+			<TEXT>la Mexicana » skanēs dienu vēlāk). <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">R. Ašmanis</WORD>, koncerta repertuārs pieskaņots Valentīndienas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>šoreiz uzaicinājumu un izaicinājumu veica grafiķi. Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Alunāna mājas vadītāja Maija Matisa, izstādes nosaukums</TEXT>
+			<TEXT>šoreiz uzaicinājumu un izaicinājumu veica grafiķi. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Alunāna mājas vadītāja Maija Matisa</WORD>, izstādes nosaukums</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Sabiedrisko attiecību sektora vadītājas vietniece Baiba Pušinska <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka iepriekš šādā veidā līdzekļi saziedoti Jelgavas</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Sabiedrisko attiecību sektora vadītājas vietniece Baiba Pušinska</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka iepriekš šādā veidā līdzekļi saziedoti Jelgavas</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>skanēja latviešu komponistu mūzika - kā « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Mūzikas vidusskolas mūzikas pasākumu organizatore Inta</TEXT>
+			<TEXT>skanēja latviešu komponistu mūzika - <WORD json="['Adv']" attribute="Adv" class="c00FF00">kā</WORD> « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mūzikas vidusskolas mūzikas pasākumu organizatore Inta</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pārsteigumus un suvenīrus ar Latvijas 90. gadadienas simboliku. Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> projekta organizatore Baiba Lange, kastē atrodamas, piemēram</TEXT>
+			<TEXT>pārsteigumus un suvenīrus ar Latvijas 90. gadadienas simboliku. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">projekta organizatore Baiba Lange</WORD>, kastē atrodamas, piemēram</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>speciālās pamatskolas skolotāja Anna Jēkabsone « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka mācību iestādes audzēkņi līdzīgos konkursos piedalās</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">speciālās pamatskolas skolotāja Anna Jēkabsone</WORD> « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka mācību iestādes audzēkņi līdzīgos konkursos piedalās</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>īpašām vajadzībām » sastāvdaļa. Kā « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Jelgavas rajona padomes projektu vadītāja Dace Vācere</TEXT>
+			<TEXT>īpašām vajadzībām » sastāvdaļa. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Jelgavas rajona padomes projektu vadītāja Dace Vācere</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pasniedzēju komanda. Fakultātes dekāns Gunārs Pētersons <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka pasākumus gatavojusi un līdz pēdējam brīdim noslēpumā</TEXT>
+			<TEXT>pasniedzēju komanda. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Fakultātes dekāns Gunārs Pētersons</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka pasākumus gatavojusi un līdz pēdējam brīdim noslēpumā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>viesojās arī Jelgavas krievu biedrība « Istok ». Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> idejas autore un kolektīva « Ija » vadītāja Natālija</TEXT>
+			<TEXT>viesojās arī Jelgavas krievu biedrība « Istok ». Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">idejas autore un kolektīva « Ija » vadītāja Natālija</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>informācija būs vajadzīga arī tuvākajā nākotnē. Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Jelgavas Zinātniskās bibliotēkas direktore Aija Nadziņa</TEXT>
+			<TEXT>informācija būs vajadzīga arī tuvākajā nākotnē. Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Jelgavas Zinātniskās bibliotēkas direktore Aija Nadziņa</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atklātais čempionāts vieglatlētikā. Kā « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Jelgavas BJSS treneris Austris Cīrulis, šajās sacensībās</TEXT>
+			<TEXT>atklātais čempionāts vieglatlētikā. Kā « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jelgavas BJSS treneris Austris Cīrulis</WORD>, šajās sacensībās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Vienīgos vārtus mājinieki guva ar 11 metru soda sitienu. Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> FK « Ozolnieki » prezidents un spēlētājs Dainis Broks</TEXT>
+			<TEXT>Vienīgos vārtus mājinieki guva ar 11 metru soda sitienu. Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">FK « Ozolnieki » prezidents un spēlētājs Dainis Broks</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sīvā konkurencē izcīnīja trešo vietu. Kā « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> cīņu kluba « Milons » treneris Andris Vasiļjevs, Latviju</TEXT>
+			<TEXT>sīvā konkurencē izcīnīja trešo vietu. Kā « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">cīņu kluba « Milons » treneris Andris Vasiļjevs</WORD>, Latviju</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>jelgavnieku redzes pārbaudes procedūrā, « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka liels riska faktors saslimstībā ar glaukomu ir iedzimtība</TEXT>
+			<TEXT>jelgavnieku redzes pārbaudes procedūrā, « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka liels riska faktors saslimstībā ar glaukomu ir iedzimtība</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dienas ». Nodaļas vadītāja Solvita Dzērve « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka visaktīvākie kolektīvo asins nodošanas akciju organizētāji</TEXT>
+			<TEXT>dienas ». <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Nodaļas vadītāja Solvita Dzērve</WORD> « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka visaktīvākie kolektīvo asins nodošanas akciju organizētāji</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>neviena Jelgavas rajona zemnieku saimniecība, « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> Zemgales Lauku konsultāciju biroja vadītāja Eleonora Maisaka</TEXT>
+			<TEXT>neviena Jelgavas rajona zemnieku saimniecība, « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Zemgales Lauku konsultāciju biroja vadītāja Eleonora Maisaka</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pagasta « Silāču » saimniece Daina Neimane « Ziņām » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka šogad karstā laika dēļ visi darbi tiek darīti agrāk</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">pagasta « Silāču » saimniece Daina Neimane</WORD> « <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">Ziņām</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka šogad karstā laika dēļ visi darbi tiek darīti agrāk</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>teica G. Krūmiņš. « Bauskas Dzīvei » Edvīns Buiko <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka viņam patīk zīmēt, piedalīties dažādos konkursos</TEXT>
+			<TEXT>teica G. Krūmiņš. « Bauskas Dzīvei » <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Edvīns Buiko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">pastāstīja</WORD>, ka viņam patīk zīmēt, piedalīties dažādos konkursos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
