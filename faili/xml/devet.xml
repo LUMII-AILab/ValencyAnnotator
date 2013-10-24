@@ -2,24 +2,21 @@
 <CONTENT>
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Pacienss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><text></text></TEXT>
+			<TEXT>vēsa kā tāla, nepieejama zvaigzne. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">Franču <strong>kritiķi</strong></WORD> viņu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par visnoslēpumaināko aktrisi, kas rūpīgi slēpj savu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vēsa kā tāla, nepieejama zvaigzne. Franču kritiķi viņu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par visnoslēpumaināko aktrisi, kas rūpīgi slēpj savu</TEXT>
+			<TEXT>- marts, kad notika ziemas padzīšanas rituāls. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">Viņu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par auglības un augu valsts, par visa nezināmā, bīstamā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>- marts, kad notika ziemas padzīšanas rituāls. Viņu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par auglības un augu valsts, par visa nezināmā, bīstamā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>mācās, viņam ir bagāta iekšējā pasaule. Bieži viņu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par “ profesoru ”. Viņš savā ziņā dzīvo “ fantāziju</TEXT>
+			<TEXT>mācās, viņam ir bagāta iekšējā pasaule. Bieži <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">viņu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par “ profesoru ”. Viņš savā ziņā dzīvo “ fantāziju</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -63,7 +60,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Vekls. Par vienu no saviem jaunākajiem atklājumiem viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> « drum &amp;amp;amp;amp;amp;amp; bass » bundzinieku Džodžo Maijeru. Pirmklasnieks</TEXT>
+			<TEXT>Vekls. Par vienu no saviem jaunākajiem atklājumiem viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> « drum &amp;amp;amp;amp;amp;amp;amp; bass » bundzinieku Džodžo Maijeru. Pirmklasnieks</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
