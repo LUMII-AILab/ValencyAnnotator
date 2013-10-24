@@ -3,7 +3,7 @@
 	<CATEGORIES>
 		<CATEGORY id="c00FF00">Pacienss</CATEGORY>
 		<CATEGORY id="cFFFF00">Veids</CATEGORY>
-		<CATEGORY id="cFF00FF">Eksperienss</CATEGORY>
+		<CATEGORY id="cFF00FF">Eksperienss?</CATEGORY>
 		<CATEGORY id="cFF0000">Joma!</CATEGORY>
 		<CATEGORY id="c00FFFF">Rezultāts!</CATEGORY>
 		<CATEGORY id="cC00000">Laiks: biežums</CATEGORY>
@@ -90,23 +90,23 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>it visur, pat vietējā universālveikalā. <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="cFFFF00">Neslēpti</WORD> <WORD json="['Adv','Nom']" attribute="Nom" class="c00FF00">tā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">Padomju Savienības sabrukuma <strong>laikā</strong></WORD>, kad pārtiku un saimniecības</TEXT>
+			<TEXT>it visur, pat vietējā universālveikalā. <WORD json="['V1','V2','V3','Inf','Adv']" attribute="Adv" class="cFFFF00">Neslēpti</WORD> <WORD json="['Adv','Nom']" attribute="Nom" class="c00FF00">tā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">Padomju Savienības sabrukuma <strong>laikā</strong></WORD>, kad pārtiku un saimniecības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sarauties vainas un sāpju pārņemtā čokurā. Toreiz <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> romantiski. Es varēju stundām ilgi vērot saulrieta jūru</TEXT>
+			<TEXT>sarauties vainas un sāpju pārņemtā čokurā. <WORD json="['Adv']" attribute="Adv" class="cC0C000">Toreiz</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFFFF00">romantiski</WORD>. Es varēju stundām ilgi vērot saulrieta jūru</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sajūtu, ka manā sejā ir sāpju izteiksme. Vēlāk <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> kā riebums pret paša ķermeni. Pavisam vēlāk - kā pašiznīcināšanās</TEXT>
+			<TEXT>sajūtu, ka manā sejā ir sāpju izteiksme. Vēlāk <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['S','KāNom']" attribute="KāNom" class="c00FFFF">kā riebums pret paša ķermeni</WORD>. Pavisam vēlāk - kā pašiznīcināšanās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kopīgā darbā. Vienotība, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> globālā - tautas - mērogā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> vienotā stāvēšanā uz barikādēm un vienotos mītiņos</TEXT>
+			<TEXT>kopīgā darbā. Vienotība, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> globālā - tautas - mērogā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">vienotā stāvēšanā uz barikādēm un vienotos mītiņos</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>— kolektīvā interešu strīda risināšanas veids, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> tādējādi, ka uzņēmuma, nozares darbinieki vai darbinieku</TEXT>
+			<TEXT>— kolektīvā interešu strīda risināšanas veids, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Adv']" attribute="Adv" class="cFFFF00">tādējādi</WORD>, ka uzņēmuma, nozares darbinieki vai darbinieku</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -114,83 +114,83 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>piedzimšanas kārtība ietekmē cilvēka dzīves stilu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> risinot galvenās dzīves problēmas. [ 29., 178 ] Piedzimšanas</TEXT>
+			<TEXT>piedzimšanas kārtība ietekmē cilvēka dzīves stilu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Part']" attribute="Part" class="c00FFFF">risinot galvenās dzīves problēmas</WORD>. [ 29., 178 ] Piedzimšanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Bērna un vecāku savstarpējo attiecību <strong>apzināšanās</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">bērna <strong>izteicienos</strong></WORD>, rīcībā, garastāvoklī. [ 12.,</TEXT>
+			<TEXT>. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Bērna un vecāku savstarpējo attiecību <strong>apzināšanās</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">bērna izteicienos, rīcībā, garastāvoklī</WORD>. [ 12.,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nekā pret citu personu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Tiešā dzimumu <strong>diskriminācija</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> situācijās, kur sievietei vai vīrietim dzimuma dēļ</TEXT>
+			<TEXT>nekā pret citu personu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Tiešā dzimumu <strong>diskriminācija</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">situācijās</WORD>, kur sievietei vai vīrietim dzimuma dēļ</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>– visticamāk – to neņems ). <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Netiešā <strong>diskriminācija</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> arī situācijās, kurās pastāv noteikti pieņēmumi par</TEXT>
+			<TEXT>– visticamāk – to neņems ). <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Netiešā <strong>diskriminācija</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> arī <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">situācijās</WORD>, kurās pastāv noteikti pieņēmumi par</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>neuzmanība un nespēja koncentrēties mācībām klasē, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> kā aizsapņošanās, klasesbiedru vērošana vai traucēšana</TEXT>
+			<TEXT>neuzmanība un nespēja koncentrēties mācībām klasē, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['S','KāNom']" attribute="KāNom" class="c00FFFF">kā aizsapņošanās</WORD>, klasesbiedru vērošana vai traucēšana</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>paši nevar iekļūt, un tas rada spriedzi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> vienlaicīgi <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> mazdūšībā un vardarbībā. Viņi saskaras ar Francijas</TEXT>
+			<TEXT>paši nevar iekļūt, un tas rada spriedzi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> vienlaicīgi <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">mazdūšībā un vardarbībā</WORD>. Viņi saskaras ar Francijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>attīstības dažādās formas. Kultūra ir eksistences veids, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> visdažādākajās attieksmēs un cilvēku radītajās lietās</TEXT>
+			<TEXT>attīstības dažādās formas. Kultūra ir eksistences veids, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">visdažādākajās attieksmēs un cilvēku radītajās lietās</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nenošķir nozīmi ( jēgu ) no dabiskajiem apstākļiem. Mītos <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">seno tautu priekšstati par pasaules izcelšanos un dabas</WORD></TEXT>
+			<TEXT>nenošķir nozīmi ( jēgu ) no dabiskajiem apstākļiem. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">Mītos</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">seno tautu priekšstati par pasaules izcelšanos un dabas</WORD></TEXT>
+			<COMMENT>jomveidīgs?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>saskaroties ar citām kultūrām ). <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Nom" class="c00FF00"><strong>Saskarsme</strong> ar citām kultūrām</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">kultūras aizguvumu veidā</WORD> ( kultūras atdarina viena otru</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>saskaroties ar citām kultūrām ). <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Nom" class="c00FF00"><strong>Saskarsme</strong> ar citām kultūrām</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> kultūras aizguvumu veidā ( kultūras atdarina viena otru</TEXT>
+			<TEXT>rezultātā sāk dominēt ekonomiskā vara, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> kultūrā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['S','KāNom']" attribute="KāNom" class="c00FFFF">kā ekonomiskais totalitārisms</WORD>. Multikulturālisms –</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>rezultātā sāk dominēt ekonomiskā vara, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> kultūrā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> kā ekonomiskais totalitārisms. Multikulturālisms –</TEXT>
+			<TEXT>varu pār citu indivīdu rīcību, domām vai gribu. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Vara</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">dažādos <strong>veidos</strong></WORD>, jomās un sociālās grupās ( koris un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>varu pār citu indivīdu rīcību, domām vai gribu. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Vara</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> dažādos veidos, jomās un sociālās grupās ( koris un</TEXT>
+			<TEXT>pagrūti noteikt, kura roka viņiem dominē, tā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFFFF00">īsti</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">skolas <strong>vecumā</strong></WORD>. Vecumā līdz trīs gadiem labroču skaits</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pagrūti noteikt, kura roka viņiem dominē, tā īsti <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> skolas vecumā. Vecumā līdz trīs gadiem labroču skaits</TEXT>
+			<TEXT>roku, bet zobu birsti un tenisa raketi tur otrā. <WORD json="['Adv']" attribute="Adv" class="cFFFF00">Tā</WORD> tikai <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">variāciju <strong>fakts</strong></WORD> - kam cilvēks dod priekšroku dažādos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>roku, bet zobu birsti un tenisa raketi tur otrā. Tā tikai <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">variāciju <strong>fakts</strong></WORD> - kam cilvēks dod priekšroku dažādos</TEXT>
+			<TEXT>Daugavpili, redzams, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Atlantijas okeāna <strong>ietekme</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFFFF00">spilgti</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cC0C000">ziemā</WORD>, it sevišķi minimālo temperatūru sadalījumā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Daugavpili, redzams, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Atlantijas okeāna <strong>ietekme</strong></WORD> spilgti <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> ziemā, it sevišķi minimālo temperatūru sadalījumā</TEXT>
+			<TEXT>ģimenes, lai gan mūsdienās vairumā gadījumu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">mīlestība</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Adv']" attribute="Adv" class="cFFFF00">tieši <strong>tā</strong></WORD> Mīlestības pazīmes Diemžēl mīlestības būtiskākās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ģimenes, lai gan mūsdienās vairumā gadījumu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">mīlestība</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> tieši tā Mīlestības pazīmes Diemžēl mīlestības būtiskākās</TEXT>
+			<TEXT>saasināties, pieaugot ieceļotāju skaitam, vai arī jau <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['S','KāNom']" attribute="KāNom" class="c00FFFF">kā <strong>diskriminācija</strong> juridiskā izpratnē.</WORD> Kopumā tas norāda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>saasināties, pieaugot ieceļotāju skaitam, vai arī jau <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> kā diskriminācija juridiskā izpratnē. Kopumā tas norāda</TEXT>
+			<TEXT>jāuzsver, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">krimināltiesību <strong>politika</strong></WORD> tiek nostiprināta un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">likumdevēja regulētās krimināllikuma <strong>normās</strong></WORD>, tādējādi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>jāuzsver, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">krimināltiesību <strong>politika</strong></WORD> tiek nostiprināta un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> likumdevēja regulētās krimināllikuma normās, tādējādi</TEXT>
+			<TEXT>raksturīgais kultūras mantojums un cilvēku raksturs, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">neatlaidībā izvirzīto mērķu <strong>sasniegšanā</strong></WORD>, kā arī</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>raksturīgais kultūras mantojums un cilvēku raksturs, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> neatlaidībā izvirzīto mērķu sasniegšanā, kā arī</TEXT>
+			<TEXT>sastāvdaļas aizstājot ar dažādām piedevām. « <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Tas</WORD> uzskatāmi <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">skābā krējuma <strong>ražošanā</strong></WORD>, kad tā gatavošanā izmanto</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sastāvdaļas aizstājot ar dažādām piedevām. « <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Tas</WORD> uzskatāmi <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> skābā krējuma ražošanā, kad tā gatavošanā izmanto</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>aparātu, kāda ir līdzsvara un stabilitātes loma, kā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FF00">skolioze, lordoze un kifoze</WORD>, mācījās sastādīt vingrojumu</TEXT>
+			<TEXT>aparātu, kāda ir līdzsvara un stabilitātes loma, <WORD json="['Adv']" attribute="Adv" class="cFFFF00">kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FF00">skolioze, lordoze un kifoze</WORD>, mācījās sastādīt vingrojumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
