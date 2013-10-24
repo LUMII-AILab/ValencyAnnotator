@@ -5,6 +5,8 @@
 		<CATEGORY id="c00FF00">Eksperienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Pacienss</CATEGORY>
 		<CATEGORY id="cFF0000">Joma vai tml.!</CATEGORY>
+		<CATEGORY id="c00FFFF">Veids?</CATEGORY>
+		<CATEGORY id="cC00000">Cēlonis!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -50,7 +52,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>viņiem būs nākotnē jāsadarbojas ar jebkuru kandidātu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> vēlēšanās. Taču šajās vēlēšanās tieša atbalsta</TEXT>
+			<TEXT>viņiem būs nākotnē jāsadarbojas ar jebkuru kandidātu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">vēlēšanās</WORD>. Taču šajās vēlēšanās tieša atbalsta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -62,15 +64,15 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>īpaši tad, ja nav vajadzīgs visas koalīcijas balsojums, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> partijai pietuvināti <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">cilvēki</WORD>. Tāpat, neraugoties uz</TEXT>
+			<TEXT>īpaši tad, ja nav vajadzīgs visas koalīcijas balsojums, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">partijai pietuvināti <strong>cilvēki</strong></WORD>. Tāpat, neraugoties uz</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Vairāk satrauc nu jau pieredzētie gadījumi – kad konkursā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darbuzņēmējs</WORD> ar zemākās cenas piedāvājumu, un, iepriekš</TEXT>
+			<TEXT>Vairāk satrauc nu jau pieredzētie gadījumi – kad <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">konkursā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darbuzņēmējs</WORD> ar zemākās cenas piedāvājumu, un, iepriekš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>darbā, kļūst talantīgs savā jomā. Tikai tas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">komandieris</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> karā, kas jau labu laiku iepriekš ir nostādījis skaidrus</TEXT>
+			<TEXT>darbā, kļūst talantīgs savā jomā. Tikai tas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">komandieris</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">karā</WORD>, kas jau labu laiku iepriekš ir nostādījis skaidrus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -78,19 +80,19 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dakšiņas uzdurtus gardus baltās gaļas kumosiņus. Ziņkārība <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>, un iemetu acis rēķinā – šīs ir dārgākās pusdienas</TEXT>
+			<TEXT>dakšiņas uzdurtus gardus baltās gaļas kumosiņus. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Ziņkārība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>, un iemetu acis rēķinā – šīs ir dārgākās pusdienas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vajadzības, vēlmes un intereses. Divu pušu konkurencē parasti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tas</WORD>, kam ir lielāka vara, resursi un mazāka vajadzība</TEXT>
+			<TEXT>vajadzības, vēlmes un intereses. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Divu pušu <strong>konkurencē</strong></WORD> parasti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tas</WORD>, kam ir lielāka vara, resursi un mazāka vajadzība</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, jo ir pārāk daudz emociju un bieži vien gribas, lai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> tava taisnība, bet tas acīmredzami traucē uzklausīt</TEXT>
+			<TEXT>, jo ir pārāk daudz emociju un bieži vien gribas, lai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">tava taisnība</WORD>, bet tas acīmredzami traucē uzklausīt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>laikā). Pēc pusotra gada notiek vēlēšanas, kurās <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Taksina jaunizveidotā <strong>partija</strong></WORD>, taču šie rezultāti tiek</TEXT>
+			<TEXT>laikā). Pēc pusotra gada notiek vēlēšanas, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">kurās</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Taksina jaunizveidotā <strong>partija</strong></WORD>, taču šie rezultāti tiek</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
