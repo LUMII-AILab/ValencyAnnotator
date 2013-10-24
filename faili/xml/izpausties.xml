@@ -12,7 +12,7 @@
 		<CATEGORY id="c0000FF">Agenss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
-		<SENTENCE_CATEGORY id="s00FF00">Kļūt uztveramam noteiktā veidā</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="s00FF00">Kļūt uztveramam noteiktā veidā, praktiski realizēties</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFFFF00">Praktiski realizēties</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF00FF">Atveidot mākslā</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
@@ -181,7 +181,7 @@
 			<TEXT>saasināties, pieaugot ieceļotāju skaitam, vai arī jau <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['S','KāNom']" attribute="KāNom" class="c00FFFF">kā <strong>diskriminācija</strong> juridiskā izpratnē.</WORD> Kopumā tas norāda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>jāuzsver, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">krimināltiesību <strong>politika</strong></WORD> tiek nostiprināta un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">likumdevēja regulētās krimināllikuma <strong>normās</strong></WORD>, tādējādi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
