@@ -11,15 +11,18 @@
 		<CATEGORY id="cC0C000">Laiks?</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Kļūt uztveramam noteiktā veidā</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Praktiski realizēties</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Atveidot mākslā</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>﻿galvenais. Satikās cilvēki, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kuru turpmākā <strong>sadarbība</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">lieliskos kultūras <strong>kopdarbos</strong></WORD> visā Eiropā. Šogad, decembra</TEXT>
 			<COMMENT>Baiba (sākts) eksperienss vai kas?</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>bija ļoti laba akadēmiskā izglītība, bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">bieži vien</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">viņu pārāk straujais <strong>raksturs</strong></WORD>. Abi šie pretendenti bija</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>iespējams, ka joma = rezultāts</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>spēli, tādēļ zaudējums bija pelnīts. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">Kārtējo <strong>reizi</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FF00"><strong>nespēja</strong> realizēt labus vārtu gūšanas momentus</WORD>. Vēl</TEXT>
@@ -258,7 +261,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>var būt individuālas un <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">10 procentiem <strong>pacientu</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">slimība</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFFFF00">pavisam <strong>netipiski</strong></WORD>. Visbiežāk akūtos stāvokļos – infarkta</TEXT>
+			<TEXT>var būt individuālas un <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Gen" class="cFF00FF">10 procentiem <strong>pacientu</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">slimība</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFFFF00">pavisam <strong>netipiski</strong></WORD>. Visbiežāk akūtos stāvokļos – infarkta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -322,11 +325,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>platāka un sērojot garāka. <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">Visām cilvēku <strong>rasēm</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">prieks</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">vienādi</WORD> un ir viegli pazīstams pēc smaida. Smaida zaudējums</TEXT>
+			<TEXT>platāka un sērojot garāka. <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">Visām cilvēku <strong>rasēm</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">prieks</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFFFF00">vienādi</WORD> un ir viegli pazīstams pēc smaida. Smaida zaudējums</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>citiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Mūsu radošums un individualitāte</WORD> visspilgtāk <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">tieši <strong>attiecībās</strong> ar citiem cilvēkiem</WORD>. Ar tiem, kas</TEXT>
+			<TEXT>citiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Mūsu radošums un individualitāte</WORD> visspilgtāk <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Loc" class="cFF0000">tieši <strong>attiecībās</strong> ar citiem cilvēkiem</WORD>. Ar tiem, kas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -522,24 +525,24 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>drāž tās. Šaušalīgi ! Bet tā ir māksla ! Caur to <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">cilvēku <strong>raksturi</strong></WORD> ! Bet kur jums ir raksturi ? Nekur ! 9</TEXT>
+			<TEXT>drāž tās. Šaušalīgi ! Bet tā ir māksla ! <WORD json="['CaurDat','CaurAcc']" attribute="CaurAcc" class="c00FFFF">Caur <strong>to</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">cilvēku <strong>raksturi</strong></WORD> ! Bet kur jums ir raksturi ? Nekur ! 9</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vampīrs. ASKOLDS. Es biju domājis, ka te vienkārši <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FF00">viņas daudznozīmīgā <strong>attieksme</strong> pret ārstējošo ārstu</WORD></TEXT>
+			<TEXT>vampīrs. ASKOLDS. Es biju domājis, ka <WORD json="['Adv']" attribute="Adv" class="c00C000">te</WORD> vienkārši <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FF00">viņas daudznozīmīgā <strong>attieksme</strong> pret ārstējošo ārstu</WORD></TEXT>
+			<COMMENT>adv = joma?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>kāpšanos prom, un – īstenību, to pašu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> vienubrīd <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['S','KāNom']" attribute="KāNom" class="c00FFFF">kā <strong>svešinieks</strong></WORD>, pienāk klāt. un tu jau redzi rokās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kāpšanos prom, un – īstenību, to pašu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> vienubrīd <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> kā svešinieks, pienāk klāt. un tu jau redzi rokās</TEXT>
+			<TEXT>nāk vēlu, tāpat kā pār mūsu mīļo Latvijas presi, un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">īstā teļa <strong>priekā</strong></WORD>... Ticiāns. Nu, labrīt ! Biruta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nāk vēlu, tāpat kā pār mūsu mīļo Latvijas presi, un <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> īstā teļa priekā... Ticiāns. Nu, labrīt ! Biruta</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ļoti svarīgs latviskums. Un tas ir saprotams, jo tajā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">viņu <strong>ilgas</strong> pēc Latvijas, pēc tās piederības, kura</WORD></TEXT>
-			<COMMENT></COMMENT>
+			<TEXT>ļoti svarīgs latviskums. Un tas ir saprotams, jo <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00C000">tajā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">viņu <strong>ilgas</strong> pēc Latvijas, pēc tās piederības, kura</WORD></TEXT>
+			<COMMENT>lokatīvs = joma?</COMMENT>
 		</SENTENCE>
 	</SENTENCES>
 </CONTENT>
