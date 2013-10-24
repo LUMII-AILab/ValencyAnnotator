@@ -13,7 +13,6 @@
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Kļūt uztveramam noteiktā veidā, praktiski realizēties</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFFFF00">Praktiski realizēties</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF00FF">Atveidot mākslā</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
@@ -94,7 +93,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>Dialogu par dialogu dēvēt gan var tikai nosacīti. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c0000FF">Amilda</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">monologos</WORD>, kurus Pārliekas sakāpinātības brīžos Jurģis</TEXT>
+			<TEXT>Dialogu par dialogu dēvēt gan var tikai nosacīti. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c0000FF">Amilda</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaudās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">monologos</WORD>, kurus Pārliekas sakāpinātības brīžos Jurģis</TEXT>
 			<COMMENT>??? realizējās</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -386,8 +385,8 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>: " Arī citi ! Visi ir draugi ! " <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cC00000">Reizēm</WORD> gan <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">draudzība</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD>, <WORD json="['NoDat','NoGen','Part']" attribute="Part" class="c00FFFF">no centīgā Mareka norakstot mājas darbu vai pašpikojot</WORD></TEXT>
-			<COMMENT></COMMENT>
+			<TEXT>: " Arī citi ! Visi ir draugi ! " Reizēm gan <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">draudzība</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD>, <WORD json="['NoDat','NoGen','Part']" attribute="Part" class="c00FFFF">no centīgā Mareka norakstot mājas darbu vai pašpikojot</WORD></TEXT>
+			<COMMENT>perifērs biežums</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Neatkarīgajā teātrī " Kabata " <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">raksturotājas <strong>spējas</strong></WORD> spoži <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="V3" class="verbs">izpaužas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FFFF">Pamātes <strong>tēlā</strong></WORD> J. Švarca lugā " Pelnrušķīte ". Aktrises</TEXT>
