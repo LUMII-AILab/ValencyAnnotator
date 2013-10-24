@@ -7,15 +7,16 @@
 		<CATEGORY id="cFF0000">Vērtējums!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Piešķirt nosaukumu, apzīmējumu</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>vēsa kā tāla, nepieejama zvaigzne. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">Franču <strong>kritiķi</strong></WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">viņu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par visnoslēpumaināko aktrisi, kas rūpīgi slēpj savu</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>Baiba (gatavs)</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>- marts, kad notika ziemas padzīšanas rituāls. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">Viņu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par auglības un augu valsts, par visa nezināmā, bīstamā</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>vērtējums varētu būt arī pazīme</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>mācās, viņam ir bagāta iekšējā pasaule. Bieži <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">viņu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par “ profesoru ”. Viņš savā ziņā dzīvo “ fantāziju</TEXT>
@@ -350,11 +351,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>bezaizspriedumu mīlestību pret tiem citiem, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> viņa tautieši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par barbariem. Izlējis asiņu paltis kaujas laukā, viņš</TEXT>
+			<TEXT>bezaizspriedumu mīlestību pret tiem citiem, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa <strong>tautieši</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par barbariem. Izlējis asiņu paltis kaujas laukā, viņš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dziesmu ģitāras pavadībā. Ievas mātei, kā <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">viņu</WORD> mīļi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> pagasta ļaudis, patīk visas vecās dziesmas. Viņai skanēja</TEXT>
+			<TEXT>dziesmu ģitāras pavadībā. Ievas mātei, kā <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">viņu</WORD> mīļi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pagasta <strong>ļaudis</strong></WORD>, patīk visas vecās dziesmas. Viņai skanēja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -362,7 +363,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pludmales apmeklējumu rakstīja kāds vīrietis, kurš <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sevi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par Mefu. Kaut nūdisti savu skaitu lēsa ap 100 cilvēkiem</TEXT>
+			<TEXT>pludmales apmeklējumu rakstīja kāds vīrietis, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sevi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par Mefu. Kaut nūdisti savu skaitu lēsa ap 100 cilvēkiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -370,7 +371,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>”; kas cēlies no “ HiWORDia ”, kā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>teritoriju</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> romieši. Taču vietējie dižciltīgie nevēlējās atzīt</TEXT>
+			<TEXT>”; kas cēlies no “ HiWORDia ”, kā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šo <strong>teritoriju</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">romieši</WORD>. Taču vietējie dižciltīgie nevēlējās atzīt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -378,7 +379,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, vairāki cilvēki no viņa šaubīgā draugu loka, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00FF00">kuru</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par The Ohio Gang (Ohaio banda), ieguva labus amatus valdībā</TEXT>
+			<TEXT>, vairāki cilvēki no viņa šaubīgā draugu loka, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par The Ohio Gang (Ohaio banda), ieguva labus amatus valdībā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -390,79 +391,63 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>darbi pamatā tapuši rakstnieka Jamaikas villā, kuru viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> tāpat kā vienu no romāniem – par Goldeneye. Runā,</TEXT>
+			<TEXT>darbi pamatā tapuši rakstnieka Jamaikas villā, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> tāpat kā vienu no romāniem – par Goldeneye. Runā,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>un mūžības. No pieturas līdz « namiņam », kā Aina <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> savu darbavietu, atlika nepilnu divu minūšu gājiens.</TEXT>
+			<TEXT>un mūžības. No pieturas līdz « namiņam », <WORD json="['Adv']" attribute="Adv" class="c00FF00">kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aina</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> savu darbavietu, atlika nepilnu divu minūšu gājiens.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Jautrāk palika, kad ieradās šā bāra skaistules. Tās visi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par Mazo pupu un Kaktusa ziedu. Viņas nemaz nebija tik</TEXT>
+			<TEXT>Jautrāk palika, kad ieradās šā bāra skaistules. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Tās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par Mazo pupu un Kaktusa ziedu. Viņas nemaz nebija tik</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>piecēlās ļoti daiļa meitene zilām acīm, kuru ciema ļaudis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par gaišredzīgu. Viņu sauca Santa, un viņa bija ciema</TEXT>
+			<TEXT>piecēlās ļoti daiļa meitene zilām acīm, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ciema <strong>ļaudis</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par gaišredzīgu. Viņu sauca Santa, un viņa bija ciema</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sataisīta. Turpmāk Līst tauta bija pilskalns, un turpmāk to <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par Velēnu pilskalnu. To neviens svešs, ne mūsējs netika</TEXT>
+			<TEXT>sataisīta. Turpmāk Līst tauta bija pilskalns, un turpmāk <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēja</WORD> par Velēnu pilskalnu. To neviens svešs, ne mūsējs netika</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Deivids Harovers droši izvēlas tēmu un sīki analizē to, ko <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> par „ tabū ”. Tāpēc katrs no šiem personāžiem</TEXT>
+			<TEXT>Deivids Harovers droši izvēlas tēmu un sīki analizē to, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> par „ tabū ”. Tāpēc katrs no šiem personāžiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Deivids Harovers droši izvēlas tēmu un sīki analizē to, ko <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> par „ tabū ”. Tāpēc katrs no šiem personāžiem</TEXT>
+			<TEXT>uzmanību viņam.... ” Tas, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">savus <strong>locekļus</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> mīļvārdiņos, ir visai tālu no patiesības. Tas drīzāk</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nodrošinās atalgojumu minimālās algas līmenī, savukārt darba <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> jāsedz nodokļu maksājumi. Pagaidu darbos lielākoties</TEXT>
+			<TEXT>prestiža darba jeb „ siltas vietiņas ”, kā <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00FF00">to</WORD> dažkārt <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD>. Tāpat ir saprotams, kādēļ iemācītā bezpalīdzība</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>uzmanību viņam.... ” Tas, ka mēs savus locekļus <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> mīļvārdiņos, ir visai tālu no patiesības. Tas drīzāk</TEXT>
+			<TEXT>melojot cilvēks tic, ka saka patiesību? Vai tie, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">kurus</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> par „ patoloģiskiem meļiem ”, spēj atzīt, ka melo</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>prestiža darba jeb „ siltas vietiņas ”, kā to dažkārt <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD>. Tāpat ir saprotams, kādēļ iemācītā bezpalīdzība</TEXT>
+			<TEXT>interesants vai novērtēts. Pierasts, ka <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">šādus <strong>cilvēkus</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> par fantazētājiem, „ tukšu runātājiem ” un, zinot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>melojot cilvēks tic, ka saka patiesību? Vai tie, kurus <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> par „ patoloģiskiem meļiem ”, spēj atzīt, ka melo</TEXT>
+			<TEXT>ka vajag aizšaut pie “ kurrātiem ” (tā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> mīļi <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">kaimiņus <strong>igauņus</strong></WORD>, jo viņu niknākais lamuvārds skan</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>interesants vai novērtēts. Pierasts, ka šādus cilvēkus <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> par fantazētājiem, „ tukšu runātājiem ” un, zinot</TEXT>
+			<TEXT>zināšanas par tēmām, kas jau iepriekš apgūtas. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">To</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvēju</WORD> par mūsu skolas meistarklasi. Noteikta arī mēneša mācību</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ka vajag aizšaut pie “ kurrātiem ” (tā mēs mīļi <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvējam</WORD> kaimiņus igauņus, jo viņu niknākais lamuvārds skan</TEXT>
+			<TEXT>ar mani. Tikai <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD>, ko citi sauc par iemīlēšanos, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvēju</WORD> par ļoti stipru savaldzinātību. 9 BRUNO. Un tā jums</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>redzēt savā nākamajā darbiniekā. „ Diezgan bieži darba <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">dēvēji</WORD> nepievērš pietiekošu uzmanību skaidrai uzņēmuma piedāvājuma</TEXT>
+			<TEXT>dzīvoju bailēs no šāda elektrošoka, jo tieši <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvēju</WORD> par VIĻA LĀČA SINDROMU, kurš ar katru gadu nevis mazinās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>laimi ārpus Latvijas. Turklāt, pēc Roma teiktā, darba <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">dēvēji</WORD> centīsies vairāk „ izspiest ” no pieejamiem darbiniekiem</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>zināšanas par tēmām, kas jau iepriekš apgūtas. To es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvēju</WORD> par mūsu skolas meistarklasi. Noteikta arī mēneša mācību</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ar mani. Tikai to, ko citi sauc par iemīlēšanos, es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvēju</WORD> par ļoti stipru savaldzinātību. 9 BRUNO. Un tā jums</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>dzīvoju bailēs no šāda elektrošoka, jo tieši to es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">dēvēju</WORD> par VIĻA LĀČA SINDROMU, kurš ar katru gadu nevis mazinās</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>piebilst, ka turpmākajās atbildēs par “ Premium ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēs</WORD> alkoholu, kura cena orientējoši pārsniedz 10 latu par</TEXT>
+			<TEXT>piebilst, ka turpmākajās atbildēs par “ Premium ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvēs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">alkoholu</WORD>, kura cena orientējoši pārsniedz 10 latu par</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
