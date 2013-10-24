@@ -4,12 +4,13 @@
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Pacienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Veids</CATEGORY>
+		<CATEGORY id="cFF0000">Vērtējums!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vēsa kā tāla, nepieejama zvaigzne. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">Franču <strong>kritiķi</strong></WORD> viņu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par visnoslēpumaināko aktrisi, kas rūpīgi slēpj savu</TEXT>
+			<TEXT>vēsa kā tāla, nepieejama zvaigzne. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">Franču <strong>kritiķi</strong></WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">viņu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par visnoslēpumaināko aktrisi, kas rūpīgi slēpj savu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -21,15 +22,15 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>gaisa transporta līdzekļi (BGTL) jeb? kā tos dažkārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> - trani tagad arvien vairāk tiek lietoti valsts dienesta</TEXT>
+			<TEXT>gaisa transporta līdzekļi (BGTL) jeb? <WORD json="['Adv']" attribute="Adv" class="cFF00FF">kā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tos</WORD> dažkārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> - trani tagad arvien vairāk tiek lietoti valsts dienesta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>. Tā varētu būt, jo plašākā tvērienā tas, ko tur <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par kultūras antropoloģiju, okeāna šajā pusē ieguvis</TEXT>
+			<TEXT>. Tā varētu būt, jo plašākā tvērienā tas, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> tur <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> par kultūras antropoloģiju, okeāna šajā pusē ieguvis</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>iegūšanas vietas un darbavietas nosaukuma, zinātnieki sevi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> kā par etnogrāfiem un etnologiem, tā arī par kultūras</TEXT>
+			<TEXT>iegūšanas vietas un darbavietas nosaukuma, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">zinātnieki</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sevi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">dēvē</WORD> kā par etnogrāfiem un etnologiem, tā arī par kultūras</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
