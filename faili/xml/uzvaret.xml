@@ -9,7 +9,7 @@
 		<CATEGORY id="cC00000">Cēlonis!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
-		<SENTENCE_CATEGORY id="s00FF00">Pārspēt pretinieku, gūt uzvaru kādā pasākumā</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="s00FF00">Pārspēt pretinieku, konkurentu, gūt uzvaru kādā pasākumā</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFFFF00">Gūt pārsvaru, dominēt</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
@@ -269,7 +269,7 @@
 			<TEXT>meistarsacīkstēs smaiļošanā un kanoe <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">airēšanā</WORD> komandu vērtējumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">4. vidusskolas <strong>sportisti</strong></WORD>, tikai par trim punktiem apsteidzot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>airētāji ar 126 punktiem ierindojās otrajā vietā, bet <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">4. <strong>vidusskola</strong></WORD> - 129 punkti. Trešie ar 120 punktiem Jelgavas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -293,123 +293,123 @@
 			<TEXT>- 2000) « saimniekoja » mājinieki, jo pārliecinošu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Māris Vasiļevskis</WORD>, bet aiz viņa finišēja Guntis Lauss</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>motocentrs » sportistu Intu Šteinbergu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ūdens <strong>motociklists</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">visos trīs Alūksnes lielās balvas izcīņas <strong>braucienos</strong></WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>piedalīties turnīra cīņu tiesāšanā. Starp komandām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Informācijas tehnoloģiju <strong>fakultāte</strong></WORD>, sudrabs tika Tehniskajai</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>draudzības sacensībām vidusskolu komandām. « Pirmajā gadā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mūsu skolas <strong>komanda</strong></WORD>, otrajā - Elejas vidusskola, bet</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>svara kategorijā līdz 42 kilogramiem. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Šajā <strong>kategorijā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Krišjāņa Kundziņa sporta skolas <strong>audzēknis</strong></WORD> Jānis Freimanis</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>1989. gadā dzimušo grupā jaunietēm 1500 metru distancē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jelgavas 1. ģimnāzijas 12. h klases <strong>skolniece</strong></WORD> Inese Nagle</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>» vienība, bet līdz 14 gadu vecu sportistu sacensībā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">FK « Planēta</WORD> », savukārt virs 14 gadiem - « RAF »</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>mēģinājums. Toties 14 gadu veco sportistu konkurencē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">jelgavniece</WORD> Aļona Kuzminčuka - 1,50 m. Jāuzteic arī</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>komandai, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> zaudēja tikai Liepājas Jūrnieku koledžai, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">Kuldīgas <strong>arodvidusskolu</strong></WORD> un Kandavas Lauksaimniecības tehnikumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>otrā duelī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Amatniecības <strong>vidusskola</strong></WORD> pārliecinoši ar 3:1 <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Amatu <strong>skolu</strong></WORD>, izcīnot bronzas medaļas. Vadims - krosa</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>bija Arta Rītela sitiens. Tā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Ozolnieki</WORD> jau otrreiz sezonā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">FK</WORD> « Iecava », šoreiz ar rezultātu 3:0. 3. augustā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Vismaz trešajā turnīra spēlē <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Ozolnieki</WORD> pārliecinoši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00"><strong>komandu</strong> « Batoniņi »</WORD> - 6:1. Atlikušajā Iecavas čempionāta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Stock » klasē <WORD json="['V3','V1','V2','Inf','Nom']" attribute="Nom" class="cFFFF00">čempionāta <strong>līderis</strong> J. Uzars</WORD> pārliecinoši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['S','Loc']" attribute="Loc" class="cFF0000">gan pirmajā, gan otrajā braucienā, bet trešajā</WORD> finišēja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Aleksandrovs : « Izšķirošo spēli zaudēja. Pagājušajā reizē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD>, bet komanda Jelgavai šoreiz bija savādāka. Tāds ir</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">disciplīnās</WORD> - 200 metru skrējienā un tāllēkšanā - <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Dace Vīlande</WORD> no Bauskas. Turklāt viņa ieguva otro vietu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>skolu komandu rudens krosā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF0000">piecās stafetēs</WORD> no astoņām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Iecavas vidusskolas <strong>audzēkņi</strong></WORD> un vienā - Dzimtmisas pamatskolas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Dāmu konkurencē palikām nepārspēti – <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">baušķenieces</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">abas <strong>komandas</strong></WORD>. Otro vietu ieguva Jaunakmene, trešo –</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ļoti labiem rezultātiem. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Dažādās svara <strong>kategorijās</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">trīs Bauskas 2. vidusskolas <strong>bokseri</strong></WORD> - Ervīns Mališevs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Jauno satiksmes dalībnieku <strong>sacensībās</strong></WORD> Bauskā 15. maijā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Iecavas vidusskolas <strong>komanda</strong></WORD>. Skolēni ieguva tiesības 5.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vērsti uz konkursa rezultātiem divās iepirkumu daļās, <WORD json="['Adv']" attribute="Adv" class="cFF0000">kur</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> " <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">Neja un Ko</WORD> ". Pēc LPAA aprēķiniem, kas veikti, salīdzinot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>uzvarētājiem deviņās lotēs, norādīja VRS. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Konkursā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">personu <strong>grupa</strong></WORD>, kuras sastāvā bija " Neja un Ko ", SIA</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>staba, un nogalinot vienu no baložiem. " <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">San Lorenzo</WORD> " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">mačā</WORD> ar rezultātu 2:1, saglabājot līderpozīcijas Argentīnas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>tūkstošiem dolāru un pat neilgu cietumsodu. 2006. gadā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">tiesas <strong>prāvā</strong></WORD> par šī likuma grozīšanu, taču parlaments</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>kas risinājās aizvadītās nedēļas nogalē, pirmo reizi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas <strong>čempioni</strong></WORD> " Rīgas roņi ", vortālu " Delfi Sports</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>treneris Ainars Zvirgzdiņš. Patiešām – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas <strong>izlase</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">visās trijās <strong>spēlēs</strong></WORD>, pēdējā no tām sarūpējot dramatisku</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>zaudējumu ar rezultātu 65:70, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">otrajā mačā <strong>komanda</strong> " Prima "</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> ar 69:68, trešajā piedzīvoja zaudējumu ar 77:82, bet</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>velobrauciena " Tour de France " pirmspēdējā, 20. posmā sestdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Rabobank " komandu pārstāvošais Spānijas <strong>sportists</strong></WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>uzsvēra, ka pieķerto sportistu vidū nav neviena, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">2008. gada Pekinas <strong>Olimpiādē</strong></WORD>. Latvijas brīvā stila cīkstone</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">ūdens <strong>motosportisti</strong></WORD> aizvadītajā nedēļas nogalē Alūksnē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Baltijas valstu atklātajā <strong>čempionātā</strong></WORD> komandu vērtējumā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>valstu komandu vērtējumā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvija</WORD> ar minimālu pārsvaru <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Igauniju</WORD>, bet trešie palika Lietuvas sportisti. Komandu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>kopš 1993. gada. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas <strong>sportists</strong> Andris Vārna</WORD> svētdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">Pasaules kausa izcīņas Centrāleiropas līgas posma <strong>sacensības</strong></WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -425,59 +425,59 @@
 			<TEXT>tika veikti astoņi maršruti, no kuriem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas <strong>sportisti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> trijos - Ģirts Bricis ar " Force Gyu " triumfēja pirmajā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>padevās Latvijas pārim Mareks Leitis / Dainis Zāģeris, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">divos <strong>vingrinājumos</strong></WORD> un visu vingrinājumu kopvērtējumā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>piedalījās junioru " Masters " turnīrā. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Māra <strong>Puisīte</strong></WORD> Īslandē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">meiteņu <strong>ieskaitē</strong></WORD>. Pēc sestdien paredzētās otrās turnīra</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Latvijas amatieru čempionātā bija seši posmi un <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">visos</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Dainis Zāģeris</WORD> no Talsiem. Otrajā un trešajā vietā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vēsturiskajā " Apollo Theater ", 1967. gadā grupa " <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Jackson 5</WORD> " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">jauno dziedātāju <strong>konkursā</strong></WORD>. Atgādinām, ka šovasar</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Diena » pielikums « SestDiena », 2007. gadā « <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">KAS</WORD> » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF0000"><strong>konkursā</strong> par Centrāltirgus teritorijas ikdienas uzkopšanu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>galvas krēslu ieņemt divus termiņus pēc kārtas. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Čavess</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['S','Loc']" attribute="Loc" class="cFF0000">arī 2000. gada prezidenta <strong>vēlēšanās</strong></WORD>, bet pagājuša</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>diemžēl ir bijušas cīņas savā starpā – un, lai arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD>, zaudētāji patiesībā bija abi. Ir jābūt upuriem,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">janvārī notikušajās prezidenta <strong>vēlēšanās</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">M. Saakašvili</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD>. Arī opozīcijas partijas kopumā atbalsta valsts plašāku</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>no senākiem laikiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mana <strong>komanda</strong></WORD> pagājušogad Latvijā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF0000">visās <strong>gonkās</strong></WORD>, uzvarējām arī Latvijas čempionātā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">komandas <strong>biedrs</strong></WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">sacensībās</WORD> Sanktpēterburgā sudraba klasē pat <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD>. - Vai kādreiz kādu laivu esi nogremdējis? Ne - e.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>BBC atgādina, ka pēc šādiem pašiem solījumiem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> 2006. gada vēlēšanās, taču kopš tā laika narkotirgoņu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>draudzenes Lindsijas Būtas mājā. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">T. Blērs</WORD> patiešām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> 1997. gada vēlēšanās un kļuva par premjeru, bet G.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>leģendārā bērnu pasaku grāmata Kā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">brālītis trusītis</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">lauvu</WORD>. Top animācijas filma pašu veidotajai sērijai Pasaules</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Gazprom padomes priekšsēdētājs <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">D. Medvedevs</WORD> 2. martā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Krievijas prezidenta <strong>vēlēšanās</strong></WORD>, iegūstot 70% balsu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
