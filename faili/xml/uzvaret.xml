@@ -9,21 +9,22 @@
 		<CATEGORY id="cC00000">Cēlonis!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00"></SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>un kā tas notiek, kad spēkojas valodas, kāpēc viena <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>, cita mirst? Nebijis Pirmā pasaules kara, lībiešu valodas</TEXT>
+			<TEXT>un kā tas notiek, kad spēkojas valodas, kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">viena</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>, cita mirst? Nebijis Pirmā pasaules kara, lībiešu valodas</TEXT>
 			<COMMENT>Gunta (p)</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tēmām Jāņa evaņģēlijā - tā ir Jēzus gaisma, kas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">tumsas <strong>valstību</strong></WORD>. Protams, lielai daļai cilvēku Ziemassvētku</TEXT>
+			<TEXT>tēmām Jāņa evaņģēlijā - tā ir Jēzus gaisma, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">tumsas <strong>valstību</strong></WORD>. Protams, lielai daļai cilvēku Ziemassvētku</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>nepieciešamā finansējuma apmērus. " Konkursā parasti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cC00000"><strong>piedāvājums</strong> ar zemāko cenu</WORD>. Līdz ar to var teikt, ka</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>darbu paveicis aizputnieku treneris Jānis Oskars Šalms. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">lietuvieši</WORD> Kaut arī pagājušajā gadā Latvijas komanda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
