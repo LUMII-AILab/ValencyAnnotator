@@ -4,7 +4,7 @@
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Eksperienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Pacienss</CATEGORY>
-		<CATEGORY id="cFF0000">Joma vai tml.!</CATEGORY>
+		<CATEGORY id="cFF0000">Joma!</CATEGORY>
 		<CATEGORY id="c00FFFF">Veids?</CATEGORY>
 		<CATEGORY id="cC00000">Cēlonis!</CATEGORY>
 	</CATEGORIES>
@@ -14,15 +14,43 @@
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pilī tiek uzņemts kā visdārgākais ciemiņš. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bērni</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">tumsu</WORD>, no kuras baidījušies, viņi sacer mūsdienīgas</TEXT>
+			<COMMENT>Gunta (p) Baiba</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ka pagājušogad es biju šajā maršrutā ceturtais, bet <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Krievijas <strong>sportists</strong> Arsēnijs Špakovskis</WORD>. Tagad, ejot</TEXT>
+			<COMMENT>varbūt eksperienss = pacienss? (visur)</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>sportistam Rīgas posmā tas bija pa spēkam 2001. gadā, kad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Guntars Siliņš</WORD> ar " Radiantu ". Visi esam ļoti priecīgi</TEXT>
+			<COMMENT>KAD IES CAURI JOMAI, JĀNOSKAIDRO PAR SITO</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tika veikti astoņi maršruti, no kuriem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas <strong>sportisti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> trijos - Ģirts Bricis ar " Force Gyu " triumfēja pirmajā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ar « Adolsfbergs IK » <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">zēni</WORD> uzsāka negaidīti viegli un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> ar 4:1. Nauris Ģērmanis iesita 3 vārtus, Rūdolfs Puķītis</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>. Arī tajos dominēja M. Mežaka ekipāža. Kopumā <WORD json="['Adv','Nom']" attribute="Nom" class="cFFFF00">tā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF0000">četros</WORD> no sešiem pirmās dienas ātrumposmiem. Tiesa,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>astoņu dalībnieču konkurencē viņa ieņēma ceturto vietu. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Uzvarēja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">rīdzinieces</WORD> Agnese Mertena, apsteidzot Lindu Svarēnu.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>(Krievija) pārākumu. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Pirmos divus <strong>setus</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">liepājnieki</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD>, trešajā bija vadībā ar 10:6, bet tad izlaida no rokām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>un kā tas notiek, kad spēkojas valodas, kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">viena</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>, cita mirst? Nebijis Pirmā pasaules kara, lībiešu valodas</TEXT>
-			<COMMENT>Gunta (p)</COMMENT>
+			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>tēmām Jāņa evaņģēlijā - tā ir Jēzus gaisma, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">tumsas <strong>valstību</strong></WORD>. Protams, lielai daļai cilvēku Ziemassvētku</TEXT>
-			<COMMENT>varbūt eksperi</COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>nepieciešamā finansējuma apmērus. " Konkursā parasti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cC00000"><strong>piedāvājums</strong> ar zemāko cenu</WORD>. Līdz ar to var teikt, ka</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -77,20 +105,8 @@
 			<TEXT>darbā, kļūst talantīgs savā jomā. Tikai tas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">komandieris</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">karā</WORD>, kas jau labu laiku iepriekš ir nostādījis skaidrus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>turpinās kā ilgstošs seksuāls sakars. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Kardiologi</WORD> sāk un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> Izrādās, visbiežāk pacientes nonāk tuvās attiecībās</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>dakšiņas uzdurtus gardus baltās gaļas kumosiņus. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Ziņkārība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>, un iemetu acis rēķinā – šīs ir dārgākās pusdienas</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vajadzības, vēlmes un intereses. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Divu pušu <strong>konkurencē</strong></WORD> parasti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tas</WORD>, kam ir lielāka vara, resursi un mazāka vajadzība</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>, jo ir pārāk daudz emociju un bieži vien gribas, lai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">tava taisnība</WORD>, bet tas acīmredzami traucē uzklausīt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -137,14 +153,6 @@
 			<TEXT>Lietuvas, Baltkrievijas un Krievijas čempionu no Rīgas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Margo</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> otrreiz Katras grupas uzvarētāji cīnījās arī par titulu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>pilī tiek uzņemts kā visdārgākais ciemiņš. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bērni</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">tumsu</WORD>, no kuras baidījušies, viņi sacer mūsdienīgas</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>pozitīvu atbalstu un apziņu, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cC00000">labais</WORD> dzīvē vienmēr <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>. Iveta Gēbele drošina : " Izgudrojiet un stāstiet savam</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>mājinieki spēlē Eiropas čempionātu finālā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> allaž <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> — to izdarījušas Spānijas (1964), Itālijas (1968</TEXT>
 			<COMMENT></COMMENT>
@@ -155,26 +163,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pretrunīgu tautas vēstures stāstu cīņa uz dzīvību un nāvi. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Uzvar</WORD> <WORD json="['Adv','Nom']" attribute="Nom" class="cFFFF00">tā</WORD>, kas šeit un tagad izrādās pārliecinošākā. Savukārt</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>labais tēls cīnās ar galveno slikto tēlu, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">labais <strong>tēls</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">slikto</WORD>, taču pēdējā uzbrukumā nevis nogalina to, kaut</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>vectētiņu (Izraksti no dienasgrāmatas) Saki, vai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">mīlestība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">visu</WORD>? Nu, jā... jā! Kāpēc tu atbildi tā, it kā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>atbildi tā, it kā tev patiesībā neliktos, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">mīlestība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">visu</WORD>? Tāpēc, ka neliekas. Tev liekas, ka mīlestība</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>dižaišus un pēc tam mazpamazām nodīrā kailus. Tā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">vadoņus</WORD> - žūpas un miesaskārīgos, kuri, dabas balss</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>pudeles, va vellos, čipsu paka. Nu, tu re, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cC00000">tehnoloģijas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>. Peld pa virsu griezdamas. — Puis, celies augšā,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -259,10 +247,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>– komanda „ City Center ” ar graujošu rezultātu 20:1 <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> „ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ditton / Juniors</WORD> ”. Šobrīd rezultatīvākais turnīra</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>derību balva – konjaka kaste – palika neizcīnīta, bet <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">draudzība</WORD>. Sacensību uzvarētāji balvā saņēma kausus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -413,18 +397,6 @@
 			<TEXT>kopš 1993. gada. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas <strong>sportists</strong> Andris Vārna</WORD> svētdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">Pasaules kausa izcīņas Centrāleiropas līgas posma <strong>sacensības</strong></WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ka pagājušogad es biju šajā maršrutā ceturtais, bet <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Krievijas <strong>sportists</strong> Arsēnijs Špakovskis</WORD>. Tagad, ejot</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>sportistam Rīgas posmā tas bija pa spēkam 2001. gadā, kad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Guntars Siliņš</WORD> ar " Radiantu ". Visi esam ļoti priecīgi</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>tika veikti astoņi maršruti, no kuriem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas <strong>sportisti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> trijos - Ģirts Bricis ar " Force Gyu " triumfēja pirmajā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>padevās Latvijas pārim Mareks Leitis / Dainis Zāģeris, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">divos <strong>vingrinājumos</strong></WORD> un visu vingrinājumu kopvērtējumā</TEXT>
 			<COMMENT></COMMENT>
@@ -503,10 +475,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>, uz kurieni pārcelties armijniekiem. Tieši <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Mesa Group</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">konkursā</WORD>. Tātad viņi ir piedalījušies Eiropas demilitarizācijā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>apliecināja, ka eirooptimisti mūsu valstī ir vairākumā, un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">viedoklis</WORD>, ka dalība Eiropas Savienībā vismaz negatīvi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -617,22 +585,6 @@
 			<TEXT>īsta dubļu jūra, tomēr <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Kristers</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF0000">divos</WORD> no trim braucieniem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD>, sparīgi cīnoties ar Itālijas pārstāvi. Kopvērtējumā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ar « Adolsfbergs IK » <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">zēni</WORD> uzsāka negaidīti viegli un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> ar 4:1. Nauris Ģērmanis iesita 3 vārtus, Rūdolfs Puķītis</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>. Arī tajos dominēja M. Mežaka ekipāža. Kopumā <WORD json="['Adv','Nom']" attribute="Nom" class="cFFFF00">tā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF0000">četros</WORD> no sešiem pirmās dienas ātrumposmiem. Tiesa,</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>astoņu dalībnieču konkurencē viņa ieņēma ceturto vietu. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Uzvarēja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">rīdzinieces</WORD> Agnese Mertena, apsteidzot Lindu Svarēnu.</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>(Krievija) pārākumu. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Pirmos divus <strong>setus</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">liepājnieki</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD>, trešajā bija vadībā ar 10:6, bet tad izlaida no rokām</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Finālmačā ļoti spraigā cīņā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">rīdzinieki</WORD> " <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">Pokemonus</WORD> " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> ar 2:1. Visā turnīrā " RTU " punktus zaudēja tikai apakšgrupu</TEXT>
 			<COMMENT></COMMENT>
@@ -664,10 +616,6 @@
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>, pasarg dievs! V. Nevajag pārvarēt, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> tomēr <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD>. Lai paliek, kā ir. Diagnoze — perfekcioniste Ieva</TEXT>
 			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>dziedātāju Laura Reinika un Marijas Naumovas portreti, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">divu studijas audzēkņu <strong>zīmējumi</strong></WORD>. Viņu darbi tiks iekļauti</TEXT>
-			<COMMENT>nez, nevarētu būt AGENSS? līdz ar to - otra noz.</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>futbolistus. Arī sešus FC Porto pārstāvjus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> maija beigās <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Čempionu līgas <strong>turnīrā</strong></WORD>. Šajā sakarā Portugāles presē</TEXT>
@@ -793,10 +741,6 @@
 			<TEXT>Znaroka spēlēju junioru izlasē 2005. gadā, kad Narvā <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">uzvarējām</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">pirmajā <strong>divīzijā</strong></WORD>. Pa šo laiku viņš mainījies uz labo</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>apturēti. " Akcionāri gan cer, ka deputātu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">veselais <strong>saprāts</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēs</WORD> un būvdarbiem vajadzīgā nauda tiks piešķirta, " viņš</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>, valdība ir spērusi lielu soli pretim investoram, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēs</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">konkursā</WORD> par stacijas būvniecību, atzīst EM. Paralēli</TEXT>
 			<COMMENT></COMMENT>
@@ -815,10 +759,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ar sievieti, jo, iesaistoties strīdā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> vienmēr <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēs</WORD> un paturēs pēdējo vārdu. Klusēšana zelts, runāšana</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>sācis šo projektu. Uzņēmējs gan izteica cerību, ka " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēs</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">veselais <strong>saprāts</strong></WORD> " un dārlingi varēs braukt kanālā.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -907,6 +847,66 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>— Jā, es esmu princese Fanandora, vai ne Teo? Un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">uzvarēšu</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Minimiss <strong>konkursā</strong></WORD>. Ādas dīvānos pieaugušie dzēra kafiju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>turpinās kā ilgstošs seksuāls sakars. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Kardiologi</WORD> sāk un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> Izrādās, visbiežāk pacientes nonāk tuvās attiecībās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>nepieciešamā finansējuma apmērus. " Konkursā parasti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cC00000"><strong>piedāvājums</strong> ar zemāko cenu</WORD>. Līdz ar to var teikt, ka</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>dakšiņas uzdurtus gardus baltās gaļas kumosiņus. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Ziņkārība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>, un iemetu acis rēķinā – šīs ir dārgākās pusdienas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>, jo ir pārāk daudz emociju un bieži vien gribas, lai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">tava taisnība</WORD>, bet tas acīmredzami traucē uzklausīt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pozitīvu atbalstu un apziņu, ka <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cC00000">labais</WORD> dzīvē vienmēr <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>. Iveta Gēbele drošina : " Izgudrojiet un stāstiet savam</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>labais tēls cīnās ar galveno slikto tēlu, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">labais <strong>tēls</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">slikto</WORD>, taču pēdējā uzbrukumā nevis nogalina to, kaut</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>vectētiņu (Izraksti no dienasgrāmatas) Saki, vai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">mīlestība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">visu</WORD>? Nu, jā... jā! Kāpēc tu atbildi tā, it kā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>atbildi tā, it kā tev patiesībā neliktos, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">mīlestība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">visu</WORD>? Tāpēc, ka neliekas. Tev liekas, ka mīlestība</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>dižaišus un pēc tam mazpamazām nodīrā kailus. Tā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">vadoņus</WORD> - žūpas un miesaskārīgos, kuri, dabas balss</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pudeles, va vellos, čipsu paka. Nu, tu re, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cC00000">tehnoloģijas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvar</WORD>. Peld pa virsu griezdamas. — Puis, celies augšā,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>derību balva – konjaka kaste – palika neizcīnīta, bet <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">draudzība</WORD>. Sacensību uzvarētāji balvā saņēma kausus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apliecināja, ka eirooptimisti mūsu valstī ir vairākumā, un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">viedoklis</WORD>, ka dalība Eiropas Savienībā vismaz negatīvi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>dziedātāju Laura Reinika un Marijas Naumovas portreti, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">divu studijas audzēkņu <strong>zīmējumi</strong></WORD>. Viņu darbi tiks iekļauti</TEXT>
+			<COMMENT>nez, nevarētu būt AGENSS? līdz ar to - otra noz.</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>apturēti. " Akcionāri gan cer, ka deputātu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">veselais <strong>saprāts</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēs</WORD> un būvdarbiem vajadzīgā nauda tiks piešķirta, " viņš</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>sācis šo projektu. Uzņēmējs gan izteica cerību, ka " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">uzvarēs</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">veselais <strong>saprāts</strong></WORD> " un dārlingi varēs braukt kanālā.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
