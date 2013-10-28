@@ -5,6 +5,8 @@
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Izšķirties par kādu darbību</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Kaut ko paredzēt ar likumu</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -32,27 +34,27 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nogalē <WORD class="c00FF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">uzņēmējs</WORD> no gada pāri palikušajiem līdzekļiem <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> darbiniekiem piešķirt prēmijas. To paziņot visiem kopīgi</TEXT>
+			<TEXT>nogalē <WORD class="c00FF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">uzņēmējs</WORD> no gada pāri palikušajiem līdzekļiem <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> <WORD class="c00FF00" attribute="Inf" json="['Gen','Nom','Dat','Acc','Loc','Inf']">darbiniekiem <strong>piešķirt</strong> prēmijas</WORD>. To paziņot visiem kopīgi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, sevišķi pirmdzimto, kad pieredzes vēl nav, vecāki <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> sekot dzirdētajam padomam. Otrs grāvis - aizliegumi aizliegumu</TEXT>
+			<TEXT>, sevišķi pirmdzimto, kad pieredzes vēl nav, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">vecāki</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> <WORD class="c00FF00" attribute="Inf" json="['Dat','Nom','Gen','Acc','Loc','Inf']"><strong>sekot</strong> dzirdētajam padomam</WORD>. Otrs grāvis - aizliegumi aizliegumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vairāk vecāku, rūpējoties par savu bērnu veselību, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> izmantot šo iespēju. Īpaši tāpēc, ka šīs cilmes</TEXT>
+			<TEXT><WORD class="cFFFF00" attribute="Gen" json="['Gen','Nom','Dat','Acc','Loc']">vairāk <strong>vecāku</strong></WORD>, rūpējoties par savu bērnu veselību, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> <WORD class="c00FF00" attribute="Inf" json="['Acc','Nom','Gen','Dat','Loc','Inf']"><strong>izmantot</strong> šo iespēju</WORD>. Īpaši tāpēc, ka šīs cilmes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Rīstīdamies atklepoju no plaušām ūdeni. Spīdzinātāji <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD>, ka pietiks. No mana ciešā satvēriena tiek izņemta</TEXT>
+			<TEXT>Rīstīdamies atklepoju no plaušām ūdeni. Spīdzinātāji <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD>, <WORD class="c00FF00" attribute="S" json="['S']">ka <strong>pietiks</strong></WORD>. No mana ciešā satvēriena tiek izņemta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tomēr drīzāk tas liecina par to, ka cilvēks apzināti <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> – tā vairs nevar turpināt, ir jāsāk jauna dzīve.</TEXT>
+			<TEXT>tomēr drīzāk tas liecina par to, ka cilvēks apzināti <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> – <WORD class="c00FF00" attribute="S" json="['S']">tā vairs nevar turpināt</WORD>, ir jāsāk jauna dzīve.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, redzot verdošas eļļas upes visapkārt aizsargvalnim, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> tomēr iet garām. Tu esi pārliecināta, ka šāds cietoksnis</TEXT>
+			<TEXT>, redzot verdošas eļļas upes visapkārt aizsargvalnim, <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">nolemj</WORD> tomēr <WORD class="c00FF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']"><strong>iet</strong> garām</WORD>. Tu esi pārliecināta, ka šāds cietoksnis</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
