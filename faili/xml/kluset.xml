@@ -2,6 +2,7 @@
 <CONTENT>
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Temats?</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -51,7 +52,7 @@
 			<COMMENT>pārnesta klausule?</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Veselības centra 4 dermatoloģe Līga Jacēviča. Ķīna <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">klusē</WORD>, pieminot zemestrīces upurus Vakar Ķīnā ar trīs minūšu</TEXT>
+			<TEXT>Veselības centra 4 dermatoloģe Līga Jacēviča. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ķīna</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">klusē</WORD>, pieminot zemestrīces upurus Vakar Ķīnā ar trīs minūšu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -59,7 +60,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>cilvēkiem. Ar tiem, kas visu laiku runā, un ar tiem, kas <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">klusē</WORD>. Apguvu iecietību. Iemācījos ātri pieņemt lēmumus</TEXT>
+			<TEXT>cilvēkiem. Ar tiem, kas visu laiku runā, un ar tiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">klusē</WORD>. Apguvu iecietību. Iemācījos ātri pieņemt lēmumus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -67,12 +68,12 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>jēgu un tās zudumu vai neesamību. “ Vārdā ” atmiņas <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">klusē</WORD> un vēršanās uz nākotni nevirzās uz priekšu. Dialogā</TEXT>
+			<TEXT>jēgu un tās zudumu vai neesamību. “ Vārdā ” <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">atmiņas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD> un vēršanās uz nākotni nevirzās uz priekšu. Dialogā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, bet par citiem nākotnes plāniem Vija Ancāne pagaidām <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">klusē</WORD>. Lai viesi pa īstam izjustu maizes burvību, viņiem vispirms</TEXT>
-			<COMMENT></COMMENT>
+			<TEXT>, bet <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00FF00">par citiem nākotnes <strong>plāniem</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Vija Ancāne</WORD> pagaidām <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>. Lai viesi pa īstam izjustu maizes burvību, viņiem vispirms</TEXT>
+			<COMMENT>hmmmm</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>mierīgo dabu Viktors piekrīt, bet par viltīgumu kautrīgi <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">klusē</WORD>. Savukārt par Daka viltīgumu izdevās pašai pārliecināties</TEXT>
