@@ -4,55 +4,56 @@
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Temats?</CATEGORY>
 		<CATEGORY id="cFF00FF">Laikss: ilgums?</CATEGORY>
+		<CATEGORY id="cFF0000">Cēlonis</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Neradīt skaņas ar balsi</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFFFF00">Neradīt skaņas</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>. Jo par to skaļi nerunā sabiedrībā, arī <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">draudzenes</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>. Bet varu pateikt, ka tādu „ vienīgo ” Jūs man esat</TEXT>
 			<COMMENT>Baiba (sākts)</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>zaudējumu dabai un videi. Kāpēc <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kontrolējošās <strong>institūcijas</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>? ” Mēs nevarējām ignorēt šādu signālu. “ RV</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>samazināts jau vairākas reizes. [.. ] Ja <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ieslodzījuma <strong>vietas</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, tas nenozīmē, ka tās klusēs arī turpmāk. Situācija</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>krīzes gads man pašai? Varbūt tāpēc, ka pārsvarā <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">slimie</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, jau tā slimību nomocīti? Piederu pie tiem, kas neklusē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>līmeņa fonda turētāju. Skudriņas pār muguru. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mans <strong>rīts</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, jo Latvijas radio, brīdinot, kā būs, ja naudas nebūs</TEXT>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>līmeņa fonda turētāju. Skudriņas pār muguru. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000"><strong>Mans</strong></WORD> rīts <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, jo Latvijas radio, brīdinot, kā būs, ja naudas nebūs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>klusēšanu. Bet šorīt es gribēju, lai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mans <strong>radio</strong></WORD> nevis <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, bet pastāsta man, kas notiek valstī. Vakar LTV klausījāmies</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>????</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>. Svarīgi izstāstīt otram, kā jūties. Ja nerunā un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, tuvinieks pat nenojauš, ka kaut kas nav kārtībā,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>tagad domā, ko jūt un ko patiesi vēlas... Bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>... Lūk, vīriešu viedokļi par to, ko vīrieši it</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>nepieciešams, lai kopā iestūrētu laulības ostā! Bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, viņš nebildina... Kāpēc? 1. Es nebūšu vairs brīvs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>kvalitāti. <WORD json="['S','Nom']" attribute="Nom" class="cFFFF00">Gan sievietes, gan vīrieši</WORD> baidās par to runāt, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, neko nedara, kamēr nereti problēma tiešām samilzt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>loģisku iemeslu, kāpēc tā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">sasodītā <strong>klausule</strong></WORD> tomēr <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD> — viņu apzaga tunelī, viņš gādā par saslimušu vecmāmiņu</TEXT>
-			<COMMENT>pārnesta klausule?</COMMENT>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>loģisku iemeslu, kāpēc tā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">sasodītā <strong>klausule</strong></WORD> tomēr <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD> — viņu apzaga tunelī, viņš gādā par saslimušu vecmāmiņu</TEXT>
+			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>Veselības centra 4 dermatoloģe Līga Jacēviča. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ķīna</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">klusē</WORD>, pieminot zemestrīces upurus Vakar Ķīnā ar trīs minūšu</TEXT>
