@@ -791,7 +791,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>bail. Man ir šausmīgi bail. Paņem azotē, lūdzu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">klusēšu</WORD> līdz rītausmai. Krist! Tas ir plats un sauss koka tilts</TEXT>
+			<TEXT>bail. Man ir šausmīgi bail. Paņem azotē, lūdzu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">klusēšu</WORD> <WORD json="['LīdzDat','S']" attribute="LīdzDat" class="cFF00FF">līdz <strong>rītausmai</strong></WORD>. Krist! Tas ir plats un sauss koka tilts</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
