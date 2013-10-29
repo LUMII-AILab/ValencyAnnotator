@@ -3,9 +3,13 @@
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
+		<CATEGORY id="cFF00FF">Cēlonis</CATEGORY>
+		<CATEGORY id="cFF0000">Rezultāts!</CATEGORY>
+		<CATEGORY id="c00FFFF">Pacienss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
-		<SENTENCE_CATEGORY id="s00FF00">Izšķirties par kādu darbību, kait ko paredzēt ar likumu</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="s00FF00">Izšķirties par kādu darbību, kaut ko paredzēt ar likumu</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Izraisīt kaut kādus apstākļus</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -533,11 +537,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ēdināšanas iestāžu apmeklētāji, „ Latvijas Tirgotājs ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">ielūkoties vairāku uzņēmumu sūdzību un ierosinājumu</WORD></TEXT>
+			<TEXT>ēdināšanas iestāžu apmeklētāji, „ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas Tirgotājs</WORD> ” <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">ielūkoties vairāku uzņēmumu sūdzību un ierosinājumu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Taizemes Tūrisma pārvalde (Tourism Authority of Thailand) <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>uzsākt</strong> virkni pasākumu</WORD>, lai kaut ko vērstu par labu.</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Taizemes Tūrisma <strong>pārvalde</strong></WORD> (Tourism Authority of Thailand) <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>uzsākt</strong> virkni pasākumu</WORD>, lai kaut ko vērstu par labu.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -545,11 +549,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>. Lai mēģinātu rast atbildi uz šo jautājumu, autore <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">izpētīt kādu administratīvā pārkāpuma protokolu</WORD>,</TEXT>
+			<TEXT>. Lai mēģinātu rast atbildi uz šo jautājumu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">autore</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">izpētīt kādu administratīvā pārkāpuma protokolu</WORD>,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>jāratificē visām tā laika 25 dalībvalstīm, 10 no tām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>rīkot</strong> referendumu</WORD>, piemēram, Francija, Luksemburga,</TEXT>
+			<TEXT>jāratificē visām tā laika 25 dalībvalstīm, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">10</WORD> no tām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>rīkot</strong> referendumu</WORD>, piemēram, Francija, Luksemburga,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -557,103 +561,103 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pastāvēja dilemma: taisīt operāciju vai nē. Horvāti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka tā nav nepieciešama</WORD>, un tikai ieģipsēja pēdu,</TEXT>
+			<TEXT>pastāvēja dilemma: taisīt operāciju vai nē. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Horvāti</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka tā nav nepieciešama</WORD>, un tikai ieģipsēja pēdu,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Ventspils – pāris stundas pirms mača sākuma kluba vadība <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FF00"><strong>atbrīvoties</strong> no Džimija Bakstera</WORD>. Oficiālā versija –</TEXT>
+			<TEXT>Ventspils – pāris stundas pirms mača sākuma <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kluba <strong>vadība</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="c00FF00"><strong>atbrīvoties</strong> no Džimija Bakstera</WORD>. Oficiālā versija –</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pētniecības centra līdzstrādnieces Kimas Volenas vadībā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> piedāvāt tipiskas vīriešu un sieviešu rotaļlietas rēzus</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">pētniecības centra <strong>līdzstrādnieces</strong></WORD> Kimas Volenas vadībā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="c00FF00"><strong>piedāvāt</strong> tipiskas vīriešu un sieviešu rotaļlietas rēzus</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izšķīra Gunāra Laicāna (" Pilsoniskā savienība ") balss) <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, ka kompensācijas turpmāk nebūtu piešķiramas, kam</TEXT>
+			<TEXT>izšķīra Gunāra Laicāna (" Pilsoniskā savienība ") balss) <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka kompensācijas turpmāk nebūtu piešķiramas, kam</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kas pirms pusstundas noticis Ņujorkā. Vairāki pasažieri <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> ielauzties pilotu kabīnē un atbruņot teroristus. Izmeklēšana</TEXT>
+			<TEXT>kas pirms pusstundas noticis Ņujorkā. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFFFF00">Vairāki <strong>pasažieri</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>ielauzties</strong> pilotu kabīnē un atbruņot teroristus</WORD>. Izmeklēšana</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Ģenerālprokuratūras un Valsts kontroles (VK) ziņojumus. Tāpat valdība <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> aicināt VK veikt pilnu KNAB auditu, pēc kura saņemšanas</TEXT>
+			<TEXT>Ģenerālprokuratūras un Valsts kontroles (VK) ziņojumus. Tāpat <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">valdība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>aicināt</strong> VK veikt pilnu KNAB auditu</WORD>, pēc kura saņemšanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>administratīvo arestu. Taču Administratīvā apgabaltiesa vēlāk <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> pirmās instances lēmumu atcelt un lietu izbeigt (iepriekšējās</TEXT>
+			<TEXT>administratīvo arestu. Taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Administratīvā <strong>apgabaltiesa</strong></WORD> vēlāk <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="c00FF00">pirmās instances lēmumu atcelt un lietu izbeigt (iepriekšējās</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vairākiem neveiksmīgiem gadījumiem ar firmām jaunieši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> meklēt pašu spēkiem, " stāsta Sanita. Viņu uzmanību</TEXT>
+			<TEXT>vairākiem neveiksmīgiem gadījumiem ar firmām <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">jaunieši</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>meklēt</strong> pašu spēkiem</WORD>, " stāsta Sanita. Viņu uzmanību</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vakarā jaunieši steigšus aizbrauca apskatīt dzīvokli un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> to īrēt. " Jaunais puisis Jānis mums apgalvoja, ka jau</TEXT>
+			<TEXT>vakarā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">jaunieši</WORD> steigšus aizbrauca apskatīt dzīvokli un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">to <strong>īrēt</strong></WORD>. " Jaunais puisis Jānis mums apgalvoja, ka jau</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pastiprināšanu visā valstī. Labēji centriskā Itālijas valdība <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> atvērt Neapoles apkaimē septiņas jaunas izgāztuves,</TEXT>
+			<TEXT>pastiprināšanu visā valstī. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Labēji centriskā Itālijas <strong>valdība</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="c00FF00"><strong>atvērt</strong> Neapoles apkaimē septiņas jaunas izgāztuves,</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>gaitā. Igaunijas, Latvijas, Lietuvas un Polijas prezidenti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> aicināt savu valstu valdības lūgt ES prezidentūrai ES</TEXT>
+			<TEXT>gaitā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Igaunijas, Latvijas, Lietuvas un Polijas <strong>prezidenti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>aicināt</strong> savu valstu valdības lūgt ES prezidentūrai ES</WORD></TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>datormontāžas visiespējamības laikmetā (tieši <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF00FF">tas pats <strong>iemesls</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF0000">mākslinieciskai <strong>neveiksmei</strong></WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">Stīvena Soderberga <strong>filmu</strong></WORD> Solāris</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>datormontāžas visiespējamības laikmetā (tieši tas pats iemesls <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> mākslinieciskai neveiksmei Stīvena Soderberga filmu Solāris</TEXT>
+			<TEXT>pilsētas teritorijas plānojums apstiprināts netika. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Deputāti</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="c00FF00"><strong>atcelt</strong> jūnijā pašu lemto par teritorijas plānojuma galīgās</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pilsētas teritorijas plānojums apstiprināts netika. Deputāti <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> atcelt jūnijā pašu lemto par teritorijas plānojuma galīgās</TEXT>
+			<TEXT>nesaņēma atteikumu. Bija noteikts tiesas datums, bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">abi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka bērnu dēļ ir jāsaglabā ģimene</WORD>. Viņi bija vēl</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nesaņēma atteikumu. Bija noteikts tiesas datums, bet abi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, ka bērnu dēļ ir jāsaglabā ģimene. Viņi bija vēl</TEXT>
+			<TEXT>. Un nebija nemaz ilgi jāgaida, kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pilsētnieki</WORD> beidzot <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>mest</strong> pie malas bailes no jūras un tās smilšu uzbrukuma</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>. Un nebija nemaz ilgi jāgaida, kad pilsētnieki beidzot <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> mest pie malas bailes no jūras un tās smilšu uzbrukuma</TEXT>
+			<TEXT>turējās daudz augstākās pozīcijās — " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tirgus <strong>dalībnieki</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>pirkt</strong> jenas eiro valūtā, nevis par dolāriem</WORD>, " norāda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>turējās daudz augstākās pozīcijās — " tirgus dalībnieki <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> pirkt jenas eiro valūtā, nevis par dolāriem, " norāda</TEXT>
+			<TEXT>kurš dziedās noslēguma koncertā Mežaparkā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Žūrija</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka esam cienīgi ne tikai doties uz Mežaparka estrādi</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kurš dziedās noslēguma koncertā Mežaparkā. Žūrija <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, ka esam cienīgi ne tikai doties uz Mežaparka estrādi</TEXT>
+			<TEXT>strādājušas un dziedāja ar sirdi un dvēseli. ” <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Meitenes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka arī turpmāk pulcēsies uz mēģinājumiem</WORD>. Devītās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>strādājušas un dziedāja ar sirdi un dvēseli. ” Meitenes <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, ka arī turpmāk pulcēsies uz mēģinājumiem. Devītās</TEXT>
+			<TEXT>veiksmīgi nokārtoja eksāmenu un, atgriežoties Latvijā, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>turpināt</strong> norvēģu valodas apguvi</WORD>. Varbūt dzīvē noderēs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>veiksmīgi nokārtoja eksāmenu un, atgriežoties Latvijā, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> turpināt norvēģu valodas apguvi. Varbūt dzīvē noderēs</TEXT>
+			<TEXT>atzina, ka bērni par braucienu bija tik lielā sajūsmā, ka <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">tādu <strong>atkārtot</strong> ik gadu</WORD>. Sansusī pils un vīģes koki.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atzina, ka bērni par braucienu bija tik lielā sajūsmā, ka <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> tādu atkārtot ik gadu. Sansusī pils un vīģes koki.</TEXT>
+			<TEXT>dzīvnieku bez uzraudzības pa nakti nebija iespējams, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Kaspars</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>ņemt</strong> viņu pie sevis uz Olaini</WORD>. Kasparam gan pašam mājās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dzīvnieku bez uzraudzības pa nakti nebija iespējams, un Kaspars <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> ņemt viņu pie sevis uz Olaini. Kasparam gan pašam mājās</TEXT>
+			<TEXT>pētījuma trūka. Tādēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas Komercbanku <strong>asociācija</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka pūles jāapvieno un jānoskaidro</WORD>, kādus finanšu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pētījuma trūka. Tādēļ Latvijas Komercbanku asociācija <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, ka pūles jāapvieno un jānoskaidro, kādus finanšu</TEXT>
+			<TEXT>Dubaijai ir diezgan maz naftas, tādēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">emirāta <strong>valdnieki</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>attīstīt</strong> pakalpojumu nozari</WORD>. Vēl pirms dažiem gadu desmitiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Dubaijai ir diezgan maz naftas, tādēļ emirāta valdnieki <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> attīstīt pakalpojumu nozari. Vēl pirms dažiem gadu desmitiem</TEXT>
+			<TEXT>fantastikas romāna. Viņš bija viens no cilvēkiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>izveidot</strong> īpašu, iepriekš neredzētu apmaksas termināļu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>fantastikas romāna. Viņš bija viens no cilvēkiem, kas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> izveidot īpašu, iepriekš neredzētu apmaksas termināļu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Ignorējot vairāku vadošo izlašu treneru viedokli, IFAB <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> samazināt pārbaudes mačos izmantojamo rezervistu skaitu</TEXT>
+			<TEXT>Ignorējot vairāku vadošo izlašu treneru viedokli, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">IFAB</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>samazināt</strong> pārbaudes mačos izmantojamo rezervistu skaitu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
