@@ -5,8 +5,7 @@
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
-		<SENTENCE_CATEGORY id="s00FF00">Izšķirties par kādu darbību</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFFFF00">Kaut ko paredzēt ar likumu</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="s00FF00">Izšķirties par kādu darbību, kait ko paredzēt ar likumu</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -314,91 +313,91 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ļoti tālejošām un nopietnām sekām. Tādēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">akcionāri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> kādu laiku turpināt ciest zaudējumus un gaidīt nākamo</TEXT>
+			<TEXT>ļoti tālejošām un nopietnām sekām. Tādēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">akcionāri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="Inf" class="c00FF00">kādu laiku turpināt ciest zaudējumus un gaidīt nākamo</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>piebilda. Tramvaji jāpagaida Šogad jūnijā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Rīgas <strong>dome</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> sākt zemās grīdas tramvaja ieviešanu pilsētā, bet</TEXT>
+			<TEXT>piebilda. Tramvaji jāpagaida Šogad jūnijā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Rīgas <strong>dome</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc','Inf']" attribute="Inf" class="c00FF00"><strong>sākt</strong> zemās grīdas tramvaja ieviešanu pilsētā</WORD>, bet</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>. Pirms diviem gadiem Bauskas pilsētas Dome vienprātīgi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> izveidot būvvaldi, kā arī apstiprināja tās nolikumu</TEXT>
+			<TEXT>. Pirms diviem gadiem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bauskas pilsētas <strong>Dome</strong></WORD> vienprātīgi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>izveidot</strong> būvvaldi</WORD>, kā arī apstiprināja tās nolikumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Edvīns bija sameklējis vairākus nedrošus objektus, beigās <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> pastāstīt par šķībo elektrības stabu. » Policijas</TEXT>
+			<TEXT>Edvīns bija sameklējis vairākus nedrošus objektus, beigās <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00">pastāstīt par šķībo elektrības stabu</WORD>. » Policijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ugunsgrēku. Izvērtējot visus lietas materiālus, Hutore <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> atjaunot kriminālprocesu, jo policijas lēmumā par tā</TEXT>
+			<TEXT>ugunsgrēku. Izvērtējot visus lietas materiālus, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Hutore</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>atjaunot</strong> kriminālprocesu</WORD>, jo policijas lēmumā par tā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>. Tomēr tas šķiet apšaubāmi, jo " Nord Pool " tikko <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> aiziet no Igaunijas. Tallina plāno liberalizēt savu elektroenerģijas</TEXT>
+			<TEXT>. Tomēr tas šķiet apšaubāmi, jo " <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Nord Pool</WORD> " tikko <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>aiziet</strong> no Igaunijas</WORD>. Tallina plāno liberalizēt savu elektroenerģijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>uzreiz pēc tam, kad Taizemes premjers Abhisits Vetčačiva <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> ieviest ārkārtas stāvokli. Nemierā ar to protestētāji</TEXT>
+			<TEXT>uzreiz pēc tam, kad <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Taizemes premjers Abhisits Vetčačiva</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>ieviest</strong> ārkārtas stāvokli</WORD>. Nemierā ar to protestētāji</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kā parasti, un viņa aizdomas apstiprinājās, kad viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> palūkoties zem motora pārsega. Izrādījās, ka Hohbergera</TEXT>
+			<TEXT>kā parasti, un viņa aizdomas apstiprinājās, kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>palūkoties</strong> zem motora pārsega</WORD>. Izrādījās, ka Hohbergera</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>paplašināšanai. Dienvidkorejas Konstitucionālā tiesa ceturtdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, ka vienīgi cilvēki ar redzes traucējumiem var kļūt</TEXT>
+			<TEXT>paplašināšanai. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Dienvidkorejas Konstitucionālā tiesa</WORD> ceturtdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka vienīgi cilvēki ar redzes traucējumiem var kļūt</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dot smieklīgus un apkaunojošus vārdus. Apelāciju tiesa <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, ka bērnam dodams vārds Gregorio, jo tā sauc viņa dzimšanas</TEXT>
+			<TEXT>dot smieklīgus un apkaunojošus vārdus. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Apelāciju <strong>tiesa</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka bērnam dodams vārds Gregorio</WORD>, jo tā sauc viņa dzimšanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>iesāka Latvijas komandā " ASK Rīga ", tomēr aprīlī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> to pamest, lai pārietu uz " Prima " klubu. Šis gadījums</TEXT>
+			<TEXT>iesāka Latvijas komandā " ASK Rīga ", tomēr aprīlī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">to <strong>pamest</strong></WORD>, lai pārietu uz " Prima " klubu. Šis gadījums</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vakar pēc apspriedes ar veselības nozares speciālistiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> virzīt savu kandidatūru veselības ministra amatam demisionējušā</TEXT>
+			<TEXT>vakar pēc apspriedes ar veselības nozares speciālistiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="Inf" class="c00FF00"><strong>virzīt</strong> savu kandidatūru veselības ministra amatam demisionējušā</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>protokols un citi dokumenti. Ņemot vērā noskaidroto, tiesa <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> šo administratīvo lietu izbeigt. Līdzīgu apstākļu</TEXT>
+			<TEXT>protokols un citi dokumenti. Ņemot vērā noskaidroto, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tiesa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">šo administratīvo lietu <strong>izbeigt</strong></WORD>. Līdzīgu apstākļu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>lietu izbeigt. Līdzīgu apstākļu dēļ tiesa pirmdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> izbeigt arī administratīvo lietvedību pret nepilngadīgo</TEXT>
+			<TEXT>lietu izbeigt. Līdzīgu apstākļu dēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tiesa</WORD> pirmdien <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="c00FF00"><strong>izbeigt</strong> arī administratīvo lietvedību pret nepilngadīgo</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kriminālprocesa sākšanu. Līdzīgu apstākļu dēļ tiesa <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> izbeigt arī administratīvo lietvedību pret 1972. gadā</TEXT>
+			<TEXT>kriminālprocesa sākšanu. Līdzīgu apstākļu dēļ <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tiesa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc','Inf']" attribute="Inf" class="c00FF00"><strong>izbeigt</strong> arī administratīvo lietvedību pret 1972. gadā</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kopības. Šajā apsūdzības daļā kriminālprocesu Senāts <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> izbeigt, bet pārējā daļā apelācijas instances tiesas</TEXT>
+			<TEXT>kopības. Šajā apsūdzības daļā kriminālprocesu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Senāts</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">izbeigt</WORD>, bet pārējā daļā apelācijas instances tiesas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>konvencijas pantiem. Pēc ECT sprieduma paziņošanas AT Senāts <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> nodot BB krimināllietu atkārtotai izskatīšanai Rīgas</TEXT>
+			<TEXT>konvencijas pantiem. Pēc ECT sprieduma paziņošanas <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">AT Senāts</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>nodot</strong> BB krimināllietu atkārtotai izskatīšanai</WORD> Rīgas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sniegta. Rīgas pilsētas Vidzemes priekšpilsētas tiesa <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> paturēt apcietinājumā bijušo Saeimas un Valsts prezidenta</TEXT>
+			<TEXT>sniegta. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Rīgas pilsētas Vidzemes priekšpilsētas <strong>tiesa</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>paturēt</strong> apcietinājumā bijušo Saeimas un Valsts prezidenta</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>reizi izvērtēja šā gada sākumā — 11. janvārī. Tiesa <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> drošības līdzekli negrozīt, bet Paleps lēmumu pārsūdzēja</TEXT>
+			<TEXT>reizi izvērtēja šā gada sākumā — 11. janvārī. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Tiesa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">drošības līdzekli <strong>negrozīt</strong></WORD>, bet Paleps lēmumu pārsūdzēja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atdevi. Jau 1993. gadā Latvijas Republikas Ministru padome <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> uzdot Ārējās tirdzniecības ministrijai kopīgi ar Latvijas</TEXT>
+			<TEXT>atdevi. Jau 1993. gadā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas Republikas Ministru padome</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>uzdot</strong> Ārējās tirdzniecības ministrijai kopīgi ar Latvijas</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>strīdu izskatīšanas efektivitātes palielināšanai » un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> turpināt darbu pie Darba strīdu komitejas izveidošanas</TEXT>
+			<TEXT>strīdu izskatīšanas efektivitātes palielināšanai » un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc','Inf']" attribute="Inf" class="c00FF00"><strong>turpināt</strong> darbu pie Darba strīdu komitejas izveidošanas</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ziņots, ka šā gada 28. janvārī DP kriminālprocesa gaitā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> nodot realizācijai aptuveni 1200 tonnu nedenaturēta jeb</TEXT>
+			<TEXT>ziņots, ka šā gada 28. janvārī <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">DP</WORD> kriminālprocesa gaitā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nolēma</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Inf" class="c00FF00"><strong>nodot</strong> realizācijai aptuveni 1200 tonnu nedenaturēta jeb</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
