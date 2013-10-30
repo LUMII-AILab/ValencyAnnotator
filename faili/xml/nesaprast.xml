@@ -9,13 +9,13 @@
 		<SENTENCE_CATEGORY id="sFFFF00">Nespēt iedziļināties cita problēmās</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>neizbojāsim? – Nnē, – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vīrietis</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">neko</WORD> no maniem mājieniem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesaprata</WORD>. – Nu ja, varbūt jūsu viesi nepamanīs, – es teicu</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>Baiba (gatavs) Agenss ir Agenss vai Eksperienss?</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>mūziku. Koncertējām Vid - zemē. No sākuma <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vidzemnieki</WORD> gan <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesaprata</WORD>, <WORD json="['NoDat','NoGen','S']" attribute="S" class="c00FF00">no kurienes un kas mēs esam</WORD>, bet vēlāk arī tur cilvēki</TEXT>
-			<COMMENT>Baiba Agenss ir Agenss vai Eksperienss?</COMMENT>
+			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ķīlniekiem? " Viss notika tik negaidīti, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">neviens</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">neko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesaprata</WORD>, " tieši tādus vārdus visu septembri nācās dzirdēt</TEXT>
@@ -877,7 +877,7 @@
 			<TEXT>jau lielāka, arī viss vēl bija vienkārši: <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mamma</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">mani</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesaprata</WORD>, kontrolēja un darīja man pāri. Kāpēc ziemā ir jāstaigā</TEXT>
 			<COMMENT>???</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>neskaidrotu saprot " un kas pažēlos reiz tos, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> viens otru <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesaprata</WORD> ". Visbeidzot, tieši tāpēc, ka pūra lāde ir ne tikai</TEXT>
 			<COMMENT>kas ir viens otrs?</COMMENT>
 		</SENTENCE>
