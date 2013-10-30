@@ -4,7 +4,10 @@
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Eksperienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Tēma</CATEGORY>
-		<CATEGORY id="cFF0000"></CATEGORY>
+		<CATEGORY id="cFF0000">Cēlonis</CATEGORY>
+		<CATEGORY id="c00FFFF">Rezultāts</CATEGORY>
+		<CATEGORY id="cC00000">Beneficienss</CATEGORY>
+		<CATEGORY id="c00C000">Pacienss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -18,35 +21,35 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, “ Rēzeknes dzirnavnieks ”. Šis lielais darbs jau <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> augļus. Lūk, daži fakti un skaitļi no konferencē dzirdētā</TEXT>
+			<TEXT>, “ Rēzeknes dzirnavnieks ”. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Šis lielais <strong>darbs</strong></WORD> jau <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">augļus</WORD>. Lūk, daži fakti un skaitļi no konferencē dzirdētā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izgudroti jauni labības veidi, kas prasa mazāk apstrādes, bet <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> lielāku ražu. Piektais scenārijs. Lielā krīze - saliedēta</TEXT>
+			<TEXT>izgudroti jauni labības veidi, kas prasa mazāk apstrādes, bet <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">lielāku <strong>ražu</strong></WORD>. Piektais scenārijs. Lielā krīze - saliedēta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vai nu cilvēki sajutušies apkaunoti par to, ka viņiem <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> dāvanas, vai uzskatījuši, ka tas tāpat pienākas un</TEXT>
+			<TEXT>vai nu cilvēki sajutušies apkaunoti par to, ka <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cC00000">viņiem</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">dāvanas</WORD>, vai uzskatījuši, ka tas tāpat pienākas un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>arī par kvalitāti. Jā, un šogad pirmo reizi jaunieši <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> iegūtos diplomus. Ir pagājuši četri gadi, pirmie stipendiāti</TEXT>
+			<TEXT>arī par kvalitāti. Jā, un šogad pirmo reizi <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">jaunieši</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">iegūtos <strong>diplomus</strong></WORD>. Ir pagājuši četri gadi, pirmie stipendiāti</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Latvijā un ārpus tās labi pazīstamais mūziķu kolektīvs <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> Rīgas vārdu, bet vislielāko mūsu novadnieku interesi</TEXT>
+			<TEXT>Latvijā un ārpus tās <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">labi pazīstamais mūziķu <strong>kolektīvs</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00C000">Rīgas <strong>vārdu</strong></WORD>, bet vislielāko mūsu novadnieku interesi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>liecība, ko jebkad radījušas mūsu rokas. Projekts pasaulē <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> vienotības ideju. « Pasaules siena » tiek veidota, apvienojoties</TEXT>
+			<TEXT>liecība, ko jebkad radījušas mūsu rokas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Projekts</WORD> pasaulē <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> vienotības ideju. « Pasaules siena » tiek veidota, apvienojoties</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>lai pirmajā stāvā būtu spēļu zāle, kas sev līdzi <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> arī dažādas citas neērtības, ja pasliktināsies viņa</TEXT>
+			<TEXT>lai pirmajā stāvā būtu spēļu zāle, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> sev līdzi <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> arī dažādas citas neērtības, ja pasliktināsies viņa</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Latgales iedzīvotāju, kas ar savu kultūru ļoti lepojas un <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> to kā vizītkarti, bet ir arī otra daļa, kas ir vienaldzīgi</TEXT>
+			<TEXT>Latgales iedzīvotāju, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> ar savu kultūru ļoti lepojas un <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00C000">to</WORD> kā vizītkarti, bet ir arī otra daļa, kas ir vienaldzīgi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
