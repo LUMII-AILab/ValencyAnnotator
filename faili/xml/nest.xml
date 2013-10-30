@@ -4,6 +4,7 @@
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Eksperienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Tēma</CATEGORY>
+		<CATEGORY id="cFF0000"></CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -13,7 +14,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>rodas jautājums, kādas lomas padodas aktierim, kas dzīvē <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> sevī Pūka arhetipu? Bet kādas tam, kam raksturīgi Ēzelīša</TEXT>
+			<TEXT>rodas jautājums, kādas lomas padodas aktierim, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> dzīvē <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> sevī Pūka arhetipu? Bet kādas tam, kam raksturīgi Ēzelīša</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
