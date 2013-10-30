@@ -5,17 +5,19 @@
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Neuztvert</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Nepareizi izprast kādu</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>mūziku. Koncertējām Vid - zemē. No sākuma <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vidzemnieki</WORD> gan <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesaprata</WORD>, <WORD json="['NoDat','NoGen','S']" attribute="S" class="c00FF00">no kurienes un kas mēs esam</WORD>, bet vēlāk arī tur cilvēki</TEXT>
 			<COMMENT>Baiba Agenss ir Agenss vai Eksperienss?</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ķīlniekiem? " Viss notika tik negaidīti, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">neviens</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">neko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesaprata</WORD>, " tieši tādus vārdus visu septembri nācās dzirdēt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>arī vainas sajūtu (14%) un dusmas (8%). <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">25% <strong>vecāku</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesaprata</WORD>, <WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="c00FF00">kāpēc šī slimība skar viņa bērnu</WORD>, un 16% emocionāli</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -280,7 +282,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>aplipināties un smagi saslimt. – – <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kāpēc</WORD>, – – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">nesapratu</WORD>, – – es tikai paskatīšos. – – Es no krieva pat</TEXT>
+			<TEXT>aplipināties un smagi saslimt. – – <WORD json="['Adv','S']" attribute="S" class="c00FF00">Kāpēc</WORD>, – – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">nesapratu</WORD>, – – es tikai paskatīšos. – – Es no krieva pat</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
