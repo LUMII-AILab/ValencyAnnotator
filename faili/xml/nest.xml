@@ -15,11 +15,7 @@
 		<SENTENCE_CATEGORY id="sFF00FF">Ietvert</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
-			<TEXT></TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>rodas jautājums, kādas lomas padodas aktierim, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> dzīvē <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">nes</WORD> sevī Pūka arhetipu? Bet kādas tam, kam raksturīgi Ēzelīša</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
