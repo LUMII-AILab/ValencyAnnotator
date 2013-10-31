@@ -194,7 +194,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>apglabājusi savu pēdējo māsu un tagad par visiem <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c0000FF">sirdī</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> gaišas atmiņas. Rautenšildes kundze ir čakla un gādīga</TEXT>
+			<TEXT>apglabājusi savu pēdējo māsu un tagad par visiem <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c0000FF">sirdī</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">gaišas <strong>atmiņas</strong></WORD>. Rautenšildes kundze ir čakla un gādīga</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -202,8 +202,8 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>aplūkot sētas un laukus. Viņu pavada mārtiņbērni, kas <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> svētību un auglību sētām, laukiem un lopiem. Beidzoties</TEXT>
-			<COMMENT></COMMENT>
+			<TEXT>aplūkot sētas un laukus. Viņu pavada mārtiņbērni, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Acc" class="c00FFFF">svētību un auglību sētām</WORD>, laukiem un lopiem. Beidzoties</TEXT>
+			<COMMENT>dzīvs cēlonis</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>Kurzemē un Vidzemē). Budēļi simbolizē veļus, kas <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> sētai laimi un labas sekmes. Senāk Mārtiņos gāja tikai</TEXT>
