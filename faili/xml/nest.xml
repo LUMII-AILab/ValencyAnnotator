@@ -443,8 +443,8 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> tāpēc nejutās apdalīta, ļoti pacietīgi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> savu krustu. Kaut gan tik traki nemaz nebija, jo mamma</TEXT>
-			<COMMENT></COMMENT>
+			<TEXT>Taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> tāpēc nejutās apdalīta, ļoti pacietīgi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">savu <strong>krustu</strong></WORD>. Kaut gan tik traki nemaz nebija, jo mamma</TEXT>
+			<COMMENT>??????</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>dobes, un tad mēs visu kaut ko stādījām. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Visi <strong>kaimiņi</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> <WORD json="['S']" attribute="S" class="cFF00FF">kaut kādus stādus, kaut kādas puķes, zemenes</WORD>. Tad</TEXT>
@@ -459,18 +459,18 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>iedzīvotāji visu darītu paši, es viņiem devu vīziju. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFFFF00">Sievietes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">ūdeni</WORD>, mitrināja un mīcīja mālus – zeme bija jāmīca</TEXT>
+			<TEXT>iedzīvotāji visu darītu paši, es viņiem devu vīziju. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Sievietes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">ūdeni</WORD>, mitrināja un mīcīja mālus – zeme bija jāmīca</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ar to, ka nākamajā dienā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">četri virsaiša <strong>dēli</strong></WORD> katrs <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">divus <strong>baļķus</strong></WORD>. Viņš bija ziedojis astoņus kokus no ciema</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ciems</WORD> – katrs vīrietis, katra sieviete, katrs bērns – <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> uz galvas <WORD json="['PaDat','PaAcc']" attribute="PaDat" class="cFF00FF">pa trim <strong>ķieģeļiem</strong></WORD> un tā kursēja visu dienu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>dzīves stāstiem, baznīctēvu sacerējumiem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mūki</WORD> visbiežāk <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> uz klostera bibliotēku. “ Claustrum sine armario est</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
