@@ -5,11 +5,11 @@
 		<CATEGORY id="c00FF00">Eksperienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Tēma</CATEGORY>
 		<CATEGORY id="cFF0000">Cēlonis</CATEGORY>
-		<CATEGORY id="c00FFFF">Rezultāts</CATEGORY>
+		<CATEGORY id="c00FFFF">Rezultāts!</CATEGORY>
 		<CATEGORY id="cC00000">Beneficienss</CATEGORY>
 		<CATEGORY id="c00C000">Pacienss</CATEGORY>
-		<CATEGORY id="cC0C000">Līdzi</CATEGORY>
-		<CATEGORY id="c0000FF">Sevī</CATEGORY>
+		<CATEGORY id="cC0C000">Virziens!</CATEGORY>
+		<CATEGORY id="c0000FF">Vieta!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Pārvietot</SENTENCE_CATEGORY>
@@ -20,7 +20,7 @@
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>“ ar melanholiski dūmakaino skatienu ” zem savas sirds <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> Ģirta Ķestera ārlaulības bērnu). – Jā. Mamma toreiz</TEXT>
-			<COMMENT>???</COMMENT>
+			<COMMENT>??? Baiba</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vai nu cilvēki sajutušies apkaunoti par to, ka <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cC00000">viņiem</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">dāvanas</WORD>, vai uzskatījuši, ka tas tāpat pienākas un</TEXT>
