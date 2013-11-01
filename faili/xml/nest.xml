@@ -2,7 +2,7 @@
 <CONTENT>
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
-		<CATEGORY id="c00FF00">Eksperienss?</CATEGORY>
+		<CATEGORY id="c00FF00">Eksperienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Tēma</CATEGORY>
 		<CATEGORY id="cFF0000">Cēlonis</CATEGORY>
 		<CATEGORY id="c00FFFF">Rezultāts</CATEGORY>
@@ -351,7 +351,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>. Kice gribēja bēgt, bet <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Gen" class="cFFFF00">simtiem <strong>roku</strong></WORD> sagrāba <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">viņu</WORD> un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> līdzi līksmajā barā. Kicei šķita, ka viņa ir māls</TEXT>
+			<TEXT>. Kice gribēja bēgt, bet <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">simtiem <strong>roku</strong></WORD> sagrāba <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">viņu</WORD> un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> līdzi līksmajā barā. Kicei šķita, ka viņa ir māls</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -635,7 +635,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>, ir tieši šāds skaits spermatozoīdu. Ikviens no tiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c0000FF">sevī</WORD> potenciālu dzīvībai, kas varēja kļūt par cilvēku</TEXT>
+			<TEXT>, ir tieši šāds skaits spermatozoīdu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00C000">Ikviens</WORD> no tiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">nesa</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c0000FF">sevī</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">potenciālu</WORD> dzīvībai, kas varēja kļūt par cilvēku</TEXT>
 			<COMMENT>?????</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF0000">
