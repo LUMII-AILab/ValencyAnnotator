@@ -18,9 +18,9 @@
 		<SENTENCE_CATEGORY id="sFF0000">Izplatīt (līdzi)</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>“ ar melanholiski dūmakaino skatienu ” zem savas sirds <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> Ģirta Ķestera ārlaulības bērnu). – Jā. Mamma toreiz</TEXT>
-			<COMMENT>??? Baiba</COMMENT>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>“ ar melanholiski dūmakaino skatienu ” <WORD json="['ZemDat','ZemGen']" attribute="ZemGen" class="c0000FF">zem savas <strong>sirds</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">Ģirta Ķestera ārlaulības <strong>bērnu</strong></WORD>). – Jā. Mamma toreiz</TEXT>
+			<COMMENT>Baiba (gatavs, bet ļoti raibs - par virzienu un vietu neesmu pārliecināta, arī par daudz ko citu ne)</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vai nu cilvēki sajutušies apkaunoti par to, ka <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cC00000">viņiem</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">dāvanas</WORD>, vai uzskatījuši, ka tas tāpat pienākas un</TEXT>
@@ -28,7 +28,7 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>arī par kvalitāti. Jā, un šogad pirmo reizi <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">jaunieši</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">iegūtos <strong>diplomus</strong></WORD>. Ir pagājuši četri gadi, pirmie stipendiāti</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>nešķīru divas pārvietošanas nozīmes - gan cēlonis, gan agenss ir vienā</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>klasiskajā izpratnē – kaislīga jūsma un emocijas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">nes</WORD> sprīdi virs zemes, – laulībā nemaz nav iespējama.</TEXT>
