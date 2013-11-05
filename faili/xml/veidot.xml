@@ -11,7 +11,8 @@
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Radīt kaut ko ar rokām</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFFFF00"></SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Būt kaut kā sastāvdaļai</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Radīt kaut ko ar paraugu, pieredzi</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -503,15 +504,15 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ūdeņus iedala pazemes ūdeņos un virszemes ūdeņos. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Virszemes <strong>ūdeņi</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> pastāvīgas ūdensteces (strauti, upes, meliorācijas novadgrāvji</TEXT>
+			<TEXT>ūdeņus iedala pazemes ūdeņos un virszemes ūdeņos. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Virszemes <strong>ūdeņi</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">pastāvīgas <strong>ūdensteces</strong></WORD> (strauti, upes, meliorācijas novadgrāvji</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>efektīvākai ķīmijas apguvei un ķīmijas izpratnes veidošanai. Komplektu <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Laboratorijas un praktisko darbu <strong>krājums</strong></WORD> Laboratorijas un praktiskie</TEXT>
+			<TEXT>efektīvākai ķīmijas apguvei un ķīmijas izpratnes veidošanai. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Komplektu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Laboratorijas un praktisko darbu <strong>krājums</strong></WORD> Laboratorijas un praktiskie</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>būves un remonta pieprasījumu (tālāk - privātpieprasījums) <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> tikai <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">privātpersonas</WORD>. Valsts vai citas stratēģiskās maksātspējas</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">būves un remonta <strong>pieprasījumu</strong></WORD> (tālāk - privātpieprasījums) <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> tikai <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">privātpersonas</WORD>. Valsts vai citas stratēģiskās maksātspējas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -543,83 +544,63 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>miljardu latu apmērā, kas ir mazāk nekā šogad, kad pamatbudžetu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> 3,81 miljards latu. Valsts speciālajā budžetā nākamgad plānoti</TEXT>
+			<TEXT>miljardu latu apmērā, kas ir mazāk nekā šogad, kad pamatbudžetu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cC00000">3,81 miljards latu</WORD>. Valsts speciālajā budžetā nākamgad plānoti</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>novembrī, bet salīdzinājumā ar 2006. gada decembri samazinājums <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> 6.2% jeb 39.5 milj. latu, sasniedzot 593.0 milj. latu. Kopējais</TEXT>
+			<TEXT>novembrī, bet salīdzinājumā ar 2006. gada decembri <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">samazinājums</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">6.2% jeb 39.5 milj. <strong>latu</strong></WORD>, sasniedzot 593.0 milj. latu. Kopējais</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>spēcīgs ir Dziesmusvētku piedzīvojuma nospiedums sirdī. Tautas dejas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> nozīmīgu manas dzīves sastāvdaļu visu skolas laiku, sākot ar</TEXT>
+			<TEXT>spēcīgs ir Dziesmusvētku piedzīvojuma nospiedums sirdī. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Tautas <strong>dejas</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">nozīmīgu manas dzīves <strong>sastāvdaļu</strong></WORD> visu skolas laiku, sākot ar</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>iepazīties ar plašās sarakstes noslēgumu, ko, no vienas puses, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> vairāku ar literatūru, poligrāfiju un grāmatniecību saistītu</TEXT>
+			<TEXT>vecmāmiņas un vectētiņi. Tieši <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD>, stāstot bērniem pasakas, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> viņu apziņā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">apkārtējās pasaules <strong>modeli</strong></WORD>. Ak, cik tas bija svarīgi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vecmāmiņas un vectētiņi. Tieši viņi, stāstot bērniem pasakas, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> viņu apziņā apkārtējās pasaules modeli. Ak, cik tas bija svarīgi</TEXT>
+			<TEXT>sieviešu vidū bija augstāks nekā vīriešiem un 2006. gadā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">tas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">12%,</WORD> salīdzinot ar 10% vīriešu. Vairāk nabadzības riskam ir</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>un ļoti cieta. Tad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vīrieši</WORD> slapjo mālu lēja koka formiņās un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">ķieģeļus</WORD>. Es skaitīju izveidotos ķieģeļus, jo neviens cits</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>gada pirmajā ceturksnī bija Ls 419 (2007. gadā – Ls 323) un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> tikai 85,5% (2007. gada pirmajā ceturksnī – 83,9%) no vīriešu</TEXT>
+			<TEXT>konvencijas 7. panta pirmo daļu, vērtējot, vai <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cC00000">iesniedzēja <strong>darbības</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">noziegumus</WORD>, kas 1944. gadā bija pietiekami pieejami un paredzami</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sieviešu vidū bija augstāks nekā vīriešiem un 2006. gadā tas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> 12%, salīdzinot ar 10% vīriešu. Vairāk nabadzības riskam ir</TEXT>
+			<TEXT>līdzekļiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Ministru un parlamentāro sekretāru <strong>pabalsti</strong></WORD> kopumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">36 400 latu</WORD>. " Kad priekšlikums tika nodots Saeimas Valsts pārvaldes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>un ļoti cieta. Tad vīrieši slapjo mālu lēja koka formiņās un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> ķieģeļus. Es skaitīju izveidotos ķieģeļus, jo neviens cits</TEXT>
+			<TEXT>gleznotus taureņus - kā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Limbažu mākslas skolas nobeiguma <strong>darbu</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Nom" class="cFFFF00">Astras Fogeles <strong>audzēknes</strong> Kristīne Puriņa (no labās) un attēlā</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>konvencijas 7. panta pirmo daļu, vērtējot, vai iesniedzēja darbības <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> noziegumus, kas 1944. gadā bija pietiekami pieejami un paredzami</TEXT>
+			<TEXT>sevišķi mīļas šķirnes Rosalinda tupeņus. Pie blakus galda <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">rindu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">kartupeļu pankūku <strong>cienītāji</strong></WORD>, bet, šķiet, vismazākā piekrišana</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>līdzekļiem. Ministru un parlamentāro sekretāru pabalsti kopumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> 36 400 latu. " Kad priekšlikums tika nodots Saeimas Valsts pārvaldes</TEXT>
+			<TEXT>iekšzemē pārvadāto pasažieru skaits, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">kas</WORD> 2008. gada 1. pusgadā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">12,5 miljonus <strong>pasažieru</strong></WORD>. Starptautiskajā satiksmē pa dzelzceļu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>gleznotus taureņus - kā Limbažu mākslas skolas nobeiguma darbu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> Astras Fogeles audzēknes Kristīne Puriņa (no labās) un attēlā</TEXT>
+			<TEXT>svarīgas sociālas funkcijas - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">tie</WORD> mobilizēja etnisko pašapziņu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">jaunas individuālās un kolektīvās <strong>identitātes</strong></WORD> (Tisenkopfs,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sevišķi mīļas šķirnes Rosalinda tupeņus. Pie blakus galda rindu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> kartupeļu pankūku cienītāji, bet, šķiet, vismazākā piekrišana</TEXT>
+			<TEXT>iedegums, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">kas</WORD> kopā ar skumīgi savilktajām tumši sirmajām uzacīm <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pagalam traģikomisku <strong>ansambli</strong></WORD>. – Tad stāvi. Un gaidi. Klusām</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tikai vienus (Nauris Grakovičs). Roma pret Valmieras « Gauju » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> ļoti daudz uzbrukumu (visus gan neizdevās īstenot), rezultātā</TEXT>
+			<TEXT>iepakojumiem. Viss bija smilšains un bērna apavu nopēdots. Kopā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">tas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FF00">dīvainu <strong>smiržu</strong></WORD> — jauns un svaigs, sievietes krūtspienu piezīdies</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>iekšzemē pārvadāto pasažieru skaits, kas 2008. gada 1. pusgadā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> 12,5 miljonus pasažieru. Starptautiskajā satiksmē pa dzelzceļu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>visām ārvalstu tūristu pavadītajām gultasnaktīm Latvijas laukos <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> tieši vācu tūristi, norāda TAVA sabiedrisko attiecību speciāliste</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>svarīgas sociālas funkcijas - tie mobilizēja etnisko pašapziņu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> jaunas individuālās un kolektīvās identitātes (Tisenkopfs,</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>skādi sejai, kā arī pārējam ķermenim, kurš no dubļu kārtas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> kreveles jeb mīļotās krevetes. Tā, protams, jautra vārdu spēle</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>iedegums, kas kopā ar skumīgi savilktajām tumši sirmajām uzacīm <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> pagalam traģikomisku ansambli. – Tad stāvi. Un gaidi. Klusām</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>iepakojumiem. Viss bija smilšains un bērna apavu nopēdots. Kopā tas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> dīvainu smiržu — jauns un svaigs, sievietes krūtspienu piezīdies</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>mīklu. Nida ar piparkūku formiņām, Atoms ar lineālu un šķērēm <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> cepumus. Tie lipa pie galda, un lielākā daļa piedega, jo cepēji</TEXT>
+			<TEXT>mīklu. Nida ar piparkūku formiņām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Atoms</WORD> ar lineālu un šķērēm <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">cepumus</WORD>. Tie lipa pie galda, un lielākā daļa piedega, jo cepēji</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
