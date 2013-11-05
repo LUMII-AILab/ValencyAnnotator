@@ -10,6 +10,8 @@
 		<CATEGORY id="c00C000">Cēlonis</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Radīt kaut ko ar rokām</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00"></SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -513,31 +515,31 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kokapstrādes atlikumi, šķelda, koksnes briketes, granulas), <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> 23,1% no kopējā enerģijas patēriņa [ 2 ]. Kā redzams, koksnes</TEXT>
+			<TEXT>kokapstrādes atlikumi, šķelda, koksnes briketes, granulas), <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">23,1% no kopējā enerģijas patēriņa</WORD> [ 2 ]. Kā redzams, koksnes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vispārīgs, deklaratīvs un saistības neuzliekošs dokuments, ko <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">prioritāšu izvirzīšanas <strong>sadaļa</strong></WORD> un stratēģijas īstenošanas</TEXT>
+			<TEXT>vispārīgs, deklaratīvs un saistības neuzliekošs dokuments, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">prioritāšu izvirzīšanas <strong>sadaļa</strong></WORD> un stratēģijas īstenošanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>valsts atrašanās politiski un ekonomiski aktīvā reģionā, ko <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cC00000">viens no lielākajiem globālajiem rūpniecības un tirdzniecības</WORD></TEXT>
+			<TEXT>valsts atrašanās politiski un ekonomiski aktīvā reģionā, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cC00000">viens no lielākajiem globālajiem rūpniecības un tirdzniecības</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Iļjenkovs, 1989; Krastiņa, Pipere, 2004). <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Humānā <strong>pedagoģija</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> pamatu bezatzīmju vērtēšanas sistēmai - bērns netiek salīdzināts</TEXT>
+			<TEXT>Iļjenkovs, 1989; Krastiņa, Pipere, 2004). <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">Humānā <strong>pedagoģija</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pamatu</WORD> bezatzīmju vērtēšanas sistēmai - bērns netiek salīdzināts</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>veidojošajām idejām, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cC00000">kuras</WORD> daudzos padomju gadus tikušas noklusētas, bet <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> mūsdienu Rietumu demokrātiju. Taču tas ir atsevišķs stāsts</TEXT>
+			<TEXT>veidojošajām idejām, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cC00000">kuras</WORD> daudzos padomju gadus tikušas noklusētas, bet <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">veido</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">mūsdienu Rietumu <strong>demokrātiju</strong></WORD>. Taču tas ir atsevišķs stāsts</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>elementi bija aka, klabatas (akustiska ziņošanas ierīce, kuru <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">biezs, skanošs <strong>dēlis</strong></WORD>) un zirgu piesienamā slita. Taurupes apkārtnē</TEXT>
+			<TEXT>elementi bija aka, klabatas (akustiska ziņošanas ierīce, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">biezs, skanošs <strong>dēlis</strong></WORD>) un zirgu piesienamā slita. Taurupes apkārtnē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atņemtas mērķdotācijas pedagogu atalgojuma nodrošināšanai, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> aptuveni pusi no skolotāja algas, stāsta Z. Cinkus. Līdz šim</TEXT>
+			<TEXT>atņemtas mērķdotācijas pedagogu atalgojuma nodrošināšanai, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cC00000">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">veidoja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">aptuveni <strong>pusi</strong> no skolotāja algas</WORD>, stāsta Z. Cinkus. Līdz šim</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
