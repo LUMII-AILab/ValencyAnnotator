@@ -76,7 +76,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>apzīmē universālu cilvēka attieksmi pret pasauli, caur to <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">cilvēks</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="S" json="['S']">gan šo <strong>pasauli</strong>, gan arī pats sevi</WORD>. Cilvēka attieksmi pret pasauli</TEXT>
+			<TEXT>apzīmē universālu cilvēka attieksmi pret pasauli, caur to <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">cilvēks</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="Acc" json="['S','Acc']">gan šo <strong>pasauli</strong>, gan arī pats sevi</WORD>. Cilvēka attieksmi pret pasauli</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -244,7 +244,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pieaugušam cilvēkam - 65%, vecam cilvēkam – <WORD class="c00FF00" attribute="Gen" json="['Gen','Nom','Dat','Acc','Loc']">35% ķermeņa <strong>masas</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">ūdens</WORD>. Fizioloģiski ar vecumu ūdens mūs pamet, tāpēc ir svarīgi</TEXT>
+			<TEXT>pieaugušam cilvēkam - 65%, vecam cilvēkam – <WORD class="c00FF00" attribute="Acc" json="['Gen','Nom','Dat','Acc','Loc']">35% ķermeņa <strong>masas</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">ūdens</WORD>. Fizioloģiski ar vecumu ūdens mūs pamet, tāpēc ir svarīgi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -260,7 +260,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>četri atšķirīgi vīriešu tipi. <WORD class="c00FF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">Lielāko <strong>grupu</strong> (tai pieder 37%)</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">biklie <strong>vīrieši</strong></WORD>. Otrajai lielākajai grupai pieder pragmatiskie</TEXT>
+			<TEXT>četri atšķirīgi vīriešu tipi. <WORD class="c00FF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">Lielāko <strong>grupu</strong> (tai pieder 37%)</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">biklie <strong>vīrieši</strong></WORD>. Otrajai lielākajai grupai pieder pragmatiskie</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -636,59 +636,55 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>piedalīsies 15 komandas un 30 mākslinieki no deviņām valstīm, kuri <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> 30 mazās skulptūras, 15 lielās skulptūras un vairākus interaktīvos</TEXT>
+			<TEXT>piedalīsies 15 komandas un 30 mākslinieki no deviņām valstīm, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kuri</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Gen','Nom','Dat','Acc','Loc']">30 mazās <strong>skulptūras</strong></WORD>, 15 lielās skulptūras un vairākus interaktīvos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Klubu nakts būs mūsu ieguldījums Valsts svētkos. Cerams, tā <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> svētku noskaņu, » piebilst M. Namnieks. Kad pagājis apaļš</TEXT>
+			<TEXT>Klubu nakts būs mūsu ieguldījums Valsts svētkos. Cerams, <WORD class="c00C000" attribute="Adv" json="['Adv']">tā</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">svētku <strong>noskaņu</strong></WORD>, » piebilst M. Namnieks. Kad pagājis apaļš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>laikā lidos, bet katras valsts priekšnesuma laikā brīvprātīgie <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> attiecīgās valsts karoga simbolu. Atgādinām, ka Eirovīzijas</TEXT>
+			<TEXT>laikā lidos, bet katras valsts priekšnesuma laikā <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">brīvprātīgie</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">attiecīgās valsts karoga <strong>simbolu</strong></WORD>. Atgādinām, ka Eirovīzijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ir izlasījis Žila Verna « 20 000 ljē pa jūras dzelmi », tagad <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> zemūdens floti? » ar ironiju jautāja bijušais iekšlietu ministrs</TEXT>
+			<TEXT>ir izlasījis Žila Verna « 20 000 ljē pa jūras dzelmi », tagad <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">zemūdens <strong>floti</strong></WORD>? » ar ironiju jautāja bijušais iekšlietu ministrs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>uz bērnu un pusaudžu veselību. Vienlaikus Tirgotāju asociācija <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> brīvprātīgu ražotāju un tirgotāju kodeksu, kurā aizliegs pārdošanas</TEXT>
+			<TEXT>uz bērnu un pusaudžu veselību. Vienlaikus <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Tirgotāju <strong>asociācija</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">brīvprātīgu ražotāju un tirgotāju <strong>kodeksu</strong></WORD>, kurā aizliegs pārdošanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>spēlētāji un pēc gadiem pieciem pusi Luksemburgas hokeja izlases jau <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> šķībacaini puiši? FHM seksa speciāliste Baiba gūst apmierinājumu</TEXT>
+			<TEXT>spēlētāji un pēc gadiem pieciem <WORD class="c00FF00" attribute="Acc" json="['Gen','Nom','Dat','Acc','Loc']"><strong>pusi</strong> Luksemburgas hokeja izlases</WORD> jau <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">šķībacaini <strong>puiši</strong></WORD>? FHM seksa speciāliste Baiba gūst apmierinājumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>puses, faktiskie valsts izdevumi būtu pat mazāki, jo daļu izmaksu <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> pievienotās vērtības nodoklis, kuru valts faktiski samaksās pati</TEXT>
+			<TEXT>puses, faktiskie valsts izdevumi būtu pat mazāki, jo <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']"><strong>daļu</strong> izmaksu</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">pievienotās vērtības <strong>nodoklis</strong></WORD>, kuru valts faktiski samaksās pati</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>informācijas par daudziem (zem 50 MM) darījumiem, kas kopumā <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> lielu finanšu līdzekļu apjomu. Paliek caurumi likuma apiešanai</TEXT>
+			<TEXT>informācijas par daudziem (zem 50 MM) darījumiem, <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kas</WORD> kopumā <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">lielu finanšu līdzekļu <strong>apjomu</strong></WORD>. Paliek caurumi likuma apiešanai</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>taču jau šobrīd var prognozēt, ka vienu ceturtdaļfināla pāri <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> vieskomanda Lietuvas Energija (4. vieta A grupā) un Vilki (stabila</TEXT>
+			<TEXT>savam pirmatomam, kuru uzsūks un <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kurš</WORD> tālāk Gustava ķermenī <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">viņa <strong>apziņu</strong></WORD>. Transcendentālais pasaules starpsugu dzimumakts.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>savam pirmatomam, kuru uzsūks un kurš tālāk Gustava ķermenī <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> viņa apziņu. Transcendentālais pasaules starpsugu dzimumakts.</TEXT>
+			<TEXT>būsim tālredzīgi, vienmēr domāsim par cilvēkiem pozitīvi un <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidosim</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">viņiem labus <strong>imidžus</strong></WORD> un... gaidīsim rezultātus!!! Pētnieki</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>būsim tālredzīgi, vienmēr domāsim par cilvēkiem pozitīvi un <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidosim</WORD> viņiem labus imidžus un... gaidīsim rezultātus!!! Pētnieki</TEXT>
+			<TEXT>mīkstmiesi. Tāpēc teiksim ikvienam: „ Nokauj sevī cacu! ” <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">Veidosim</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">visaptverošu Anonīmo Cacu Biedrību (ACB) <strong>tīklu</strong></WORD>, kurā palīdzēsim</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>mīkstmiesi. Tāpēc teiksim ikvienam: „ Nokauj sevī cacu! ” <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">Veidosim</WORD> visaptverošu Anonīmo Cacu Biedrību (ACB) tīklu, kurā palīdzēsim</TEXT>
+			<TEXT>kontrolēt un pakļaut. “ Ja arodbiedrību vadīs ielikteņi, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">mēs</WORD> <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidosim</WORD> <WORD class="cFF0000" attribute="Acc" json="['Gen','Nom','Dat','Acc','Loc']">citu</WORD> – savējo. Arodbiedrībai jābūt neatkarīgai un, galvenais</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kontrolēt un pakļaut. “ Ja arodbiedrību vadīs ielikteņi, mēs <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidosim</WORD> citu – savējo. Arodbiedrībai jābūt neatkarīgai un, galvenais</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>labus vecākus, labu vīru un labus skolotājus. Visu pārējo es <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidošu</WORD> un celšu pati. – Bet kādēļ? – Viņš man piedod. Redzi</TEXT>
+			<TEXT>labus vecākus, labu vīru un labus skolotājus. <WORD class="cFF0000" attribute="Acc" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">Visu <strong>pārējo</strong></WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">es</WORD> <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidošu</WORD> un celšu pati. – Bet kādēļ? – Viņš man piedod. Redzi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
