@@ -16,21 +16,9 @@
 		<SENTENCE_CATEGORY id="sFF0000">Izraisīt</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>viņš ir saviem vecākiem vajadzīgs, nozīmīgs. <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Bērns</WORD> tāpat <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">savu <strong>attieksmi</strong></WORD>; vai viņš mīl savus vecākus, kādi viņi ir,</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>No vienas puses pastāv elektroenerģijas ģenerēšanas limits, <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">ko</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="c00C000" attribute="Nom" json="['Gen','Nom','Dat','Acc','Loc']">saules bateriju <strong>iespējas</strong></WORD>. No otras - ilgu laiku elektriskais katls</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>iespīd žilbinoša saule. Ir gluži kā savās mājās, kur <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">cilvēks</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">īpašu pasauli</WORD>, un tomēr ne. Katrs šeit arī dzīvo savā pasaulē</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>sieviešu vidū bija augstāks nekā vīriešiem un 2006. gadā <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">tas</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidoja</WORD> <WORD class="c00FF00" attribute="Acc" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">12%,</WORD> salīdzinot ar 10% vīriešu. Vairāk nabadzības riskam ir</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>Ilze--> sāku</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>Klubu nakts būs mūsu ieguldījums Valsts svētkos. Cerams, <WORD class="c00C000" attribute="Nom" json="['Adv','Nom']">tā</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">svētku <strong>noskaņu</strong></WORD>, » piebilst M. Namnieks. Kad pagājis apaļš</TEXT>
@@ -217,8 +205,12 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>sieviešu vidū bija augstāks nekā vīriešiem un 2006. gadā <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">tas</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidoja</WORD> <WORD class="c00FF00" attribute="Acc" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">12%,</WORD> salīdzinot ar 10% vīriešu. Vairāk nabadzības riskam ir</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>﻿lietpratējam attiecīgajā tehnikas jomā. (2) Ja <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">tehnikas <strong>līmeni</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cC00000" attribute="Nom" json="['S','Nom']">arī šā likuma 5. panta trešajā daļā minētie patentu <strong>pieteikumi</strong></WORD></TEXT>
-			<COMMENT>Ilze--> sāku</COMMENT>
+			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>ar šā panta trešo daļu veikto maksājumu apjomus. Izmaksas, <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">ko</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">maksājumi</WORD> par uzstādīto elektrisko jaudu, sedz visi Latvijas elektroenerģijas</TEXT>
@@ -666,6 +658,14 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>savam pirmatomam, kuru uzsūks un <WORD class="cC00000" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kurš</WORD> tālāk Gustava ķermenī <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">viņa <strong>apziņu</strong></WORD>. Transcendentālais pasaules starpsugu dzimumakts.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>viņš ir saviem vecākiem vajadzīgs, nozīmīgs. <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Bērns</WORD> tāpat <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">savu <strong>attieksmi</strong></WORD>; vai viņš mīl savus vecākus, kādi viņi ir,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>iespīd žilbinoša saule. Ir gluži kā savās mājās, kur <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">cilvēks</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">veido</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">īpašu pasauli</WORD>, un tomēr ne. Katrs šeit arī dzīvo savā pasaulē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF00FF">
