@@ -6,9 +6,11 @@
 		<CATEGORY id="cFF00FF">Līdzeklis</CATEGORY>
 		<CATEGORY id="cFF0000">Nolūks</CATEGORY>
 		<CATEGORY id="c00FFFF">Pacienss</CATEGORY>
-		<CATEGORY id="cC00000">Vērtība</CATEGORY>
+		<CATEGORY id="cC00000">Vērtība/Veids?</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Izsniegt naudas līdzekļus</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Būt kaut kādā vērtībā</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -160,55 +162,55 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>rajona Padome atlaišanas pabalstus darbiniekiem aprēķina un <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cC00000">atbilstīgi likumdošanai,</WORD> uzsver pašvaldības izpilddirektore</TEXT>
+			<TEXT>rajona Padome atlaišanas pabalstus darbiniekiem aprēķina un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">atbilstīgi likumdošanai,</WORD> uzsver pašvaldības izpilddirektore</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pēc iepriekšējo gadu pieredzes – siltais ūdens vasarā <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> 2000 latu, bet iekasējam – 500 latu. Viena kuba izmaksas</TEXT>
+			<TEXT>pēc iepriekšējo gadu pieredzes – siltais ūdens vasarā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">2000 <strong>latu</strong></WORD>, bet iekasējam – 500 latu. Viena kuba izmaksas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pusgadam varēs veikt tikai 775. Šāda operācija valstij <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> vidēji 2500 - 5000 latu, tās veic infarkta vai pirmsinfarkta</TEXT>
+			<TEXT>pusgadam varēs veikt tikai 775. Šāda operācija valstij <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">vidēji 2500 - 5000 <strong>latu</strong></WORD>, tās veic infarkta vai pirmsinfarkta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>gan ar ekonomisko situāciju valstī, jo šāda braukšana <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> lētāk, gan arī ar vispārēju propagandu veselīgam dzīvesveidam</TEXT>
+			<TEXT>gan ar ekonomisko situāciju valstī, jo šāda braukšana <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cC00000">lētāk</WORD>, gan arī ar vispārēju propagandu veselīgam dzīvesveidam</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>līdzekļiem aizturētajiem nodrošināta gan ēdināšana, kas <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> vidēji 3,2 latus dienā, gan arī telpu dezinfekcija un</TEXT>
+			<TEXT>līdzekļiem aizturētajiem nodrošināta gan ēdināšana, kas <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> vidēji <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">3,2 <strong>latus</strong></WORD> dienā, gan arī telpu dezinfekcija un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Bērniņa ieņemšana, izmantojot IVF vai ICSI metodi, pārim <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> no 1000 līdz 1500 latiem. Latvijā katru gadu palielinās</TEXT>
+			<TEXT>Bērniņa ieņemšana, izmantojot IVF vai ICSI metodi, pārim <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['NoDat','NoGen','Acc']" attribute="Acc" class="cC00000">no 1000 līdz 1500 latiem</WORD>. Latvijā katru gadu palielinās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>aukstu kompresi ". Viena čūsku masāžas procedūra klientam <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> aptuveni 35 latus. Viens no Peru suņu audzētāju klubiem</TEXT>
+			<TEXT>aukstu kompresi ". Viena čūsku masāžas procedūra klientam <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">aptuveni 35 <strong>latus</strong></WORD>. Viens no Peru suņu audzētāju klubiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vienas mazskaitlīgās struktūrvienības uzturēšana gadā <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> aptuveni 100 000 [ latu ], » skaidro Pencis. Tomēr VUGD</TEXT>
+			<TEXT>vienas mazskaitlīgās struktūrvienības uzturēšana gadā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">aptuveni 100 000 [ <strong>latu</strong></WORD> ], » skaidro Pencis. Tomēr VUGD</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>un uzstādīšana, sadarbojoties ar kādu Vācijas firmu, <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> aptuveni 50 000 eiro jeb 35 140 latus, aģentūrai LETA</TEXT>
+			<TEXT>un uzstādīšana, sadarbojoties ar kādu Vācijas firmu, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">aptuveni 50 000 eiro jeb 35 140 latus</WORD>, aģentūrai LETA</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>uzņēmumi saviem klientiem sūta vajadzīgo informāciju, pastam <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> daudz mazāk nekā vienas vēstules sūtīšana starp privātpersonām</TEXT>
+			<TEXT>uzņēmumi saviem klientiem sūta vajadzīgo informāciju, pastam <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cC00000">daudz mazāk</WORD> nekā vienas vēstules sūtīšana starp privātpersonām</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>darba līgumus u. c.). Tā kā bezdarbnieka pabalstus VSAA <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD>, tikai ieskaitot naudu klienta kontā bankā vai PNS, bezdarbniekam</TEXT>
+			<TEXT>darba līgumus u. c.). Tā kā bezdarbnieka pabalstus VSAA <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD>, tikai ieskaitot naudu klienta kontā bankā vai PNS, bezdarbniekam</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kritusi. Kāpēc tad līgumā ieraksta vienu summu, bet <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> citu? Tāpēc, ka to nosaka likums. Zinot šo noteikumu</TEXT>
+			<TEXT>kritusi. Kāpēc tad līgumā ieraksta vienu summu, bet <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">citu</WORD>? Tāpēc, ka to nosaka likums. Zinot šo noteikumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ikmēneša rēķina vienam klientam sagatavošana un izsūtīšana <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> aptuveni 30 līdz 40 santīmu. Pieņemsim, ka kādai kompānijai</TEXT>
+			<TEXT>ikmēneša rēķina vienam klientam sagatavošana un izsūtīšana <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> aptuveni 30 līdz 40 santīmu. Pieņemsim, ka kādai kompānijai</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
