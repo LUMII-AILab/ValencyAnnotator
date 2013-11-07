@@ -11,6 +11,7 @@
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Izsniegt naudas līdzekļus</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFFFF00">Būt kaut kādā vērtībā</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Uzsaukt</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -246,67 +247,63 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kura amerikāņiem un eiropiešiem izmaksāja un joprojām <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">ļoti <strong>dārgi</strong></WORD>. Koncepcijas pamatā bija dažādu - kustības</TEXT>
+			<TEXT>kura amerikāņiem un eiropiešiem izmaksāja un joprojām <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">ļoti <strong>dārgi</strong></WORD>. Koncepcijas pamatā bija dažādu - kustības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>celtnieku, bet arī arhitektu un dizaineru kontrolē. Tas viss <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">dārgi</WORD>: piemēram, trīs stāvu kotedžas cena ir, sākot</TEXT>
+			<TEXT>celtnieku, bet arī arhitektu un dizaineru kontrolē. Tas viss <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">dārgi</WORD>: piemēram, trīs stāvu kotedžas cena ir, sākot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>guvumu katrai ģimenei, turklāt ekonomisko spuldžu iegāde <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cC00000">vairāk</WORD>. Taču visā Eiropā tas ļaus ietaupīt tādu elektroenerģijas</TEXT>
+			<TEXT>guvumu katrai ģimenei, turklāt ekonomisko spuldžu iegāde <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cC00000">vairāk</WORD>. Taču visā Eiropā tas ļaus ietaupīt tādu elektroenerģijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>renovēšana līdz pasīvās mājas standartiem vai ļoti tuvu tiem <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> apmēram 450 - 600 EUR / m ² uz AGP. Papildu izmaksas,</TEXT>
+			<TEXT>renovēšana līdz pasīvās mājas standartiem vai ļoti tuvu tiem <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">apmēram 450 - 600 EUR / m ² uz AGP</WORD>. Papildu izmaksas,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, pienam, maizei, augļiem, zivīm u. c. produktiem. <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">Izmaksā</WORD> dārgi Pēc dažādām peripetijām, budžeta līdzekļu</TEXT>
+			<TEXT>, pienam, maizei, augļiem, zivīm u. c. produktiem. <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">Izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cC00000">dārgi</WORD> Pēc dažādām peripetijām, budžeta līdzekļu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izpildītājam, kuri pēc īpašumtiesību pārejas naudu <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> pārdevējam; naudu ievietot bankas krātuvē, kurai ir</TEXT>
+			<TEXT>izpildītājam, kuri pēc īpašumtiesību pārejas naudu <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> pārdevējam; naudu ievietot bankas krātuvē, kurai ir</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>uzturēšanos Pansionātā viena iemītnieka uzturēšana <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> 80 latus mēnesī. To finansē Alūksnes rajona padome.</TEXT>
+			<TEXT>uzturēšanos Pansionātā viena iemītnieka uzturēšana <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> 80 latus mēnesī. To finansē Alūksnes rajona padome.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>arī pielāgojamas telpas, tomēr šobrīd pielāgošana <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> daudz dārgāk nekā uzcelt dispečeru centru pilnīgi no</TEXT>
+			<TEXT>arī pielāgojamas telpas, tomēr šobrīd pielāgošana <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> daudz dārgāk nekā uzcelt dispečeru centru pilnīgi no</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>organizatoriskos izdevumus, viena spīdvejista starts sacensībās <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> 1040 eiro. Arī mehāniķis par velti nestrādā. Izdevumus</TEXT>
+			<TEXT>organizatoriskos izdevumus, viena spīdvejista starts sacensībās <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> 1040 eiro. Arī mehāniķis par velti nestrādā. Izdevumus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>politikā. Katrs pieliktais lats darbinieka algai uzņēmumam <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> dubultīgi nodokļu sistēmas dēļ, pauž M. Motina.</TEXT>
+			<TEXT>politikā. Katrs pieliktais lats darbinieka algai uzņēmumam <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> dubultīgi nodokļu sistēmas dēļ, pauž M. Motina.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>var dzīvot labāk? Viena narkomāna ārstēšana Amerikā <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> 50 000 dolāru! Latvijā jau ir vairāk nekā 4000 oficiāli</TEXT>
+			<TEXT>var dzīvot labāk? Viena narkomāna ārstēšana Amerikā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> 50 000 dolāru! Latvijā jau ir vairāk nekā 4000 oficiāli</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>akām, avotiem un urbumiem, vai jāierīko dziļurbumi, kas <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> ļoti dārgi. Daudzviet kvartāra nogulumos un dažāda</TEXT>
+			<TEXT>akām, avotiem un urbumiem, vai jāierīko dziļurbumi, kas <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> ļoti dārgi. Daudzviet kvartāra nogulumos un dažāda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dāmu kā tu vai tādu vecu un bagātu kungu kā es, lai <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> un izdrāž, – – smējās Mičio. Vēlāk viņi devās</TEXT>
+			<TEXT>uzsmaidu viņiem, dzeru tos draņķīgos dzērienus, ko viņi <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD>, smejos par neveiklajiem jokiem, eju dejot un ļauju,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>uzacis. Vecā Sproģi īpaši uzmana, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> dažkārt <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">tai</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">alu</WORD>, it īpaši karstās dienās. Tad viņa nokāpj</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>uzsmaidu viņiem, dzeru tos draņķīgos dzērienus, ko viņi <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD>, smejos par neveiklajiem jokiem, eju dejot un ļauju,</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>uzacis. Vecā Sproģi īpaši uzmana, jo viņš dažkārt <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> tai alu, it īpaši karstās dienās. Tad viņa nokāpj</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Es nopirkšu tev šķūni. Tev šķiet, ka tu man lēti <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD>? Ja tu zinātu, cik naudas tevis dēļ ir zemē nomests</TEXT>
+			<TEXT>Es nopirkšu tev šķūni. Tev šķiet, ka tu man lēti <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD>? Ja tu zinātu, cik naudas tevis dēļ ir zemē nomests</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -677,12 +674,12 @@
 			<TEXT>noskuma, tomēr galvenokārt rēķināja, cik tādas bēres <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmaksās</WORD>. Naudu žēlot nevar. Taču pārāk šķiesties arī ne</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>savās mājās labdabīgi palietošu. Runājot vai klusējot. <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">Izmaksāšu</WORD> mīļajiem draugiem ēdienus, dzērienus, mūziku, drēbes</TEXT>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>savās mājās labdabīgi palietošu. Runājot vai klusējot. <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">Izmaksāšu</WORD> mīļajiem draugiem <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">ēdienus, dzērienus, mūziku, drēbes</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ironizē. Varen augstsirdīgi, ko tu neteiksi! Tad jau es tev <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmaksāšu</WORD> brokastis... EDUARDS. Nē, paldies, nealkstu iziet</TEXT>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>ironizē. Varen augstsirdīgi, ko tu neteiksi! Tad jau es tev <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">izmaksāšu</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">brokastis</WORD>... EDUARDS. Nē, paldies, nealkstu iziet</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
