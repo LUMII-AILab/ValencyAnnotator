@@ -5,6 +5,7 @@
 		<CATEGORY id="c00FF00">Beneficienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Līdzeklis</CATEGORY>
 		<CATEGORY id="cFF0000">Nolūks</CATEGORY>
+		<CATEGORY id="c00FFFF">Pacienss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -94,31 +95,31 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nosacījumus: 1) laimestu, kas nepārsniedz 500 latus, <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> nekavējoties; 2) laimestu no 501 lata līdz 10000 latiem</TEXT>
+			<TEXT>nosacījumus: 1) laimestu, kas nepārsniedz 500 latus, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> nekavējoties; 2) laimestu no 501 lata līdz 10000 latiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nekavējoties; 2) laimestu no 501 lata līdz 10000 latiem <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> 24 stundu laikā; 3) laimestu, kas pārsniedz 10000 latus</TEXT>
+			<TEXT>nekavējoties; 2) laimestu no 501 lata līdz 10000 latiem <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> 24 stundu laikā; 3) laimestu, kas pārsniedz 10000 latus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>apdrošināšanas atlīdzību par apdrošināšanas gadījumu <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> apdrošinātajai personai (vai tās labuma guvējam),</TEXT>
+			<TEXT>apdrošināšanas atlīdzību par apdrošināšanas gadījumu <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> apdrošinātajai personai (vai tās labuma guvējam),</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ierīce ir daudz lētāka nekā citi jaunie helikopteri, kas <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> ap trim miljoniem dolāru.... gan zinātniekiem Zinātnieki</TEXT>
+			<TEXT>ierīce ir daudz lētāka nekā citi jaunie helikopteri, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> ap trim miljoniem dolāru.... gan zinātniekiem Zinātnieki</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>akām, avotiem un urbumiem, vai jāierīko dziļurbumi, kas <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> ļoti dārgi. Daudzviet kvartāra nogulumos un dažāda</TEXT>
+			<TEXT>akām, avotiem un urbumiem, vai jāierīko dziļurbumi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> ļoti dārgi. Daudzviet kvartāra nogulumos un dažāda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>publicēt savu vārdu. Kabeļa ievilkšana neesot izdevīga, jo <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> vairākus desmitus tūkstošu latu, bet klients būs tikai</TEXT>
+			<TEXT>publicēt savu vārdu. Kabeļa ievilkšana neesot izdevīga, jo <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> vairākus desmitus tūkstošu latu, bet klients būs tikai</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Strauji pieaugušas elektrības cenas, ielu apgaismojums <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">izmaksā</WORD> dārgi, tāpēc līdz gada beigām visu nakti gaismu vairs</TEXT>
+			<TEXT>Strauji pieaugušas elektrības cenas, ielu apgaismojums <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> dārgi, tāpēc līdz gada beigām visu nakti gaismu vairs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
