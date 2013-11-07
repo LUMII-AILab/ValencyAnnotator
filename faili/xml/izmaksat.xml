@@ -6,7 +6,8 @@
 		<CATEGORY id="cFF00FF">Tēma</CATEGORY>
 		<CATEGORY id="cFF0000">Nolūks</CATEGORY>
 		<CATEGORY id="c00FFFF">Pacienss</CATEGORY>
-		<CATEGORY id="cC00000">Vērtība/Veids?</CATEGORY>
+		<CATEGORY id="cC00000">Vērtība/Veids!</CATEGORY>
+		<CATEGORY id="c00C000">Beneficienss?</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Izsniegt naudas līdzekļus</SENTENCE_CATEGORY>
@@ -20,7 +21,7 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT>pieprasītājam. (3) <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">Diplomātiem</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">izdienas <strong>pensijas</strong></WORD> piešķir un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ārlietu <strong>ministrija</strong></WORD>. (4) Diplomātam, kuram ir tiesības</TEXT>
-			<COMMENT>beneficienss ir arī antibeneficienss (tas, kuram kaut kas izmaksā d)</COMMENT>
+			<COMMENT>Beneficienss? patiesībā ir antibeneficienss</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
 			<TEXT><WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">viņa ģimenei vai personai</WORD>, kas uzņēmusies apbedīšanu, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">apbedīšanas <strong>pabalstu</strong></WORD> divu mēnešu izdienas pensijas apmērā</TEXT>
@@ -55,11 +56,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tam, kad bērns sasniedzis 18 gadu vecumu, piešķir un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> pašam bērnam. (5) Šā likuma 13. panta pirmās daļas</TEXT>
+			<TEXT>tam, kad bērns sasniedzis 18 gadu vecumu, piešķir un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">pašam <strong>bērnam</strong></WORD>. (5) Šā likuma 13. panta pirmās daļas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">noteikto <strong>pabalstu</strong></WORD> piešķir apgādnieku zaudējušam bērnam un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> viņa mātei, tēvam, aizbildnim vai citai personai, kura</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">noteikto <strong>pabalstu</strong></WORD> piešķir apgādnieku zaudējušam bērnam un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">viņa mātei, tēvam, aizbildnim vai citai personai</WORD>, kura</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -87,15 +88,15 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">naudas <strong>līdzekļus</strong></WORD> mēneša laikā no naudas atgūšanas dienas <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> sistēmas dalībniekiem, kuri veikuši maksājumus kompensāciju</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">naudas <strong>līdzekļus</strong></WORD> mēneša laikā no naudas atgūšanas dienas <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">sistēmas <strong>dalībniekiem</strong></WORD>, kuri veikuši maksājumus kompensāciju</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>saskaņā ar azartspēles noteikumiem laimēšanas gadījumā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> azartspēles organizētājs, kā arī naudas summa vai manta</TEXT>
+			<TEXT>saskaņā ar azartspēles noteikumiem laimēšanas gadījumā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">azartspēles <strong>organizētājs</strong></WORD>, kā arī naudas summa vai manta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>spēlētājam saskaņā ar izlozes noteikumiem laimēšanas gadījumā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> izlozes organizētājs; 13) rulete (cilindriskā spēle</TEXT>
+			<TEXT>spēlētājam saskaņā ar izlozes noteikumiem laimēšanas gadījumā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">izlozes <strong>organizētājs</strong>;</WORD> 13) rulete (cilindriskā spēle</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -107,7 +108,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">apdrošināšanas <strong>atlīdzību</strong> par apdrošināšanas gadījumu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> apdrošinātajai personai (vai tās labuma guvējam),</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">apdrošināšanas <strong>atlīdzību</strong> par apdrošināšanas gadījumu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFFFF00">apdrošinātajai <strong>personai</strong></WORD> (vai tās labuma guvējam),</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -127,15 +128,15 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Pacientu <strong>ārstēšana</strong></WORD> terapijas vai bērnu profilos slimnīcai <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cC00000">mazāk</WORD> – to varam nodrošināt arī kvotas pārpildes apstākļos</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Pacientu <strong>ārstēšana</strong></WORD> terapijas vai bērnu profilos <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00C000">slimnīcai</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cC00000">mazāk</WORD> – to varam nodrošināt arī kvotas pārpildes apstākļos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Liepāju, Tukumu, Ventspili. Parēķiniet paši, <WORD json="['Adv']" attribute="Adv" class="cC00000">cik</WORD> tas <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD>, jo degviela automašīnai jāpērk, ieejas biļetes šo</TEXT>
+			<TEXT>Liepāju, Tukumu, Ventspili. Parēķiniet paši, <WORD json="['Adv']" attribute="Adv" class="cC00000">cik</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD>, jo degviela automašīnai jāpērk, ieejas biļetes šo</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>bērna skološanās Sakstagala pagasta Vītolu pamatskolā mums <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> 63 latus mēnesī, bet par pirmsskolas izglītības iestādes</TEXT>
+			<TEXT>bērna skološanās Sakstagala pagasta Vītolu pamatskolā <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00C000">mums</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> 63 latus mēnesī, bet par pirmsskolas izglītības iestādes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
