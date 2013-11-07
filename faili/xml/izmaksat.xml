@@ -15,11 +15,11 @@
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nodrošinājuma pabalsta apmēru. (6) Izdienas pensiju <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> no valsts pamatbudžeta līdzekļiem, kas piešķirti Ārlietu</TEXT>
+			<TEXT>nodrošinājuma pabalsta apmēru. (6) <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">Izdienas <strong>pensiju</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> no valsts pamatbudžeta līdzekļiem, kas piešķirti Ārlietu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pieprasītājam. (3) Diplomātiem izdienas pensijas piešķir un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> Ārlietu ministrija. (4) Diplomātam, kuram ir tiesības</TEXT>
+			<TEXT>pieprasītājam. (3) <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">Diplomātiem</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">izdienas <strong>pensijas</strong></WORD> piešķir un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ārlietu <strong>ministrija</strong></WORD>. (4) Diplomātam, kuram ir tiesības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
