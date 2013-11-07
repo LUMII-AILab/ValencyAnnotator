@@ -16,6 +16,7 @@
 		<SENTENCE_CATEGORY id="sFF0000">Izraisīt</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="s00FFFF">Radīt organizāciju</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sC00000">Radīt mākslas darbu, notikumu</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="s00C000">Pārveidot kaut ko, pielāgot</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -162,15 +163,15 @@
 			<TEXT>firmā “ Forevers ” (savulaik strādāju tur par komercdirektoru un <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidoju</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">tās veikalu <strong>tīklu</strong></WORD> Latgalē), diezin vai būtu novedis šo lietu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="sC00000">
 			<TEXT>esmu jau trešo gadu. Nodarbojos ar fotogrāfiju apstrādi datorā, <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidoju</WORD> <WORD class="cFF0000" attribute="Acc" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">katalogus, albūmus</WORD>, būtībā - dizainera maketētāja darbs.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="sC00000">
 			<TEXT>stāstām par vēžiem baseinā. Bet ir tikai viens cilvēks, kam <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">es</WORD> <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidoju</WORD> <WORD class="cFF0000" attribute="Acc" json="['Dat','Nom','Gen','Acc','Loc']">tieši tādu <strong>stāstu</strong> par bibliotēkas kāpnēm</WORD>, kāds nu tas tagad</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="sC00000">
 			<TEXT>– pa vienai katrā publiskajā un arī skolas bibliotēkā. « Kad <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidojām</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">akciju</WORD>, domājām, ka šai grāmatai vajadzētu būt katrā ģimenē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -182,15 +183,15 @@
 			<TEXT>laikā lidos, bet katras valsts priekšnesuma laikā <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">brīvprātīgie</WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">attiecīgās valsts karoga <strong>simbolu</strong></WORD>. Atgādinām, ka Eirovīzijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="s00FFFF">
 			<TEXT>ir izlasījis Žila Verna « 20 000 ljē pa jūras dzelmi », tagad <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">zemūdens <strong>floti</strong></WORD>? » ar ironiju jautāja bijušais iekšlietu ministrs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="sC00000">
 			<TEXT>uz bērnu un pusaudžu veselību. Vienlaikus <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Tirgotāju <strong>asociācija</strong></WORD> <WORD class="verbs" attribute="V3" json="['V3','V1','V2','Inf']">veidos</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">brīvprātīgu ražotāju un tirgotāju <strong>kodeksu</strong></WORD>, kurā aizliegs pārdošanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="s00C000">
 			<TEXT>būsim tālredzīgi, vienmēr domāsim par cilvēkiem pozitīvi un <WORD class="verbs" attribute="V1" json="['V1','V2','V3','Inf']">veidosim</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">viņiem labus <strong>imidžus</strong></WORD> un... gaidīsim rezultātus!!! Pētnieki</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
