@@ -5,7 +5,7 @@
 		<CATEGORY id="c00FF00">Beneficienss</CATEGORY>
 		<CATEGORY id="cFF00FF">Tēma</CATEGORY>
 		<CATEGORY id="c00FFFF">Pacienss</CATEGORY>
-		<CATEGORY id="cC00000">Vērtība/Veids!</CATEGORY>
+		<CATEGORY id="cC00000">Veids!</CATEGORY>
 		<CATEGORY id="c00C000">Beneficienss?</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
@@ -20,7 +20,7 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF"><strong>daļu</strong> naudas summas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Hokeja asociācijas <strong>vadītāji</strong></WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">hokejistiem</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">izmaksāja</WORD> pirms decembra Eiropas Izaicinājuma turnīra, tomēr lielākā</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>VEIDS = VĒRTĪBA</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>nodrošinājuma pabalsta apmēru. (6) <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">Izdienas <strong>pensiju</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">izmaksā</WORD> no valsts pamatbudžeta līdzekļiem, kas piešķirti Ārlietu</TEXT>
