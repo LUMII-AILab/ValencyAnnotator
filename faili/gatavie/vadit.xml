@@ -9,19 +9,30 @@
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Nodrošināt darbību, mācības, sarunas. Būt kolektīva priekšgalā</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFFFF00">Izraisīt</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF00FF">Vadīt transportlīdzekli</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF0000">Vadīt enerģiju</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="s00FFFF">Būt pārņemtam ar kaut ko</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="s00FFFF">Būt pārņemtam ar kaut ko, būt kaut kā iespaidā</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>prezidents. (3) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valsts ugunsdzēsības un glābšanas <strong>dienests</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD>, koordinē un kontrolē <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">sistēmas <strong>darbību</strong></WORD>. (4) Atkarībā</TEXT>
+			<COMMENT>Gunta gatavs</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>gadījumā; 3) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Iekšlietu <strong>ministrija</strong></WORD> plāno, sagatavo un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">civilās aizsardzības formējumu <strong>mobilizāciju</strong></WORD> valsts apdraudējuma</TEXT>
+			<COMMENT>nozīmes - Baiba</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>teritorijas ilgtspējīgu un līdzsvarotu attīstību. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">Novada valdi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">novada domes <strong>priekšsēdētājs</strong></WORD>, un tajā ietilpst novada</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>instruktoru darbu; 5.4.2. lēcienu vadītājs – persona, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF00FF">izpletņlēcēju <strong>desantēšanu</strong></WORD>, atrodoties uz zemes; 5.4.3.</TEXT>
-			<COMMENT>Gunta</COMMENT>
+			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>kārtība ar instruktoru, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF00FF">izpletņlēcēju <strong>desantēšanu</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> no zemes; 19.3. pienākumi gaisa kuģa pacelšanās un lidojuma</TEXT>
-			<COMMENT>nozīmes - Baiba</COMMENT>
+			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>kādā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valsts ugunsdzēsības un glābšanas <strong>dienests</strong></WORD> veic un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">ugunsgrēku <strong>dzēšanu</strong></WORD> un glābšanas darbus " (Latvijas</TEXT>
@@ -29,10 +40,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>un <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">pārvarēšanas <strong>pasākumus</strong></WORD> valsts vai reģiona mērogā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ministru <strong>prezidents</strong></WORD>. (3) Valsts ugunsdzēsības un glābšanas</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>prezidents. (3) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valsts ugunsdzēsības un glābšanas <strong>dienests</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD>, koordinē un kontrolē <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">sistēmas <strong>darbību</strong></WORD>. (4) Atkarībā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -49,10 +56,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>gadījumā; 2) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aizsardzības <strong>ministrija</strong></WORD> plāno, sagatavo un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">Nacionālo bruņoto spēku <strong>mobilizāciju</strong></WORD> valsts apdraudējuma</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>gadījumā; 3) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Iekšlietu <strong>ministrija</strong></WORD> plāno, sagatavo un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">civilās aizsardzības formējumu <strong>mobilizāciju</strong></WORD> valsts apdraudējuma</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -95,28 +98,12 @@
 			<TEXT>locekļiem ir tiesības tikt pārvēlētiem5. 5.3.2 <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valde</WORD>: <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">Organizācijas ikdienas <strong>darbu</strong></WORD>; lemj, pārvalda un rīkojas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>intuīciju, aktīvu zemapziņas reakciju. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">Sievietes <strong>rīcību</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">nevaldāmas, spēcīgas <strong>kaislības</strong></WORD>, viņa ik brīdi ir</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>kļūst jūtīgāks un iecietīgāks pret citiem. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">Nodarbības</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">speciālists <strong>kinologs</strong></WORD> ar speciāli apmācītu suni. Katram</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>valsts dienesta vai civilajiem mērķiem. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">Šos <strong>lidaparātus</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">dažādas <strong>grupas</strong></WORD>, kā policija, topogrāfi vai arheologi</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Predator <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">lidojumu</WORD> pāri attālām Irākas daļām, iespējams, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> un kontrolē <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">piloti</WORD>, kas sēž video ekrānu priekšā tūkstošiem</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>izmantots visādu veidu darbiem, kuru izpildei lidaparāts, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pilots</WORD>, varētu būt pārāk bīstams, nepraktisks vai</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF0000">
-			<TEXT>izslēgt. 3. klasi beidzot, skolēni zina, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kādi <strong>materiāli</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> un nevada elektrību un, strādājot ar elektriskām ierīcēm</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -207,10 +194,6 @@
 			<TEXT>. « Tas, cik saņem premjerministrs — cilvēks, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">valsti</WORD>, — nav normāli, » sacīja Repše. Grāmatā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFF0000">
-			<TEXT>ārējo ausi un vidusausi, kā arī dzirdes kauliņus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">skaņu</WORD> uz iekšējo ausi. Šobrīd zēna vispārējais veselības</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>delegācijas <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">dalību</WORD> starptautiskajās sacensībās organizē un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Izglītības satura un eksaminācijas <strong>centrs</strong></WORD> sadarbībā</TEXT>
 			<COMMENT></COMMENT>
@@ -223,18 +206,6 @@
 			<TEXT>Zinātniski pierādīts, ka mūsu rīcību un <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">lēmumu <strong>pieņemšanu</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> nevis prāts un racionālie apsvērumi, bet gan emocijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FFFF">
-			<TEXT>ikdienā dzīvo seksuālie varmākas un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kādi <strong>nodomi</strong></WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">viņus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD>. Ar sapni par ģimeni Vidējais vecums: no 30 līdz 40</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FFFF">
-			<TEXT>tavu jutīgumu. Ļauj, lai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">jaunatklātā <strong>pārliecība</strong></WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tevi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> arvien tuvāk baudai. Nebaidies runāt ar partneri par savām</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>otru redzējuši tikai fotogrāfijās. Tāpēc <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">austrumniekus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">pārliecība</WORD>, ka nevis mīlestība uztur spēkā laulību</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pēc trim gadiem nodibinājās Tukuma mākslinieku grupu, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Taira Haļāpina</WORD>. Mākslinieki aktīvi atbalsta vietējā</TEXT>
 			<COMMENT></COMMENT>
@@ -243,24 +214,12 @@
 			<TEXT>BBC sacījusi Interpola pārstāve Kristīna Kvigna, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> organizācijas <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">nodaļu</WORD>, kas ir atbildīga par cilvēku kontrabandas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FFFF">
-			<TEXT>šis triks darbojas apbrīnojami sekmīgi. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FFFF">Heiristika</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">mūs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD>, ne tikai pērkot mašīnu, bet arī flirtējot, braucot</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF0000">
-			<TEXT>Raiduztvērējs uztur sakarus ar interneta serveri, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kurš</WORD> savukārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">atsevišķu sistēmas <strong>sektoru</strong></WORD> un ir saistīts ar vadības</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Praktiski šādas pārmaiņas ir grūtākas uzņēmumos, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">kurus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">uzņēmuma <strong>īpašnieki</strong></WORD>. Darbinieku iesaistīšana Tieši</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vajadzēja: treneris, kurš var apspēlēt komandu, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valdis Valters</WORD> – tā laika « Brocēnus ». Izvēlējāmies</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>teritorijas ilgtspējīgu un līdzsvarotu attīstību. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">Novada valdi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">novada domes <strong>priekšsēdētājs</strong></WORD>, un tajā ietilpst novada</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -281,10 +240,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>un Daugavpils universitātes Limbažu filiāle. Abas <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tās</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Gaļina Karpova</WORD> un arī pati joprojām turpina izglītoties</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>nepieciešamība. Agrāk tā nebija. Retums bija pat sieviete, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">auto</WORD>, kur nu vēl tāda, kas “ autiņu ” pati remontē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -347,14 +302,6 @@
 			<TEXT>iestāde, tikai ar divām fasādēm. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Eitanāzijas <strong>pārvaldi</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Janga Forevera <strong>sieviņa</strong> Jina</WORD>, smalka, trausla būtne ar</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>šūposim kājas vējā un raudzīsimies, kā <WORD json="['V1','V2','V3','Inf','Nom']" attribute="Nom" class="cFFFF00">mūsu <strong>bijušie</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">baržas</WORD> pa straumi, grauzīsim ogu maizi un barosim nekauņas</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>smēķēšana vai ēšana – cik bieži tu to dari, kad <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">vadi</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">auto</WORD> ? Pētījumi pierāda, ka cilvēki, vadot mašīnu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>arī izmēģini šādu triku: paņem viņa roku un lēnām <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">vadi</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">to</WORD> pa vietām, kur tu vēlies, lai viņš tev pieskaras</TEXT>
 			<COMMENT></COMMENT>
@@ -381,10 +328,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Amerikāņu bruņotie spēki Irākā un Afganistānā. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF00FF">To</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">muitas un robežas aizsardzības <strong>dienests</strong></WORD>. Nejaušības</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>vietas līdz tā īpašnieka vai tiesīgā lietotāja, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">automašīnu</WORD> ceļu satiksmes negadījuma brīdī, dzīvesvietai</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -419,18 +362,6 @@
 			<TEXT>tehnikas mācību kasetes. Mazo hokejistu <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">darbošanos</WORD> uz ledus <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Nom" class="cFFFF00"><strong>viens</strong> no komandas ” Latgale ” rezultatīvākajiem spēlētājiem</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>pagriezienu, izraisīja sadursmi ar motociklu « Suzuki », <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">1969. gadā dzimis <strong>vīrietis</strong></WORD>. Sadursmē motociklists guva</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>sadursmi ar automašīnu « Volkswagen Passat Variant », <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">1982. gadā dzimis <strong>vīrietis</strong></WORD>. Policija noskaidro notikušā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>policija aizturēja 1958. gadā dzimušu vīrieti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">automašīnu</WORD> alkohola reibumā un bez vadītāja apliecības</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>līdz 1986. gadam - <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Latvijas Lauksaimniecības <strong>universitāti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00"><strong>profesors</strong> Viktors Timofejevs</WORD> (1927 - 1986), kuru pieminot</TEXT>
 			<COMMENT></COMMENT>
@@ -441,10 +372,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Daugulis, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> pagājušā gadsimta deviņdesmito gadu vidū <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">bruņotu laupītāju <strong>grupējumu</strong></WORD>, šomēnes aizturēts aizdomās</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>tautiešu diskriminēšanu ». Teroristi pašnāvnieki, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">degvielas <strong>autocisternas</strong></WORD>, acīmredzami koordinētos uzbrukumos</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -473,10 +400,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>. Mamma Orlas guberņā strādāja par skolotāju, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tēvs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">lauksaimniecības <strong>skolu</strong></WORD>. Tā viņi iepazinās. Mana māsiņa</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>salonā, kurā ietilpa 250 viesu. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">168 <strong>airētāji</strong></WORD> ar 48 airiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">kuģi</WORD> ārā no lagūnas. Dodžs devās uz ceremoniju, kas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -535,15 +458,15 @@
 			<TEXT>likumdošanas un visām pastāvīgajām komisijām. Tā komisija, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00"><strong>cienījamā</strong> Linda Mūrniece</WORD>, bija iecerēta labam darbam</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>kas sparīgi pakšķēja, tā bija mašīna nr. 1, un <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00"><strong>šķelmis</strong> Pēterītis</WORD>. Nr. 2 no nr. 1 atšķīrās gan</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>netika pie CSDD izsniegtām vadītāja tiesībām. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">Mašīnu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Nanete</WORD>. Morics vizinājās pa kluso — pa mežu, pa lauku</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>dzemdēja Lipskim bērnu. Trīs raganas turēja klēpi, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">ceturtā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">laužņus</WORD>, lai Kukurmille neizlauztos un nedomātu kost</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -592,15 +515,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>pašaizsardzību. Var sākt ar divu moduļu iegādi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kuri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">apgaismojuma <strong>spilgtumu</strong></WORD> mājā un kafijas pagatavošanu noteiktā</TEXT>
-			<COMMENT>???</COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>, ko varētu kontrolēt un pakļaut. “ Ja <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">arodbiedrību</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīs</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ielikteņi</WORD>, mēs veidosim citu – savējo. Arodbiedrībai</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>iereibušam autovadītājam, kā arī tiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">automašīnu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīs</WORD> ar neatbilstošas kategorijas tiesībām vai bez tiesībām</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -609,6 +524,90 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>domāšanas plašums. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Spējīgākie un piemērotākie</WORD> ar laiku <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīs</WORD> " <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">Ēdenes <strong>dārzu</strong></WORD> ", bet pārējie nodarbosies ar zemāka</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>valsts dienesta vai civilajiem mērķiem. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">Šos <strong>lidaparātus</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">dažādas <strong>grupas</strong></WORD>, kā policija, topogrāfi vai arheologi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>izmantots visādu veidu darbiem, kuru izpildei lidaparāts, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pilots</WORD>, varētu būt pārāk bīstams, nepraktisks vai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>nepieciešamība. Agrāk tā nebija. Retums bija pat sieviete, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">auto</WORD>, kur nu vēl tāda, kas “ autiņu ” pati remontē</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>šūposim kājas vējā un raudzīsimies, kā <WORD json="['V1','V2','V3','Inf','Nom']" attribute="Nom" class="cFFFF00">mūsu <strong>bijušie</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">baržas</WORD> pa straumi, grauzīsim ogu maizi un barosim nekauņas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>smēķēšana vai ēšana – cik bieži tu to dari, kad <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">vadi</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">auto</WORD> ? Pētījumi pierāda, ka cilvēki, vadot mašīnu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>vietas līdz tā īpašnieka vai tiesīgā lietotāja, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">automašīnu</WORD> ceļu satiksmes negadījuma brīdī, dzīvesvietai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>pagriezienu, izraisīja sadursmi ar motociklu « Suzuki », <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">1969. gadā dzimis <strong>vīrietis</strong></WORD>. Sadursmē motociklists guva</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>sadursmi ar automašīnu « Volkswagen Passat Variant », <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">ko</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">1982. gadā dzimis <strong>vīrietis</strong></WORD>. Policija noskaidro notikušā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>policija aizturēja 1958. gadā dzimušu vīrieti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">automašīnu</WORD> alkohola reibumā un bez vadītāja apliecības</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>tautiešu diskriminēšanu ». Teroristi pašnāvnieki, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">degvielas <strong>autocisternas</strong></WORD>, acīmredzami koordinētos uzbrukumos</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>salonā, kurā ietilpa 250 viesu. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">168 <strong>airētāji</strong></WORD> ar 48 airiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">kuģi</WORD> ārā no lagūnas. Dodžs devās uz ceremoniju, kas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF00FF">
+			<TEXT>iereibušam autovadītājam, kā arī tiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">automašīnu</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīs</WORD> ar neatbilstošas kategorijas tiesībām vai bez tiesībām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>pašaizsardzību. Var sākt ar divu moduļu iegādi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kuri</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vadīs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">apgaismojuma <strong>spilgtumu</strong></WORD> mājā un kafijas pagatavošanu noteiktā</TEXT>
+			<COMMENT>???</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>izslēgt. 3. klasi beidzot, skolēni zina, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kādi <strong>materiāli</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> un nevada <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">elektrību</WORD> un, strādājot ar elektriskām ierīcēm</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>ārējo ausi un vidusausi, kā arī dzirdes kauliņus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">skaņu</WORD> uz iekšējo ausi. Šobrīd zēna vispārējais veselības</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>Raiduztvērējs uztur sakarus ar interneta serveri, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kurš</WORD> savukārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF00FF">atsevišķu sistēmas <strong>sektoru</strong></WORD> un ir saistīts ar vadības</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>intuīciju, aktīvu zemapziņas reakciju. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Sievietes <strong>rīcību</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">nevaldāmas, spēcīgas <strong>kaislības</strong></WORD>, viņa ik brīdi ir</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>otru redzējuši tikai fotogrāfijās. Tāpēc <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">austrumniekus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">pārliecība</WORD>, ka nevis mīlestība uztur spēkā laulību</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>ikdienā dzīvo seksuālie varmākas un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">kādi <strong>nodomi</strong></WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">viņus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD>. Ar sapni par ģimeni Vidējais vecums: no 30 līdz 40</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>tavu jutīgumu. Ļauj, lai <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">jaunatklātā <strong>pārliecība</strong></WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tevi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD> arvien tuvāk baudai. Nebaidies runāt ar partneri par savām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>šis triks darbojas apbrīnojami sekmīgi. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFF0000">Heiristika</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">mūs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">vada</WORD>, ne tikai pērkot mašīnu, bet arī flirtējot, braucot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
