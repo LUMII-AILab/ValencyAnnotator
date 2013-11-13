@@ -28,7 +28,7 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>valsts apdraudējuma gadījumā ; 2) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aizsardzības <strong>ministrija</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">plāno</WORD>, sagatavo un vada <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Nacionālo bruņoto spēku mobilizāciju</WORD></TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>BĒRNS IR AIZDOMĪGS PACIENSS</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>valsts apdraudējuma gadījumā ; 3) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Iekšlietu <strong>ministrija</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">plāno</WORD>, sagatavo un vada <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">civilās aizsardzības formējumu</WORD> mobilizāciju</TEXT>
@@ -499,7 +499,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>nevis pārstādīs, kā iepriekš <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> par saviem līdzekļiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">plānoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">būvkompānija AS RBSSKALS</WORD>, Db pastāstīja uzņēmuma valdes</TEXT>
+			<TEXT>nevis pārstādīs, kā iepriekš <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFF00FF">to</WORD> par saviem līdzekļiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">plānoja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">būvkompānija AS RBSSKALS</WORD>, Db pastāstīja uzņēmuma valdes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
