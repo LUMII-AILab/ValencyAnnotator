@@ -7,6 +7,7 @@
 		<CATEGORY id="cFF0000">Veids!</CATEGORY>
 		<CATEGORY id="c00FFFF">Pacienss</CATEGORY>
 		<CATEGORY id="cC00000">Beneficienss?</CATEGORY>
+		<CATEGORY id="c00C000">Temats!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -20,11 +21,11 @@
 			<COMMENT>veids=vērtība</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>valsts vai pašvaldības īpašumā esošu zemi un ēkām <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">to <strong>lietotājs</strong></WORD>, bet, ja tāda nav, — nomnieks. (Ar</TEXT>
-			<COMMENT>kas ir "par k-ko"</COMMENT>
+			<TEXT><WORD class="c00C000" attribute="ParDat" json="['Dat','Nom','Gen','Acc','Loc','ParDat']">valsts vai pašvaldības īpašumā esošu zemi un ēkām</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">to <strong>lietotājs</strong></WORD>, bet, ja tāda nav, — nomnieks. (Ar</TEXT>
+			<COMMENT>kas ir "par k-ko" - ieliku kā tematu (FN - Goods). Visticamāk - perifērs mums</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nekustamā īpašuma nodokļa maksātāju uzskaiti, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kuri</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">nodokli</WORD> par ēkām un būvēm, Valsts ieņēmumu dienests</TEXT>
+			<TEXT>nekustamā īpašuma nodokļa maksātāju uzskaiti, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kuri</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">nodokli</WORD> <WORD class="c00C000" attribute="ParDat" json="['ParDat','ParAcc','Parnull']">par ēkām un būvēm</WORD>, Valsts ieņēmumu dienests</TEXT>
 			<COMMENT>kas ir "par k-ko"</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -44,27 +45,27 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>magnētisko karti, <WORD class="cFFFF00" attribute="Nom" json="['V1','V2','V3','Inf','Nom']">apdrošinātais</WORD> par mēneša abonementu <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">cenas <strong>starpību</strong></WORD> starp abonementa cenu un sporta nodarbību</TEXT>
+			<TEXT>magnētisko karti, <WORD class="cFFFF00" attribute="Nom" json="['V1','V2','V3','Inf','Nom']">apdrošinātais</WORD> <WORD class="c00C000" attribute="ParDat" json="['ParDat','ParAcc','Parnull']">par mēneša abonementu</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">cenas <strong>starpību</strong></WORD> starp abonementa cenu un sporta nodarbību</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>maksājusi tikai Ls 18 000, bet amonija salpetris, kas tagad <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> Ls 110 tonnā, pirms četriem gadiem maksājis 40 latu.</TEXT>
+			<TEXT>maksājusi tikai Ls 18 000, bet amonija salpetris, <WORD class="c00FFFF" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kas</WORD> tagad <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFF0000" attribute="Acc" json="['Loc','Nom','Gen','Dat','Acc']">Ls 110 tonnā</WORD>, pirms četriem gadiem maksājis 40 latu.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>informatīvas planšetes. Ložmetējkalnā ir tualete Cik <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> ? Abās vietās bezmaksas ieeja un atpūtas vietu izmantošana</TEXT>
+			<TEXT>informatīvas planšetes. Ložmetējkalnā ir tualete <WORD class="cFF0000" attribute="Adv" json="['Adv']">Cik</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> ? Abās vietās bezmaksas ieeja un atpūtas vietu izmantošana</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>reisos. I. Kržanoviča min piemēru, ka uz Aizputi biļete <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> latu un 50 santīmu gan rajona, gan starppilsētu reisā</TEXT>
+			<TEXT>reisos. I. Kržanoviča min piemēru, ka uz Aizputi <WORD class="c00FFFF" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">biļete</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">latu un 50 santīmu</WORD> gan rajona, gan starppilsētu reisā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>. Ja tikai ir svētku izjūta. Un ja vēl ir, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kas</WORD> par to <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD>. " Vai tev jau ir peldkostīms šai vasarai ? " – tas</TEXT>
+			<TEXT>. Ja tikai ir svētku izjūta. Un ja vēl ir, <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kas</WORD> <WORD class="c00C000" attribute="ParAcc" json="['ParDat','ParAcc','Parnull']">par <strong>to</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD>. " Vai tev jau ir peldkostīms šai vasarai ? " – tas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, ko var arī tirgot. Aptuveni tādu pašu <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">cenu <strong>tūristi</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> par lētu vīnu dienvidzemēs. Bet kā lai nemaksā par</TEXT>
+			<TEXT>, ko var arī tirgot. <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">Aptuveni tādu pašu <strong>cenu</strong></WORD> <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">tūristi</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00C000" attribute="ParDat" json="['ParDat','ParAcc','Parnull']">par lētu <strong>vīnu</strong></WORD> dienvidzemēs. Bet kā lai nemaksā par</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
