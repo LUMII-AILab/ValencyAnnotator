@@ -185,7 +185,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>slazdu vietā drīkst izmantot tikai rāmja slazdus, <WORD class="c00FFFF" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kas</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> vismaz 15 – 20 latus. “ Teikšu godīgi, es esmu noguris</TEXT>
+			<TEXT>slazdu vietā drīkst izmantot tikai rāmja slazdus, <WORD class="c00FFFF" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">kas</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">vismaz 15 – 20 latus</WORD>. “ Teikšu godīgi, es esmu noguris</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -193,7 +193,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>iemeslu dēļ. Pirmkārt, <WORD class="c00C000" attribute="ParDat" json="['ParDat','ParAcc','Parnull']">par studijām</WORD> savā valstī <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņi</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Adv" json="['Adv']">mazāk</WORD> – aptuveni 500 Ls gadā. Šobrīd Latvijas universitātēs</TEXT>
+			<TEXT>iemeslu dēļ. Pirmkārt, <WORD class="c00C000" attribute="ParDat" json="['ParDat','ParAcc','Parnull']">par <strong>studijām</strong></WORD> savā valstī <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">viņi</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Adv" json="['Adv']">mazāk</WORD> – aptuveni 500 Ls gadā. Šobrīd Latvijas universitātēs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -201,55 +201,51 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Vītolu fonds administrē 69 dažādas stipendijas. Stipendijas <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> 341 stipendiātam. Piecu gadu laikā stipendijas saņēmuši</TEXT>
+			<TEXT>Vītolu fonds administrē 69 dažādas stipendijas. <WORD class="c00FF00" attribute="Acc" json="['Gen','Nom','Dat','Acc','Loc']">Stipendijas</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFF00FF" attribute="Dat" json="['Dat','Nom','Gen','Acc','Loc']">341 <strong>stipendiātam</strong></WORD>. Piecu gadu laikā stipendijas saņēmuši</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ballēm. Stipendija ir 1000 lati - 100 lati mēnesī, to <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> no septembra līdz jūnijam. Šobrīd Vītolu fondā administrē</TEXT>
+			<TEXT>ballēm. Stipendija ir 1000 lati - 100 lati mēnesī, <WORD class="c00FF00" attribute="Gen" json="['Gen','Nom','Dat','Acc','Loc']">to</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> no septembra līdz jūnijam. Šobrīd Vītolu fondā administrē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>finansējums būtu centralizēti jārezervē valstij. Komforts <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> naudu Tai pašā laikā Rīgas mērs aicinājis par satiksmi</TEXT>
+			<TEXT>finansējums būtu centralizēti jārezervē valstij. <WORD class="c00FFFF" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Komforts</WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFF0000" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">naudu</WORD> Tai pašā laikā Rīgas mērs aicinājis par satiksmi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Misas ciematā Vecumnieku pagastā <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">iedzīvotāji</WORD> pamazām <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> parādus, bet finansiālā situācija vēl aizvien ir draudīga</TEXT>
+			<TEXT>Misas ciematā Vecumnieku pagastā <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">iedzīvotāji</WORD> pamazām <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">parādus</WORD>, bet finansiālā situācija vēl aizvien ir draudīga</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Viena kuba izmaksas būtu 9,5 lati. <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Iedzīvotāji</WORD> pamazām <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> apkures sezonas parādus, bet mēs vēl aizvien esam desmit</TEXT>
+			<TEXT>Viena kuba izmaksas būtu 9,5 lati. <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Iedzīvotāji</WORD> pamazām <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">apkures sezonas <strong>parādus</strong></WORD>, bet mēs vēl aizvien esam desmit</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Lauku <strong>cilvēks</strong></WORD> par ģimenes ārsta mājas vizīti vidēji <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> piecus latus, bet lielpilsētās, īpaši Rīgā, summas</TEXT>
+			<TEXT><WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Lauku <strong>cilvēks</strong></WORD> par ģimenes ārsta mājas vizīti vidēji <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">piecus <strong>latus</strong></WORD>, bet lielpilsētās, īpaši Rīgā, summas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izvēloties atbilstīgus vingrinājumus un piemērojot slodzi, <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> piecus latus. Varēs iegādāties abonementu, kas ļaus</TEXT>
+			<TEXT>samazināta vienreizējā atlīdzība, ko <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">fiziska <strong>persona</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFF00FF" attribute="Dat" json="['Dat','Nom','Gen','Acc','Loc']">administratoram</WORD> par pienākumu veikšanu. Patlaban 900 latus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>samazināta vienreizējā atlīdzība, ko fiziska persona <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> administratoram par pienākumu veikšanu. Patlaban 900 latus</TEXT>
+			<TEXT>, " atzīst restaurators. Diemžēl <WORD class="c00FFFF" attribute="Nom" json="['Gen','Nom','Dat','Acc','Loc']">pieļautās <strong>kļūdas</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> – zvaigžņu restaurēšana nav lēta – zelts vien maksā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, " atzīst restaurators. Diemžēl pieļautās kļūdas <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> – zvaigžņu restaurēšana nav lēta – zelts vien maksā</TEXT>
+			<TEXT>maksā – zvaigžņu restaurēšana nav lēta – <WORD class="c00FFFF" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">zelts</WORD> vien <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFF0000" attribute="NoDat" json="['NoDat','NoGen']">no diviem līdz četriem tūkstošiem latu</WORD>. Jautrīte Mežsarga</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>maksā – zvaigžņu restaurēšana nav lēta – zelts vien <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> no diviem līdz četriem tūkstošiem latu. Jautrīte Mežsarga</TEXT>
+			<TEXT>, ar kurām <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">produkta <strong>ražotājs</strong></WORD> vienojas par darījumu un <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">komisijas <strong>maksu</strong></WORD> procentos no darījuma apjoma, - saskaņā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, ar kurām <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">produkta <strong>ražotājs</strong></WORD> vienojas par darījumu un <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> komisijas maksu procentos no darījuma apjoma, - saskaņā</TEXT>
+			<TEXT>armijas bāze. Kopš 1994. gada <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Kristiānijas <strong>iedzīvotāji</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="c00FF00" attribute="Acc" json="['Acc','Nom','Gen','Dat','Loc']">sava veida kopienas <strong>nodokli</strong></WORD> par ūdens un elektrības piegādi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>armijas bāze. Kopš 1994. gada <WORD class="cFFFF00" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">Kristiānijas <strong>iedzīvotāji</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> sava veida kopienas nodokli par ūdens un elektrības piegādi</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ēdieni ir kļuvuši iecienīti laikā, kad liellopu gaļa <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> 20 000 riālu (2,4 latus) kilogramā. Amatpersonas pavēstīja</TEXT>
+			<TEXT>ēdieni ir kļuvuši iecienīti laikā, kad <WORD class="c00FFFF" attribute="Nom" json="['Nom','Gen','Dat','Acc','Loc']">liellopu <strong>gaļa</strong></WORD> <WORD class="verbs" attribute="V3" json="['V2','V1','V3','Inf']">maksā</WORD> <WORD class="cFF0000" attribute="Acc" json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']">20 000 riālu</WORD> (2,4 latus) kilogramā. Amatpersonas pavēstīja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
