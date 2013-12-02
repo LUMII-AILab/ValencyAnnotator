@@ -14,6 +14,18 @@
 		<SENTENCE_CATEGORY id="sFFFF00">Būt kaut ko vērtam</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>Rīgā, kur <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašvaldība</WORD> transporta uzņēmumiem dotācijās <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">miljoniem latu</WORD>, biļetes cena ir 20 santīmu. Savukārt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>darbojas daudzi uzņēmumi - parazīti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> nemaksā nodokļus, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">darbiniekiem</WORD> aploksnēs, utt. Tādi uzņēmumi parasti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>atjaunotas. " Pērn <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ukraina</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par tūkstoš kubikmetriem dabasgāzes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">179,5 ASV <strong>dolārus</strong></WORD>, savukārt cena, par kādu Krievija</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>﻿tā darbības termiņa pagarināšanu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">sertificētā <strong>persona</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">valsts <strong>nodevu</strong></WORD>. (4) Sertifikāta izsniegšanas un reģistrēšanas</TEXT>
 			<COMMENT>Baiba</COMMENT>
@@ -30,14 +42,6 @@
 			<TEXT>nekustamā īpašuma nodokļa maksātāju uzskaiti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">nodokli</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par ēkām un būvēm</WORD>, Valsts ieņēmumu dienests</TEXT>
 			<COMMENT>kas ir "par k-ko"</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>izmantotas „ Mājokļa jautājums ” projektos un <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FFFF">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> ? Atnāciet un pārliecinieties – bukletu (latviešu un</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>iegādājoties, uzstādot un lietojot santehniku ? * <WORD json="['Adv']" attribute="Adv" class="cFF0000">Cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> un kā izskatās <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">santehnika</WORD>, kas uzstādīta dažādos projektos</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>maksātājam ir jāveic avansa maksājums ? Maksātājs, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">fiksēto ienākuma <strong>nodokli</strong>,</WORD> veic nodokļa avansa maksājumu</TEXT>
 			<COMMENT></COMMENT>
@@ -50,18 +54,6 @@
 			<TEXT>magnētisko karti, <WORD json="['V1','V2','V3','Inf','Nom']" attribute="Nom" class="cFFFF00">apdrošinātais</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par mēneša abonementu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">cenas <strong>starpību</strong></WORD> starp abonementa cenu un sporta nodarbību</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>maksājusi tikai Ls 18 000, bet amonija salpetris, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> tagad <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="cFF0000">Ls 110 tonnā</WORD>, pirms četriem gadiem maksājis 40 latu.</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>informatīvas planšetes. Ložmetējkalnā ir tualete <WORD json="['Adv']" attribute="Adv" class="cFF0000">Cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> ? Abās vietās bezmaksas ieeja un atpūtas vietu izmantošana</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>reisos. I. Kržanoviča min piemēru, ka uz Aizputi <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">biļete</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">latu un 50 santīmu</WORD> gan rajona, gan starppilsētu reisā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>. Ja tikai ir svētku izjūta. Un ja vēl ir, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>. " Vai tev jau ir peldkostīms šai vasarai ? " – tas</TEXT>
 			<COMMENT></COMMENT>
@@ -70,20 +62,12 @@
 			<TEXT>, ko var arī tirgot. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Aptuveni tādu pašu <strong>cenu</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tūristi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par lētu <strong>vīnu</strong></WORD> dienvidzemēs. Bet kā lai nemaksā par</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">ieejas <strong>biļetes</strong></WORD> šo pilsētu klubos vai brīvdabas pasākumos <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ApDat','ApAcc','Acc']" attribute="Acc" class="cFF0000">ap Ls 1,50.</WORD> Tātad puslatam nav lielas nozīmes. Parunājot</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>bērniem ar smagiem garīgās attīstības traucējumiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Dome</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">25 <strong>latus</strong></WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>katru</strong> no četriem mazajiem</WORD> kuldīdzniekiem.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>samaksāts par maltīti 130 bērniem. <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">Mazturīgām <strong>ģimenēm</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">dome</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['S','Acc']" attribute="Acc" class="c00FF00">arī ēdināšanas <strong>naudu</strong> pirmsskolas izglītības</WORD> iestādēs</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>Ls 45. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Viena kubikmetra liegabarīta atkritumu <strong>aizvešana</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">Ls 4,32.</WORD> „ Daļa iedzīvotāju uzskata, ka konteineru</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -98,10 +82,6 @@
 			<TEXT>ātrā kredīta sadzīviskiem tēriņiem — " tērē tagad, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> vēlāk ". Latvijā arvien vieglāk arī kļuvis saņemt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>būtu nepieciešama plašāka reklāma Latvijā, taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF0000">dārgi</WORD>. Paredzēts, ka atkal notiks divas sacensības.</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>lūgums esot jānoraida, jo tā ir privātā iestāde, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">valsts</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">algu</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">skolas <strong>pedagogiem</strong></WORD>, turklāt mācībmaksa šajā skolā</TEXT>
 			<COMMENT></COMMENT>
@@ -114,10 +94,6 @@
 			<TEXT>procentus tiem pilsētniekiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kuri</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par ziemā patērēto <strong>siltumu</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> tagad : šīsdienas situācijā sodīt cilvēkus, kuri godprātīgi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>Švarcs piekrīt, ka par pakalpojumu jāmaksā tik, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, tomēr viņš uzskata, ka summa, kas pieaugusi trīs</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>vispār neņem — neatmaksājoties braukt, bet, ja ņem, tad <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">11 – 12 <strong>santīmu</strong></WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>litru</strong></WORD>. “ Iznāk, mazās saimniecības</TEXT>
 			<COMMENT></COMMENT>
@@ -126,32 +102,8 @@
 			<TEXT>līdzekļu : zeme neauglīga, platības mazas utt. “ <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">Mums</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ES</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">četrreiz mazāk</WORD> nekā citām valstīm, tātad mums jāpastāv</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>mākslinieciskās pašdarbības kolektīvu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">koncerta biļete</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">1 <strong>latu</strong></WORD>, bet bērniem un pensionāriem — 50 santīmi.</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>ka ne visiem izdodas saņemt tieši tik lielu summu, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">studijas</WORD> attiecīgajā augstskolā, jo katrai studiju jomai</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Rīgā, kur <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašvaldība</WORD> transporta uzņēmumiem dotācijās <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">miljoniem latu</WORD>, biļetes cena ir 20 santīmu. Savukārt</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>150 — 160 litru, ziemā — uz pusi mazāk. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Litrs</WORD> tagad <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">13 santīmu</WORD>. Šobrīd saimnieki gatavo dokumentus piena</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>un ka pensionārs nevar atļauties ! <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Lētākie <strong>atstarotāji</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">8 <strong>santīmus</strong></WORD>. Katrā avīžu kioskā ir nopērkami, visur</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Tad izmaksu sadale ir proporcionāla īpašumiem — <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">dome</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par savā īpašumā esošo nama daļu</WORD>, bet iedzīvotāji</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>pārdevēja. Baravikas sākušas augt jūnija vidū, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FFFF">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">5 – 6 lati</WORD> kilogramā. Cilvēki pēta sēnes un cenšas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -160,10 +112,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pastāvīgajiem, bet arī <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">pārējiem <strong>strādniekiem</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">saimnieki</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">70 santīmus</WORD> stundā. Dienā var nopelnīt aptuveni astoņus</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>rūpnieciskajiem objektiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Viena megavata jaudas iekārta</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">miljonu latu</WORD>, attiecīgi 10 megavatu – 10 miljonus. Jāmodernizē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -186,10 +134,6 @@
 			<TEXT>Daibē. Tur tagad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">cilvēki</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par atkritumu <strong>apsaimniekošanu</strong></WORD> jau <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">daudz vairāk</WORD>. Valsts izveido atkritumu poligonus, taču</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>slazdu vietā drīkst izmantot tikai rāmja slazdus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">vismaz 15 – 20 latus</WORD>. “ Teikšu godīgi, es esmu noguris</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>sēti, bet iepirkti. Tiek algoti palīgi, <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">kuriem</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>darbu</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> gan <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c00FF00">ar produkciju, gan arī naudā</WORD>, palīdz arī radinieki</TEXT>
 			<COMMENT></COMMENT>
@@ -210,10 +154,6 @@
 			<TEXT>ballēm. Stipendija ir 1000 lati - 100 lati mēnesī, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> no septembra līdz jūnijam. Šobrīd Vītolu fondā administrē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>finansējums būtu centralizēti jārezervē valstij. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Komforts</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">naudu</WORD> Tai pašā laikā Rīgas mērs aicinājis par satiksmi</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Misas ciematā Vecumnieku pagastā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">iedzīvotāji</WORD> pamazām <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">parādus</WORD>, bet finansiālā situācija vēl aizvien ir draudīga</TEXT>
 			<COMMENT></COMMENT>
@@ -230,24 +170,12 @@
 			<TEXT>samazināta vienreizējā atlīdzība, ko <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">fiziska <strong>persona</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">administratoram</WORD> par pienākumu veikšanu. Patlaban 900 latus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>, " atzīst restaurators. Diemžēl <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">pieļautās <strong>kļūdas</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> – zvaigžņu restaurēšana nav lēta – zelts vien maksā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>maksā – zvaigžņu restaurēšana nav lēta – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">zelts</WORD> vien <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['NoDat','NoGen']" attribute="NoDat" class="cFF0000">no diviem līdz četriem tūkstošiem latu</WORD>. Jautrīte Mežsarga</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>, ar kurām <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">produkta <strong>ražotājs</strong></WORD> vienojas par darījumu un <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">komisijas <strong>maksu</strong></WORD> procentos no darījuma apjoma, - saskaņā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>armijas bāze. Kopš 1994. gada <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Kristiānijas <strong>iedzīvotāji</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sava veida kopienas <strong>nodokli</strong></WORD> par ūdens un elektrības piegādi</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>ēdieni ir kļuvuši iecienīti laikā, kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">liellopu <strong>gaļa</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">20 000 riālu</WORD> (2,4 latus) kilogramā. Amatpersonas pavēstīja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -262,28 +190,12 @@
 			<TEXT>maksājums ir jāpadara kaut cik samērojams ar nodokli, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kuru</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tās valsts nodokļu <strong>rezidenti</strong></WORD>. Varu minēt divas lietas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>kuram galvenais instruments ir kravas mašīnas. Tā kā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FFFF">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">lielu <strong>naudu</strong></WORD>, tad automašīnas tiek iegādātas līzingā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>tirgotājiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par katras jaunas automašīnas <strong>iegādi</strong></WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">pircējam</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">2500 eiro (1757 latus)</WORD> ar nosacījumu, ka pretī tiek</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>pasta klienti, taču jāsaprot, ka viss maksā tik, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, » uzsvēra Krauklis, norādot, ka jaunie tarifi balstīti</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>tehniskais stāvoklis uzlabojas. « <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mūsu <strong>pārvadātāji</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par ceļu <strong>izmantošanu</strong></WORD> Eiropā, taču tagad ārvalstu pārvadātājiem</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>jautājums.. Bet jautājums ir - kāpēc pie mums <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">pārtika</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">tikpat</WORD> cik vecajās Eiropas valstīs, neskatoties uz to</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>atklāt – tie diemžēl ir konfidenciāli - Kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">siers</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">vairāk</WORD> nekā Francijā un Vācijā ? Arī uz šo jautājumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -298,10 +210,6 @@
 			<TEXT>zāļu aizkavētu ienākšanu, katra nedēļa un mēnesis <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> naudu pacientiem un nodokļu maksātājiem. Mēs nevilcināsimies</TEXT>
 			<COMMENT>????</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>(315 latu). Tas ir apmēram tikpat daudz, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> mēnesī <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">pacienta <strong>vieta</strong></WORD> pansionātā. Šī summa tiek segta no klientu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ļaudis</WORD> no visa, kas viņiem ir proporcionāli, procentuāli <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">daudz <strong>mazāk</strong></WORD> nekā tie, kuriem jāiztiek no salīdzinoši</TEXT>
 			<COMMENT></COMMENT>
@@ -310,40 +218,16 @@
 			<TEXT>Protams, arī tagad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">medikamentu <strong>izplatītāji</strong></WORD> lobē un <WORD json="['Adv']" attribute="Adv" class="c00FF00">papildus</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par zāļu izvietošanu plauktos labākajās</WORD>, redzamākajās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>žūpo un mēģina samazināt brīvo laiku tā, lai neko, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">naudu</WORD>, negribētos, ' ceturtdienas vakarā Zviedrijas TV</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>darbojas daudzi uzņēmumi - parazīti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> nemaksā nodokļus, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">darbiniekiem</WORD> aploksnēs, utt. Tādi uzņēmumi parasti</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>ar ko strādā profesionāļi. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Krēma <strong>bundžiņa</strong></WORD> vidēji <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">25 – 35 latus</WORD>. Ābeces patiesības Vissvarīgākie produkti</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>lēti produkti kā vārītās desas. Lai zinātu, <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>ko</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksā</WORD>, pievērs uzmanību produktu sastāvam - uz marķējuma</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">permanentā matu <strong>taisnošana</strong></WORD> ar hennu salonā " HairBaltic " <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['NoDat','NoGen','Acc']" attribute="Acc" class="cFF0000">no Ls 69 īsiem matiem līdz Ls 129 par</WORD> ļoti gariem matiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>infarkta mājās iet nedrīkst. Bet patiesībā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">cilvēks</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> tikai <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">nelielu <strong>daļu</strong></WORD> no tās summas, ko par viņa ārstēšanu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>pasākumu vēlas apmeklēt abas dienas - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">divu dienu <strong>biļete</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">tikai Ls 15 !</WORD> Katru dienu pirmajiem 500 apmeklētājiem -</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>lai attaisnotu tieši vecāku stingrās prasības, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">lielu <strong>naudu</strong></WORD>. Mūsu bērnudārzs piedāvās bērniem apgūt</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>motorizētās vinčas, sporta buras. Starp citu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">sporta bura</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">45 tūkstošus eiro</WORD>. - Cik lielu ātrumu jahta spēj attīstīt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -352,10 +236,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>grūti darīt to, ko negribu. Nav pat būtiski – <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">naudu</WORD> vai nemaksā. Daru, ko gribu. Galu galā, ja tā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>zeltlietām apkārusies, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">mākslīgie <strong>nagi</strong></WORD> vien <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">veselu kapitālu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, bet arī par to ķibeli dikti gudri izsakās. Komentārs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -370,24 +250,8 @@
 			<TEXT>Kumāra izredzētie – super trīsdesmitnieks. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Skolotājs</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par zēnu dzīvesvietu, ēdienu, grāmatām</WORD>, un paši</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>izvilināt ” arī vienu otru komercnoslēpumu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> patiesībā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">naudu</WORD>, bet uzņēmumam – zaudējumus. 3. piemērs. Padotais</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>efektīvi, arī patērētājam tas ir izdevīgi, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> tikai <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par reālo patēriņu</WORD>, nevis enerģijas zudumiem Runa</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>lampas darbu, bet jāatzīmē, ka <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">spirālveida <strong>spuldzes</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">dārgāk</WORD>, tā kā sarežģītāka ir to ražošana. Energoefektīvās</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>Salīdzinājumam <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">jauna daudzdzīvokļu <strong>ēka</strong></WORD> Rietumaustrijā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">1600 EUR / m</WORD> ² uz AGP. Detalizētā analīze rāda, ka</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>reizi kurini, nedēļu mazgājies <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Siltuma akumulatora tvertne</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">sākot no Ls 200.</WORD> Tās diametrs – 78 cm (pakārtots</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -406,10 +270,6 @@
 			<TEXT>iepakojuma ir norādīts depozīts – summa, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pircējs</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>iepakojumu</strong></WORD> un ko viņš saņems atpakaļ. Pēc pudeles</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>ļoti specifiskas zināšanas un prasmes savā nozarē. <WORD json="['Adv']" attribute="Adv" class="cFF0000">Cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">personāla atlase</WORD> ? Personāla atlases pakalpojumu cena parasti</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Rēķinot nostrādātajās darba stundās, jebkuras firmas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">legālas <strong>algas</strong></WORD>, vidēja līmeņa merčendaizera izmaksas</TEXT>
 			<COMMENT></COMMENT>
@@ -418,32 +278,8 @@
 			<TEXT>kategoriju lietas, kuru nav klientiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> nāk un <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">honorāru</WORD>, tādi kāzusi ir tieši šai kategorijai, kas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>. Bet es kredītu dabūju lielāku, <WORD json="['Adv']" attribute="Adv" class="cFF0000">nekā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">šis <strong>dzīvoklis</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>. Pa blatam nokārtoju... – Ceru, ka mums pēc tam</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>un tie neizraisa atkarību. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">50 ml valokordīna <strong>pudelīte</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">aptuveni Ls 1,85,</WORD> 20 ml – Ls 1,09. Korvalola (25 ml)</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>cik govīm jābūt ganāmpulkā, ar ko tās jābaro, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">barība</WORD>, kas ir barības sastāvdaļas, cik darbinieku</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>samierināties ar to, ka <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par šo ļoti kvalitatīvo <strong>pienu</strong></WORD> tik <WORD json="['Adv']" attribute="Adv" class="c00FF00">maz</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, tomēr, ja to pārtrauks pieņemt vispār, zemnieka dvēsele</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>sasilšanas veicināšanā, kā arī, ja padomājam, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> tagad <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">dīzeļdegviela</WORD>, šo apkures sistēmu ātri vien gribas</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>vai ledus hokeju. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Ekipējums</WORD> niršanai atklātā ūdenī <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">vidēji tūkstoš eiro</WORD>. Par šādu summu jau var iegādāties</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>izpalīdz jau iepazīti citu valstu speciālisti, taču arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>. Mums būtu vajadzīgi bagāti sponsori, bet vispirms jāpierāda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -458,10 +294,6 @@
 			<TEXT>pastāvīgo klientu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> ieķīlā kādu priekšmetu, regulāri <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">procentus</WORD> un noteiktajā laikā ķīlu izpērk. “ Šiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>cenas ir zemākas nekā citās ES valstīs. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Benzīns</WORD> tur <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">vairāk</WORD> kā vienu eiro litrā. Pie mums cenām vēl ir iespēja</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>" teica vīrietis. Par divistabu dzīvokli ziemā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">aptuveni 55 <strong>latus</strong></WORD> mēnesī. Kā Ivans reaģē uz to, ka</TEXT>
 			<COMMENT></COMMENT>
@@ -470,20 +302,12 @@
 			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">direktors</WORD> pret strādniekiem izturas ar cieņu un sapratni un <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">algu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> regulāri. Firmā ir gabaldarba apmaksa, var nopelnīt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>ietaupītu saimniecības naudu. Kad veikalā paskatos, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">puslitra burciņa konservētu <strong>skābeņu</strong></WORD>, bail paliek, bet</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>iedzīvotājam pa kabatai, jo tā atbilst cenai, <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">kādu</WORD> šodien <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Amerikas un Eiropas <strong>pacienti</strong></WORD>. Ja mūsu valsts negrib ieguldīt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>pasūtījuma tiem, kas par to samaksā. Pašlaik <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['S','Nom']" attribute="Nom" class="cFFFF00">gan Amerikas, gan Eiropas, gan Japānas <strong>firmas</strong></WORD>. Latvija</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
-			<TEXT>izstādīt laukā. Piemēram, 30 - 70cm augstas <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">parastas eglītes</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">aptuveni divus <strong>latus</strong></WORD>. Ir arī speciālās tā dēvētās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -518,6 +342,394 @@
 			<TEXT>parakstīja kontraktu, nosacījumi ir bargi. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Šo cenu</WORD> arī <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par negaidītu <strong>popularitāti</strong></WORD>, kas atnāca tik vēlu. Jā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>sociālajām iemaksām, kas kopā ir 33,09 procenti (<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darba <strong>devējs</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">24,09, bet darba ņēmējs 9 procentus), lielākā</WORD> daļa</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>sociālā budžeta pārpalikumu. Tulkojumā – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pensionāri</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par šo šķietamo budžeta deficītu</WORD>. Kalvīša valdība</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>EKT ir noteikusi, ka, kaut gan maternitātes pabalsts, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darba <strong>devējs</strong></WORD>, ir viens no vienlīdzīgas darba samaksas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>teica, ka tūlīt pat var mani aizsūtīt uz Izraēlu. Tur <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">ļoti labi</WORD> — 10 dolārus stundā par parastiem celtniecības</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>dzīvot, — to viņa vēlējusies kopš bērnības. Bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par samītajām skudrām, nospiestajiem odiem, dunduriem</WORD></TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ka varbūt izdevīgāk ir kļūt par mauku, jo <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">tām</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">labi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>. Nemaksā jau viņām nemaz tik labi. Labāk nekā ārstiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>taisies darīt, ir normāli ? Vārsma. <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">Par <strong>to</strong></WORD> taču <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> ! Zinai nav ko teikt, viņa dodas atpakaļ uz virtuvi.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>aizmirstu, lai mēs varētu palikt te mūžīgi - kamēr <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, te, pagrabstāvā, ar nolupušu apmetumu un nobružātiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vismazāk zināms, cik lielu cenu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">šīs mājas <strong>saimniece</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par šiem brīnišķīgajiem <strong>mežiem</strong></WORD>. Lielu cenu, brīnījās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>atcerējās, ka agrāk, kad nebija skaitītāju un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">fiksēto <strong>maksājumu</strong></WORD>, dzīvokļos bijis pat karsti. SIA</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>noteicošais, jo " mēs to spēlējām jau Īstvilidžā, kur <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">mums</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">300 dolāru</WORD> nedēļā " un nebija ne jausmas, ka tā nonāks</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>augstāko izglītību ieguvuši pirmie jaunieši, <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">kam</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">fonds</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">stipendijas</WORD>, tādējādi atbalstot viņu sapni studēt.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>. Ja vēl gada sākumā <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>kilogramu</strong></WORD> neapstrādāta piena <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">četras <strong>kronas</strong></WORD> (0,18 latus), tad gada beigās tā cena</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>blatu, bija labs atspaids trūcīgajiem honorāriem, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par rakstiem un stāstiem</WORD> avīzēs un žurnālos. Pret vakaru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tādu kā antīku eiro. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Romiešu <strong>provinces</strong></WORD> turpmāk <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">meslus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['S','Loc']" attribute="Loc" class="cFF0000">nevis vīnā, labībā un audumos</WORD>, bet gan solīdijos,</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>no 80 un vairāk dolāriem. ” <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Advokāts</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par vienu <strong>kasti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['NoDat','NoGen']" attribute="NoDat" class="cFF0000">no 65 centiem līdz 4 dolāriem</WORD>. Aizlieguma mērķis –</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>brīžiem nesaskatīju loģiku, piemēram, kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par nepaņemtu <strong>preci</strong></WORD>, bet to visu uztvēru kā psiholoģiska</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>. Laboja mašīnas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">īpašnieki</WORD> neko no tām nesaprata un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par zelta <strong>rokām</strong></WORD>. Vēlāk Viņš iekārtoja darbnīcu mājās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Viņš viņai par to sarūpēja labu dzīvi. Vienreiz gadā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">ceļu uz Vāciju</WORD>, viņa dikti skuma pēc tās zemes un cilvēkiem</TEXT>
+			<COMMENT>kas tas ira?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vietā viņš bija nolēmis palaizīt citu ficuku, un te nu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>neuzticību</strong></WORD> — ar divu nedēļu ieslodzījumu izolatorā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>skolās mācās apmēram 100 pagasta bērni, <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par vienu <strong>bērnu</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">maksājam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">vidēji 28 <strong>latus</strong></WORD> mēnesī. Savukārt par bērnudārza apmeklēšanu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>par bērnudārza apmeklēšanu pilsētā <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par katru <strong>bērnu</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">maksājam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">97 <strong>latus</strong></WORD>. Vairāk jāmaksā par izglītības iestāžu apmeklēšanu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>lai viņš iegūtu augstāko izglītību, tad <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">stipendijas</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">maksājam</WORD> gadu, divus, trīs, četrus un pat sešus gadus. Piemēram</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nevis par naudu, ir tā nelaime, <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>ko</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs visi</WORD> šodien <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">maksājam</WORD>. Tas ļāva sabiedrībai pamazām slāņoties, veidojot</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>būtiski iegūtu, nozīmē blefot. Kāda gan starpība, vai <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">maksājam</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="c00FF00">latos</WORD> vai pēc kursa samainītos eiro ? Varbūt vienīgi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nodokļi. Likumsakarīgs jautājums : kādēļ tad vispār <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V3" class="verbs">maksājam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sociālo <strong>nodokli</strong></WORD>, ja mums ir liegts izmantot sociālās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>zvēriskākā un nevajadzīgākā revolūcija. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> vēl tagad <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD>. Revolūcijas simtgadē mēs ar mokām sasniegsim 1913.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>pašā laikā eksperti uzsver : <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par gāzi un elektrību</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">zemāko <strong>cenu</strong></WORD> Eiropas Savienībā. Taču diezin vai tas dara</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Pie mums pasūtītāji domā — ja man ir nauda, tad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> un lai celtnieki būvē, kā viņi grib. Eiropā ir cita</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>iepērkoties veikalā vai saņemot man nepieciešamos pakalpojumus, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">aptuveni (jo likmes ir dažādas) 21% PVN nodokli</WORD>. Tātad</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Jutos atstumta, pamesta, izmantota. Bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> droši vien <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par savu muļķību</WORD>. Nu, kurš lika man iemīlēties precētā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>neredzēdama, un sabijās, kad iestājās klusums. - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">diezgan <strong>daudz</strong></WORD>... tad tas pāriet un kādu laiku ir miers</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>man tajā laikā bija pāri piecdesmit. <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">Par <strong>dzīvokli</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> <WORD json="['ApDat','ApAcc']" attribute="ApDat" class="c00FF00">ap divdesmit</WORD>. Dažu labu dienu es toziem neēdu, cukurūdeni</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>jāsāk baidīties, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> pēc gadiem vispār te strādās, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">nodokļus</WORD> un pelnīs budžetā naudu, nodrošinās pabalstus</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">valsts galvoto <strong>kredītu</strong></WORD> bankai vairāk nekā miljonu latu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> … <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pati valsts</WORD>, jo jaunā slimnīca nebūs sākusi darbu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>stingrās uzskaites kvītīm <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">dome</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF00FF">maznodrošinātajiem</WORD> arī šogad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pabalstu</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par medicīnas pakalpojumiem</WORD>, piemēram, operācijām</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Turpmāk <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">iedzīvotāji</WORD>, kas mīt pašvaldības dzīvokļos, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par apsaimniekošanu un īri</WORD>, bet privāto dzīvokļu īpašnieki</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>izdevumiem, piecus apbedīšanas pabalstus, <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">diviem <strong>bērniem</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par <strong>pusdienām</strong></WORD> skolā, bet vienu ģimeni atzina par trūcīgu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>» saņems Uzņēmumu reģistrs, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par tā <strong>nomu</strong></WORD> mēnesī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">267 <strong>latus</strong></WORD> ar PVN. Kopumā nomas maksa uz trijiem gadiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>ārpakalpojumu sniedzēju par to, kurš ir vainīgs un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD>. Protams, kļūdīšanās iespēja pastāv vienmēr, taču</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>– tūlīt, reāli taustāmu, praktisku, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> u. t. t un tikai tad, ko darīsim ? Kā nesen, kad aicināju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>nepieciešama apstrāde. Jau nomazgāti un iefasēti tie <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> daudz vairāk. Tas pats attiecas arī uz citiem, piemēram</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>. Kā to plānosiet, kā rēķināsiet izdevumus ? <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">rēķinus</WORD>, kurš pirks produktus ?) ; - pienākumi (vai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Vecais kontinents noveco, un nezinām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">manai <strong>paaudzei</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">pensijas</WORD>. Cik lielā mērā baznīcai izdodas turēties</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>netiek ņemti vērā. Pēc vienošanās aizbraukušajiem <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Krievijas <strong>puse</strong></WORD>, bet mūsu puse tiem, kas dzīvo Latvijā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>jau prasīt, kurš te tas lielākais kungs, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00C000">to <strong>skādi</strong></WORD>, te kāds no skatuves pudeli met un trāpa man</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>lūdzu izslēgt. ARMANDS. Ja kaut kas būs sabojājies, <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksāsi</WORD>. Saprati ? ! BALVIS. Pats saka, ka kopdarbs, bet, kad</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>izskatā. Lana. Paskaties tik — piedienīgā ! <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Tu</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> vēl <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksāsi</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">piecus <strong>latus</strong></WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD>, ka pamodināji, — cilvēktiesību</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Nospiediet podziņu, un gulta sāks līgani šūpoties. Ja <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksāsiet</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">vairāk</WORD>, varēsiet noklausīties ari nomierinošu melodiju</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Būs jāpērk. Tātad vairāk kā vienu miljardu latu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>pārtiku</strong></WORD>. Un šeit ir svarīgi katram Latvijas iedzīvotājam</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>izbraukuši vairāk, nekā no Krievijas iebrauca Latvijā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD> <WORD json="['Adv']" attribute="Adv" class="c00FF00">mazāk</WORD>, Krievijas pusei būs lielākas izmaksas. Plānots</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>, nav iespēju kaut ko darīt. - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> visu mūžu <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">viņiem</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD>. Bet viņu māju mēs viņiem atpakaļ iedot nevarēsim</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>izmantotas „ Mājokļa jautājums ” projektos un <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FFFF">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> ? Atnāciet un pārliecinieties – bukletu (latviešu un</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>iegādājoties, uzstādot un lietojot santehniku ? * <WORD json="['Adv']" attribute="Adv" class="cFF0000">Cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> un kā izskatās <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">santehnika</WORD>, kas uzstādīta dažādos projektos</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>maksājusi tikai Ls 18 000, bet amonija salpetris, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> tagad <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Acc" class="cFF0000">Ls 110 tonnā</WORD>, pirms četriem gadiem maksājis 40 latu.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>informatīvas planšetes. Ložmetējkalnā ir tualete <WORD json="['Adv']" attribute="Adv" class="cFF0000">Cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> ? Abās vietās bezmaksas ieeja un atpūtas vietu izmantošana</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>reisos. I. Kržanoviča min piemēru, ka uz Aizputi <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">biļete</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">latu un 50 santīmu</WORD> gan rajona, gan starppilsētu reisā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">ieejas <strong>biļetes</strong></WORD> šo pilsētu klubos vai brīvdabas pasākumos <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ApDat','ApAcc','Acc']" attribute="Acc" class="cFF0000">ap Ls 1,50.</WORD> Tātad puslatam nav lielas nozīmes. Parunājot</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Ls 45. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Viena kubikmetra liegabarīta atkritumu <strong>aizvešana</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">Ls 4,32.</WORD> „ Daļa iedzīvotāju uzskata, ka konteineru</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>būtu nepieciešama plašāka reklāma Latvijā, taču <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF0000">dārgi</WORD>. Paredzēts, ka atkal notiks divas sacensības.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Švarcs piekrīt, ka par pakalpojumu jāmaksā tik, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, tomēr viņš uzskata, ka summa, kas pieaugusi trīs</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>mākslinieciskās pašdarbības kolektīvu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">koncerta biļete</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">1 <strong>latu</strong></WORD>, bet bērniem un pensionāriem — 50 santīmi.</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ka ne visiem izdodas saņemt tieši tik lielu summu, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">studijas</WORD> attiecīgajā augstskolā, jo katrai studiju jomai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>150 — 160 litru, ziemā — uz pusi mazāk. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Litrs</WORD> tagad <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">13 santīmu</WORD>. Šobrīd saimnieki gatavo dokumentus piena</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>un ka pensionārs nevar atļauties ! <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Lētākie <strong>atstarotāji</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">8 <strong>santīmus</strong></WORD>. Katrā avīžu kioskā ir nopērkami, visur</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pārdevēja. Baravikas sākušas augt jūnija vidū, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FFFF">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">5 – 6 lati</WORD> kilogramā. Cilvēki pēta sēnes un cenšas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>rūpnieciskajiem objektiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Viena megavata jaudas iekārta</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">miljonu latu</WORD>, attiecīgi 10 megavatu – 10 miljonus. Jāmodernizē</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>slazdu vietā drīkst izmantot tikai rāmja slazdus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">vismaz 15 – 20 latus</WORD>. “ Teikšu godīgi, es esmu noguris</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>finansējums būtu centralizēti jārezervē valstij. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Komforts</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">naudu</WORD> Tai pašā laikā Rīgas mērs aicinājis par satiksmi</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>, " atzīst restaurators. Diemžēl <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">pieļautās <strong>kļūdas</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> – zvaigžņu restaurēšana nav lēta – zelts vien maksā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>maksā – zvaigžņu restaurēšana nav lēta – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">zelts</WORD> vien <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['NoDat','NoGen']" attribute="NoDat" class="cFF0000">no diviem līdz četriem tūkstošiem latu</WORD>. Jautrīte Mežsarga</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ēdieni ir kļuvuši iecienīti laikā, kad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">liellopu <strong>gaļa</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">20 000 riālu</WORD> (2,4 latus) kilogramā. Amatpersonas pavēstīja</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>kuram galvenais instruments ir kravas mašīnas. Tā kā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="c00FFFF">tās</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">lielu <strong>naudu</strong></WORD>, tad automašīnas tiek iegādātas līzingā</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pasta klienti, taču jāsaprot, ka viss maksā tik, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, » uzsvēra Krauklis, norādot, ka jaunie tarifi balstīti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>jautājums.. Bet jautājums ir - kāpēc pie mums <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">pārtika</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">tikpat</WORD> cik vecajās Eiropas valstīs, neskatoties uz to</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>atklāt – tie diemžēl ir konfidenciāli - Kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">siers</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">vairāk</WORD> nekā Francijā un Vācijā ? Arī uz šo jautājumu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>(315 latu). Tas ir apmēram tikpat daudz, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> mēnesī <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">pacienta <strong>vieta</strong></WORD> pansionātā. Šī summa tiek segta no klientu</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>žūpo un mēģina samazināt brīvo laiku tā, lai neko, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">naudu</WORD>, negribētos, ' ceturtdienas vakarā Zviedrijas TV</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ar ko strādā profesionāļi. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Krēma <strong>bundžiņa</strong></WORD> vidēji <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">25 – 35 latus</WORD>. Ābeces patiesības Vissvarīgākie produkti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">permanentā matu <strong>taisnošana</strong></WORD> ar hennu salonā " HairBaltic " <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['NoDat','NoGen','Acc']" attribute="Acc" class="cFF0000">no Ls 69 īsiem matiem līdz Ls 129 par</WORD> ļoti gariem matiem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pasākumu vēlas apmeklēt abas dienas - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">divu dienu <strong>biļete</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">tikai Ls 15 !</WORD> Katru dienu pirmajiem 500 apmeklētājiem -</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>motorizētās vinčas, sporta buras. Starp citu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">sporta bura</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">45 tūkstošus eiro</WORD>. - Cik lielu ātrumu jahta spēj attīstīt</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>zeltlietām apkārusies, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">mākslīgie <strong>nagi</strong></WORD> vien <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">veselu kapitālu</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, bet arī par to ķibeli dikti gudri izsakās. Komentārs</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>izvilināt ” arī vienu otru komercnoslēpumu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> patiesībā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">naudu</WORD>, bet uzņēmumam – zaudējumus. 3. piemērs. Padotais</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>lampas darbu, bet jāatzīmē, ka <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">spirālveida <strong>spuldzes</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">dārgāk</WORD>, tā kā sarežģītāka ir to ražošana. Energoefektīvās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>Salīdzinājumam <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">jauna daudzdzīvokļu <strong>ēka</strong></WORD> Rietumaustrijā <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">1600 EUR / m</WORD> ² uz AGP. Detalizētā analīze rāda, ka</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>reizi kurini, nedēļu mazgājies <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Siltuma akumulatora tvertne</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">sākot no Ls 200.</WORD> Tās diametrs – 78 cm (pakārtots</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ļoti specifiskas zināšanas un prasmes savā nozarē. <WORD json="['Adv']" attribute="Adv" class="cFF0000">Cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">personāla atlase</WORD> ? Personāla atlases pakalpojumu cena parasti</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>. Bet es kredītu dabūju lielāku, <WORD json="['Adv']" attribute="Adv" class="cFF0000">nekā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">šis <strong>dzīvoklis</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>. Pa blatam nokārtoju... – Ceru, ka mums pēc tam</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>un tie neizraisa atkarību. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">50 ml valokordīna <strong>pudelīte</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">aptuveni Ls 1,85,</WORD> 20 ml – Ls 1,09. Korvalola (25 ml)</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>cik govīm jābūt ganāmpulkā, ar ko tās jābaro, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">barība</WORD>, kas ir barības sastāvdaļas, cik darbinieku</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>sasilšanas veicināšanā, kā arī, ja padomājam, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> tagad <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">dīzeļdegviela</WORD>, šo apkures sistēmu ātri vien gribas</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>vai ledus hokeju. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Ekipējums</WORD> niršanai atklātā ūdenī <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">vidēji tūkstoš eiro</WORD>. Par šādu summu jau var iegādāties</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>izpalīdz jau iepazīti citu valstu speciālisti, taču arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>. Mums būtu vajadzīgi bagāti sponsori, bet vispirms jāpierāda</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>cenas ir zemākas nekā citās ES valstīs. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Benzīns</WORD> tur <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">vairāk</WORD> kā vienu eiro litrā. Pie mums cenām vēl ir iespēja</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>ietaupītu saimniecības naudu. Kad veikalā paskatos, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">puslitra burciņa konservētu <strong>skābeņu</strong></WORD>, bail paliek, bet</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>izstādīt laukā. Piemēram, 30 - 70cm augstas <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">parastas eglītes</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">aptuveni divus <strong>latus</strong></WORD>. Ir arī speciālās tā dēvētās</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">reģionālā autoceļa viena kilometra <strong>rekonstrukcija</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">vidēji 500 – 600 tūkstošus latu</WORD>, bet valsts autoceļa</TEXT>
 			<COMMENT></COMMENT>
@@ -528,10 +740,6 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>vērsts arī uz vietējo auditoriju. Muzejā <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">ieejas <strong>biļete</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">vienu latu.</WORD> " Ja cilvēki atbrauks no laukiem sestdien vai</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>sociālajām iemaksām, kas kopā ir 33,09 procenti (<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darba <strong>devējs</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="c00FF00">24,09, bet darba ņēmējs 9 procentus), lielākā</WORD> daļa</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
@@ -554,14 +762,6 @@
 			<TEXT>nauda, ko mēs maksājam NATO, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">pats iestāšanās fakts</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">to lielo prieku</WORD>, ko tā dod mūsu ierēdņiem, mūsu ministriem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>sociālā budžeta pārpalikumu. Tulkojumā – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pensionāri</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par šo šķietamo budžeta deficītu</WORD>. Kalvīša valdība</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>EKT ir noteikusi, ka, kaut gan maternitātes pabalsts, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">darba <strong>devējs</strong></WORD>, ir viens no vienlīdzīgas darba samaksas</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>to arī vajadzētu pārrunāt, kur var nopirkt un <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>. Šodien viņš nevarēja doties ar jēriņu uz pļavu,</TEXT>
 			<COMMENT></COMMENT>
@@ -574,36 +774,12 @@
 			<TEXT>super ! Sešarpus tūkstoši latu ! Tu vispār zini, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">mājas</WORD> te — gandrīz pilsētas centrā, pie upes ? Un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>teica, ka tūlīt pat var mani aizsūtīt uz Izraēlu. Tur <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">ļoti labi</WORD> — 10 dolārus stundā par parastiem celtniecības</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>dzīvot, — to viņa vēlējusies kopš bērnības. Bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par samītajām skudrām, nospiestajiem odiem, dunduriem</WORD></TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>ka varbūt izdevīgāk ir kļūt par mauku, jo <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">tām</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="c00FF00">labi</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>. Nemaksā jau viņām nemaz tik labi. Labāk nekā ārstiem</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>skrituļi knikšķ, un izpārdošanā <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tava siltā ziemas <strong>jaka</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> vien <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">pusi</WORD> no puscenas. ĒRGLIM Patiešām, no augšas viss</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>taisies darīt, ir normāli ? Vārsma. <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">Par <strong>to</strong></WORD> taču <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> ! Zinai nav ko teikt, viņa dodas atpakaļ uz virtuvi.</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>aizmirstu, lai mēs varētu palikt te mūžīgi - kamēr <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD>, te, pagrabstāvā, ar nolupušu apmetumu un nobružātiem</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>esi radis runāt kā padomju laikā, teica Bērts. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Laiks</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">naudu</WORD>. Bet tēvs tikai bija gribējis pastāstīt mātei</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>vismazāk zināms, cik lielu cenu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">šīs mājas <strong>saimniece</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par šiem brīnišķīgajiem <strong>mežiem</strong></WORD>. Lielu cenu, brīnījās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
@@ -614,22 +790,6 @@
 			<TEXT>aizsākta. “ Par metāllūžņu kravu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kas</WORD> pirms mēneša <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">septiņdesmit <strong>latu</strong></WORD>, pagājušajā nedēļā pieņemšanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>atcerējās, ka agrāk, kad nebija skaitītāju un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">fiksēto <strong>maksājumu</strong></WORD>, dzīvokļos bijis pat karsti. SIA</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>noteicošais, jo " mēs to spēlējām jau Īstvilidžā, kur <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">mums</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">300 dolāru</WORD> nedēļā " un nebija ne jausmas, ka tā nonāks</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>augstāko izglītību ieguvuši pirmie jaunieši, <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">kam</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">fonds</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">stipendijas</WORD>, tādējādi atbalstot viņu sapni studēt.</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>. Ja vēl gada sākumā <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>kilogramu</strong></WORD> neapstrādāta piena <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">četras <strong>kronas</strong></WORD> (0,18 latus), tad gada beigās tā cena</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>kredītlīdzekļiem. 30. 1,814 miljoni latu <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">Šādu <strong>summu</strong></WORD> pērn augustā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">neapdzīvojamas <strong>telpas</strong></WORD> Tērbatas ielā 46, kuras iegādājās</TEXT>
 			<COMMENT></COMMENT>
@@ -638,20 +798,8 @@
 			<TEXT>bijis Holandes sieram. Ja septembra beigās <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kilograms siera</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">3,09 latus</WORD>, tad oktobra pēdējā nedēļā tas maksājis</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>blatu, bija labs atspaids trūcīgajiem honorāriem, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ko</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par rakstiem un stāstiem</WORD> avīzēs un žurnālos. Pret vakaru</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>kā labāka. Bet <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FFFF">šis <strong>skaistumkonkurss</strong></WORD> pirms 20 gadiem <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cC00000">tev</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">līgavaini</WORD>. Varbūt tu būtu ar viņu apprecējusies un</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>tādu kā antīku eiro. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Romiešu <strong>provinces</strong></WORD> turpmāk <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">meslus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['S','Loc']" attribute="Loc" class="cFF0000">nevis vīnā, labībā un audumos</WORD>, bet gan solīdijos,</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>no 80 un vairāk dolāriem. ” <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Advokāts</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par vienu <strong>kasti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['NoDat','NoGen']" attribute="NoDat" class="cFF0000">no 65 centiem līdz 4 dolāriem</WORD>. Aizlieguma mērķis –</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
@@ -662,205 +810,57 @@
 			<TEXT>pārsniedz 50 USD / barelu. Vai atcerieties, cik <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF0000">lēti</WORD> toreiz <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">dabasgāze un arī siltums</WORD> ? - 2005. gada jūnijs - naftas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>brīžiem nesaskatīju loģiku, piemēram, kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par nepaņemtu <strong>preci</strong></WORD>, bet to visu uztvēru kā psiholoģiska</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>atjaunotas. " Pērn <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ukraina</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par tūkstoš kubikmetriem dabasgāzes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">179,5 ASV <strong>dolārus</strong></WORD>, savukārt cena, par kādu Krievija</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>apli nācās uz trim riteņiem braukt līdz boksiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Tas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF0000">dārgi</WORD> – atkrišanu uz 10. vietu un tikai teorētiskas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>. Laboja mašīnas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">īpašnieki</WORD> neko no tām nesaprata un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par zelta <strong>rokām</strong></WORD>. Vēlāk Viņš iekārtoja darbnīcu mājās</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>Viņš viņai par to sarūpēja labu dzīvi. Vienreiz gadā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">ceļu uz Vāciju</WORD>, viņa dikti skuma pēc tās zemes un cilvēkiem</TEXT>
-			<COMMENT>kas tas ira?</COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>iestājusies vispārēja labklājība ? <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Ceļojums</WORD> nedēļas garumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">tikai sešdesmit septiņdesmit latu</WORD>. Bija arī dārgie piedāvājumi</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>vietā viņš bija nolēmis palaizīt citu ficuku, un te nu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>neuzticību</strong></WORD> — ar divu nedēļu ieslodzījumu izolatorā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>reti bija tādi ķermeņi uz dēļu galda, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> tomēr <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">trīs <strong>latus</strong></WORD>. Biežāk sievietes gribēja plecu masāžu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>skolās mācās apmēram 100 pagasta bērni, <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par vienu <strong>bērnu</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">vidēji 28 <strong>latus</strong></WORD> mēnesī. Savukārt par bērnudārza apmeklēšanu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>par bērnudārza apmeklēšanu pilsētā <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par katru <strong>bērnu</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">97 <strong>latus</strong></WORD>. Vairāk jāmaksā par izglītības iestāžu apmeklēšanu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>lai viņš iegūtu augstāko izglītību, tad <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">stipendijas</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> gadu, divus, trīs, četrus un pat sešus gadus. Piemēram</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>nevis par naudu, ir tā nelaime, <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>ko</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs visi</WORD> šodien <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD>. Tas ļāva sabiedrībai pamazām slāņoties, veidojot</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>būtiski iegūtu, nozīmē blefot. Kāda gan starpība, vai <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">latos</WORD> vai pēc kursa samainītos eiro ? Varbūt vienīgi</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>nodokļi. Likumsakarīgs jautājums : kādēļ tad vispār <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sociālo <strong>nodokli</strong></WORD>, ja mums ir liegts izmantot sociālās</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>zvēriskākā un nevajadzīgākā revolūcija. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> vēl tagad <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD>. Revolūcijas simtgadē mēs ar mokām sasniegsim 1913.</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>pašā laikā eksperti uzsver : <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par gāzi un elektrību</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">zemāko <strong>cenu</strong></WORD> Eiropas Savienībā. Taču diezin vai tas dara</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Pie mums pasūtītāji domā — ja man ir nauda, tad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> un lai celtnieki būvē, kā viņi grib. Eiropā ir cita</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>iepērkoties veikalā vai saņemot man nepieciešamos pakalpojumus, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">aptuveni (jo likmes ir dažādas) 21% PVN nodokli</WORD>. Tātad</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Jutos atstumta, pamesta, izmantota. Bet <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> droši vien <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par savu muļķību</WORD>. Nu, kurš lika man iemīlēties precētā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>neredzēdama, un sabijās, kad iestājās klusums. - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">diezgan daudz</WORD>... tad tas pāriet un kādu laiku ir miers</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>man tajā laikā bija pāri piecdesmit. <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">Par <strong>dzīvokli</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāju</WORD> <WORD json="['ApDat','ApAcc','Acc']" attribute="Acc" class="cFF0000">ap divdesmit</WORD>. Dažu labu dienu es toziem neēdu, cukurūdeni</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>aizbraucis uz tuvējo karjeru, lai visu noskaidrotu – <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">smilts</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD>, vai viņi var iedot savu transportu, cik būs jāmaksā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>jāsāk baidīties, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> pēc gadiem vispār te strādās, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">nodokļus</WORD> un pelnīs budžetā naudu, nodrošinās pabalstus</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">valsts galvoto <strong>kredītu</strong></WORD> bankai vairāk nekā miljonu latu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> … <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pati valsts</WORD>, jo jaunā slimnīca nebūs sākusi darbu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>stingrās uzskaites kvītīm <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">dome</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Dat" class="cFF00FF">maznodrošinātajiem</WORD> arī šogad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">pabalstu</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par medicīnas pakalpojumiem</WORD>, piemēram, operācijām</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Turpmāk <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">iedzīvotāji</WORD>, kas mīt pašvaldības dzīvokļos, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par apsaimniekošanu un īri</WORD>, bet privāto dzīvokļu īpašnieki</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>pašvaldības nodevām. Piemēram, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tirdzniecības <strong>vieta</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">Ls 3</WORD> dienā, bet par priekšvēlēšanu aģitāciju nāksies</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>izdevumiem, piecus apbedīšanas pabalstus, diviem bērniem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par <strong>pusdienām</strong></WORD> skolā, bet vienu ģimeni atzina par trūcīgu</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>» saņems Uzņēmumu reģistrs, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par tā <strong>nomu</strong></WORD> mēnesī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">267 <strong>latus</strong></WORD> ar PVN. Kopumā nomas maksa uz trijiem gadiem</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>pasākums, tam jābūt biznesa projektam, un es nezinu, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">biļetes</WORD>, — mēs to tagad pētām. Domāju, ka reāli</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>bet, ja pasi vajadzēs saņemt četru dienu laikā, <WORD json="['Adv','','Nom']" attribute="Nom" class="c00FFFF">tā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">25 <strong>latus</strong></WORD>. Steidzamos gadījumos būs iespēja dokumentu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ārpakalpojumu sniedzēju par to, kurš ir vainīgs un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD>. Protams, kļūdīšanās iespēja pastāv vienmēr, taču</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>– tūlīt, reāli taustāmu, praktisku, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>to</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> u. t. t un tikai tad, ko darīsim ? Kā nesen, kad aicināju</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>nepieciešama apstrāde. Jau nomazgāti un iefasēti tie <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> daudz vairāk. Tas pats attiecas arī uz citiem, piemēram</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>. Kā to plānosiet, kā rēķināsiet izdevumus ? <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">rēķinus</WORD>, kurš pirks produktus ?) ; - pienākumi (vai</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>sodīti ar 80 pletnes sitieniem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">otrreizējs <strong>pārkāpums</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> vēl <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">80 <strong>cirtienus</strong></WORD>, bet trešā reize paredz nāvessodu.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>aptuvenās izmaksas, sākot no vienkāršākā. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FFFF">Brunči</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD>, sākot no <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Acc" class="cFF0000">Ls 55</WORD> un vairāk, jostas no Ls 15 – 20. Vienkāršs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>apkures sezonā - mēs pa īstam sākam sajust, <WORD json="['Adv']" attribute="Adv" class="cFF0000">cik</WORD> tad reāli <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">siltums</WORD> no sadārdzinātās gāzes. Ja pagājušajā apkures</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Vecais kontinents noveco, un nezinām, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">manai <strong>paaudzei</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">pensijas</WORD>. Cik lielā mērā baznīcai izdodas turēties</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>deviņi lati iepriekšējo piecu vietā, arī <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">kopmītnes</WORD> šogad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">deviņus <strong>latus</strong></WORD>, taču salīdzinājumā ar citām Latvijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>pārstāvji jau paziņojuši, ka A. Švarcenegera pavēle dārgi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> cilvēkiem. " Ļaudis nevarēs samaksāt rēķinus, un</TEXT>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT>pārstāvji jau paziņojuši, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">A. Švarcenegera <strong>pavēle</strong></WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF0000">dārgi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> cilvēkiem. " Ļaudis nevarēs samaksāt rēķinus, un</TEXT>
 			<COMMENT>kas tas ir?</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Birokrātiskā vilcināšanās un politiskās gribas trūkums <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">dzīvības</WORD>, " brīdinājusi nabadzības apkarošanas grupas</TEXT>
+		<SENTENCE CATEGORY="sFFFF00">
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Birokrātiskā vilcināšanās un politiskās gribas trūkums</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">dzīvības</WORD>, " brīdinājusi nabadzības apkarošanas grupas</TEXT>
 			<COMMENT>kas tas ir?</COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>netiek ņemti vērā. Pēc vienošanās aizbraukušajiem <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Krievijas <strong>puse</strong></WORD>, bet mūsu puse tiem, kas dzīvo Latvijā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>jau prasīt, kurš te tas lielākais kungs, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00C000">to <strong>skādi</strong></WORD>, te kāds no skatuves pudeli met un trāpa man</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>lūdzu izslēgt. ARMANDS. Ja kaut kas būs sabojājies, <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksāsi</WORD>. Saprati ? ! BALVIS. Pats saka, ka kopdarbs, bet, kad</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>izskatā. Lana. Paskaties tik — piedienīgā ! <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Tu</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> vēl <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksāsi</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">piecus <strong>latus</strong></WORD> par to, ka pamodināji, — cilvēktiesību</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Nospiediet podziņu, un gulta sāks līgani šūpoties. Ja <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksāsiet</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">vairāk</WORD>, varēsiet noklausīties ari nomierinošu melodiju</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Būs jāpērk. Tātad vairāk kā vienu miljardu latu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>pārtiku</strong></WORD>. Un šeit ir svarīgi katram Latvijas iedzīvotājam</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>izbraukuši vairāk, nekā no Krievijas iebrauca Latvijā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">mazāk</WORD>, Krievijas pusei būs lielākas izmaksas. Plānots</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>, nav iespēju kaut ko darīt. - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> visu mūžu <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">viņiem</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD>. Bet viņu māju mēs viņiem atpakaļ iedot nevarēsim</TEXT>
-			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
 </CONTENT>
