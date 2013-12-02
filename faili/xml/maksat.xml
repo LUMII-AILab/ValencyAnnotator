@@ -681,23 +681,23 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>iestājusies vispārēja labklājība ? Ceļojums nedēļas garumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> tikai sešdesmit septiņdesmit latu. Bija arī dārgie piedāvājumi</TEXT>
+			<TEXT>iestājusies vispārēja labklājība ? <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Ceļojums</WORD> nedēļas garumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">tikai sešdesmit septiņdesmit latu</WORD>. Bija arī dārgie piedāvājumi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>vietā viņš bija nolēmis palaizīt citu ficuku, un te nu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> par neuzticību — ar divu nedēļu ieslodzījumu izolatorā</TEXT>
+			<TEXT>vietā viņš bija nolēmis palaizīt citu ficuku, un te nu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>neuzticību</strong></WORD> — ar divu nedēļu ieslodzījumu izolatorā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>reti bija tādi ķermeņi uz dēļu galda, jo tas tomēr <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> trīs latus. Biežāk sievietes gribēja plecu masāžu</TEXT>
+			<TEXT>reti bija tādi ķermeņi uz dēļu galda, jo <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">tas</WORD> tomēr <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">trīs latus</WORD>. Biežāk sievietes gribēja plecu masāžu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>skolās mācās apmēram 100 pagasta bērni, par vienu bērnu <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> vidēji 28 latus mēnesī. Savukārt par bērnudārza apmeklēšanu</TEXT>
+			<TEXT>skolās mācās apmēram 100 pagasta bērni, <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par vienu <strong>bērnu</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> vidēji 28 latus mēnesī. Savukārt par bērnudārza apmeklēšanu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>par bērnudārza apmeklēšanu pilsētā par katru bērnu <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> 97 latus. Vairāk jāmaksā par izglītības iestāžu apmeklēšanu</TEXT>
+			<TEXT>par bērnudārza apmeklēšanu pilsētā <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par katru <strong>bērnu</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksājam</WORD> 97 latus. Vairāk jāmaksā par izglītības iestāžu apmeklēšanu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
