@@ -14,21 +14,21 @@
 		<SENTENCE_CATEGORY id="sFFFF00">Būt kaut ko vērtam</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>Rīgā, kur <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašvaldība</WORD> transporta uzņēmumiem dotācijās <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">miljoniem latu</WORD>, biļetes cena ir 20 santīmu. Savukārt</TEXT>
-			<COMMENT></COMMENT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>Rīgā, kur <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pašvaldība</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">transporta <strong>uzņēmumiem</strong></WORD> dotācijās <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">miljoniem latu</WORD>, biļetes cena ir 20 santīmu. Savukārt</TEXT>
+			<COMMENT>Baiba</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>darbojas daudzi uzņēmumi - parazīti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> nemaksā nodokļus, <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">darbiniekiem</WORD> aploksnēs, utt. Tādi uzņēmumi parasti</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>atjaunotas. " Pērn <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ukraina</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par tūkstoš kubikmetriem dabasgāzes</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">179,5 ASV <strong>dolārus</strong></WORD>, savukārt cena, par kādu Krievija</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>﻿tā darbības termiņa pagarināšanu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">sertificētā <strong>persona</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">valsts <strong>nodevu</strong></WORD>. (4) Sertifikāta izsniegšanas un reģistrēšanas</TEXT>
-			<COMMENT>Baiba</COMMENT>
+			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>īpašuma nodokļa maksātāji (1) <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">Nekustamā īpašuma <strong>nodokli</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Latvijas vai ārvalstu fiziskās un juridiskās <strong>personas</strong></WORD></TEXT>
@@ -399,12 +399,12 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>tādu kā antīku eiro. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Romiešu <strong>provinces</strong></WORD> turpmāk <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">meslus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['S','Loc']" attribute="Loc" class="cFF0000">nevis vīnā, labībā un audumos</WORD>, bet gan solīdijos,</TEXT>
-			<COMMENT></COMMENT>
+			<TEXT>tādu kā antīku eiro. <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Romiešu <strong>provinces</strong></WORD> turpmāk <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">meslus</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> nevis vīnā, labībā un audumos, bet gan solīdijos,</TEXT>
+			<COMMENT>kas ir Loc?</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>no 80 un vairāk dolāriem. ” <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Advokāts</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par vienu <strong>kasti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['NoDat','NoGen']" attribute="NoDat" class="cFF0000">no 65 centiem līdz 4 dolāriem</WORD>. Aizlieguma mērķis –</TEXT>
-			<COMMENT></COMMENT>
+			<TEXT>no 80 un vairāk dolāriem. ” <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Advokāts</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="c00C000">par vienu <strong>kasti</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> no 65 centiem līdz 4 dolāriem. Aizlieguma mērķis –</TEXT>
+			<COMMENT>kas ir nauda?</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>brīžiem nesaskatīju loģiku, piemēram, kāpēc <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksāja</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par nepaņemtu <strong>preci</strong></WORD>, bet to visu uztvēru kā psiholoģiska</TEXT>
@@ -750,7 +750,7 @@
 			<TEXT>spēj izaugt par kvalitatīviem kokiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FFFF">Šādi <strong>stādi</strong></WORD> gan <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">dārgāk</WORD>, bet tas atmaksāsies. Ņemt stādus no citurienes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFFFF00">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>piekāpsies un strādās, neatkarīgi no tā, vai <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">viņiem</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">maksā</WORD> vai nemaksā. Visticamāk, ka premjers, neizprotot situācijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
