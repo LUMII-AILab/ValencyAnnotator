@@ -837,15 +837,15 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Birokrātiskā vilcināšanās un politiskās gribas trūkums <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="cFF0000">dzīvības</WORD>, " brīdinājusi nabadzības apkarošanas grupas</TEXT>
+			<TEXT>Birokrātiskā vilcināšanās un politiskās gribas trūkums <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cFF0000">dzīvības</WORD>, " brīdinājusi nabadzības apkarošanas grupas</TEXT>
+			<COMMENT>kas tas ir?</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>netiek ņemti vērā. Pēc vienošanās aizbraukušajiem <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Gen" class="c00FF00">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Krievijas <strong>puse</strong></WORD>, bet mūsu puse tiem, kas dzīvo Latvijā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>netiek ņemti vērā. Pēc vienošanās aizbraukušajiem to <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Krievijas <strong>puse</strong></WORD>, bet mūsu puse tiem, kas dzīvo Latvijā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>jau prasīt, kurš te tas lielākais kungs, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> man <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> to skādi, te kāds no skatuves pudeli met un trāpa man</TEXT>
+			<TEXT>jau prasīt, kurš te tas lielākais kungs, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kurš</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">maksās</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00C000">to <strong>skādi</strong></WORD>, te kāds no skatuves pudeli met un trāpa man</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -853,7 +853,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izskatā. Lana. Paskaties tik — piedienīgā ! <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Tu</WORD> man vēl <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksāsi</WORD> piecus latus par to, ka pamodināji, — cilvēktiesību</TEXT>
+			<TEXT>izskatā. Lana. Paskaties tik — piedienīgā ! <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Tu</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">man</WORD> vēl <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">maksāsi</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">piecus <strong>latus</strong></WORD> par to, ka pamodināji, — cilvēktiesību</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -861,7 +861,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Būs jāpērk. Tātad vairāk kā vienu miljardu latu mēs <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD> par pārtiku. Un šeit ir svarīgi katram Latvijas iedzīvotājam</TEXT>
+			<TEXT>Būs jāpērk. Tātad vairāk kā vienu miljardu latu <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="c00C000">par <strong>pārtiku</strong></WORD>. Un šeit ir svarīgi katram Latvijas iedzīvotājam</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -869,7 +869,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>, nav iespēju kaut ko darīt. - Mēs visu mūžu viņiem <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD>. Bet viņu māju mēs viņiem atpakaļ iedot nevarēsim</TEXT>
+			<TEXT>, nav iespēju kaut ko darīt. - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> visu mūžu <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="cFF00FF">viņiem</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">maksāsim</WORD>. Bet viņu māju mēs viņiem atpakaļ iedot nevarēsim</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
