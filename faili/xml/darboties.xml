@@ -9,13 +9,14 @@
 		<CATEGORY id="cC00000">Laiks: biežums?</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Būt nodibinātam (par organizācijām) un veikt funkcijas</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>prasības. (3) <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Brīvprātīgo ugunsdzēsēju <strong>organizācijas</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar Biedrību un nodibinājumu likumu</WORD>. (Ar grozījumiem</TEXT>
 			<COMMENT>Gunta</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>risināšanai izveidotas konsultatīvas institūcijas, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar Ministru kabineta apstiprinātu paraugnolikumu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -31,11 +32,11 @@
 			<TEXT>iespējas tuvāk savai dzīvesvietai. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Katrs partijas <strong>biedrs</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">vienā partijas teritoriālajā <strong>struktūrvienībā</strong></WORD>. (3</TEXT>
 			<COMMENT>???</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>režīma vai notikusi avārija, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pārvades sistēmas <strong>operators</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar Tīkla kodeksa noteikumiem</WORD>. (3) Pārvades</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>īsteno ar Ārlietu ministrijas starpniecību. (2) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aģentūra</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar tās darbības plānu nākamajam gadam</WORD>. Aģentūras</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -43,7 +44,7 @@
 			<TEXT>tml.) ; 2) sporta darbinieks — fiziskā persona, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">sporta <strong>jomā</strong></WORD>, veicot izglītojošo, tiesneša, metodisko</TEXT>
 			<COMMENT>???</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>jurisdikcijas tiesas priekšsēdētājs, kuras teritorijā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">karatiesa</WORD>. II nodaļa Karatiesu tiesneši 6. pants. Karatiesu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -51,7 +52,7 @@
 			<TEXT>ministrijas izstrādātos noteikumus. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Kapelāni</WORD> Latvijas Republikā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar Ministru kabineta noteikumiem par kapelānu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>turētājs ir Kultūras ministrija. (2) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Nacionālā <strong>opera</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar šo likumu</WORD>, Komerclikumu, Kultūras institūciju</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -67,7 +68,7 @@
 			<TEXT>(2) Fonds ir publisko tiesību juridiskā persona, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF00FF">saskaņā ar šo likumu</WORD>, citiem normatīvajiem aktiem un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>noteikumu spēkā stāšanās <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Valsts kultūrkapitāla fonda <strong>padome</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar šo likumu</WORD> un Valsts kultūrkapitāla fonda</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -87,15 +88,15 @@
 			<TEXT>kurā iekļauta informācija par visiem tiesu ekspertiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> valstī. (2) Reģistrā iekļauj šādas ziņas : 1)</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>izveidots ar šo likumu. (2) Fonds ir juridiskā persona, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar šo likumu</WORD>, citiem normatīvajiem aktiem un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>ministrijas padotībā esoša valsts pārvaldes iestāde, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar Ministru kabineta apstiprinātu nolikumu</WORD>. (</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>daļā minētās ziņas Kredītu reģistrā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> izveidots un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar Latvijas Bankas apstiprinātajiem noteikumiem</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -103,7 +104,7 @@
 			<TEXT>5., 4 ] Cilvēks ir sabiedriska būtne, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņš</WORD> dzīvo, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">sociālā <strong>vidē</strong></WORD>. Pēc Ē. Fromma domām, katram cilvēkam</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>trīs lielie burti LZA un to atšifrējums. 1.4 <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Organizācija</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['BezDat','BezGen']" attribute="BezGen" class="cFF00FF">bez īpaša teritoriāla <strong>ierobežojuma</strong></WORD> Latvijas Republikā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -777,7 +778,7 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>līgumsodu 50 Ls apmērā, » klāstīja M. Kesani. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bite</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Latvijas <strong>tirgū</strong></WORD> kopš 2005. gada. Bites tīkls ir pieejams</TEXT>
+			<TEXT>līgumsodu 50 Ls apmērā, » klāstīja M. Kesani. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Bite</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Latvijas <strong>tirgū</strong></WORD> <WORD json="['KopšDat','KopšGen','S']" attribute="KopšGen" class="c00FFFF">kopš 2005. gada</WORD>. Bites tīkls ir pieejams</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -817,7 +818,7 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>spaidīt podziņas ! Lēnām sāku saprast, <WORD json="['Adv']" attribute="Adv" class="cFF00FF">kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tas</WORD> viss <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD>. Smieklīgi, ka manā vecumā es nemāku tādas lietas</TEXT>
+			<TEXT>spaidīt podziņas ! Lēnām sāku saprast, <WORD json="['Adv']" attribute="Adv" class="cFF00FF">kā</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tas viss</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD>. Smieklīgi, ka manā vecumā es nemāku tādas lietas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -925,7 +926,7 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nezināja, ko darīt. Kliegšanas uz klāja nebija, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojās</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">lielā <strong>klusumā</strong></WORD>, domājot katrs savu domu. Bija jau arī</TEXT>
+			<TEXT>nezināja, ko darīt. Kliegšanas uz klāja nebija, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojās</WORD> lielā klusumā, domājot katrs savu domu. Bija jau arī</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -965,11 +966,11 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>rīkojuši talkas šīs vietas sakopšanai. Turpmāk <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tirdziņš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">darbosies</WORD> katru sestdienu un, ja būs pircēju un pārdevēju interese</TEXT>
+			<TEXT>rīkojuši talkas šīs vietas sakopšanai. Turpmāk <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tirdziņš</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">darbosies</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">katru <strong>sestdienu</strong></WORD> un, ja būs pircēju un pārdevēju interese</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>psiholoģiskās palīdzības tālruņa izveidi. Turpmāk <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">darbosies</WORD> katru darba dienu no pulksten 10 līdz 18. Palīdzēs pret</TEXT>
+			<TEXT>psiholoģiskās palīdzības tālruņa izveidi. Turpmāk <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">tas</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V3" class="verbs">darbosies</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">katru darba <strong>dienu</strong></WORD> no pulksten 10 līdz 18. Palīdzēs pret</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
