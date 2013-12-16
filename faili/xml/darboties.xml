@@ -5,6 +5,7 @@
 		<CATEGORY id="c00FF00">Instruments</CATEGORY>
 		<CATEGORY id="cFF00FF">Veids?</CATEGORY>
 		<CATEGORY id="cFF0000">Joma!</CATEGORY>
+		<CATEGORY id="c00FFFF">Laiks: ilgums!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -435,11 +436,11 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>liesma nedeg uz leju un ūdens neplūst uz augšu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Katrs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">saskaņā</WORD> ar savu dabu. * Pareiza un godīga uzvedība nav</TEXT>
+			<TEXT>liesma nedeg uz leju un ūdens neplūst uz augšu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Katrs</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar savu dabu</WORD>. * Pareiza un godīga uzvedība nav</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>miligramu nikotīna aizstājēj terapijas plāksteris, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> 16 stundas, netraucējot nakts miegu un smēķētājam nodrošina</TEXT>
+			<TEXT>miligramu nikotīna aizstājēj terapijas plāksteris, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">16 <strong>stundas</strong></WORD>, netraucējot nakts miegu un smēķētājam nodrošina</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -563,7 +564,7 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izturīga baterija. Sarunu režīmā <WORD json="['Adv','Nom']" attribute="Nom" class="c00FF00">tā</WORD> pēc vienas uzlādes <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> deviņas stundas (4 stundas UMTS), gaidīšanas režīmā</TEXT>
+			<TEXT>izturīga baterija. Sarunu režīmā <WORD json="['Adv','Nom']" attribute="Nom" class="c00FF00">tā</WORD> pēc vienas uzlādes <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FFFF">deviņas <strong>stundas</strong></WORD> (4 stundas UMTS), gaidīšanas režīmā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -611,11 +612,11 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>zinātnes centru kļuvusi Rēzeknes Augstskola (RA), <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> kopš 1993. gada 1. jūlija un 1999. gadā ieguvusi beztermiņa</TEXT>
+			<TEXT>zinātnes centru kļuvusi Rēzeknes Augstskola (RA), <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['KopšDat','KopšGen','S']" attribute="KopšGen" class="c00FFFF">kopš 1993. gada 1. jūlija</WORD> un 1999. gadā ieguvusi beztermiņa</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>līmeņa studiju programmas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Inženieru <strong>fakultāte</strong></WORD> (IF) arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> kopš augstskolas dibināšanas dienas. 2007. / 2008. studiju</TEXT>
+			<TEXT>līmeņa studiju programmas. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Inženieru <strong>fakultāte</strong></WORD> (IF) arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['KopšDat','KopšGen','S']" attribute="KopšGen" class="c00FFFF">kopš augstskolas dibināšanas dienas</WORD>. 2007. / 2008. studiju</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
