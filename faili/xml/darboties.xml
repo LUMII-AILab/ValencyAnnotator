@@ -11,54 +11,51 @@
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Būt nodibinātam (par organizācijām) un veikt funkcijas</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFFFF00">Veikt noteiktas funkcijas, būt ieslēgtam</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFF00FF">Būt iesaistītam kādā organizācijā</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Būt iesaistītam kādā organizācijā, strādāt</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF0000">Šiverēt</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>veselības stāvokli un ārstēšanu. 39. pants. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Ārsts</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">specialitātē</WORD> (specialitātes var būt vairākas), kas</TEXT>
 			<COMMENT>???</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>Baznīcas kapelānu garīgā darbība (1) <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Baznīcas <strong>kapelāni</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Nacionālajos bruņotajos <strong>spēkos</strong></WORD>, lidostās, ostās,</TEXT>
 			<COMMENT>???</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>iespējas tuvāk savai dzīvesvietai. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Katrs partijas <strong>biedrs</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">vienā partijas teritoriālajā <strong>struktūrvienībā</strong></WORD>. (3</TEXT>
 			<COMMENT>???</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>tml.) ; 2) sporta darbinieks — fiziskā persona, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">sporta <strong>jomā</strong></WORD>, veicot izglītojošo, tiesneša, metodisko</TEXT>
 			<COMMENT>???</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>ministrijas izstrādātos noteikumus. <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Kapelāni</WORD> Latvijas Republikā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Loc" class="cFF00FF"><strong>saskaņā</strong> ar Ministru kabineta noteikumiem par kapelānu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>kurai ir elektroniskā paraksta radīšanas līdzekļi un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> vai nu <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">savā <strong>vārdā</strong></WORD>, vai tās fiziskās vai juridiskās</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>pirmās pakāpes radinieki vai laulātie ; 9) personām, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">kuras</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">šā panta 7. punktā minēto personu <strong>vārdā</strong></WORD> ; 10) personām</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>(2) Fonds ir publisko tiesību juridiskā persona, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Loc" class="cFF00FF">saskaņā ar šo likumu</WORD>, citiem normatīvajiem aktiem un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>sabiedrība vai tās meitas sabiedrība, vai persona, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kura</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">savā <strong>vārdā</strong></WORD>, bet pašas attiecīgās meitas sabiedrības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>konsolidācijā iesaistītajām sabiedrībām vai personām, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">kuras</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">savā <strong>vārdā</strong></WORD>, bet konsolidācijā iesaistīto sabiedrību</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>sabiedrībām pašām vai ar tādu personu starpniecību, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Nom" class="cFFFF00">kuras</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">savā <strong>vārdā</strong></WORD>, bet šo sabiedrību labā, pieder vismaz</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>kurā iekļauta informācija par visiem tiesu ekspertiem, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> valstī. (2) Reģistrā iekļauj šādas ziņas : 1)</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
