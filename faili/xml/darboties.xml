@@ -6,6 +6,7 @@
 		<CATEGORY id="cFF00FF">Veids?</CATEGORY>
 		<CATEGORY id="cFF0000">Joma!</CATEGORY>
 		<CATEGORY id="c00FFFF">Laiks: ilgums!</CATEGORY>
+		<CATEGORY id="cC00000">Laiks: biežums?</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -668,7 +669,7 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Vai tiešām nekas nav noticis ? <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aizkraukles Tautas <strong>teātris</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> jau 25 gadus. Tā būtība ir trīs pamatprincipos : teātra</TEXT>
+			<TEXT>Vai tiešām nekas nav noticis ? <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Aizkraukles Tautas <strong>teātris</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> jau <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">25 <strong>gadus</strong></WORD>. Tā būtība ir trīs pamatprincipos : teātra</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -692,7 +693,7 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>septiņas nedēļas. Visu vasaru, neņemot pārtraukumu, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pirmsskolas izglītības <strong>iestāde</strong></WORD> " Stārķis ". – Man</TEXT>
+			<TEXT>septiņas nedēļas. <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">Visu <strong>vasaru</strong></WORD>, neņemot pārtraukumu, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">pirmsskolas izglītības <strong>iestāde</strong></WORD> " Stārķis ". – Man</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -700,15 +701,15 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tas ir ievērojams skaitlis. Subatē vairāk kā 300 gadus <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vecticībnieku <strong>draudze</strong></WORD> un luterāņu baznīca. Vēlos,</TEXT>
+			<TEXT>tas ir ievērojams skaitlis. Subatē <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FFFF">vairāk kā 300 <strong>gadus</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vecticībnieku <strong>draudze</strong></WORD> un luterāņu baznīca. Vēlos,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ir pieejama internetā. Kopš 1999. gada Raiņa ielā 28 <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">informācijas <strong>centrs</strong></WORD>, kurā katrs cilvēks var uzzināt</TEXT>
+			<TEXT>ir pieejama internetā. <WORD json="['KopšDat','KopšGen','S']" attribute="KopšGen" class="c00FFFF">Kopš 1999. <strong>gada</strong></WORD> Raiņa ielā 28 <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">informācijas <strong>centrs</strong></WORD>, kurā katrs cilvēks var uzzināt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sportistiem, kuri nopietni aizrāvušies ar peldēšanu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Tas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> gandrīz katru dienu no agra rīta līdz vēlam vakaram desmit</TEXT>
+			<TEXT>sportistiem, kuri nopietni aizrāvušies ar peldēšanu. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Tas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">gandrīz katru <strong>dienu</strong></WORD> no agra rīta līdz vēlam vakaram desmit</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -720,7 +721,7 @@ Instruments???</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>centrs, SOS meiteņu rezidence, un kopš 1962. gada šeit <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">psihoterapeitiskā <strong>klīnika</strong></WORD>, kurā rehabilitējas vardarbībā</TEXT>
+			<TEXT>centrs, SOS meiteņu rezidence, un <WORD json="['KopšDat','KopšGen','S']" attribute="KopšGen" class="c00FFFF">kopš 1962. <strong>gada</strong></WORD> šeit <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">psihoterapeitiskā <strong>klīnika</strong></WORD>, kurā rehabilitējas vardarbībā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
