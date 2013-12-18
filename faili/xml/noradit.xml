@@ -2,44 +2,45 @@
 <CONTENT>
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>﻿izsniegšanu; 9.4. uztur sertificēto auditoru reģistru, kurā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> informāciju par izsniegtajiem auditoru sertifikātiem.</TEXT>
+			<TEXT>﻿izsniegšanu; 9.4. uztur sertificēto auditoru reģistru, kurā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">informāciju</WORD> par izsniegtajiem auditoru sertifikātiem.</TEXT>
 			<COMMENT>svarīgs LETAS proj.</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Finanšu ministrijai, tajā norādot pamatojumu un faktus, kas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> uz šā likuma 3. panta pirmajā daļā minētajiem apstākļiem</TEXT>
+			<TEXT>Finanšu ministrijai, tajā norādot pamatojumu un faktus, kas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzDat" class="c00FF00">uz šā likuma 3. panta pirmajā daļā minētajiem <strong>apstākļiem</strong></WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Paziņojumā par bankas akcionāru ārkārtas sapulces sasaukšanu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> sapulces darba kārtību. Paziņojums par bankas akcionāru</TEXT>
+			<TEXT>Paziņojumā par bankas akcionāru ārkārtas sapulces sasaukšanu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">sapulces darba <strong>kārtību</strong></WORD>. Paziņojums par bankas akcionāru</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>apliecina attiecīgās personas profesionālo sagatavotību un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>, ka ārstniecības atbalsta persona ir kompetenta iesaistīties</TEXT>
+			<TEXT>apliecina attiecīgās personas profesionālo sagatavotību un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka ārstniecības atbalsta persona ir kompetenta iesaistīties</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>esošās vides informācijas uzskaites sistēmu, kā arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>, kur attiecīgā informācija ir pieejama, arī veidojot</TEXT>
+			<TEXT>esošās vides informācijas uzskaites sistēmu, kā arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="c00FF00">kur attiecīgā informācija ir pieejama</WORD>, arī veidojot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>lai iesniegumā minētie fakti tiktu izpausti, viņš to <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> iesniegumā. Ja iesniegumā nav ietverta norāde par aizliegumu</TEXT>
+			<TEXT>lai iesniegumā minētie fakti tiktu izpausti, viņš <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> iesniegumā. Ja iesniegumā nav ietverta norāde par aizliegumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>statūtus sagatavo rakstveidā. (2) Partijas statūtos <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>: 1) partijas nosaukumu un tā saīsinājumu; 2) partijas</TEXT>
+			<TEXT>statūtus sagatavo rakstveidā. (2) Partijas statūtos <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>: 1) <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">partijas nosaukumu un tā saīsinājumu; 2) partijas</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kods (ārzemniekiem, bezvalstniekiem un bēgļiem papildus <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> dzimšanas datumu); 21) dzimšanas vieta; 3) valstiskā</TEXT>
+			<TEXT>kods (ārzemniekiem, bezvalstniekiem un bēgļiem papildus <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">dzimšanas <strong>datumu</strong></WORD>); 21) dzimšanas vieta; 3) valstiskā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kods (ārzemniekiem, bezvalstniekiem un bēgļiem papildus <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> dzimšanas datumu); 3) valstiskā piederība un tās veids</TEXT>
+			<TEXT>kods (ārzemniekiem, bezvalstniekiem un bēgļiem papildus <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">dzimšanas <strong>datumu</strong></WORD>); 3) valstiskā piederība un tās veids</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -47,15 +48,15 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>informāciju, tiesībsargs nosaka šīs informācijas apjomu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> saprātīgu tās sniegšanas termiņu. (2) Pēc iestādes</TEXT>
+			<TEXT>informāciju, tiesībsargs nosaka šīs informācijas apjomu un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">saprātīgu tās sniegšanas <strong>termiņu</strong></WORD>. (2) Pēc iestādes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>zaudējumu aprēķina posteņu vērtības starpības, tās <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> tieši konsolidētajās rezervēs. Konsolidētajā bilancē</TEXT>
+			<TEXT>zaudējumu aprēķina posteņu vērtības starpības, <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">tās</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> tieši konsolidētajās rezervēs. Konsolidētajā bilancē</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>bet konsolidācijā iesaistīto sabiedrību labā, turklāt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> arī to, kurš no šā likuma 4. panta nosacījumiem pamato</TEXT>
+			<TEXT>bet konsolidācijā iesaistīto sabiedrību labā, turklāt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> arī <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="c00FF00">to</WORD>, kurš no šā likuma 4. panta nosacījumiem pamato</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
