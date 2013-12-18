@@ -11,7 +11,7 @@
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Būt nodibinātam (par organizācijām) un veikt funkcijas</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFFFF00">Veikt noteiktas funkcijas, būt ieslēgtam</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFF00FF">Būt iesaistītam kādā organizācijā, strādāt</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Būt iesaistītam kādā organizācijā, strādāt tās ietvaros</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF0000">Nebūt miera stāvoklī</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
@@ -327,7 +327,7 @@
 			<TEXT>nervus sympathicus – daļu autonomās nervu sistēmas. <WORD json="['Adv','Nom']" attribute="Nom" class="cFFFF00">Tā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF00FF">neatkarīgi</WORD> no apziņas, un tās uzdevums ir cilvēku aktivizēt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>kļuvušas par ikdienu – visvairāk Santjago de Kubā, kur <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Franks Paiss</WORD>. Šajā pilsētā viņš vada “ 26. jūlija</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -387,23 +387,23 @@
 			<TEXT>, neaptverot tos saimnieciskās darbības veicējus, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParAcc" class="cFF00FF">par atlīdzību</WORD>, bet bez nolūka gūt peļņu. Tomēr šajā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>teātri jāsaindējas Šobrīd <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Tautas <strong>teātrī</strong></WORD> Sprīdītis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['ApDat','ApAcc','Gen']" attribute="Gen" class="cFFFF00">ap 90 <strong>bērnu</strong></WORD> un jauniešu, kuri sadalīti vairākās grupās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>pārdod Alžīrijā un Lībijā, bet šajā gadā tur daudz <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">ASV <strong>uzņēmēji</strong></WORD>. ASV jau pērn par 4% vairāk ražoja pienu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>pirmatnēja, ko nevar nopirkt ne par kādu naudu. <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">Izrādē</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">seši <strong>personāži</strong></WORD> - divas sievietes un četri vīrieši.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>Atštaukām " – 10 Folkloras kopa " Atštaukas ", <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">kurā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Liepājas teātra dažāda laika <strong>aktrises</strong></WORD> un dziesminiece</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>Bakners " ir sarīkojuši atpūtas nometni Karostā, <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">kurā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vietējie bērni un jaunieši</WORD>. Nodarbībās piedalās apmēram</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -423,11 +423,11 @@
 			<TEXT>pārsteidzoši, ja <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="cFF0000">ar bērniem</WORD> mērķtiecīgi un neatlaidīgi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD>. Tagad, lai kur mūsu audzēkņi dzīvē arī būtu, viņi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF0000">
 			<TEXT>logopēda – arī šajās stundās bērni netiek sadalīti, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">visi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">kopā</WORD>. " Mūzikas terapija vispār ir vairāk domāta "</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>efektu. " <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">Dainis Kalns un Maija Stefane</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF0000">kultūras <strong>komitejā</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">darbojas</WORD> pret kultūru kopumā. Daiņa Kalna arguments – šī summa</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
