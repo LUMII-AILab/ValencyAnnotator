@@ -3,6 +3,7 @@
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
+		<CATEGORY id="cFF00FF">Instruments</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -84,19 +85,19 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ģedušku s koļasočkoi7 viņām šķiet neizprotams, bet viņas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>, ka ir vēl sētas māja, kur es kaut ko tādu varētu</TEXT>
+			<TEXT>ģedušku s koļasočkoi7 viņām šķiet neizprotams, bet viņas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka ir vēl sētas māja</WORD>, kur es kaut ko tādu varētu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>secībā uzskaita ieņēmumu uzskaites reģistrā, kurā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>: - ieraksta kārtas numuru, datumu; - attaisnojuma dokumenta</TEXT>
+			<TEXT>secībā uzskaita ieņēmumu uzskaites reģistrā, kurā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>: - <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">ieraksta kārtas numuru, datumu</WORD>; - attaisnojuma dokumenta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>cilvēku un institūciju iesaistīšanos izvērtēšanā, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> G. Karols. Latvijas Ceļu būvētāju biedrības vadītājs</TEXT>
+			<TEXT><WORD json="['Loc','Nom','Gen','Dat','Acc','S']" attribute="S" class="c00FF00">cilvēku un institūciju iesaistīšanos izvērtēšanā</WORD>, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> G. Karols. Latvijas Ceļu būvētāju biedrības vadītājs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pārsteigums, " pauž G. Biķe. Uz pasūtītāju līdzatbildību <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> arī I. Dzelme: " Koordinatora piesaistīšana jau projektēšanas</TEXT>
+			<TEXT>pārsteigums, " pauž G. Biķe. <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="c00FF00">Uz pasūtītāju <strong>līdzatbildību</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> arī I. Dzelme: " Koordinatora piesaistīšana jau projektēšanas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
