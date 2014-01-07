@@ -281,11 +281,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FF00">nosaukumu PATO (Pacific Atlantic Treaty Organization</WORD>), » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Paegle. Šo jautājumu Latvijas delegācijas vadītāja</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="S" class="c00FF00">nosaukumu PATO (Pacific Atlantic Treaty Organization</WORD>), » <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Paegle. Šo jautājumu Latvijas delegācijas vadītāja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>trešdaļa (35%) pārmaiņas nav ievērojuši, bet 13% <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> uz stāvokļa pasliktināšanos. Tomēr tikai 25% aptaujāto</TEXT>
+			<TEXT>trešdaļa (35%) pārmaiņas nav ievērojuši, bet 13% <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="c00FF00">uz stāvokļa <strong>pasliktināšanos</strong></WORD>. Tomēr tikai 25% aptaujāto</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
