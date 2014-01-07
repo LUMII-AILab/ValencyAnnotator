@@ -47,7 +47,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kurā izmantots salīdzinājums, kas tieši vai netieši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> uz konkurentu vai konkurenta piedāvātajām precēm vai</TEXT>
+			<TEXT>kurā izmantots salīdzinājums, kas tieši vai netieši <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzDat" class="c00FF00">uz konkurentu vai konkurenta piedāvātajām <strong>precēm</strong></WORD> vai</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -115,7 +115,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">tarifu, tad lēmuma pieņemšanu vairs nevarēja atlikt</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Liepājas rajona padomes izpilddirektors Indulis Ozoliņš</TEXT>
+			<TEXT><WORD json="['Inf','V1','V2','V3','S']" attribute="S" class="c00FF00">tarifu, tad lēmuma pieņemšanu vairs nevarēja atlikt</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Liepājas rajona padomes izpilddirektors Indulis Ozoliņš</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -351,11 +351,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">atbilstošu iespēju apmeklēt tālākizglītības kursus</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Valsts kontrole. IZM piešķirtais finansējums profesionālās</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="c00FF00">atbilstošu iespēju apmeklēt tālākizglītības kursus</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Valsts kontrole. IZM piešķirtais finansējums profesionālās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FF00">apsteidza melno reģistrāciju par aptuveni 50 procentiem</WORD>, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Roberts, kurš tiek uzskatīts par konservatīvi noskaņotu</TEXT>
+			<TEXT><WORD json="['Dat','Nom','Gen','Acc','Loc','S']" attribute="S" class="c00FF00">apsteidza melno reģistrāciju par aptuveni 50 procentiem</WORD>, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Roberts, kurš tiek uzskatīts par konservatīvi noskaņotu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -367,11 +367,11 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">pacientam paredzēta vidusauss mikroķirurģiska rekonstrukcija</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Namniece. Bērnu slimnīcas otolaringologi katru nedēļu</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','S']" attribute="S" class="c00FF00">pacientam paredzēta vidusauss mikroķirurģiska rekonstrukcija</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Namniece. Bērnu slimnīcas otolaringologi katru nedēļu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">iepirkumus, rūpīgi izvērtējot katras iekārtas iegādi</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Mozgis. Pārsvarā šīs iekārtas tika iegādātas par</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="c00FF00">iepirkumus, rūpīgi izvērtējot katras iekārtas iegādi</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> Mozgis. Pārsvarā šīs iekārtas tika iegādātas par</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -539,7 +539,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>būtiskākos uzņēmuma izaicinājumus 2009. gadā, Janulis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>: ” <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FF00">Mūsu uzdevums ir palīdzēt klientiem izdzīvot un</WORD></TEXT>
+			<TEXT>būtiskākos uzņēmuma izaicinājumus 2009. gadā, Janulis <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>: ” <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="S" class="c00FF00">Mūsu uzdevums ir palīdzēt klientiem izdzīvot un</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -955,7 +955,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">uzmanību, nevis lai strādātu pie efektīva risinājumu</WORD>, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> Ilvess. Igaunijas prezidents uzskata, ka Bronzas kareivja</TEXT>
+			<TEXT><WORD json="['Acc','Nom','Gen','Dat','Loc','S']" attribute="S" class="c00FF00">uzmanību, nevis lai strādātu pie efektīva risinājumu</WORD>, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> Ilvess. Igaunijas prezidents uzskata, ka Bronzas kareivja</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -1151,7 +1151,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="c00FF00">nodaļas ierēdņu darba slodze, jo īpaši Tallinā</WORD>, " Jerve <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>. Kā minēts, notāri iegūs arī tiesības izšķirt strīdus</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="S" class="c00FF00">nodaļas ierēdņu darba slodze, jo īpaši Tallinā</WORD>, " Jerve <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>. Kā minēts, notāri iegūs arī tiesības izšķirt strīdus</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -1279,7 +1279,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ceļš, vai ne. Ja mēs auklēsimies ar pašvaldībām, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">norādīsim</WORD>, <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">ko darīt</WORD>, zudīs arī to efektīvā lemtspēja un patstāvība</TEXT>
+			<TEXT>ceļš, vai ne. Ja mēs auklēsimies ar pašvaldībām, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">norādīsim</WORD>, <WORD json="['Inf','V1','V2','V3','S']" attribute="S" class="c00FF00">ko darīt</WORD>, zudīs arī to efektīvā lemtspēja un patstāvība</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
