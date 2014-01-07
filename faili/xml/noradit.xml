@@ -5,6 +5,7 @@
 		<CATEGORY id="c00FF00">Saturs</CATEGORY>
 		<CATEGORY id="cFF00FF">Instruments</CATEGORY>
 		<CATEGORY id="cFF0000">Percepts</CATEGORY>
+		<CATEGORY id="c00FFFF">Cēlonis!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
@@ -26,7 +27,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>esošās vides informācijas uzskaites sistēmu, kā arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="c00FF00">kur attiecīgā informācija ir pieejama</WORD>, arī veidojot</TEXT>
+			<TEXT>esošās vides informācijas uzskaites sistēmu, kā arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD>, <WORD json="['V1','V2','V3','Inf','S']" attribute="S" class="c00FF00">kur attiecīgā informācija ir pieejama</WORD>, arī veidojot</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -342,7 +343,7 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT><WORD json="['V1','V2','V3','Inf']" attribute="V1" class="c00FF00">pēdējos 10 – 15 gadus tie centralizēti nav papildināti</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> ministrija. Slimības un cilvēka darbība var izraisīt</TEXT>
+			<TEXT><WORD json="['V1','V2','V3','Inf','S']" attribute="S" class="c00FF00">pēdējos 10 – 15 gadus tie centralizēti nav papildināti</WORD>, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norāda</WORD> ministrija. Slimības un cilvēka darbība var izraisīt</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -1162,131 +1163,131 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>neizdarības dēļ. J. Fricla advokāts Rūdolfs Meijers BBC <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka viņa klients izies dažādus psihiatriskus un psiholoģiskus</TEXT>
+			<TEXT>neizdarības dēļ. J. Fricla advokāts Rūdolfs Meijers BBC <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka viņa klients izies dažādus psihiatriskus un psiholoģiskus</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>naktīs. Picērijās vienmēr ir daudz klientu, tādēļ, kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> uzņēmuma Mārketinga daļas vadītāja Inese Vētra, ierosinājumu</TEXT>
+			<TEXT>naktīs. Picērijās vienmēr ir daudz klientu, tādēļ, <WORD json="['Adv']" attribute="Adv" class="c00FF00">kā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> uzņēmuma Mārketinga daļas vadītāja Inese Vētra, ierosinājumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>diennaktī. Kā uzņēmuma ražotnes paplašināšanas brīdī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> firmas pārstāvji, kausētā siera šķēlītes ir viens</TEXT>
+			<TEXT>diennaktī. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> uzņēmuma ražotnes paplašināšanas brīdī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> firmas pārstāvji, kausētā siera šķēlītes ir viens</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kurā analizētas Civillikumā nepieciešamās izmaiņas. Kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> profesors, " saistību tiesību daļā būtu grozāmi 20</TEXT>
+			<TEXT>kurā analizētas Civillikumā nepieciešamās izmaiņas. <WORD json="['Adv']" attribute="Adv" class="c00FF00">Kā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> profesors, " saistību tiesību daļā būtu grozāmi 20</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kapitālsabiedrības dalībnieku sapulces sasaukšana, kas, kā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> H. Jauja, ir " pēdējā instance, kur meklēt palīdzību</TEXT>
+			<TEXT>kapitālsabiedrības dalībnieku sapulces sasaukšana, kas, <WORD json="['Adv']" attribute="Adv" class="c00FF00">kā</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> H. Jauja, ir " pēdējā instance, kur meklēt palīdzību</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>konkrētas preces grupām. D. Pāvila, papildinot kolēģi, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka pilnībā jānošķir lejupējais mazumtirdzniecības</TEXT>
+			<TEXT>konkrētas preces grupām. D. Pāvila, papildinot kolēģi, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka pilnībā jānošķir lejupējais mazumtirdzniecības</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Edgars Vaikulis, paužot valdības vadītāja viedokli, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka nevajadzētu visus padomniekus saukt par liekēžiem</TEXT>
+			<TEXT>Edgars Vaikulis, paužot valdības vadītāja viedokli, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka nevajadzētu visus padomniekus saukt par liekēžiem</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sociālās savienības (CSU) frakcijas līderis Folkers Kauders <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka viņš joprojām uzskata, ka bundestāga locekļiem</TEXT>
+			<TEXT>sociālās savienības (CSU) frakcijas līderis Folkers Kauders <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka viņš joprojām uzskata, ka bundestāga locekļiem</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>gan nevar prognozēt, kādas izmaiņas tajos veiks. Viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>: " Ekspertīze no pirmā santīma neapšaubāmi ir pārspīlējums</TEXT>
+			<TEXT>gan nevar prognozēt, kādas izmaiņas tajos veiks. Viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>: " <WORD json="['Nom','Gen','Dat','Acc','Loc','S']" attribute="S" class="c00FF00">Ekspertīze no pirmā santīma neapšaubāmi ir pārspīlējums</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>tūkstošus ceļiem, vajadzētu saglabāt. " Viņš gan <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka būvprojektu ekspertīze tagad vairs nav tikai Valsts</TEXT>
+			<TEXT>tūkstošus ceļiem, vajadzētu saglabāt. " Viņš gan <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka būvprojektu ekspertīze tagad vairs nav tikai Valsts</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>valstīs. Uzņēmuma direktors Leons Ptičkins savukārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka no malas neviens nezina, kāds grūts un filigrāns</TEXT>
+			<TEXT>valstīs. Uzņēmuma direktors Leons Ptičkins savukārt <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka no malas neviens nezina, kāds grūts un filigrāns</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dempinu nenodarbojamies. Un mums izdodas noturēties, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> L. Ptičkins. Konkurss tiek rīkots, lai sekmētu Latvijas</TEXT>
+			<TEXT><WORD json="['Inf','V1','V2','V3','S']" attribute="S" class="c00FF00">dempinu nenodarbojamies. Un mums izdodas noturēties</WORD>, " <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> L. Ptičkins. Konkurss tiek rīkots, lai sekmētu Latvijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>taču pats svarīgākais uzdevums, kā to savā apsveikumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> mūsu ārlietu ministrs, ir savstarpējās " neuzticības</TEXT>
+			<TEXT>taču pats svarīgākais uzdevums, <WORD json="['Adv']" attribute="Adv" class="c00FF00">kā</WORD> to savā apsveikumā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> mūsu ārlietu ministrs, ir savstarpējās " neuzticības</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>analīzes daļas vadītājs Zigurds Vaikulis, komentārā FRS <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> uz pēdējo mēnešu laikā pieaugošo inflācijas spiedienu</TEXT>
+			<TEXT>analīzes daļas vadītājs Zigurds Vaikulis, komentārā FRS <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="c00FF00">uz pēdējo mēnešu laikā pieaugošo inflācijas <strong>spiedienu</strong></WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Viņam pašam atļaus izvēlēties palīgus. Aigars Cipruss <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> uz iespējamām izmaiņām izlases spēles rokrakstā. "</TEXT>
+			<TEXT>Viņam pašam atļaus izvēlēties palīgus. Aigars Cipruss <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzDat" class="c00FF00">uz iespējamām <strong>izmaiņām</strong></WORD> izlases spēles rokrakstā. "</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Valdē nav jābūt basketbola speciālistiem, " A. Aksenoks <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka domes pārstāvju galvenais pienākums būs sekot kluba</TEXT>
+			<TEXT>Valdē nav jābūt basketbola speciālistiem, " A. Aksenoks <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka domes pārstāvju galvenais pienākums būs sekot kluba</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>digitālās bibliotēkas " Letonika " projektu vadītāja, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka īpaši vecajā drukā iespiestos tekstus programmas</TEXT>
+			<TEXT>digitālās bibliotēkas " Letonika " projektu vadītāja, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka īpaši vecajā drukā iespiestos tekstus programmas</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Budžeta sastādīšana būs jaunās valdības rokās, sēdē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> veselības ministrs Rinalds Muciņš, solot iesāktās reformas</TEXT>
+			<TEXT><WORD json="['Loc','Nom','Gen','Dat','Acc','S']" attribute="S" class="c00FF00">Budžeta sastādīšana būs jaunās valdības rokās</WORD>, sēdē <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> veselības ministrs Rinalds Muciņš, solot iesāktās reformas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izstrādā privatizācijas noteikumus. A. Brūvelis gan <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka V. L. T. gadījumā aģentūra, visticamāk, neko</TEXT>
+			<TEXT>izstrādā privatizācijas noteikumus. A. Brūvelis gan <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka V. L. T. gadījumā aģentūra</WORD>, visticamāk, neko</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Vācijas un Polijas) līdzdalību. Šajā dokumentā viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> arī, ka uz S. Lozoraiša priekšlikumu griezties ar demaršu</TEXT>
+			<TEXT>Vācijas un Polijas) līdzdalību. Šajā dokumentā viņš <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> arī, <WORD json="['S']" attribute="S" class="c00FF00">ka uz S. Lozoraiša priekšlikumu griezties ar demaršu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Tautu Savienības akcepta. 8. aprīļa sarunā V. Munters <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> S. Brodovskim, ka nebūtu vēlams priekšlaicīgi atteikties</TEXT>
+			<TEXT>Tautu Savienības akcepta. 8. aprīļa sarunā V. Munters <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> S. Brodovskim, <WORD json="['S']" attribute="S" class="c00FF00">ka nebūtu vēlams priekšlaicīgi atteikties</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>Rokā viņai bija balts karodziņš, ar kuru viņa man <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> virzienu. Pēc tam viņa griezās uz promiešanu, bet,</TEXT>
+			<TEXT>Rokā viņai bija balts karodziņš, ar kuru viņa man <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">virzienu</WORD>. Pēc tam viņa griezās uz promiešanu, bet,</TEXT>
+			<COMMENT>????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>lidot vieglāk un ātrāk. Oranžā sieviete pa brīdim tikai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">pareizo <strong>virzienu</strong></WORD>. Visapkārt, cik tālu vien varēja redzēt</TEXT>
+			<COMMENT>????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>un grafomāni, antikvāri un bibliomāni — katrs viņiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cFF0000">kādu meklēšanas <strong>virzienu</strong></WORD>. Viens teicās redzējis tikai</TEXT>
+			<COMMENT>????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>trenera palīgam delikāti aizšķērsoja ceļu un angliski <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka zēnu ģērbtuves un dušas ir pretējā pusē pusstāvu</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>lidot vieglāk un ātrāk. Oranžā sieviete pa brīdim tikai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> pareizo virzienu. Visapkārt, cik tālu vien varēja redzēt</TEXT>
+			<TEXT>būtu jānosaka kopējā ES banku sektora stāvoklis. Tas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīs</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">vai ir nepieciešama papildu finansiāla palīdzība un</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>un grafomāni, antikvāri un bibliomāni — katrs viņiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD> kādu meklēšanas virzienu. Viens teicās redzējis tikai</TEXT>
+			<TEXT>kurus nāksies ārstēt vispirms, kā arī šie izmeklējumi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīs</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="c00FF00">uz iekaisušo mugurkaula <strong>posmu</strong></WORD>. Ja visas šīs pārbaudes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>trenera palīgam delikāti aizšķērsoja ceļu un angliski <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīja</WORD>, ka zēnu ģērbtuves un dušas ir pretējā pusē pusstāvu</TEXT>
+			<TEXT>savas vēlmes. Visbeidzot, attiecīgā iecirkņa vadītājs <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">to <strong>koku</strong></WORD>, kurš varēs tikt nocirsts. Taču tas ir maksas</TEXT>
+			<COMMENT>????</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="blank">
+			<TEXT>pašsaprotami, ka līdzi būs arī GPS ierīce, kas ekrānā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="c00FF00">novērotāja atrašanās <strong>vietu</strong></WORD>, kā arī GSM telefons,</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>būtu jānosaka kopējā ES banku sektora stāvoklis. Tas <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīs</WORD>, vai ir nepieciešama papildu finansiāla palīdzība un</TEXT>
+			<TEXT>ceļš, vai ne. Ja mēs auklēsimies ar pašvaldībām, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">norādīsim</WORD>, <WORD json="['Inf','V1','V2','V3']" attribute="Inf" class="c00FF00">ko darīt</WORD>, zudīs arī to efektīvā lemtspēja un patstāvība</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>kurus nāksies ārstēt vispirms, kā arī šie izmeklējumi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīs</WORD> uz iekaisušo mugurkaula posmu. Ja visas šīs pārbaudes</TEXT>
+			<TEXT>lv Blogi 29.11.2007). Pamatojoties uz iepriekš teikto, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">norādīšu</WORD> <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzDat" class="c00FF00">uz atsevišķiem vārdu <strong>salikumiem</strong></WORD> žurnālistes rakstā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>savas vēlmes. Visbeidzot, attiecīgā iecirkņa vadītājs <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīs</WORD> to koku, kurš varēs tikt nocirsts. Taču tas ir maksas</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>pašsaprotami, ka līdzi būs arī GPS ierīce, kas ekrānā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">norādīs</WORD> novērotāja atrašanās vietu, kā arī GSM telefons,</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>ceļš, vai ne. Ja mēs auklēsimies ar pašvaldībām, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">norādīsim</WORD>, ko darīt, zudīs arī to efektīvā lemtspēja un patstāvība</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>lv Blogi 29.11.2007). Pamatojoties uz iepriekš teikto, <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">norādīšu</WORD> uz atsevišķiem vārdu salikumiem žurnālistes rakstā</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>pēc man CSDD teorijas eksāmenā ieskaitīs kļūdu, ja es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">norādīšu</WORD>, ka cilvēkam bezsamaņā vispirms jāpārbauda, vai mutē</TEXT>
+			<TEXT>pēc man CSDD teorijas eksāmenā ieskaitīs kļūdu, ja es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">norādīšu</WORD>, <WORD json="['S']" attribute="S" class="c00FF00">ka cilvēkam bezsamaņā vispirms jāpārbauda, vai mutē</WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
