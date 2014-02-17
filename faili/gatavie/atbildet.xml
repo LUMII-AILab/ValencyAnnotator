@@ -8,6 +8,7 @@
 		<CATEGORY id="c00FFFF">Adresāts</CATEGORY>
 		<CATEGORY id="cC00000">Percepts</CATEGORY>
 		<CATEGORY id="c00C000">Instruments?</CATEGORY>
+		<CATEGORY id="cC0C000">Instruments!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">1. Pateikt kaut ko, atbildot uz jautājumu</SENTENCE_CATEGORY>
@@ -1074,16 +1075,16 @@ ir atbildīgs</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>pie centrālapkures radiatora. Un saraujas — <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">radiators</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbild</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c00C000">ar <strong>pieskārienu</strong></WORD>, kas vēl aukstāks nekā viņas roka.</TEXT>
+			<TEXT>pie centrālapkures radiatora. Un saraujas — <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">radiators</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbild</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cC0C000">ar <strong>pieskārienu</strong></WORD>, kas vēl aukstāks nekā viņas roka.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>Taču serbi kaimiņiem iedāvināja 12 punktus (<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">bosnieši</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēja</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c00C000">ar līdzīgu <strong>reveransu</strong></WORD>), savukārt pēc finālā netikušo</TEXT>
+			<TEXT>Taču serbi kaimiņiem iedāvināja 12 punktus (<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">bosnieši</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēja</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cC0C000">ar līdzīgu <strong>reveransu</strong></WORD>), savukārt pēc finālā netikušo</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>tikt atzīta dažu gadu laikā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Moldovas Ārlietu <strong>ministrija</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Maskavai</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c00C000">ar <strong>notu</strong></WORD>, izsakot protestu par iejaukšanos valsts</TEXT>
-			<COMMENT></COMMENT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tikt atzīta dažu gadu laikā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Moldovas Ārlietu <strong>ministrija</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Maskavai</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="c00C000">ar <strong>notu</strong></WORD>, izsakot protestu par iejaukšanos valsts</TEXT>
+			<COMMENT>es nezinu, kas šitas ir....</COMMENT>
 		</SENTENCE>
 	</SENTENCES>
 </CONTENT>
