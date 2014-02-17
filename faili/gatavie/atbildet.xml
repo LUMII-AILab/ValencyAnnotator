@@ -851,7 +851,7 @@ BS: es teiktu, ka stimuls</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>mustanga. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņš</WORD> atsauksies taviem jutekliskajiem mājieniem un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēs</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">tev</WORD> ar draiskulīgiem pakalpojumiem. Tavas bailes: Uzņemies</TEXT>
+			<TEXT>mustanga. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Viņš</WORD> atsauksies taviem jutekliskajiem mājieniem un <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēs</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">tev</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="cFF0000">ar draiskulīgiem <strong>pakalpojumiem</strong></WORD>. Tavas bailes: Uzņemies</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -867,7 +867,7 @@ BS: es teiktu, ka stimuls</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>kuģa vārda kā pirmīt pie akmeņiem vectēvs. Un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēs</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF0000">lepni un <strong>noslēpumaini</strong></WORD> — TESTS ! Bet bērnelis spiegs un</TEXT>
+			<TEXT>kuģa vārda kā pirmīt pie akmeņiem vectēvs. Un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēs</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF0000">lepni un <strong>noslēpumaini</strong></WORD> — <WORD json="['Nom','Gen','Dat','Acc','Loc','S']" attribute="S" class="c00FF00">TESTS</WORD> ! Bet bērnelis spiegs un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -880,7 +880,7 @@ BS: es teiktu, ka stimuls</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>, kas ir galvenais – – veiksme vai darbs ? – – <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atbildēšu</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c00C000">ar kādu <strong>stāstu</strong></WORD>. Piemēram, tu strādā lielveikalā par</TEXT>
-			<COMMENT></COMMENT>
+			<COMMENT>kas tis ira???</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>iededzis pats Skuiviņš. Jautājiet man visu, un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">jums</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atbildēšu</WORD>, cik tas būs manā ziņā. Taču ir jautājumi, uz kuriem</TEXT>
