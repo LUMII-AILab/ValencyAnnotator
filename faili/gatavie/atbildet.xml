@@ -8,7 +8,8 @@
 		<CATEGORY id="c00FFFF">Adresāts</CATEGORY>
 		<CATEGORY id="cC00000">Percepts</CATEGORY>
 		<CATEGORY id="c00C000">Instruments?</CATEGORY>
-		<CATEGORY id="cC0C000">Instruments!</CATEGORY>
+		<CATEGORY id="cC0C000">Veids!</CATEGORY>
+		<CATEGORY id="c0000FF">Pacienss</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">1. Pateikt kaut ko, atbildot uz jautājumu</SENTENCE_CATEGORY>
@@ -1075,7 +1076,7 @@ ir atbildīgs</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF00FF">
-			<TEXT>pie centrālapkures radiatora. Un saraujas — <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">radiators</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbild</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cC0C000">ar <strong>pieskārienu</strong></WORD>, kas vēl aukstāks nekā viņas roka.</TEXT>
+			<TEXT>pie centrālapkures radiatora. Un saraujas — <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c0000FF">radiators</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbild</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cC0C000">ar <strong>pieskārienu</strong></WORD>, kas vēl aukstāks nekā viņas roka.</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF00FF">
