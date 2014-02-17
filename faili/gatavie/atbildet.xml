@@ -671,11 +671,11 @@ BS: es teiktu, ka stimuls</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>Kad viņa man pateica, ka gaida no manis bērnu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">viņai</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atbildēju</WORD> — ko tu iedomājies, — es kliedzu, — slimi kropļi</TEXT>
+			<TEXT>Kad viņa man pateica, ka gaida no manis bērnu, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">viņai</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atbildēju</WORD> — <WORD json="['V2','V1','V3','Inf','S']" attribute="S" class="c00FF00">ko tu iedomājies</WORD>, — es kliedzu, — slimi kropļi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>Dirsā tev papirosus, utainais vaņka, ” <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> nepakustējies <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atbildēju</WORD>. Tu sagrābi mani ar brīvo roku, atplēsi formastērpu</TEXT>
+			<TEXT><WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="S" class="c00FF00">Dirsā tev papirosus, utainais vaņka</WORD>, ” <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> nepakustējies <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">atbildēju</WORD>. Tu sagrābi mani ar brīvo roku, atplēsi formastērpu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
@@ -703,7 +703,7 @@ BS: es teiktu, ka stimuls</COMMENT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>un tamlīdzīgām lietām. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jūs</WORD> jau vakar publiski <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="cC00000">uz to</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atbildējāt</WORD>. Otra lieta, par ko jūs runājāt, – par to, ka valdība</TEXT>
+			<TEXT>un tamlīdzīgām lietām. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Jūs</WORD> jau vakar publiski <WORD json="['UzDat','UzAcc','UzGen']" attribute="UzAcc" class="cC00000">uz <strong>to</strong></WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">atbildējāt</WORD>. Otra lieta, par ko jūs runājāt, – par to, ka valdība</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
