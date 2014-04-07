@@ -2,12 +2,12 @@
 <CONTENT>
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
-		<CATEGORY id="c00FF00">Rezultāts!</CATEGORY>
-		<CATEGORY id="cFF00FF"></CATEGORY>
+		<CATEGORY id="c00FF00">Pacienss</CATEGORY>
+		<CATEGORY id="cFF00FF">Kolektīvs(kastasir)!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Kļūt par biedru</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFFFF00">Sākties (par laikapstākļiem u.c.)</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Sākties un valdīt (par laikapstākļiem u.c.)</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF00FF">Cīnīties, būt ar noteiktu viedokli</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
@@ -708,27 +708,27 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izdevīga uzņēmējdarbības vide. Konfederācija vienmēr <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> par zemākiem nodokļiem. Taču, no otras puses, jāapzinās</TEXT>
+			<TEXT>izdevīga uzņēmējdarbības vide. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Konfederācija</WORD> vienmēr <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> par zemākiem nodokļiem. Taču, no otras puses, jāapzinās</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>jūs abi... un bērni... Ja jūs visi aizbrauksiet, te <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> kapa klusums. Un to es neizturēšu. Reinis. Nu es tiešām</TEXT>
+			<TEXT>jūs abi... un bērni... Ja jūs visi aizbrauksiet, te <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">kapa <strong>klusums</strong></WORD>. Un to es neizturēšu. Reinis. Nu es tiešām</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>ienīst reizē! Bet es tikai zinu — ja jūs aizbrauksiet, te <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> melna nakts. Reinis. Tad jums sava dzīve būs jāveido</TEXT>
+			<TEXT>ienīst reizē! Bet es tikai zinu — ja jūs aizbrauksiet, te <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">melna <strong>nakts</strong></WORD>. Reinis. Tad jums sava dzīve būs jāveido</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>, muļķītei, likās, ka tagad dzīvosim kopā, kopā <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāsimies</WORD> akadēmijā, kopā maksāsim īri. Itin viss mums būs</TEXT>
+			<TEXT>, muļķītei, likās, ka tagad dzīvosim kopā, kopā <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāsimies</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">akadēmijā</WORD>, kopā maksāsim īri. Itin viss mums būs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>palīdzēt to izdarīt. Tagad esmu instruktoru palīgs, bet, kad <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāšos</WORD> armijā, atkal būšu “ jauniņais ”. ” Aivaram nepatīk</TEXT>
+			<TEXT>palīdzēt to izdarīt. Tagad esmu instruktoru palīgs, bet, kad <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāšos</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">armijā</WORD>, atkal būšu “ jauniņais ”. ” Aivaram nepatīk</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>vairs nemurgošu, bet, un tas nu ir kā āmen baznīcā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāšos</WORD> kādā partijā, lai cīnītos par obligāto peldētprasmes</TEXT>
+			<TEXT>vairs nemurgošu, bet, un tas nu ir kā āmen baznīcā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāšos</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">kādā <strong>partijā</strong></WORD>, lai cīnītos par obligāto peldētprasmes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
