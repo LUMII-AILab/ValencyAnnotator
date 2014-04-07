@@ -3,8 +3,12 @@
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
 		<CATEGORY id="c00FF00">Rezultāts!</CATEGORY>
+		<CATEGORY id="cFF00FF"></CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
+		<SENTENCE_CATEGORY id="s00FF00">Kļūt par biedru</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Sākties (par laikapstākļiem u.c.)</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF00FF">Cīnīties, būt ar noteiktu viedokli</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -715,16 +719,16 @@
 			<TEXT>ienīst reizē! Bet es tikai zinu — ja jūs aizbrauksiet, te <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> melna nakts. Reinis. Tad jums sava dzīve būs jāveido</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>, muļķītei, likās, ka tagad dzīvosim kopā, kopā <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāsimies</WORD> akadēmijā, kopā maksāsim īri. Itin viss mums būs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>palīdzēt to izdarīt. Tagad esmu instruktoru palīgs, bet, kad <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāšos</WORD> armijā, atkal būšu “ jauniņais ”. ” Aivaram nepatīk</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>vairs nemurgošu, bet, un tas nu ir kā āmen baznīcā, es <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāšos</WORD> kādā partijā, lai cīnītos par obligāto peldētprasmes</TEXT>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>vairs nemurgošu, bet, un tas nu ir kā āmen baznīcā, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">es</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestāšos</WORD> kādā partijā, lai cīnītos par obligāto peldētprasmes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
