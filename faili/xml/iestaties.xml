@@ -2,12 +2,13 @@
 <CONTENT>
 	<CATEGORIES>
 		<CATEGORY id="cFFFF00">Agenss</CATEGORY>
+		<CATEGORY id="c00FF00">Rezultāts!</CATEGORY>
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>izraisītā krīze paralizējusi valdības darbu. " Mēs stingri <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestājamies</WORD> pret pensiju, atlaišanas kompensāciju un ar nodokļiem</TEXT>
+			<TEXT>izraisītā krīze paralizējusi valdības darbu. " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Mēs</WORD> stingri <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestājamies</WORD> pret pensiju, atlaišanas kompensāciju un ar nodokļiem</TEXT>
 			<COMMENT>Svarīgs Letas proj.</COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
