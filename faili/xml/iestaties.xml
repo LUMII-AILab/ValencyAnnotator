@@ -9,6 +9,7 @@
 		<SENTENCE_CATEGORY id="s00FF00">Kļūt par biedru</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFFFF00">Sākties un valdīt (par laikapstākļiem u.c.)</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF00FF">Cīnīties, būt ar noteiktu viedokli</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFF0000">Nostāties kaut kādā teritorijā</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
 		<SENTENCE CATEGORY="blank">
@@ -648,63 +649,63 @@
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>sapūsta, tuvu pie deniņiem sāpīgi pulsē auss. Tad galvā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> pilsētā piedzīvota aina. Vasaras karstumā lielas maģistrāles</TEXT>
+			<TEXT>sapūsta, tuvu pie deniņiem sāpīgi pulsē auss. Tad galvā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">pilsētā piedzīvota <strong>aina</strong></WORD>. Vasaras karstumā lielas maģistrāles</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>teica: " Tik skaists koks. Es ņemšu to līdz. " Istabā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> neveikls klusums, jo neviena nezināja, ko teikt, kaut</TEXT>
+			<TEXT>teica: " Tik skaists koks. Es ņemšu to līdz. " Istabā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">neveikls <strong>klusums</strong></WORD>, jo neviena nezināja, ko teikt, kaut</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>galdautā, neko acu priekšā neredzēdama, un sabijās, kad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> klusums. - Es maksāju diezgan daudz... tad tas pāriet</TEXT>
+			<TEXT>galdautā, neko acu priekšā neredzēdama, un sabijās, kad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">klusums</WORD>. - Es maksāju diezgan daudz... tad tas pāriet</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>mainījusies viņas dzīve, ne lakstīgala. Putns apklusa. Istabā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> klusums. Mātei pie deniņiem rotājās liels zilums, zem</TEXT>
+			<TEXT>mainījusies viņas dzīve, ne lakstīgala. Putns apklusa. Istabā <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">klusums</WORD>. Mātei pie deniņiem rotājās liels zilums, zem</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>paklausies! Kam tev tas vajadzīgs? - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">vīrs</WORD> ar platu smaidu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> saulē un, acis piemiedzis, skatījās uz Danielu. - Tādi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>paklausies! Kam tev tas vajadzīgs? - vīrs ar platu smaidu <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājās</WORD> saulē un, acis piemiedzis, skatījās uz Danielu. - Tādi</TEXT>
+			<TEXT>pasauca. Abas gājējas uz kāpnēm apstājās un pagriezās. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Iestājās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">klusums</WORD>. - Kāpēc? - jautāja Daniela. - Nāciet, nāciet</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>pasauca. Abas gājējas uz kāpnēm apstājās un pagriezās. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Iestājās</WORD> klusums. - Kāpēc? - jautāja Daniela. - Nāciet, nāciet</TEXT>
+			<TEXT>atgriežas... Viņš it kā iekapsulējas, ielienot dīķī. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Iestājās</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">dziļš <strong>klusums</strong></WORD>. Sprakšķēja malciņa, kaislības bija</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atgriežas... Viņš it kā iekapsulējas, ielienot dīķī. <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">Iestājās</WORD> dziļš klusums. Sprakšķēja malciņa, kaislības bija</TEXT>
+			<TEXT>nozarēm. Apstāšoties pie tā, kas visvairāk interesēs, <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Loc','Nom','Gen','Dat','Acc']" attribute="Loc" class="cFF00FF">kādā <strong>augstskolā</strong></WORD>, sāks mācīties un tad skatīsies —</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>nozarēm. Apstāšoties pie tā, kas visvairāk interesēs, <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> kādā augstskolā, sāks mācīties un tad skatīsies —</TEXT>
+			<TEXT>dekādes otrajā pusē, līdz ar to Latvijas rietumu rajonos <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">atkusnis</WORD>. Mēneša trešajā dekādē paredzams salīdzinoši</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>dekādes otrajā pusē, līdz ar to Latvijas rietumu rajonos <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> atkusnis. Mēneša trešajā dekādē paredzams salīdzinoši</TEXT>
+			<TEXT>atšķiras. Vācijas dzelzceļam un pasažieriem šopavasar <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">grūti <strong>laiki</strong></WORD> - plaša kapitālā remonta dēļ drīzumā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atšķiras. Vācijas dzelzceļam un pasažieriem šopavasar <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> grūti laiki - plaša kapitālā remonta dēļ drīzumā</TEXT>
+			<TEXT>atgriezušies Latvijā uz palikšanu. Tomēr, ja Latvijā <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">nopietna ekonomiskā <strong>krīze</strong></WORD>, kuras dēļ notiks uzņēmumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>atgriezušies Latvijā uz palikšanu. Tomēr, ja Latvijā <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> nopietna ekonomiskā krīze, kuras dēļ notiks uzņēmumu</TEXT>
+			<TEXT>apdzīvojamā teritorija vairs nebūs apbūvējama, tajā <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">stagnācija</WORD>. Jāņem vērā, ka arī applūstamības iemesli</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>apdzīvojamā teritorija vairs nebūs apbūvējama, tajā <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> stagnācija. Jāņem vērā, ka arī applūstamības iemesli</TEXT>
+			<TEXT>lieto hormonālās kontracepcijas tabletes, tikai vienai <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">grūtniecība</WORD>. Taču, ja reiz disciplīnas ievērošana</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>lieto hormonālās kontracepcijas tabletes, tikai vienai <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> grūtniecība. Taču, ja reiz disciplīnas ievērošana</TEXT>
+			<TEXT>efektivitāte nokrīt līdz 92%. Tātad jau 8 sievietēm no 100 <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">grūtniecība</WORD>. Tieši tāpēc hormonālās kontracepcijas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>efektivitāte nokrīt līdz 92%. Tātad jau 8 sievietēm no 100 <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> grūtniecība. Tieši tāpēc hormonālās kontracepcijas</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
-			<TEXT>nav nolemtība. Kad vairs nav cerību, ka grūtniecība <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> dabiskā ceļā, pastāv vēl viena iespēja – mākslīgā</TEXT>
+			<TEXT>nav nolemtība. Kad vairs nav cerību, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">grūtniecība</WORD> <WORD json="['V2','V1','V3','Inf']" attribute="V2" class="verbs">iestāsies</WORD> dabiskā ceļā, pastāv vēl viena iespēja – mākslīgā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
