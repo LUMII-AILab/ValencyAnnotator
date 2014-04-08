@@ -8,7 +8,7 @@
 	</CATEGORIES>
 	<SENTENCE_CATEGORIES>
 		<SENTENCE_CATEGORY id="s00FF00">Kļūt par biedru</SENTENCE_CATEGORY>
-		<SENTENCE_CATEGORY id="sFFFF00">Sākties un valdīt (par laikapstākļiem u.c.)</SENTENCE_CATEGORY>
+		<SENTENCE_CATEGORY id="sFFFF00">Sākties un valdīt (par procesu, stāvokli: laikapstākļiem u.c.)</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF00FF">Cīnīties, būt ar noteiktu viedokli</SENTENCE_CATEGORY>
 		<SENTENCE_CATEGORY id="sFF0000">Nostāties kaut kādā teritorijā</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
@@ -17,15 +17,15 @@
 			<TEXT>izraisītā krīze paralizējusi valdības darbu. " <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">Mēs</WORD> stingri <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">iestājamies</WORD> pret pensiju, atlaišanas kompensāciju un ar nodokļiem</TEXT>
 			<COMMENT>Svarīgs Letas proj.</COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>, un pārkāpusi elektroenerģijas izmantošanas mērķi, <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">atbildība</WORD> saskaņā ar normatīvajiem aktiem, kuros noteikta</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>iemesla vai arī ja pēc samērā nenozīmīgām pārmaiņām <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">ilgstošas un dziļas garastāvokļa un uzvedības <strong>izmaiņas</strong></WORD></TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>saslimšana, letalitāte ir visai augsta – 8 - 12% (<WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">nāve</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> kaheksijas, hipokaliēmijas, nepietiekamas asinspiegādes</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
@@ -33,48 +33,48 @@
 			<TEXT>nodarīts kaitējums veselībai, izraisīti miesas bojājumi vai <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">nāve</WORD> - piemēram, trauma, elektriskās strāvas iedarbība</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>plūst pāri viena otrai sekojošas ciklona sērijas. Tad <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">ilgstošs nokrišņiem bagāts <strong>laiks</strong></WORD>. Sevišķi lietainas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>Paaugstināts gaisa mitrums izraisa sarmas veidošanos. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Auksts <strong>laiks</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD>, kad teritorijai uzvirzās anticiklons. Valdot austrumu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>iesaistītajām pusēm. EKT ir norādījusi, ka <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">valsts <strong>atbildība</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> arī tajā gadījumā, ja indivīdam nodarīti zaudējumi</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>tīklu vai nožogojumu neesam tiesīgi ierīkot. Taču te <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> arī <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">vecāku <strong>atbildība</strong></WORD>! Tornis ir deviņus metrus augsts</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>Svarīgi to apzināties, bet no tā nebaidīties. Tikko <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">bailes</WORD>, kā jebkurā profesijā, ir jāiet prom. Kam der</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>Fakti: - pasaulē no tabakas izraisītām saslimšanām <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">nāve</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> 8,8 procentiem iedzīvotāju (Latvijā šis rādītājs</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>ap 20 latiem. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">Imunitāte</WORD> pret ērču encefalītu cilvēkam <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> jau pēc otrās vakcinācijas. Taču biežāk par encefalītu</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>sieviete ir it kā pilnīgi vesela, vai otrādi - <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">grūtniecība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD>, kad spermas rādītāji ir zem " noteiktās normas ".</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>gadījumu. Izmantojot IVF vai ICSI metodi, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">grūtniecība</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> vidēji 35% gadījumu pēc pirmā mēģinājuma. Bērniņa</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>smēķēt, cilvēks izbauda īslaicīgu baudu, bet pēc tam <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">atkarība</WORD>. Rīgas 1. slimnīcas Konsultatīvās poliklīnikas</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
-			<TEXT>jautājumu ir grūti atbildēt, savukārt par lata devalvāciju <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> 14,1% aptaujāto. Jānorāda, ka vienlaikus salīdzinoši</TEXT>
+			<TEXT>jautājumu ir grūti atbildēt, savukārt par lata devalvāciju <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="cFF0000">14,1% <strong>aptaujāto</strong></WORD>. Jānorāda, ka vienlaikus salīdzinoši</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 		<SENTENCE CATEGORY="blank">
@@ -85,7 +85,7 @@
 			<TEXT>Pirmkārt, vēlos sākt ar to, ka tagad <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF0000">visi <strong>uzņēmumi</strong></WORD> aktīvi <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> par zemniekiem, bet par kādiem — par piensaimniekiem</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
-		<SENTENCE CATEGORY="blank">
+		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>Pilnīgas aizsegšanas gadījumā uz vairākām minūtēm <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">iestājas</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="c00FF00">tumsa</WORD>, bet daļējas aizsegšanas gadījumā atkarībā</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
