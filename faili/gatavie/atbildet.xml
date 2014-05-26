@@ -806,6 +806,10 @@ BS: es teiktu, ka stimuls</COMMENT>
 			<TEXT>kuģa vārda kā pirmīt pie akmeņiem vectēvs. Un <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">viņa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēs</WORD> <WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Adv" class="cFF0000">lepni un <strong>noslēpumaini</strong></WORD> — <WORD json="['Nom','Gen','Dat','Acc','Loc','S']" attribute="S" class="c00FF00">TESTS</WORD> ! Bet bērnelis spiegs un</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
+		<SENTENCE CATEGORY="s00FF00">
+			<TEXT>tikt atzīta dažu gadu laikā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Moldovas Ārlietu <strong>ministrija</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Maskavai</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="c00C000">ar <strong>notu</strong></WORD>, izsakot protestu par iejaukšanos valsts</TEXT>
+			<COMMENT>es nezinu, kas šitas ir....</COMMENT>
+		</SENTENCE>
 		<SENTENCE CATEGORY="sFFFF00">
 			<TEXT>atbildības norobežošana (1) <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Partija</WORD> <WORD json="['ParDat','ParAcc','Parnull']" attribute="ParDat" class="cFF00FF">par savām <strong>saistībām</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbild</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="c00C000">ar visu partijas <strong>mantu</strong></WORD>. (2) Partija neatbild par biedra</TEXT>
 			<COMMENT></COMMENT>
@@ -1002,10 +1006,6 @@ ir atbildīgs</COMMENT>
 		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>Taču serbi kaimiņiem iedāvināja 12 punktus (<WORD json="['Nom','Gen','Dat','Acc','Loc','V1','V2','V3','Inf','S','TR','Adv']" attribute="Nom" class="cFFFF00">bosnieši</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēja</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArAcc" class="cC0C000">ar līdzīgu <strong>reveransu</strong></WORD>), savukārt pēc finālā netikušo</TEXT>
 			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FF00">
-			<TEXT>tikt atzīta dažu gadu laikā. <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">Moldovas Ārlietu <strong>ministrija</strong></WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">atbildēja</WORD> <WORD json="['Dat','Nom','Gen','Acc','Loc']" attribute="Dat" class="c00FFFF">Maskavai</WORD> <WORD json="['ArDat','ArAcc']" attribute="ArDat" class="c00C000">ar <strong>notu</strong></WORD>, izsakot protestu par iejaukšanos valsts</TEXT>
-			<COMMENT>es nezinu, kas šitas ir....</COMMENT>
 		</SENTENCE>
 	</SENTENCES>
 </CONTENT>
