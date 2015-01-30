@@ -16,30 +16,6 @@
 		<SENTENCE_CATEGORY id="s00FFFF">Radīt</SENTENCE_CATEGORY>
 	</SENTENCE_CATEGORIES>
 	<SENTENCES>
-		<SENTENCE CATEGORY="sFF0000">
-			<TEXT>glabāšanā pārņemto preču piegādātājiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cels</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">prasību</WORD>. Ja neviens prasību tiesā necels</TEXT>
-			<COMMENT>Gunta. Gatavs</COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FFFF">
-			<TEXT>. Ikviens viņas solis. Ja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">žurnāliste</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cels</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">traci</WORD>, tas būs sliktāk tikai viņai</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="sFF0000">
-			<TEXT>aizgādnis ir atbildīgs, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">bāriņtiesa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">ceļ</WORD> tiesā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">attiecīgu <strong>prasību</strong></WORD>. (4 ) Ja bāriņtiesa</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FFFF">
-			<TEXT>12 latu par dienu. Sākotnēji <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">trauksmi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cēla</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">septiņas reģionālās <strong>slimnīcas</strong></WORD>, paziņojot</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FFFF">
-			<TEXT>viņu bildes ieliek skatlogā, vai arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cēla</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cC00000">skandālu</WORD>, ka viņas bilde nav nolikta</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
-		<SENTENCE CATEGORY="s00FFFF">
-			<TEXT>vienīgā parlamentārā institūcija, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cēla</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">trauksmi</WORD> jau ilgi pirms šo sabiedrībai</TEXT>
-			<COMMENT></COMMENT>
-		</SENTENCE>
 		<SENTENCE CATEGORY="s00FF00">
 			<TEXT>Vārds ceļam, kuru iet, un vārds, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFF00FF">kurš</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">ceļ</WORD> <WORD json="['Adv']" attribute="Adv" class="cFF0000">augšup</WORD>, kad esi paklupis pa ceļam.</TEXT>
 			<COMMENT></COMMENT>
@@ -346,6 +322,30 @@
 		</SENTENCE>
 		<SENTENCE CATEGORY="sFF00FF">
 			<TEXT>sadarbības partneriem, ar kuriem <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">mēs</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">šo <strong>māju</strong></WORD> <WORD json="['V1','V2','V3','Inf']" attribute="V1" class="verbs">cēlām</WORD>, — Unibankai, tirdzniecības namam</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>glabāšanā pārņemto preču piegādātājiem <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cels</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">prasību</WORD>. Ja neviens prasību tiesā necels</TEXT>
+			<COMMENT>Gunta. Gatavs</COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="sFF0000">
+			<TEXT>aizgādnis ir atbildīgs, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">bāriņtiesa</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">ceļ</WORD> tiesā <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">attiecīgu <strong>prasību</strong></WORD>. (4 ) Ja bāriņtiesa</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>. Ikviens viņas solis. Ja <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">žurnāliste</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cels</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">traci</WORD>, tas būs sliktāk tikai viņai</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>12 latu par dienu. Sākotnēji <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">trauksmi</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cēla</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">septiņas reģionālās <strong>slimnīcas</strong></WORD>, paziņojot</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>viņu bildes ieliek skatlogā, vai arī <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cēla</WORD> <WORD json="['Gen','Nom','Dat','Acc','Loc']" attribute="Acc" class="cC00000">skandālu</WORD>, ka viņas bilde nav nolikta</TEXT>
+			<COMMENT></COMMENT>
+		</SENTENCE>
+		<SENTENCE CATEGORY="s00FFFF">
+			<TEXT>vienīgā parlamentārā institūcija, <WORD json="['Nom','Gen','Dat','Acc','Loc']" attribute="Nom" class="cFFFF00">kas</WORD> <WORD json="['V3','V1','V2','Inf']" attribute="V3" class="verbs">cēla</WORD> <WORD json="['Acc','Nom','Gen','Dat','Loc']" attribute="Acc" class="cC00000">trauksmi</WORD> jau ilgi pirms šo sabiedrībai</TEXT>
 			<COMMENT></COMMENT>
 		</SENTENCE>
 	</SENTENCES>
